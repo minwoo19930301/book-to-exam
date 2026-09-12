@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{BOOK_TITLE}} - 스마트 디지털 교재 뷰어</title>
+  <style>
+    :root {
+      --primary: #0284c7;
+      --primary-dark: #0369a1;
+      --accent: #38bdf8;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+      --sidebar-width: 320px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+      background: var(--bg);
+      color: var(--text-main);
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
+    
+    /* Sidebar TOC */
+    #sidebar {
+      width: var(--sidebar-width);
+      background: #ffffff;
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      z-index: 20;
+    }
+    .sidebar-header {
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      background: #f1f5f9;
+    }
+    .sidebar-title { font-size: 1.05rem; font-weight: 700; color: #0f172a; }
+    .search-box {
+      margin-top: 10px;
+      width: 100%;
+      padding: 8px 12px;
+      border: 1px solid #cbd5e1;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      outline: none;
+    }
+    .search-box:focus { border-color: var(--primary); }
+    .toc-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 10px 0;
+    }
+    .toc-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 20px;
+      text-decoration: none;
+      color: #334155;
+      font-size: 0.88rem;
+      border-left: 3px solid transparent;
+      transition: all 0.15s ease;
+    }
+    .toc-item:hover { background: #f8fafc; color: var(--primary); }
+    .toc-item.active {
+      background: #e0f2fe;
+      color: var(--primary-dark);
+      border-left-color: var(--primary);
+      font-weight: 600;
+    }
+    .toc-badge {
+      font-size: 0.78rem;
+      background: #e2e8f0;
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #475569;
+    }
+
+    /* Main Scroll Area */
+    #main-scroll {
+      flex: 1;
+      overflow-y: auto;
+      scroll-behavior: smooth;
+      padding: 30px 40px;
+    }
+    .main-container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    .doc-banner {
+      background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+      color: #ffffff;
+      padding: 24px 30px;
+      border-radius: 12px;
+      margin-bottom: 30px;
+      box-shadow: 0 4px 15px rgba(2, 132, 199, 0.15);
+    }
+    .doc-banner h1 { font-size: 1.5rem; margin-bottom: 8px; }
+    .doc-banner p { font-size: 0.92rem; opacity: 0.9; line-height: 1.6; }
+
+    /* Book Page Card */
+    .book-page-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      margin-bottom: 40px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+      overflow: hidden;
+    }
+    .page-header {
+      padding: 18px 24px;
+      border-bottom: 1px solid var(--border);
+      background: #fafbfc;
+    }
+    .page-title-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 6px;
+    }
+    .page-badge {
+      background: #0284c7;
+      color: white;
+      font-size: 0.8rem;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 12px;
+    }
+    .page-time {
+      color: var(--text-muted);
+      font-size: 0.82rem;
+    }
+    .page-title {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #1e293b;
+    }
+
+    /* Image Wrapper */
+    .image-wrapper {
+      padding: 16px 24px;
+      background: #f1f5f9;
+      text-align: center;
+      cursor: zoom-in;
+      position: relative;
+    }
+    .scan-img {
+      max-width: 100%;
+      max-height: 520px;
+      border-radius: 6px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      transition: transform 0.2s ease;
+    }
+    .scan-img:hover {
+      transform: scale(1.005);
+    }
+    .zoom-hint {
+      position: absolute;
+      bottom: 24px;
+      right: 32px;
+      background: rgba(15, 23, 42, 0.75);
+      color: #ffffff;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      pointer-events: none;
+    }
+
+    /* Spread Columns Layout */
+    .spread-pages {
+      display: flex;
+      border-top: 1px solid var(--border);
+    }
+    .spread-col {
+      flex: 1;
+      padding: 24px 28px;
+      overflow-x: hidden;
+    }
+    .spread-col:first-child {
+      border-right: 1px solid var(--border);
+      background: #ffffff;
+    }
+    .spread-col:last-child {
+      background: #fcfdfe;
+    }
+    .spread-label {
+      display: inline-block;
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: #0369a1;
+      background: #e0f2fe;
+      padding: 3px 8px;
+      border-radius: 4px;
+      margin-bottom: 16px;
+    }
+    .raw-text-wrapper {
+      font-size: 0.93rem;
+      line-height: 1.7;
+    }
+
+    /* Historical Saryo Box */
+    .historical-box {
+      background: #f8fafc;
+      border-left: 4px solid #3b82f6;
+      padding: 12px 16px;
+      margin: 14px 0;
+      border-radius: 6px;
+    }
+
+    /* Modal Zoom Inspector */
+    #zoomModal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.92);
+      z-index: 1000;
+      cursor: grab;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    #modalImg {
+      max-width: 92vw;
+      max-height: 92vh;
+      object-fit: contain;
+      transition: transform 0.1s ease-out;
+      user-select: none;
+    }
+    .zoom-toolbar {
+      position: absolute;
+      top: 20px;
+      right: 24px;
+      display: flex;
+      gap: 10px;
+      z-index: 1010;
+    }
+    .zoom-btn {
+      background: rgba(255, 255, 255, 0.2);
+      color: #ffffff;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      padding: 8px 14px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      backdrop-filter: blur(4px);
+    }
+    .zoom-btn:hover { background: rgba(255, 255, 255, 0.35); }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      #sidebar { display: none; }
+      .spread-pages { flex-direction: column; }
+      .spread-col:first-child { border-right: none; border-bottom: 1px solid var(--border); }
+      #main-scroll { padding: 15px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Sidebar TOC -->
+  <aside id="sidebar">
+    <div class="sidebar-header">
+      <div class="sidebar-title">{{BOOK_TITLE}}</div>
+      <input type="text" id="tocSearch" class="search-box" placeholder="목차 / 쪽수 검색..." onkeyup="filterTOC()">
+    </div>
+    <nav class="toc-list" id="tocList">
+      {{TOC_ITEMS}}
+    </nav>
+  </aside>
+
+  <!-- Main Content Area -->
+  <main id="main-scroll">
+    <div class="main-container">
+      <div class="doc-banner">
+        <h1>{{BOOK_TITLE}} - 스마트 디지털 교재</h1>
+        <p>상단은 <b>펼친 책 양면 고화질 스캔본</b>(클릭 시 확대/축소/탐색), 하단은 <b>좌우 독립 추출 원문</b>입니다.</p>
+      </div>
+
+      <!-- Spreads Cards Container -->
+      {{CARDS_CONTAINER}}
+
+    </div>
+  </main>
+
+  <!-- Interactive Pan & Zoom Modal -->
+  <div id="zoomModal" onclick="closeModal()">
+    <div class="zoom-toolbar" onclick="event.stopPropagation()">
+      <button class="zoom-btn" onclick="zoom(0.25)">➕ 확대</button>
+      <button class="zoom-btn" onclick="zoom(-0.25)">➖ 축소</button>
+      <button class="zoom-btn" onclick="resetZoom()">↺ 원본</button>
+      <button class="zoom-btn" onclick="closeModal()">✖ 닫기 (ESC)</button>
+    </div>
+    <img id="modalImg" src="" alt="확대 스캔본" onclick="event.stopPropagation()">
+  </div>
+
+  <script>
+    // Zoom & Pan Engine
+    let currentScale = 1.0;
+    let isDragging = false;
+    let startX, startY, translateX = 0, translateY = 0;
+    const modal = document.getElementById('zoomModal');
+    const modalImg = document.getElementById('modalImg');
+
+    function openZoomModal(src) {
+      modal.style.display = 'flex';
+      modalImg.src = src;
+      resetZoom();
+    }
+
+    function closeModal() {
+      modal.style.display = 'none';
+      modalImg.src = '';
+    }
+
+    function zoom(delta) {
+      currentScale = Math.max(0.5, Math.min(5.0, currentScale + delta));
+      updateTransform();
+    }
+
+    function resetZoom() {
+      currentScale = 1.0;
+      translateX = 0;
+      translateY = 0;
+      updateTransform();
+    }
+
+    function updateTransform() {
+      modalImg.style.transform = `translate(${translateX}px, ${translateY}px) scale(${currentScale})`;
+    }
+
+    // Wheel zoom
+    modal.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      const delta = e.deltaY < 0 ? 0.15 : -0.15;
+      zoom(delta);
+    }, { passive: false });
+
+    // Drag Pan
+    modalImg.addEventListener('mousedown', (e) => {
+      isDragging = true;
+      startX = e.clientX - translateX;
+      startY = e.clientY - translateY;
+      modal.style.cursor = 'grabbing';
+    });
+    window.addEventListener('mousemove', (e) => {
+      if (!isDragging) return;
+      translateX = e.clientX - startX;
+      translateY = e.clientY - startY;
+      updateTransform();
+    });
+    window.addEventListener('mouseup', () => {
+      isDragging = false;
+      modal.style.cursor = 'grab';
+    });
+
+    // Keyboard navigation
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeModal();
+    });
+
+    // TOC Filtering
+    function filterTOC() {
+      const q = document.getElementById('tocSearch').value.toLowerCase();
+      document.querySelectorAll('.toc-item').forEach(item => {
+        const txt = item.textContent.toLowerCase();
+        item.style.display = txt.includes(q) ? 'flex' : 'none';
+      });
+    }
+
+    // Copy Section Text
+    function copySectionText(cardId) {
+      const card = document.getElementById(cardId);
+      if (!card) return;
+      const text = card.querySelector('.spread-pages').innerText;
+      navigator.clipboard.writeText(text).then(() => {
+        alert('페이지 텍스트가 클립보드에 복사되었습니다.');
+      });
+    }
+  </script>
+</body>
+</html>

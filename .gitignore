@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Native binaries
+ocr_tool
+*.o
+*.dylib
+
+# Raw textbook scan images & video files (Avoid bloating Git)
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp4
+*.mov
+*.avi
+filtered_pages/
+raw_scans/
+ocr_raw_cache/
+ai_transcriptions/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
