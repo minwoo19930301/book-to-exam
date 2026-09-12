@@ -4,8 +4,8 @@ description: >-
   Rebuild a photographed Korean textbook (book-flip video or scans) into a
   printed-page viewer without summarizing. Use when the user mentions 스마트 교재,
   동양사 뷰어, 책 넘김 영상, agy 병렬 복원, OCR 재구성, Apple Vision, or page-number
-  mismatch. Distinguishes video capture (agy GUI), OCR hints (Apple Vision),
-  body reconstruction (vision LLM), and orchestration (Cursor).
+  mismatch.   Distinguishes OCR hints (Apple Vision), still-image reconstruction
+  (vision LLM via agy or Cursor), and fixing the viewer HTML.
 ---
 
 # Smart textbook pipeline
@@ -17,20 +17,17 @@ description: >-
 
 | 일 | 담당 | 이유 |
 |---|---|---|
-| 영상 보고 쓸 프레임 고르기 | **agy desktop/GUI** | 긴 영상 탐색·중간 캡처에 강함 |
-| 글자 좌표·깨진 OCR 힌트 | **Apple Vision** (로컬) | 빠르다. 본문이 아니다. `입힌`, `5개조 서운` 같은 오타는 정상 |
-| 사진 보고 글자 유추·항목 복원 | **비전 LLM** (agy CLI `gemini-3.8-flash-*` 또는 Cursor) | 엔진이 달라도 계약이 같으면 된다 |
-| 쪽수/넘김/뷰어/병렬 띄우기 | **Cursor 오케스트레이션** | 레이아웃·매핑·재시작은 사람 옆 에이전트가 맡는다 |
+| 프레임 뽑기 | ffmpeg / 이미 있는 `sec_*.jpg` | 영상을 틀지 않는다. 정지 컷이다 |
+| 깨진 OCR 힌트 | **Apple Vision** | 본문이 아니다. `입힌`, `5개조 서운`은 정상 |
+| 사진 보고 항목 유추 | **비전 LLM** (agy 또는 Cursor) | GUI/CLI/Cursor 모두 같은 종류의 일 |
+| 검수 | **HTML 뷰어를 보고 잡도리** | 초를 다시 보라는 대화가 아니라, 틀린 카드를 고친다 |
 
-Apple Vision이 있다고 복원이 되는 게 아니다. Vision은 힌트다.
-Cursor가 중간에 망가진 이유도 Vision 부재가 아니다. **하는 일이 요약으로 바뀌어서**다.
+agy GUI와 CLI는 엔진이 같다. 영상을 재생하지 않는다. 이어가기(`--continue`)도 필수가 아니다.
+실전에서 한 일은 뷰어 HTML을 열고 쪽수·사진·본문이 어긋난 카드만 고치는 것이다.
 
-agy를 쓰는 이유:
-- 영상 캡처는 GUI가 낫다
-- 본문 대량은 CLI를 **여러 마리** 띄우는 게 이 창 한 줄보다 빠르다
-- Gemini 멀티모달로 사진을 직접 연다
+Apple Vision이 있다고 복원이 되는 게 아니다. 중간에 망가진 것도 Vision 부재가 아니라 **요약으로 일이 바뀌어서**다.
 
-agy를 안 써도 되는 경우: 펼침 몇 장만 고치거나, 쪽수/사진 배치만 고칠 때. 그때는 Cursor가 사진을 직접 보면 된다.
+agy CLI를 여러 마리 띄우는 이유: 같은 유추를 병렬로 받기 쉽다. OCR 전용 기능이 있어서가 아니다.
 
 ## 절대 계약 (복원 워커)
 

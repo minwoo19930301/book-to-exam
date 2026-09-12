@@ -12,10 +12,10 @@ Apple Vision은 힌트다. agy/Cursor는 사진을 보고 글자를 유추한다
 
 | 단계 | 누가 |
 |---|---|
-| 영상에서 프레임 고르기 | agy desktop |
-| 좌표·깨진 OCR | Apple Vision |
-| 본문 복원 (요약 금지) | agy CLI 여러 마리 또는 Cursor (소량) |
-| 쪽수·넘김·뷰어 | Cursor |
+| 프레임 | 영상에서 뽑은 정지 컷. GUI가 영상을 틀지 않음 |
+| 깨진 OCR 힌트 | Apple Vision |
+| 본문 유추 | 비전 LLM (agy든 Cursor든) |
+| 검수 | HTML 뷰어 보고 틀린 카드만 잡도리 |
 
 ## 하지 말 것
 
