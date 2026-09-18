@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>객관식 · 손노트</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretendard/dist/web/static/pretendard.css">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <a class="brand" href="./">손<span>노트</span></a>
+      <nav class="tabs">
+        <a href="./">홈</a>
+        <a href="viewer.html">뷰어</a>
+        <a class="on" href="quiz.html">객관식</a>
+        <a href="essay.html">서술형</a>
+      </nav>
+    </header>
+    <p class="lead">손글씨 키워드로 10문항을 무작위로 뽑습니다. 선다형과 빈칸이 섞입니다.</p>
+    <div class="toolbar">
+      <button class="btn primary" id="start" type="button">새 시험</button>
+      <button class="btn" id="grade" type="button" disabled>채점</button>
+      <span class="score" id="score"></span>
+    </div>
+    <form id="form"></form>
+  </div>
+  <script type="module">
+    import { loadJSON, $, pick } from "./app.js";
+    const bank = await loadJSON("./data/questions.json");
+    const form = $("#form");
+    let set = [];
+
+    function render() {
+      set = pick(bank, 10);
+      form.innerHTML = "";
+      $("#score").textContent = "";
+      $("#grade").disabled = false;
+      set.forEach((q, i) => {
+        const box = document.createElement("div");
+        box.className = "q";
+        const h = document.createElement("h3");
+        h.textContent = `${i + 1}. ${q.prompt}`;
+        box.appendChild(h);
+        if (q.type === "mc") {
+          q.choices.forEach((c, ci) => {
+            const lab = document.createElement("label");
+            lab.className = "choice";
+            lab.innerHTML = `<input type="radio" name="q${i}" value="${ci}"> ${c}`;
+            box.appendChild(lab);
+          });
+        } else {
+          const inp = document.createElement("input");
+          inp.className = "blank";
+          inp.name = `q${i}`;
+          inp.placeholder = "용어를 입력";
+          box.appendChild(inp);
+        }
+        form.appendChild(box);
+      });
+    }
+
+    function norm(s) {
+      return String(s || "").replace(/\s+/g, "").replace(/[\(\)（）·.,]/g, "").toLowerCase();
+    }
+
+    $("#start").onclick = render;
+    $("#grade").onclick = () => {
+      let ok = 0;
+      [...form.children].forEach((box, i) => {
+        const q = set[i];
+        let good = false;
+        if (q.type === "mc") {
+          const picked = box.querySelector("input:checked");
+          const val = picked ? Number(picked.value) : -1;
+          good = val === q.answer;
+          box.querySelectorAll(".choice").forEach((lab, ci) => {
+            lab.classList.toggle("ok", ci === q.answer);
+            if (picked && Number(picked.value) === ci && !good) lab.classList.add("bad");
+          });
+        } else {
+          const val = box.querySelector("input").value;
+          const acc = (q.accept || [q.answer]).map(norm);
+          good = acc.some((a) => a && (norm(val) === a || norm(val).includes(a) || a.includes(norm(val))));
+          box.querySelector("input").style.borderColor = good ? "#16a34a" : "#dc2626";
+        }
+        if (good) ok += 1;
+        let ex = box.querySelector(".explain");
+        if (!ex) {
+          ex = document.createElement("div");
+          ex.className = "explain";
+          box.appendChild(ex);
+        }
+        ex.textContent = (good ? "정답. " : "오답. ") + q.explain;
+      });
+      $("#score").textContent = `${ok} / ${set.length}`;
+    };
+    render();
+  </script>
+</body>
+</html>

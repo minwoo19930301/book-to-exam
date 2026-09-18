@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>서술형 · 손노트</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretendard/dist/web/static/pretendard.css">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <a class="brand" href="./">손<span>노트</span></a>
+      <nav class="tabs">
+        <a href="./">홈</a>
+        <a href="viewer.html">뷰어</a>
+        <a href="quiz.html">객관식</a>
+        <a class="on" href="essay.html">서술형</a>
+      </nav>
+    </header>
+    <p class="lead">채점 기준을 먼저 고정해 둡니다. 키를 넣으면 그 기준만 보고 채점합니다. Cursor 등에서는 <code>/api/mcp</code>로 같은 문항·기준을 가져갈 수 있습니다.</p>
+
+    <label class="k">문항</label>
+    <select id="pick"></select>
+    <p id="prompt" class="lead" style="margin-top:10px"></p>
+    <div class="rubric" id="rubric"></div>
+
+    <label class="k">API 제공자</label>
+    <select id="provider">
+      <option value="openai">OpenAI</option>
+      <option value="gemini">Gemini</option>
+    </select>
+    <label class="k">API 키 (서버에 저장하지 않습니다. 채점 요청 때만 전달)</label>
+    <input id="key" type="password" placeholder="sk-... 또는 AIza..." autocomplete="off">
+
+    <label class="k">답안</label>
+    <textarea id="answer" placeholder="여기에 서술형 답을 씁니다."></textarea>
+    <div class="toolbar">
+      <button class="btn primary" id="go" type="button">이 기준으로 채점</button>
+      <span class="tiny" id="status"></span>
+    </div>
+    <pre id="out" class="card" style="white-space:pre-wrap;display:none"></pre>
+  </div>
+  <script type="module">
+    import { loadJSON, $ } from "./app.js";
+    const essays = await loadJSON("./data/essays.json");
+    const pick = $("#pick");
+    essays.forEach((e) => {
+      const o = document.createElement("option");
+      o.value = e.id;
+      o.textContent = e.title;
+      pick.appendChild(o);
+    });
+
+    function current() {
+      return essays.find((e) => e.id === pick.value);
+    }
+    function render() {
+      const e = current();
+      $("#prompt").textContent = e.prompt;
+      $("#rubric").innerHTML = "<strong>채점 기준</strong><ol>" +
+        e.rubric.map((r) => `<li>${r.label} (${r.max}점) — ${r.ok}</li>`).join("") +
+        "</ol>";
+    }
+    pick.onchange = render;
+    render();
+
+    if (sessionStorage.getItem("sonnote-key")) $("#key").value = sessionStorage.getItem("sonnote-key");
+    $("#key").onchange = () => sessionStorage.setItem("sonnote-key", $("#key").value);
+
+    $("#go").onclick = async () => {
+      const e = current();
+      const key = $("#key").value.trim();
+      const answer = $("#answer").value.trim();
+      if (!key) { $("#status").textContent = "API 키를 먼저 넣으세요."; return; }
+      if (answer.length < 20) { $("#status").textContent = "답을 좀 더 쓰세요."; return; }
+      $("#status").textContent = "채점 중…";
+      $("#out").style.display = "none";
+      try {
+        const r = await fetch("/api/grade", {
+          method: "POST",
+          headers: { "content-type": "application/json" },
+          body: JSON.stringify({
+            provider: $("#provider").value,
+            apiKey: key,
+            essay: e,
+            answer,
+          }),
+        });
+        const data = await r.json();
+        if (!r.ok) throw new Error(data.error || r.statusText);
+        $("#out").style.display = "block";
+        $("#out").textContent = JSON.stringify(data, null, 2);
+        $("#status").textContent = `총점 ${data.total} / ${data.max}`;
+      } catch (err) {
+        $("#status").textContent = String(err.message || err);
+      }
+    };
+  </script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>뷰어 · 손노트</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretendard/dist/web/static/pretendard.css">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <a class="brand" href="./">손<span>노트</span></a>
+      <nav class="tabs">
+        <a href="./">홈</a>
+        <a class="on" href="viewer.html">뷰어</a>
+        <a href="quiz.html">객관식</a>
+        <a href="essay.html">서술형</a>
+      </nav>
+    </header>
+    <div class="viewer">
+      <aside class="side" id="nav"></aside>
+      <section class="spread">
+        <div class="toolbar">
+          <button class="btn" id="prev" type="button">이전</button>
+          <button class="btn" id="next" type="button">다음</button>
+          <span class="tiny" id="pos"></span>
+        </div>
+        <h2 id="title"></h2>
+        <img id="photo" alt="">
+        <div class="hand" id="hand"></div>
+      </section>
+    </div>
+  </div>
+  <script type="module">
+    import { loadJSON, $ } from "./app.js";
+    const notes = await loadJSON("./data/notes.json");
+    let i = Math.max(0, notes.findIndex((n) => n.id === location.hash.slice(1)));
+    if (i < 0) i = 0;
+
+    const nav = $("#nav");
+    notes.forEach((n, idx) => {
+      const a = document.createElement("a");
+      a.href = `#${n.id}`;
+      a.textContent = n.title;
+      a.onclick = (e) => { e.preventDefault(); show(idx); };
+      nav.appendChild(a);
+    });
+
+    function show(idx) {
+      i = (idx + notes.length) % notes.length;
+      const n = notes[i];
+      $("#title").textContent = n.title;
+      $("#photo").src = `pages/${n.img}`;
+      $("#photo").alt = n.title;
+      $("#hand").textContent = n.text.replaceAll("**", "");
+      $("#pos").textContent = `${i + 1} / ${notes.length}`;
+      location.hash = n.id;
+      [...nav.children].forEach((a, k) => a.classList.toggle("on", k === i));
+      nav.children[i]?.scrollIntoView({ block: "nearest" });
+    }
+    $("#prev").onclick = () => show(i - 1);
+    $("#next").onclick = () => show(i + 1);
+    window.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowRight") show(i + 1);
+      if (e.key === "ArrowLeft") show(i - 1);
+    });
+    show(i);
+  </script>
+</body>
+</html>
