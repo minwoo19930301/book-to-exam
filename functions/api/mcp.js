@@ -34,8 +34,8 @@ async function call(request, name, args = {}) {
 
 export async function onRequestGet() {
   return Response.json({
-    name: "sonnote",
-    title: "손노트",
+    name: "book-to-exam",
+    title: "책을 시험으로",
     tools,
     grade: "POST /api/grade  { provider, apiKey, essay, answer }",
   });
