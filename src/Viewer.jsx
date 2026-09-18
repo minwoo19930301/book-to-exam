@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Chrome from "./Chrome.jsx";
+import { clean } from "./text.js";
 
 export default function Viewer() {
   const [notes, setNotes] = useState([]);
@@ -34,13 +35,13 @@ export default function Viewer() {
         </aside>
         <section className="spread">
           <div className="row">
-            <button className="ghost" type="button" onClick={() => setI(idx - 1)}>이전</button>
-            <button className="ghost" type="button" onClick={() => setI(idx + 1)}>다음</button>
+            <button className="ghost pill" type="button" onClick={() => setI(idx - 1)}>이전</button>
+            <button className="ghost pill" type="button" onClick={() => setI(idx + 1)}>다음</button>
             <span className="mono muted">{idx + 1} / {notes.length}</span>
           </div>
           <h1>{n.title}</h1>
           <img src={`/pages/${n.img}`} alt={n.title} />
-          <div className="hand">{n.text.replaceAll("**", "")}</div>
+          <div className="hand">{clean(n.text)}</div>
         </section>
       </div>
     </Chrome>
