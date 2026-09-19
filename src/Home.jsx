@@ -5,9 +5,9 @@ const MAIL = "rlaalsdn456456@naver.com";
 export default function Home() {
   return (
     <div className="page landing">
-      <p className="kicker">BookVideoToExam</p>
-      <h1>이런 영상을 찍어서 이메일로 보내주세요.</h1>
-      <p className="muted">책을 한 장씩 넘기는 영상을 찍습니다. 아래는 그 예시입니다.</p>
+      <p className="kicker">Book To Exam</p>
+      <h1>교재 자료를 이메일로 보내주세요.</h1>
+      <p className="muted">책 넘기는 영상, 캡처본, PDF, DOCX, HWP를 보내주시면 뷰어와 시험지로 만들어 드립니다. 아래는 넘기는 영상의 예시입니다.</p>
       <div className="guide-wrap">
         <video
           className="guide-video"
@@ -20,10 +20,10 @@ export default function Home() {
         />
       </div>
       <p className="mail-wrap">
-        <a className="mail" href={`mailto:${MAIL}?subject=${encodeURIComponent("책 넘기는 영상")}&body=${encodeURIComponent("넘기는 영상을 첨부합니다.")}`}>{MAIL}</a>
+        <a className="mail" href={`mailto:${MAIL}?subject=${encodeURIComponent("교재 자료")}&body=${encodeURIComponent("영상, 캡처본 또는 PDF/DOCX/HWP를 첨부합니다.")}`}>{MAIL}</a>
       </p>
-      <p className="lead">주신 영상으로 다음과 같이 시험 칠 수 있는 사이트를 보내드립니다.</p>
-      <Link className="cta" to="/exam">예시 사이트로 이동</Link>
+      <p className="lead">읽고, 풀고, 복습하는 학습 사이트로 만들어드려요.</p>
+      <Link className="cta" to="/guide">예시 사이트로 이동</Link>
     </div>
   );
 }

@@ -1,38 +1,40 @@
-import { useState } from "react";
+import { useCallback, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
-import { useSettings } from "./settings.jsx";
+import SettingsPopup from "./SettingsPopup.jsx";
+import { useGuide } from "./guide-mode.jsx";
 
 export default function Chrome({ title, children }) {
-  const { s, setS } = useSettings();
+  const guide = useGuide();
   const [open, setOpen] = useState(false);
+  const dismissSettings = guide?.dismissSettings;
+  const closeSettings = useCallback(() => { setOpen(false); dismissSettings?.(); }, [dismissSettings]);
+  const settingsOpen = Boolean(guide?.openSettings) || open;
+
+  function tabClick(e) {
+    if (guide?.lockNav) e.preventDefault();
+  }
+
+  function tabClass(name) {
+    return ({ isActive }) => (isActive || guide?.tab === name ? "active" : undefined);
+  }
 
   return (
     <div className="page">
       <div className="bar">
-        <Link className="brand" to="/exam">BookVideoToExam</Link>
-        <span className="kicker hide-sm">{title}</span>
-        <button className="ghost pill" type="button" onClick={() => setOpen((v) => !v)}>설정</button>
-      </div>
-      <nav className="tabs">
-        <NavLink to="/exam">시험</NavLink>
-        <NavLink to="/viewer">뷰어</NavLink>
-        <NavLink to="/quiz">객관식</NavLink>
-        <NavLink to="/essay">서술형</NavLink>
-      </nav>
-      {open && (
-        <div className="settings">
-          <label>글씨 크기 <b>{s.fontSize}</b>
-            <input type="range" min="14" max="22" value={s.fontSize} onChange={(e) => setS({ ...s, fontSize: Number(e.target.value) })} />
-          </label>
-          <label>줄 간격 <b>{s.lineHeight}</b>
-            <input type="range" min="1.4" max="2.2" step="0.1" value={s.lineHeight} onChange={(e) => setS({ ...s, lineHeight: Number(e.target.value) })} />
-          </label>
-          <label className="chk">
-            <input type="checkbox" checked={s.dark} onChange={(e) => setS({ ...s, dark: e.target.checked })} />
-            다크 모드
-          </label>
+        <Link className="brand" to={guide ? "#" : "/menu"} onClick={tabClick}>Book To Exam</Link>
+        <div className="bar-actions">
+          {!guide && <Link className="text-link" to="/guide">사용법</Link>}
+        <button className="text-btn" type="button" data-guide="settings-btn" aria-expanded={settingsOpen} aria-controls="reading-settings" onClick={() => setOpen((v) => !v)}>설정</button>
         </div>
-      )}
+      </div>
+      {settingsOpen && <SettingsPopup onClose={closeSettings} guided={Boolean(guide?.openSettings)} />}
+      <nav aria-label="학습 모드" className="tabs" data-guide="tabs">
+        <NavLink to="/viewer" className={tabClass("viewer")} onClick={tabClick}>뷰어</NavLink>
+        <NavLink to="/quiz" className={tabClass("quiz")} onClick={tabClick}>객관식</NavLink>
+        <NavLink to="/blank" className={tabClass("blank")} onClick={tabClick}>빈칸 채우기</NavLink>
+        <NavLink to="/short" className={tabClass("short")} onClick={tabClick}>단답형</NavLink>
+        <NavLink to="/essay" className={tabClass("essay")} onClick={tabClick}>서술형</NavLink>
+      </nav>
       {children}
     </div>
   );
