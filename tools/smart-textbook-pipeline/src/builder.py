@@ -9,8 +9,12 @@ import re
 import json
 import argparse
 from typing import List, Dict, Any
-from spine_splitter import find_spine_split, partition_spread
-from formatter import sort_and_group_lines, format_page_html
+if __package__:
+    from .spine_splitter import find_spine_split, partition_spread
+    from .formatter import sort_and_group_lines, format_page_html
+else:
+    from spine_splitter import find_spine_split, partition_spread
+    from formatter import sort_and_group_lines, format_page_html
 
 def build_viewer(image_list_path: str,
                  cache_dir: str,

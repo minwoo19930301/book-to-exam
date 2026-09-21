@@ -11,8 +11,13 @@ import subprocess
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Tuple
 
-def ensure_ocr_tool(src_path: str = "src/ocr_tool.swift", bin_path: str = "./ocr_tool") -> str:
-    """Compiles the Swift OCR tool if not already compiled."""
+def ensure_ocr_tool(src_path: str = None, bin_path: str = None) -> str:
+    """Resolve bundled sources independently of the caller's working directory."""
+    src_path = src_path or os.path.join(os.path.dirname(__file__), "ocr_tool.swift")
+    bin_path = bin_path or os.path.join(os.path.dirname(os.path.dirname(__file__)), ".cache", "ocr_tool")
+    src_path = os.path.abspath(src_path)
+    bin_path = os.path.abspath(bin_path)
+    os.makedirs(os.path.dirname(bin_path), exist_ok=True)
     if os.path.exists(bin_path) and os.access(bin_path, os.X_OK):
         return bin_path
     print(f"[Build] Compiling native Apple Vision OCR tool: {src_path} -> {bin_path}...")

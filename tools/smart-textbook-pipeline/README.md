@@ -1,5 +1,7 @@
 # Smart textbook pipeline
 
+Book To Exam의 교재 준비 도구입니다. [서비스 열기](https://bookvideotoexam.pages.dev/) · [상위 프로젝트](../../README.md)
+
 1~2초 간격으로 넘긴 책 영상/스캔을, 인쇄 쪽수 기준 단일 HTML 뷰어로 만든다.
 
 에이전트는 루트의 [`SKILL.md`](SKILL.md)를 따른다. 이 README는 사람용 요약이다.
@@ -42,3 +44,12 @@ agy --model gemini-3.8-flash-high --new-project --project shard-N \
 ## 라이선스
 
 MIT
+
+## 저장소 루트에서 실행
+
+```bash
+npm run textbook:viewer -- --help
+npm run textbook:viewer -- --images /path/to/scans --cache /path/to/ocr-cache --output /path/to/viewer.html
+```
+
+`run_pipeline.py`는 macOS의 Apple Vision OCR과 레이아웃 도구를 연결하는 보조 CLI입니다. 생성 결과를 정답 본문으로 바로 사용하지 말고, 비전 전사·원문 대조를 거칩니다. AGY 작업 명세 생성기는 작업 프롬프트를 준비하며 모델 호출 자체를 수행하지 않습니다.
