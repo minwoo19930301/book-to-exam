@@ -31,10 +31,11 @@ export function sessionId() {
   return id;
 }
 
-export function rememberKey(provider, key) {
+export function rememberKey(provider, key, model) {
   if (key && key.trim().length > 8) {
     sessionStorage.setItem("bve-last-key", key.trim());
     sessionStorage.setItem("bve-last-provider", provider);
+    if (model) sessionStorage.setItem("bve-last-model", model);
     localStorage.setItem("bve-used-key", "1");
   }
 }
@@ -43,6 +44,7 @@ export function lastKey() {
   return {
     key: sessionStorage.getItem("bve-last-key") || "",
     provider: sessionStorage.getItem("bve-last-provider") || "gemini",
+    model: sessionStorage.getItem("bve-last-model") || "",
     used: localStorage.getItem("bve-used-key") === "1",
   };
 }

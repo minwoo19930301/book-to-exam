@@ -1,52 +1,53 @@
-import { useEffect, useState } from "react";
+import { useQuestionBank } from "./useQuestionBank.js";
 import Chrome from "./Chrome.jsx";
-import { clean, pick, usable, scoreLocal } from "./text.js";
+import ExamBar, { ExamFrame } from "./ExamBar.jsx";
+import { After, Mark } from "./noteMark.jsx";
+import { clean, usable, scoreLocal } from "./text.js";
+import { useExamPlay } from "./guide-mode.jsx";
+
+const mcQuestions = list => list.filter(x => x.type === "mc" && usable(x));
 
 export default function Quiz() {
-  const [set, setSet] = useState([]);
-  const [answers, setAnswers] = useState({});
-  const [result, setResult] = useState(null);
-
-  function start(bank) {
-    setSet(pick(bank.filter((q) => q.type === "mc" && usable(q)), 10));
-    setAnswers({});
-    setResult(null);
+  const bank = useQuestionBank("/data/questions.json", mcQuestions);
+  const { q, value: choice, setValue: setChoice, result, setResult } = bank;
+  useExamPlay({ q, setVal: setChoice, setResult, kind: "mc" });
+  function grade() {
+    if (q && !result && choice !== "") setResult(scoreLocal(q, choice));
   }
 
-  useEffect(() => {
-    fetch("/data/questions.json").then((r) => r.json()).then(start);
-  }, []);
-
-  function grade() {
-    const mark = set.map((q, i) => scoreLocal(q, answers[i]));
-    setResult({ ok: mark.filter((m) => m.good).length, mark });
+  function onKey(e) {
+    if (e.nativeEvent.isComposing || e.keyCode === 229) return;
+    if (e.key === "Enter") {
+      e.preventDefault();
+      grade();
+    }
   }
 
   return (
     <Chrome title="객관식">
-      <p className="muted">객관식 10문항을 무작위로 뽑습니다.</p>
-      <div className="row">
-        <button type="button" onClick={() => fetch("/data/questions.json").then((r) => r.json()).then(start)}>다시 뽑기</button>
-        <button type="button" onClick={grade} disabled={!set.length}>채점</button>
-        {result && <span className="score">{result.ok} / {set.length}</span>}
-      </div>
-      {set.map((q, i) => (
-        <div className="card q" key={q.id + i}>
-          <h3>{i + 1}. {clean(q.prompt)}</h3>
-          {(q.choices || []).map((c, ci) => {
-            const cls = result
-              ? (ci === q.answer ? "choice ok" : Number(answers[i]) === ci ? "choice bad" : "choice")
-              : Number(answers[i]) === ci ? "choice on" : "choice";
-            return (
-              <label className={cls} key={ci}>
-                <input type="radio" name={`q${i}`} checked={Number(answers[i]) === ci} onChange={() => setAnswers({ ...answers, [i]: ci })} />
-                <span>{clean(c)}</span>
-              </label>
-            );
-          })}
-          {result && <div className="explain">{result.mark[i].good ? "맞음. " : "틀림. "}{result.mark[i].explain}</div>}
-        </div>
-      ))}
+      <ExamFrame>
+        {bank.error && <p role="alert">{bank.error}</p>}
+        {q && (
+          <div className="card q" data-guide="result" tabIndex={0} onKeyDown={onKey}>
+            <h3>{clean(q.prompt)}</h3>
+            <div data-guide="type">
+              {(q.choices || []).map((c, ci) => {
+                const cls = result
+                  ? (ci === q.answer ? "choice ok" : (choice !== "" && Number(choice) === ci) ? "choice bad" : "choice")
+                  : (choice !== "" && Number(choice) === ci) ? "choice on" : "choice";
+                return (
+                  <label className={cls} key={ci}>
+                    <input type="radio" name="one" checked={(choice !== "" && Number(choice) === ci)} onChange={() => setChoice(ci)} disabled={Boolean(result)} />
+                    <span>{result && (ci === q.answer || Number(choice) === ci) ? <Mark good={ci === q.answer}>{clean(c)}</Mark> : clean(c)}</span>
+                  </label>
+                );
+              })}
+            </div>
+            <ExamBar graded={result} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious} onGrade={grade} gradeDisabled={!q || choice === ""} />
+            {result && <After q={q} />}
+          </div>
+        )}
+      </ExamFrame>
     </Chrome>
   );
 }
