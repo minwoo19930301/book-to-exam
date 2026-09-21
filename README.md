@@ -4,6 +4,12 @@
 
 # Book To Exam
 
+<!-- PROJECT-PRESENTATION:START -->
+<a href="https://bookvideotoexam.pages.dev"><img src="docs/logo.png" alt="Book To Exam" width="960"></a>
+
+[![OPEN APP](https://img.shields.io/badge/OPEN%20APP-2C6049?style=for-the-badge)](https://bookvideotoexam.pages.dev) [![QUICK START](https://img.shields.io/badge/QUICK%20START-374151?style=for-the-badge)](#사용-방법) [![SOURCE](https://img.shields.io/badge/SOURCE-444444?style=for-the-badge)](https://github.com/minwoo19930301/book-to-exam)
+<!-- PROJECT-PRESENTATION:END -->
+
 교재 자료를 받아 뷰어와 시험지로 만듭니다. 책 넘기는 영상뿐 아니라 캡처본, PDF, DOCX, HWP도 됩니다.
 
 **서비스 바로가기:** [https://bookvideotoexam.pages.dev](https://bookvideotoexam.pages.dev)
