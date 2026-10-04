@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/logo.png" alt="Book To Exam" width="560" />
-</p>
-
 # Book To Exam
 
 <!-- PROJECT-PRESENTATION:START -->
