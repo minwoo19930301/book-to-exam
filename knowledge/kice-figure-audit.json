@@ -1,0 +1,965 @@
+{
+  "included": 57,
+  "excluded": [
+    {
+      "id": "kice-exam-spread-5-figure-1",
+      "noteId": "kice-exam-spread-5",
+      "sourcePath": "kice_gichul_pages/2026_중등1차_역사_A/fig_005_2.png",
+      "reason": "단원 구성 표가 위·아래 두 이미지로 분할되어 경계의 행이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-5-figure-2",
+      "noteId": "kice-exam-spread-5",
+      "sourcePath": "kice_gichul_pages/2026_중등1차_역사_A/fig_005_3.png",
+      "reason": "단원 구성 표가 위·아래 두 이미지로 분할되어 경계의 행이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-7-figure-1",
+      "noteId": "kice-exam-spread-7",
+      "sourcePath": "kice_gichul_pages/2026_중등1차_역사_A/fig_007_2.png",
+      "reason": "평가 기준 표의 일부 행만 분리된 조각으로 다른 행이나 셀 내용이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-7-figure-2",
+      "noteId": "kice-exam-spread-7",
+      "sourcePath": "kice_gichul_pages/2026_중등1차_역사_A/fig_007_3.png",
+      "reason": "평가 기준 표의 일부 행만 분리된 조각으로 다른 행이나 셀 내용이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-7-figure-3",
+      "noteId": "kice-exam-spread-7",
+      "sourcePath": "kice_gichul_pages/2026_중등1차_역사_A/fig_007_4.png",
+      "reason": "평가 기준 표의 일부 행만 분리된 조각으로 다른 행이나 셀 내용이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-7-figure-4",
+      "noteId": "kice-exam-spread-7",
+      "sourcePath": "kice_gichul_pages/2026_중등1차_역사_A/fig_007_5.png",
+      "reason": "평가 기준 표의 일부 행만 분리된 조각으로 다른 행이나 셀 내용이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-25-figure-1",
+      "noteId": "kice-exam-spread-25",
+      "sourcePath": "kice_gichul_pages/2025_중등1차_역사_B/fig_004_2.png",
+      "reason": "TV 뉴스 그림의 상단·중단·하단 띠 중 하나여서 인물 또는 화면이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-25-figure-2",
+      "noteId": "kice-exam-spread-25",
+      "sourcePath": "kice_gichul_pages/2025_중등1차_역사_B/fig_004_3.png",
+      "reason": "TV 뉴스 그림의 상단·중단·하단 띠 중 하나여서 인물 또는 화면이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-25-figure-3",
+      "noteId": "kice-exam-spread-25",
+      "sourcePath": "kice_gichul_pages/2025_중등1차_역사_B/fig_004_4.png",
+      "reason": "TV 뉴스 그림의 상단·중단·하단 띠 중 하나여서 인물 또는 화면이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-35-figure-1",
+      "noteId": "kice-exam-spread-35",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_007_2.png",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-35-figure-2",
+      "noteId": "kice-exam-spread-35",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_007_3.png",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-35-figure-3",
+      "noteId": "kice-exam-spread-35",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_007_4.png",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-35-figure-4",
+      "noteId": "kice-exam-spread-35",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_007_5.png",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-35-figure-5",
+      "noteId": "kice-exam-spread-35",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_007_6.png",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-35-figure-6",
+      "noteId": "kice-exam-spread-35",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_007_7.png",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-35-figure-7",
+      "noteId": "kice-exam-spread-35",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_007_8.png",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-37-figure-1",
+      "noteId": "kice-exam-spread-37",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_002_2.png",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다."
+    },
+    {
+      "id": "kice-exam-spread-37-figure-2",
+      "noteId": "kice-exam-spread-37",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_002_3.png",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다."
+    },
+    {
+      "id": "kice-exam-spread-37-figure-3",
+      "noteId": "kice-exam-spread-37",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_002_4.png",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다."
+    },
+    {
+      "id": "kice-exam-spread-37-figure-4",
+      "noteId": "kice-exam-spread-37",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_002_5.png",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다."
+    },
+    {
+      "id": "kice-exam-spread-37-figure-5",
+      "noteId": "kice-exam-spread-37",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_002_6.png",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다."
+    },
+    {
+      "id": "kice-exam-spread-37-figure-6",
+      "noteId": "kice-exam-spread-37",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_002_7.png",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다."
+    },
+    {
+      "id": "kice-exam-spread-39-figure-1",
+      "noteId": "kice-exam-spread-39",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_004_2.png",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-39-figure-2",
+      "noteId": "kice-exam-spread-39",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_004_3.png",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-39-figure-3",
+      "noteId": "kice-exam-spread-39",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_004_4.png",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-39-figure-4",
+      "noteId": "kice-exam-spread-39",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_004_5.png",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-39-figure-5",
+      "noteId": "kice-exam-spread-39",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_004_6.png",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-39-figure-6",
+      "noteId": "kice-exam-spread-39",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_004_7.png",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-39-figure-7",
+      "noteId": "kice-exam-spread-39",
+      "sourcePath": "kice_gichul_pages/2024_중등1차_역사_B/fig_004_8.png",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-52-figure-1",
+      "noteId": "kice-exam-spread-52",
+      "sourcePath": "kice_gichul_pages/2023_중등1차_역사_B/fig_003_2.png",
+      "reason": "브리튼 제도 지도의 상·중·하단 중 일부만 있어 지도와 범례가 완전하지 않습니다."
+    },
+    {
+      "id": "kice-exam-spread-52-figure-2",
+      "noteId": "kice-exam-spread-52",
+      "sourcePath": "kice_gichul_pages/2023_중등1차_역사_B/fig_003_3.png",
+      "reason": "브리튼 제도 지도의 상·중·하단 중 일부만 있어 지도와 범례가 완전하지 않습니다."
+    },
+    {
+      "id": "kice-exam-spread-52-figure-3",
+      "noteId": "kice-exam-spread-52",
+      "sourcePath": "kice_gichul_pages/2023_중등1차_역사_B/fig_003_4.png",
+      "reason": "브리튼 제도 지도의 상·중·하단 중 일부만 있어 지도와 범례가 완전하지 않습니다."
+    },
+    {
+      "id": "kice-exam-spread-64-figure-1",
+      "noteId": "kice-exam-spread-64",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_002_2.png",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-64-figure-2",
+      "noteId": "kice-exam-spread-64",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_002_3.png",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-64-figure-3",
+      "noteId": "kice-exam-spread-64",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_002_4.png",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-64-figure-4",
+      "noteId": "kice-exam-spread-64",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_002_5.png",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-64-figure-5",
+      "noteId": "kice-exam-spread-64",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_002_6.png",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-64-figure-6",
+      "noteId": "kice-exam-spread-64",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_002_7.png",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-64-figure-7",
+      "noteId": "kice-exam-spread-64",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_002_8.png",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-64-figure-8",
+      "noteId": "kice-exam-spread-64",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_002_9.png",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-67-figure-1",
+      "noteId": "kice-exam-spread-67",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_005_2.png",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-67-figure-2",
+      "noteId": "kice-exam-spread-67",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_005_3.png",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-67-figure-3",
+      "noteId": "kice-exam-spread-67",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_005_4.png",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-67-figure-4",
+      "noteId": "kice-exam-spread-67",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_005_5.png",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-67-figure-5",
+      "noteId": "kice-exam-spread-67",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_005_6.png",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-67-figure-6",
+      "noteId": "kice-exam-spread-67",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_005_7.png",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-67-figure-7",
+      "noteId": "kice-exam-spread-67",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_005_8.png",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-68-figure-1",
+      "noteId": "kice-exam-spread-68",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_006_2.png",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-68-figure-2",
+      "noteId": "kice-exam-spread-68",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_006_3.png",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-68-figure-3",
+      "noteId": "kice-exam-spread-68",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_006_4.png",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-68-figure-4",
+      "noteId": "kice-exam-spread-68",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_006_5.png",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-68-figure-5",
+      "noteId": "kice-exam-spread-68",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_006_6.png",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-68-figure-6",
+      "noteId": "kice-exam-spread-68",
+      "sourcePath": "kice_gichul_pages/2022_중등1차_역사_B/fig_006_7.png",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-78-figure-1",
+      "noteId": "kice-exam-spread-78",
+      "sourcePath": "kice_gichul_pages/2021_중등1차_역사_B/fig_003_2.png",
+      "reason": "조계 지도가 위·아래로 분할되어 지리적 범위와 범례가 따로 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-78-figure-2",
+      "noteId": "kice-exam-spread-78",
+      "sourcePath": "kice_gichul_pages/2021_중등1차_역사_B/fig_003_3.png",
+      "reason": "조계 지도가 위·아래로 분할되어 지리적 범위와 범례가 따로 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-85-figure-1",
+      "noteId": "kice-exam-spread-85",
+      "sourcePath": "kice_gichul_pages/2020_중등1차_역사_A/fig_004_1.png",
+      "reason": "이베리아반도 지도의 삽입 지도 또는 하단 표제가 잘린 분할 이미지입니다."
+    },
+    {
+      "id": "kice-exam-spread-85-figure-2",
+      "noteId": "kice-exam-spread-85",
+      "sourcePath": "kice_gichul_pages/2020_중등1차_역사_A/fig_004_2.png",
+      "reason": "이베리아반도 지도의 삽입 지도 또는 하단 표제가 잘린 분할 이미지입니다."
+    },
+    {
+      "id": "kice-exam-spread-86-figure-1",
+      "noteId": "kice-exam-spread-86",
+      "sourcePath": "kice_gichul_pages/2020_중등1차_역사_A/fig_005_1.png",
+      "reason": "대화 자료가 두 조각으로 나뉘어 경계 말풍선과 인물이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-86-figure-2",
+      "noteId": "kice-exam-spread-86",
+      "sourcePath": "kice_gichul_pages/2020_중등1차_역사_A/fig_005_2.png",
+      "reason": "대화 자료가 두 조각으로 나뉘어 경계 말풍선과 인물이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-99-figure-1",
+      "noteId": "kice-exam-spread-99",
+      "sourcePath": "kice_gichul_pages/2019_중등1차_역사_A/fig_004_2.png",
+      "reason": "지도 하단의 지명·해안선 일부만 남은 가로 띠입니다."
+    },
+    {
+      "id": "kice-exam-spread-101-figure-1",
+      "noteId": "kice-exam-spread-101",
+      "sourcePath": "kice_gichul_pages/2019_중등1차_역사_A/fig_006_2.png",
+      "reason": "목차가 적힌 책 그림이 두 조각으로 분할되어 문장과 책 외곽이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-101-figure-2",
+      "noteId": "kice-exam-spread-101",
+      "sourcePath": "kice_gichul_pages/2019_중등1차_역사_A/fig_006_3.png",
+      "reason": "목차가 적힌 책 그림이 두 조각으로 분할되어 문장과 책 외곽이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-106-figure-1",
+      "noteId": "kice-exam-spread-106",
+      "sourcePath": "kice_gichul_pages/2018_중등1차_역사_A/fig_001_2.png",
+      "reason": "학년별 시수 표가 두 조각으로 나뉘어 행 내용이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-106-figure-2",
+      "noteId": "kice-exam-spread-106",
+      "sourcePath": "kice_gichul_pages/2018_중등1차_역사_A/fig_001_3.png",
+      "reason": "학년별 시수 표가 두 조각으로 나뉘어 행 내용이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-108-figure-1",
+      "noteId": "kice-exam-spread-108",
+      "sourcePath": "kice_gichul_pages/2018_중등1차_역사_A/fig_003_2.png",
+      "reason": "백년전쟁 초기 지도에서 하단 해안선과 표제만 남은 띠입니다."
+    },
+    {
+      "id": "kice-exam-spread-110-figure-1",
+      "noteId": "kice-exam-spread-110",
+      "sourcePath": "kice_gichul_pages/2018_중등1차_역사_A/fig_005_2.png",
+      "reason": "남아메리카 지도에서 남단과 범례 일부만 남은 띠입니다."
+    },
+    {
+      "id": "kice-exam-spread-113-figure-1",
+      "noteId": "kice-exam-spread-113",
+      "sourcePath": "kice_gichul_pages/2018_중등1차_역사_B/fig_003_1.png",
+      "reason": "문항 자료의 문서·연표가 두 조각으로 분할되어 아래쪽 행과 외곽이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-113-figure-2",
+      "noteId": "kice-exam-spread-113",
+      "sourcePath": "kice_gichul_pages/2018_중등1차_역사_B/fig_003_2.png",
+      "reason": "문항 자료의 문서·연표가 두 조각으로 분할되어 아래쪽 행과 외곽이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-116-figure-1",
+      "noteId": "kice-exam-spread-116",
+      "sourcePath": "kice_gichul_pages/2017_중등1차_역사_A/fig_002_2.png",
+      "reason": "교사와 두루마리 문서가 두 조각으로 분할되어 본문과 인물 하단이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-116-figure-2",
+      "noteId": "kice-exam-spread-116",
+      "sourcePath": "kice_gichul_pages/2017_중등1차_역사_A/fig_002_3.png",
+      "reason": "교사와 두루마리 문서가 두 조각으로 분할되어 본문과 인물 하단이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-116-figure-4",
+      "noteId": "kice-exam-spread-116",
+      "sourcePath": "kice_gichul_pages/2017_중등1차_역사_A/fig_002_5.png",
+      "reason": "교사들의 대화 자료가 두 조각으로 분할되어 마지막 말풍선과 인물이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-116-figure-5",
+      "noteId": "kice-exam-spread-116",
+      "sourcePath": "kice_gichul_pages/2017_중등1차_역사_A/fig_002_6.png",
+      "reason": "교사들의 대화 자료가 두 조각으로 분할되어 마지막 말풍선과 인물이 잘렸습니다."
+    },
+    {
+      "id": "kice-exam-spread-120-figure-1",
+      "noteId": "kice-exam-spread-120",
+      "sourcePath": "kice_gichul_pages/2017_중등1차_역사_B/fig_002_2.png",
+      "reason": "원정로 지도가 두 조각으로 분할되어 남쪽 해안선·경로·범례가 분리되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-120-figure-2",
+      "noteId": "kice-exam-spread-120",
+      "sourcePath": "kice_gichul_pages/2017_중등1차_역사_B/fig_002_3.png",
+      "reason": "원정로 지도가 두 조각으로 분할되어 남쪽 해안선·경로·범례가 분리되었습니다."
+    },
+    {
+      "id": "kice-exam-spread-165-figure-1",
+      "noteId": "kice-exam-spread-165",
+      "sourcePath": "kice_gichul_pages/2013_중등2차_역사_1교시/fig_003_1.png",
+      "reason": "대부분 검은 면과 흰 모서리뿐인 추출 마스크·잡음으로 학습 자료가 아닙니다."
+    },
+    {
+      "id": "kice-exam-spread-165-figure-2",
+      "noteId": "kice-exam-spread-165",
+      "sourcePath": "kice_gichul_pages/2013_중등2차_역사_1교시/fig_003_2.png",
+      "reason": "대부분 검은 면과 흰 모서리뿐인 추출 마스크·잡음으로 학습 자료가 아닙니다."
+    },
+    {
+      "id": "kice-exam-spread-168-figure-1",
+      "noteId": "kice-exam-spread-168",
+      "sourcePath": "kice_gichul_pages/2013_중등2차_역사_2교시/fig_003_1.png",
+      "reason": "대부분 검은 면과 흰 모서리뿐인 추출 마스크·잡음으로 학습 자료가 아닙니다."
+    },
+    {
+      "id": "kice-exam-spread-168-figure-2",
+      "noteId": "kice-exam-spread-168",
+      "sourcePath": "kice_gichul_pages/2013_중등2차_역사_2교시/fig_003_2.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-1",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_1.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-2",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_2.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-3",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_4.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-4",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_5.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-5",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_6.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-6",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_8.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-7",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_9.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-8",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_10.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-9",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_12.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-10",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_13.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-11",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_14.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-12",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_15.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-13",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_17.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-14",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_18.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-15",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_19.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-16",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_20.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-17",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_22.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-18",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_23.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-19",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_24.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-20",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_25.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-21",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_26.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-22",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_27.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-23",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_28.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-24",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_29.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-25",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_30.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-26",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_31.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-27",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_32.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-28",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_33.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-29",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_34.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-30",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_35.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-31",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_36.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-32",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_37.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-33",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_38.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-34",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_39.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-35",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_40.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-36",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_41.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-37",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_42.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-38",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_43.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-39",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_44.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-40",
+      "noteId": "kice-exam-spread-182",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_1교시/fig_001_47.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-1",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_1.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-2",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_2.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-3",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_4.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-4",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_5.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-5",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_6.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-6",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_8.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-7",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_9.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-8",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_10.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-9",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_12.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-10",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_13.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-11",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_14.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-12",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_15.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-13",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_17.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-14",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_18.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-15",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_19.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-16",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_20.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-17",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_22.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-18",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_23.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-19",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_24.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-20",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_25.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-21",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_26.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-22",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_27.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-23",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_28.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-24",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_29.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-25",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_30.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-26",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_31.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-27",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_32.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-28",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_33.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-29",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_34.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-30",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_35.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-31",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_36.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-32",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_37.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-33",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_38.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-34",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_39.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-35",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_40.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-36",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_41.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-37",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_42.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-38",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_43.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-39",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_44.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-40",
+      "noteId": "kice-exam-spread-185",
+      "sourcePath": "kice_gichul_pages/2012_중등2차_역사_2교시/fig_001_47.png",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님"
+    },
+    {
+      "id": "kice-exam-spread-189-figure-1",
+      "noteId": "kice-exam-spread-189",
+      "sourcePath": "kice_gichul_pages/2011_중등1차_역사/fig_002_2.png",
+      "reason": "빈 문항 틀 또는 일부 요소만 포함된 복합 자료"
+    },
+    {
+      "id": "kice-exam-spread-189-figure-2",
+      "noteId": "kice-exam-spread-189",
+      "sourcePath": "kice_gichul_pages/2011_중등1차_역사/fig_002_3.png",
+      "reason": "빈 문항 틀 또는 일부 요소만 포함된 복합 자료"
+    }
+  ]
+}

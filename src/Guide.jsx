@@ -6,6 +6,7 @@ import Quiz from "./Quiz.jsx";
 import Blank from "./Blank.jsx";
 import Short from "./Short.jsx";
 import Essay from "./Essay.jsx";
+import { useSubject } from "./subjects.jsx";
 
 const STEPS = [
   { page: "viewer", target: "page-img", title: "뷰어", text: "보내주신 자료를 바탕으로 쪽과 메모를 보여 줍니다. 사진을 누르면 크게 볼 수 있습니다." },
@@ -42,6 +43,7 @@ function targetOf(cur, phase) {
 
 export default function Guide() {
   const nav = useNavigate();
+  const { to } = useSubject();
   const [step, setStep] = useState(0);
   const [settingsDismissed, setSettingsDismissed] = useState(false);
   const dismissSettings = useCallback(() => setSettingsDismissed(true), []);
@@ -78,7 +80,7 @@ export default function Guide() {
   }, [step, cur.play, cur.phase]);
 
   function next() {
-    if (step >= STEPS.length - 1) nav("/viewer");
+    if (step >= STEPS.length - 1) nav(to("/viewer"));
     else setStep((n) => n + 1);
   }
 
@@ -136,7 +138,7 @@ export default function Guide() {
           <p className="kicker">{cur.title}</p>
           <p aria-live="polite">{cur.text}</p>
           <div className="menu-actions">
-            <button className="ghost" type="button" onClick={() => nav("/viewer")}>건너뛰기</button>
+            <button className="ghost" type="button" onClick={() => nav(to("/viewer"))}>건너뛰기</button>
             <button type="button" onClick={next}>{step === STEPS.length - 1 ? "시작하기" : "다음"}</button>
           </div>
         </section>

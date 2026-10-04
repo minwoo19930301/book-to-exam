@@ -1,0 +1,1677 @@
+{
+  "schemaVersion": 1,
+  "subject": "dongyangsa",
+  "sourceCommit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+  "figures": [
+    {
+      "id": "dongyangsa-page-12-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-12"
+      ],
+      "caption": "60간지",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 60간지.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_012_67s.jpg",
+        "rect": [
+          391,
+          226,
+          321,
+          155
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "28b809d9cc8e9570be31088666b89aeb5976a96cfb4819b9f87d039bbe6a286f"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-12-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-12"
+      ],
+      "caption": "상 문화의 시기별 구분",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 상 문화의 시기별 구분.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_012_67s.jpg",
+        "rect": [
+          377,
+          378,
+          317,
+          164
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "28b809d9cc8e9570be31088666b89aeb5976a96cfb4819b9f87d039bbe6a286f"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-12-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-12"
+      ],
+      "caption": "주의 세력 범위",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 주의 세력 범위.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_012_67s.jpg",
+        "rect": [
+          904,
+          313,
+          166,
+          161
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "28b809d9cc8e9570be31088666b89aeb5976a96cfb4819b9f87d039bbe6a286f"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-14-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-14"
+      ],
+      "caption": "전차의 모습",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 전차의 모습.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_014_79s.jpg",
+        "rect": [
+          548,
+          354,
+          145,
+          132
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f51b1a9defd81a85afe7f27540f84030939627377ad72d1204db9fc9daf4d4f7"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-15-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-15"
+      ],
+      "caption": "춘추 전국 시대",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 춘추 전국 시대.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_016_86s.jpg",
+        "rect": [
+          582,
+          417,
+          118,
+          146
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6c1388388422e3c5d163841a4274bbd9ec09cda0804ef6ab406835a8285e8f3e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-15-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-15"
+      ],
+      "caption": "춘추 전국 시대의 시대 흐름",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 춘추 전국 시대의 시대 흐름.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_016_86s.jpg",
+        "rect": [
+          402,
+          186,
+          301,
+          61
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6c1388388422e3c5d163841a4274bbd9ec09cda0804ef6ab406835a8285e8f3e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-20-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-20"
+      ],
+      "caption": "전국 시대 각국의 변법 실시",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 전국 시대 각국의 변법 실시.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_020_106s.jpg",
+        "rect": [
+          784,
+          402,
+          164,
+          194
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d80f48684ff06235a206963525a873d3590e9f9457e467e3053ca9ad85e2d63a"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-32-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-32"
+      ],
+      "caption": "진의 통일",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 진의 통일.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_032_155s.jpg",
+        "rect": [
+          498,
+          235,
+          156,
+          143
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "aadaa811e7f4882431d9ef8acb8658afc5ef4824ded86414062d4b5e100a3448"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-36-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-36"
+      ],
+      "caption": "초한의 형세도",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 초한의 형세도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_036_177s.jpg",
+        "rect": [
+          430,
+          155,
+          160,
+          195
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "df8acb47790a09726a79035de53e8e32f06ce552d69144c8cb92d13e67d897d9"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-36-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-36"
+      ],
+      "caption": "기원전 3세기경 동아시아의 모습",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 기원전 3세기경 동아시아의 모습.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_036_177s.jpg",
+        "rect": [
+          758,
+          170,
+          189,
+          178
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "df8acb47790a09726a79035de53e8e32f06ce552d69144c8cb92d13e67d897d9"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-36-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-36"
+      ],
+      "caption": "군국제의 실시",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 군국제의 실시.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_036_177s.jpg",
+        "rect": [
+          817,
+          426,
+          181,
+          203
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "df8acb47790a09726a79035de53e8e32f06ce552d69144c8cb92d13e67d897d9"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-36-figure-4",
+      "noteIds": [
+        "dongyangsa-textbook-page-36"
+      ],
+      "caption": "한 제국 황제의 재위 연표",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 한 제국 황제의 재위 연표.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_036_177s.jpg",
+        "rect": [
+          302,
+          449,
+          324,
+          191
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "df8acb47790a09726a79035de53e8e32f06ce552d69144c8cb92d13e67d897d9"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-43-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-43"
+      ],
+      "caption": "장건의 여행로와 비단길의 성립",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 장건의 여행로와 비단길의 성립.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_042_206s.jpg",
+        "rect": [
+          677,
+          337,
+          287,
+          207
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "55775319159f150c7a1b2ad8499bef374c0b2233a6f2bc6f1e7f37c7ca6b34b3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-59-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-59"
+      ],
+      "caption": "동서 교역로의 확립",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 동서 교역로의 확립.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_060_290s.jpg",
+        "rect": [
+          563,
+          274,
+          359,
+          260
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "db51ea864d4d30506ea8f04a4c315bbf8858af28d88865f351bd2421cd28fad1"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-63-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-63"
+      ],
+      "caption": "삼국 시대 정세도",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 삼국 시대 정세도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_001_315s.jpg",
+        "rect": [
+          266,
+          98,
+          249,
+          209
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d7c44a07e095311407518e5b154de1185326ad105e7ab11e15d76fada5fe630e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-64-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-64"
+      ],
+      "caption": "8왕의 난",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 8왕의 난.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_002_318s.jpg",
+        "rect": [
+          768,
+          160,
+          173,
+          127
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "2c4028491f3005b82c48605416b4bb32566b7c8fbc0e95a53dabddbe1a67677c"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-64-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-64"
+      ],
+      "caption": "중국의 기온 변동",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 중국의 기온 변동.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_002_318s.jpg",
+        "rect": [
+          578,
+          369,
+          344,
+          195
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "2c4028491f3005b82c48605416b4bb32566b7c8fbc0e95a53dabddbe1a67677c"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-103-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-103"
+      ],
+      "caption": "황소의 난",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 황소의 난.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_040_514s.jpg",
+        "rect": [
+          283,
+          207,
+          275,
+          304
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1a4046b8869cb1dd5abe9e45dfe80ef550f0e91df0470c1038fe6d1b8a89ec56"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-107-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-107"
+      ],
+      "caption": "후주와 10국의 대치도",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 후주와 10국의 대치도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_045_560s.jpg",
+        "rect": [
+          693,
+          96,
+          283,
+          256
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f51173f98f5df94976bfc7f5d8ce1a7072161c71b8f82d917b874fb2d1e4bfb4"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-108-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-108"
+      ],
+      "caption": "송의 통일 과정",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 송의 통일 과정.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_046_570s.jpg",
+        "rect": [
+          185,
+          235,
+          349,
+          279
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6635af37b42ae4343eece80c6e4887549513cb93b9ad98020ddaddb59fce48ad"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-108-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-108"
+      ],
+      "caption": "송·요·고려 등 동아시아의 세력 분포",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 송·요·고려 등 동아시아의 세력 분포.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_046_570s.jpg",
+        "rect": [
+          790,
+          435,
+          172,
+          188
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6635af37b42ae4343eece80c6e4887549513cb93b9ad98020ddaddb59fce48ad"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-108-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-108"
+      ],
+      "caption": "북송 황제 계보와 재위 연도",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 북송 황제 계보와 재위 연도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_046_570s.jpg",
+        "rect": [
+          190,
+          512,
+          204,
+          166
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6635af37b42ae4343eece80c6e4887549513cb93b9ad98020ddaddb59fce48ad"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-108-figure-4",
+      "noteIds": [
+        "dongyangsa-textbook-page-108"
+      ],
+      "caption": "남송 황제 계보와 재위 연도",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 남송 황제 계보와 재위 연도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_046_570s.jpg",
+        "rect": [
+          394,
+          484,
+          165,
+          163
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6635af37b42ae4343eece80c6e4887549513cb93b9ad98020ddaddb59fce48ad"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-135-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-135"
+      ],
+      "caption": "몽골의 영토 팽창",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 몽골의 영토 팽창.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_020_717s.jpg",
+        "rect": [
+          600,
+          97,
+          300,
+          193
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "b459ef412182054cb4f5f6689e6b9d59f9b49e489e47707427d92e078b41b289"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-135-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-135"
+      ],
+      "caption": "몽골·원 황제 계보와 재위 연도",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 몽골·원 황제 계보와 재위 연도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_020_717s.jpg",
+        "rect": [
+          572,
+          296,
+          355,
+          126
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "b459ef412182054cb4f5f6689e6b9d59f9b49e489e47707427d92e078b41b289"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-140-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-140"
+      ],
+      "caption": "동서 교통로와 주요 여행자의 경로",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 동서 교통로와 주요 여행자의 경로.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_025_738s.jpg",
+        "rect": [
+          209,
+          245,
+          330,
+          281
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "eea9d39d9e2ee08a78333715bf2d76aea3c07838eef7b6f97f8c2d7d4450b113"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-141-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-141"
+      ],
+      "caption": "명의 최대 영역과 정화의 대항해",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 명의 최대 영역과 정화의 대항해.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_027_752s.jpg",
+        "rect": [
+          235,
+          142,
+          243,
+          186
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d5e38927b48efbc4f921fda32e21bfe5245e1a137eb594391fccbd36e15af8ae"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-141-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-141"
+      ],
+      "caption": "명 황제 계보와 재위 연도",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 명 황제 계보와 재위 연도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_027_752s.jpg",
+        "rect": [
+          180,
+          326,
+          342,
+          141
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d5e38927b48efbc4f921fda32e21bfe5245e1a137eb594391fccbd36e15af8ae"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-151-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-151"
+      ],
+      "caption": "명 말기의 세력 분포",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 명 말기의 세력 분포.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_037_788s.jpg",
+        "rect": [
+          366,
+          113,
+          166,
+          140
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f917907590590f6225294d686ee70627703748a0972009b63163fc2a7f9ebd51"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-151-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-151"
+      ],
+      "caption": "청의 최대 영역",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 청의 최대 영역.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_037_788s.jpg",
+        "rect": [
+          207,
+          428,
+          293,
+          224
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f917907590590f6225294d686ee70627703748a0972009b63163fc2a7f9ebd51"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-151-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-151"
+      ],
+      "caption": "청 황제 계보와 재위 연도",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 청 황제 계보와 재위 연도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_037_788s.jpg",
+        "rect": [
+          562,
+          97,
+          342,
+          120
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f917907590590f6225294d686ee70627703748a0972009b63163fc2a7f9ebd51"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-158-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-158"
+      ],
+      "caption": "이갑제의 운영 방식",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 이갑제의 운영 방식.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_043_818s.jpg",
+        "rect": [
+          645,
+          451,
+          256,
+          216
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ee7a1455894820cc87c49a5d74646864fdc6805949b27748f3e3d9b38a11e83e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-160-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-160"
+      ],
+      "caption": "명·청 시대 경지 면적과 인구 수의 증가",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대 경지 면적과 인구 수의 증가.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_044_821s.jpg",
+        "rect": [
+          762,
+          306,
+          223,
+          126
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "c7dcd6f0081ff4e90e1dfd34bdfbc82944f1636acfdf44f9de112428e25824a3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-160-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-160"
+      ],
+      "caption": "과거 제도와 신사층의 성장",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 과거 제도와 신사층의 성장.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_044_821s.jpg",
+        "rect": [
+          286,
+          319,
+          335,
+          111
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "c7dcd6f0081ff4e90e1dfd34bdfbc82944f1636acfdf44f9de112428e25824a3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-161-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-161"
+      ],
+      "caption": "명·청 시대 상업의 발달",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대 상업의 발달.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_047_832s.jpg",
+        "rect": [
+          519,
+          134,
+          129,
+          129
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ab4b1f46cf66ea885325f4051c294839f55f537240b709dd167cf0efd070fdcb"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-161-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-161"
+      ],
+      "caption": "명·청 시대 염법의 변화",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대 염법의 변화.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_047_832s.jpg",
+        "rect": [
+          299,
+          349,
+          326,
+          89
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ab4b1f46cf66ea885325f4051c294839f55f537240b709dd167cf0efd070fdcb"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-161-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-161"
+      ],
+      "caption": "명·청 시대 수공업 제도의 변화",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대 수공업 제도의 변화.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_047_832s.jpg",
+        "rect": [
+          670,
+          248,
+          339,
+          67
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ab4b1f46cf66ea885325f4051c294839f55f537240b709dd167cf0efd070fdcb"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-163-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-163"
+      ],
+      "caption": "명·청 시대의 대운하",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대의 대운하.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_048_840s.jpg",
+        "rect": [
+          454,
+          403,
+          138,
+          216
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "bdc6998f4fd309c640795c97d1577fc663f9fdb62d9f4c03a664d5b56c4381d7"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-165-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-165"
+      ],
+      "caption": "아메리카 은의 유통과 그 영향",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 아메리카 은의 유통과 그 영향.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_049_851s.jpg",
+        "rect": [
+          663,
+          107,
+          298,
+          208
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "2396d67ead4c8e4bbd44713cace19ac1dd1014951260933c15832613043d3a62"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-166-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-166"
+      ],
+      "caption": "16세기 무역의 흐름",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 16세기 무역의 흐름.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_050_857s.jpg",
+        "rect": [
+          288,
+          124,
+          329,
+          147
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1c9831aec9a8816d206ad69b26851cc1301759eeae03844bacc993d648dddfc4"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-166-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-166"
+      ],
+      "caption": "명·청 시대 무역의 발달",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대 무역의 발달.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_050_857s.jpg",
+        "rect": [
+          260,
+          265,
+          341,
+          191
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1c9831aec9a8816d206ad69b26851cc1301759eeae03844bacc993d648dddfc4"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-207-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-207"
+      ],
+      "caption": "국민정부와 정강산 근거지의 수립(1928)",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 국민정부와 정강산 근거지의 수립(1928).",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_025_1078s.jpg",
+        "rect": [
+          731,
+          429,
+          180,
+          165
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "db022e62c903ef995d4073bf3bd5eb9b96a31bee95be0e837f357b3a1b65cf90"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-208-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-208"
+      ],
+      "caption": "중국 공산당의 대장정",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 중국 공산당의 대장정.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_026_1083s.jpg",
+        "rect": [
+          376,
+          480,
+          181,
+          161
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ae4110da2d6307a44577bf7a353528439d1274f1ce235cf96fce53f1ee9e8bb0"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-208-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-208"
+      ],
+      "caption": "만주사변의 발생",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 만주사변의 발생.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_026_1083s.jpg",
+        "rect": [
+          754,
+          227,
+          164,
+          195
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ae4110da2d6307a44577bf7a353528439d1274f1ce235cf96fce53f1ee9e8bb0"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-210-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-210"
+      ],
+      "caption": "당고(탕구) 정전 협정의 결과",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 당고(탕구) 정전 협정의 결과.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_029_1090s.jpg",
+        "rect": [
+          273,
+          155,
+          254,
+          148
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ead7907cd91d30d0c3a99bd75443f21801ae9b5dd7507f1466b2620b42059898"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-233-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-233"
+      ],
+      "caption": "일본 고대의 천도 과정",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 일본 고대의 천도 과정.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_055_1208s.jpg",
+        "rect": [
+          548,
+          293,
+          287,
+          204
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "5f64d3630b1fcc2fc58b8e69454eb0523cc835bf4667a90632a5c9b69d2d3e0f"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-280-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-280"
+      ],
+      "caption": "쿠샨 왕조의 영역",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 쿠샨 왕조의 영역.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_036_1434s.jpg",
+        "rect": [
+          455,
+          95,
+          144,
+          160
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d1b7e603301b0cde926600f6ab487c74b70056499aa2c52641091b70e03278c7"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-280-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-280"
+      ],
+      "caption": "굽타 왕조의 영역",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 굽타 왕조의 영역.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_036_1434s.jpg",
+        "rect": [
+          817,
+          289,
+          171,
+          186
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d1b7e603301b0cde926600f6ab487c74b70056499aa2c52641091b70e03278c7"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-280-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-280"
+      ],
+      "caption": "소승 불교와 대승 불교의 비교",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 소승 불교와 대승 불교의 비교.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_036_1434s.jpg",
+        "rect": [
+          278,
+          430,
+          323,
+          91
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d1b7e603301b0cde926600f6ab487c74b70056499aa2c52641091b70e03278c7"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-282-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-282"
+      ],
+      "caption": "무굴 제국의 영역",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 무굴 제국의 영역.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_038_1447s.jpg",
+        "rect": [
+          477,
+          350,
+          121,
+          136
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "67d69561a7668d3452be46c561ecaf4e83f1305238480e18c9cc0385c4fe3430"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-282-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-282"
+      ],
+      "caption": "타지마할",
+      "kind": "photo",
+      "alt": "동양사 교재 원본에서 잘라낸 타지마할.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_038_1447s.jpg",
+        "rect": [
+          625,
+          455,
+          143,
+          146
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "67d69561a7668d3452be46c561ecaf4e83f1305238480e18c9cc0385c4fe3430"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-282-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-282"
+      ],
+      "caption": "무굴 회화",
+      "kind": "photo",
+      "alt": "동양사 교재 원본에서 잘라낸 무굴 회화.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_038_1447s.jpg",
+        "rect": [
+          774,
+          498,
+          143,
+          139
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "67d69561a7668d3452be46c561ecaf4e83f1305238480e18c9cc0385c4fe3430"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-7-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-7"
+      ],
+      "caption": "동아시아의 지형",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 동아시아의 지형.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_005_31s.jpg",
+        "rect": [
+          739,
+          386,
+          251,
+          209
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "b0397a285637c7a4b43b749af86a456caaed2060584bee388959c2b269092cd4"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-7-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-7"
+      ],
+      "caption": "중국 문명 성립의 시대 흐름",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 중국 문명 성립의 시대 흐름.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_005_31s.jpg",
+        "rect": [
+          708,
+          197,
+          390,
+          91
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "b0397a285637c7a4b43b749af86a456caaed2060584bee388959c2b269092cd4"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-224-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-224"
+      ],
+      "caption": "동아시아 국가들의 영토 분쟁",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 동아시아 국가들의 영토 분쟁.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_043_1161s.jpg",
+        "rect": [
+          184,
+          436,
+          328,
+          251
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d6a796e323c6c5ef177505f79e23086f2f907d99537f42d163ff5f2ee51ca0b0"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-224-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-224"
+      ],
+      "caption": "양안 무역 통계",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 양안 무역 통계.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_043_1161s.jpg",
+        "rect": [
+          149,
+          264,
+          371,
+          173
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d6a796e323c6c5ef177505f79e23086f2f907d99537f42d163ff5f2ee51ca0b0"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-225-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-225"
+      ],
+      "caption": "한반도 남부에서 금속·벼농사 기술 전래 경로",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 한반도 남부에서 금속·벼농사 기술 전래 경로.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_046_1182s.jpg",
+        "rect": [
+          570,
+          95,
+          223,
+          154
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "85a35b880ac2cfd155b5714beea662076dc1044fed9c9be5602ef377b427449a"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-225-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-225"
+      ],
+      "caption": "일본 고대사의 시대 흐름",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 일본 고대사의 시대 흐름.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_046_1182s.jpg",
+        "rect": [
+          157,
+          245,
+          329,
+          67
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "85a35b880ac2cfd155b5714beea662076dc1044fed9c9be5602ef377b427449a"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-227-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-227",
+        "dongyangsa-textbook-page-228"
+      ],
+      "caption": "야마타이국 사신들의 이동 추정 경로",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 야마타이국 사신들의 이동 추정 경로.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_047_1184s.jpg",
+        "rect": [
+          349,
+          464,
+          159,
+          142
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f29c56517119f5b7498ff44d70ae9350850309373de0549e3ba271ee4b851978"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-230-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-230"
+      ],
+      "caption": "백제 부흥 운동을 지원한 사이메이 천황",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 백제 부흥 운동을 지원한 사이메이 천황.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_049_1190s.jpg",
+        "rect": [
+          579,
+          95,
+          240,
+          173
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "41471cacc235e1ff6a7b7207ce46367687c8f172f8b53b73889bc0480922e1bd"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-230-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-230"
+      ],
+      "caption": "일본 국호와 천황 칭호의 변화",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 일본 국호와 천황 칭호의 변화.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_049_1190s.jpg",
+        "rect": [
+          540,
+          519,
+          309,
+          73
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "41471cacc235e1ff6a7b7207ce46367687c8f172f8b53b73889bc0480922e1bd"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-238-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-238"
+      ],
+      "caption": "막부와 조정의 이원적 지배 체제",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 막부와 조정의 이원적 지배 체제.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_058_1223s.jpg",
+        "rect": [
+          574,
+          317,
+          239,
+          171
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1f48b895b7d8e5da3ba6657ad52821c645d391119f42b40e289f187cc7fd0b1d"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-238-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-238"
+      ],
+      "caption": "쇼군과 고케닌의 봉건적 주종 관계",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 쇼군과 고케닌의 봉건적 주종 관계.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_058_1223s.jpg",
+        "rect": [
+          559,
+          492,
+          267,
+          153
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1f48b895b7d8e5da3ba6657ad52821c645d391119f42b40e289f187cc7fd0b1d"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-278-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-278"
+      ],
+      "caption": "인더스 문명과 아리아인의 이동",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 인더스 문명과 아리아인의 이동.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_034_1424s.jpg",
+        "rect": [
+          821,
+          119,
+          204,
+          220
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "65502e4b53b99dd0485ba4715acdc9a452844b1e0df0b46986398ac1c2618cd1"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-278-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-278"
+      ],
+      "caption": "카스트제에서의 신분 계급",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 카스트제에서의 신분 계급.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_034_1424s.jpg",
+        "rect": [
+          832,
+          364,
+          118,
+          130
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "65502e4b53b99dd0485ba4715acdc9a452844b1e0df0b46986398ac1c2618cd1"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-278-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-278"
+      ],
+      "caption": "인도사의 시대 흐름",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 인도사의 시대 흐름.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_034_1424s.jpg",
+        "rect": [
+          275,
+          239,
+          325,
+          101
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "65502e4b53b99dd0485ba4715acdc9a452844b1e0df0b46986398ac1c2618cd1"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "dongyangsa-page-283-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-283"
+      ],
+      "caption": "영국의 인도 침략",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 영국의 인도 침략.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_039_1451s.jpg",
+        "rect": [
+          472,
+          317,
+          126,
+          158
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "98b0d1f82b37fd70ef3d58d58d4b34bbc46449d96c705c05b18b83d2b0a588d0"
+      },
+      "reviewStatus": "visually-verified"
+    }
+  ],
+  "reviewedNotes": [
+    "dongyangsa-textbook-page-7",
+    "dongyangsa-textbook-page-9",
+    "dongyangsa-textbook-page-12",
+    "dongyangsa-textbook-page-14",
+    "dongyangsa-textbook-page-15",
+    "dongyangsa-textbook-page-20",
+    "dongyangsa-textbook-page-32",
+    "dongyangsa-textbook-page-36",
+    "dongyangsa-textbook-page-43",
+    "dongyangsa-textbook-page-59",
+    "dongyangsa-textbook-page-63",
+    "dongyangsa-textbook-page-64",
+    "dongyangsa-textbook-page-103",
+    "dongyangsa-textbook-page-107",
+    "dongyangsa-textbook-page-108",
+    "dongyangsa-textbook-page-135",
+    "dongyangsa-textbook-page-140",
+    "dongyangsa-textbook-page-141",
+    "dongyangsa-textbook-page-151",
+    "dongyangsa-textbook-page-158",
+    "dongyangsa-textbook-page-160",
+    "dongyangsa-textbook-page-161",
+    "dongyangsa-textbook-page-163",
+    "dongyangsa-textbook-page-165",
+    "dongyangsa-textbook-page-166",
+    "dongyangsa-textbook-page-207",
+    "dongyangsa-textbook-page-208",
+    "dongyangsa-textbook-page-210",
+    "dongyangsa-textbook-page-224",
+    "dongyangsa-textbook-page-225",
+    "dongyangsa-textbook-page-227",
+    "dongyangsa-textbook-page-228",
+    "dongyangsa-textbook-page-230",
+    "dongyangsa-textbook-page-233",
+    "dongyangsa-textbook-page-238",
+    "dongyangsa-textbook-page-278",
+    "dongyangsa-textbook-page-280",
+    "dongyangsa-textbook-page-282",
+    "dongyangsa-textbook-page-283",
+    "dongyangsa-textbook-page-291",
+    "dongyangsa-textbook-page-303"
+  ],
+  "unresolved": [
+    {
+      "noteId": "dongyangsa-textbook-page-9",
+      "reason": "HTML에 연결된 part1_page_006_35s.jpg는 실제 12–13쪽(동아시아의 기후 구분·사회 구분)으로, 이 노트의 신석기 문화 지도·유물 사진들과 일치하지 않음. 노트에 대응하는 원본 이미지 재확인 필요."
+    },
+    {
+      "noteId": "dongyangsa-textbook-page-225",
+      "reason": "원본의 야요이 시대 청동 동탁·토기 사진 대부분이 촬영자의 손에 가려져 완전한 이미지 영역을 추출할 수 없음. 같은 면의 전래 경로 지도와 시대 흐름 도표는 추출함."
+    },
+    {
+      "noteId": "dongyangsa-textbook-page-291",
+      "reason": "원본 HTML의 해당 노트에 이미지 경로가 없어 지도·사진 표식을 실제 이미지와 대조할 수 없음."
+    },
+    {
+      "noteId": "dongyangsa-textbook-page-303",
+      "reason": "원본 HTML의 해당 노트에 이미지 경로가 없어 지도·사진 표식을 실제 이미지와 대조할 수 없음."
+    }
+  ]
+}

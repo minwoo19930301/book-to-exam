@@ -1,0 +1,158 @@
+[
+  {
+    "id": "dongyangsa-gunhyeon",
+    "term": "군현제",
+    "def": "진의 통일 이후 전국 군·현에 중앙이 임명한 비세습 관리를 파견하여 황제의 직접 지배를 도모한 제도",
+    "page": "dongyangsa-textbook-page-32",
+    "title": "진(秦)의 통일 배경과 유능한 인재 등용 / 황제 지배 체제 형성(황제 칭호·삼공구경·군현제)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-32",
+        "quote": "군·현의 관리는 중앙에서 파견, 세습 불가, 황제의 임면권 장악"
+      },
+      {
+        "page": "dongyangsa-textbook-page-32",
+        "quote": "전국적 군현제 실시"
+      }
+    ]
+  },
+  {
+    "id": "dongyangsa-gunguk",
+    "term": "군국제",
+    "def": "한 고조가 수도 주변의 군현제와 원거리 지방의 제후왕·열후 봉건을 함께 운영한 제도",
+    "page": "dongyangsa-textbook-page-36",
+    "title": "진의 의의와 한 제국의 황제 재위 연표 / 한 고조의 통일과 군국제의 실시",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-36",
+        "quote": "원거리 지방 : 일족·공신을 제후왕(諸侯王)·열후(列侯)에 봉건"
+      },
+      {
+        "page": "dongyangsa-textbook-page-36",
+        "quote": "수도 주변 : 진의 군현제 계승"
+      }
+    ]
+  },
+  {
+    "id": "dongyangsa-samjang",
+    "term": "삼장제",
+    "def": "북위에서 가·린·리·당으로 향촌을 편제하고 호적과 조세·요역을 파악한 제도",
+    "page": "dongyangsa-textbook-page-70",
+    "title": "북위 태무제의 통치와 국사 필화 사건 / 북위 효문제의 개혁(균전제와 삼장제)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "5가를 1린, 5린을 1리, 5리를 1당으로 묶음"
+      },
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "북위 효문제의 균전제와 삼장제"
+      },
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "호구 누락 조사, 조세·요역 징발, 치안 유지"
+      }
+    ]
+  },
+  {
+    "id": "dongyangsa-two-tax",
+    "term": "양세법",
+    "def": "당에서 780년 자산·토지를 기준으로 세액을 정하고 여름과 가을 두 차례 징수하도록 한 세법",
+    "page": "dongyangsa-textbook-page-100",
+    "title": "양세법과 모병제로의 이행 / 번진 체제와 환관의 전횡·당쟁",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "자산과 토지에 따라 세액을 정하고, 여름·가을 두 차례로 나누어 징수"
+      },
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "양세법(780)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "거주지 등록을 기준으로 하고, 나이가 아니라 빈부(자산)에 따라 차등 부과"
+      }
+    ]
+  },
+  {
+    "id": "dongyangsa-diding",
+    "term": "지정은제",
+    "def": "청 옹정제 때 전국적으로 실시되어 정세를 지세에 합쳐 납부하게 한 조세 제도",
+    "page": "dongyangsa-textbook-page-156",
+    "title": "강희제의 내정 정비와 성세자생인정 / 옹정제의 절대 군주권 확립과 지정은제·양렴은",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "정세(丁稅)를 지세(地稅)에 합쳐 지세만 납부(정세 소멸)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "옹정 연간 전국적 실시"
+      }
+    ]
+  },
+  {
+    "id": "dongyangsa-zhongti",
+    "term": "중체서용론",
+    "def": "양무 운동에서 중국의 윤상명교를 근본으로 유지하면서 서양의 부강한 기술을 도입하자는 관점",
+    "page": "dongyangsa-textbook-page-183",
+    "title": "태평천국 운동의 의의와 양무 운동의 시작 / 양무 운동의 내용과 전개",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "중국의 윤상명교(倫常名敎)를 원본(原本)으로 삼고, 각 외국의 부강지술(富强之術)을 가지고 이를 보강한다면"
+      },
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "(2) 양무 운동(洋務運動)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "(중체서용론)(中體西用論) 표방"
+      }
+    ]
+  },
+  {
+    "id": "dongyangsa-land-tax",
+    "term": "지조 개정",
+    "def": "메이지 정부가 안정적인 지세 수입을 확보하려고 토지 가격을 기준으로 세금을 매기도록 한 개혁",
+    "page": "dongyangsa-textbook-page-253",
+    "title": "사회진화론과 내정 개혁 / 메이지 정부에 대한 반발과 자유 민권 운동",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "토지 대금의 100분의 3으로 하여금 지조(地租)라 정하도록"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "지조 개정 : 연공 수취의 불안정 → 안정적인 지세 수취 도모"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "지조 개정 포고 및 조례(1873)"
+      }
+    ]
+  },
+  {
+    "id": "dongyangsa-popular-rights",
+    "term": "자유 민권 운동",
+    "def": "메이지 정부의 전제 정치를 비판하며 민선의원과 국회 개설, 입헌 체제 수립을 요구한 운동",
+    "page": "dongyangsa-textbook-page-253",
+    "title": "사회진화론과 내정 개혁 / 메이지 정부에 대한 반발과 자유 민권 운동",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "정부의 전제 정치 비판, 입헌 체제 수립 요구"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "민선의원설립건백서"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "국회 개설 청원 운동 본격화(1880)"
+      }
+    ]
+  }
+]

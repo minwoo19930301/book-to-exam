@@ -1,0 +1,6573 @@
+[
+  {
+    "id": "dongyangsa-gunhyeon-mc",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "keyword": "군현제",
+    "prompt": "진의 전국적 군현제 실시가 봉건제와 구별되는 특징은?",
+    "choices": [
+      "군·현의 관리를 중앙에서 파견하고 황제가 임면권을 장악한다.",
+      "일족과 공신에게 지방 통치권을 세습하도록 맡긴다.",
+      "제후왕에게 독자적인 기년법과 관료기구를 허용한다.",
+      "수도 주변에만 관리를 보내고 나머지 지역을 독립 왕국으로 인정한다."
+    ],
+    "answer": 0,
+    "explain": "군·현의 관리를 중앙에서 파견하고 황제가 임면권을 장악한다. 교재 근거: “군·현의 관리는 중앙에서 파견, 세습 불가, 황제의 임면권 장악”",
+    "page": "dongyangsa-textbook-page-32",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-32",
+        "quote": "군·현의 관리는 중앙에서 파견, 세습 불가, 황제의 임면권 장악"
+      },
+      {
+        "page": "dongyangsa-textbook-page-32",
+        "quote": "전국적 군현제 실시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-gunhyeon-short",
+    "type": "blank",
+    "stem": "설명에 해당하는 용어를 쓰시오.",
+    "keyword": "군현제",
+    "prompt": "진의 통일 이후 전국 군·현에 중앙이 임명한 비세습 관리를 파견하여 황제의 직접 지배를 도모한 제도 → 해당 용어는?",
+    "choices": null,
+    "answer": "군현제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "군현제"
+    ],
+    "page": "dongyangsa-textbook-page-32",
+    "explain": "군현제: 진의 통일 이후 전국 군·현에 중앙이 임명한 비세습 관리를 파견하여 황제의 직접 지배를 도모한 제도 교재 근거: “군·현의 관리는 중앙에서 파견, 세습 불가, 황제의 임면권 장악”",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-32",
+        "quote": "군·현의 관리는 중앙에서 파견, 세습 불가, 황제의 임면권 장악"
+      },
+      {
+        "page": "dongyangsa-textbook-page-32",
+        "quote": "전국적 군현제 실시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-gunguk-mc",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "keyword": "군국제",
+    "prompt": "한 고조의 군국제를 설명한 것으로 옳은 것은?",
+    "choices": [
+      "전국의 군현을 폐지하고 모든 지방을 제후왕에게 세습시킨다.",
+      "수도 주변에는 군현제를, 원거리 지방에는 제후왕·열후의 봉건을 적용한다.",
+      "제후왕을 전면 폐지하고 전국에 중앙의 관리를 파견한다.",
+      "지방관을 지방민의 선거로 뽑고 중앙의 임명권을 폐지한다."
+    ],
+    "answer": 1,
+    "explain": "수도 주변에는 군현제를, 원거리 지방에는 제후왕·열후의 봉건을 적용한다. 교재 근거: “원거리 지방 : 일족·공신을 제후왕(諸侯王)·열후(列侯)에 봉건”",
+    "page": "dongyangsa-textbook-page-36",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-36",
+        "quote": "원거리 지방 : 일족·공신을 제후왕(諸侯王)·열후(列侯)에 봉건"
+      },
+      {
+        "page": "dongyangsa-textbook-page-36",
+        "quote": "수도 주변 : 진의 군현제 계승"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-gunguk-short",
+    "type": "blank",
+    "stem": "설명에 해당하는 용어를 쓰시오.",
+    "keyword": "군국제",
+    "prompt": "한 고조가 수도 주변의 군현제와 원거리 지방의 제후왕·열후 봉건을 함께 운영한 제도 → 해당 용어는?",
+    "choices": null,
+    "answer": "군국제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "군국제"
+    ],
+    "page": "dongyangsa-textbook-page-36",
+    "explain": "군국제: 한 고조가 수도 주변의 군현제와 원거리 지방의 제후왕·열후 봉건을 함께 운영한 제도 교재 근거: “원거리 지방 : 일족·공신을 제후왕(諸侯王)·열후(列侯)에 봉건”",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-36",
+        "quote": "원거리 지방 : 일족·공신을 제후왕(諸侯王)·열후(列侯)에 봉건"
+      },
+      {
+        "page": "dongyangsa-textbook-page-36",
+        "quote": "수도 주변 : 진의 군현제 계승"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-samjang-mc",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "keyword": "삼장제",
+    "prompt": "북위의 삼장제가 균전제 운영과 연결되는 이유는?",
+    "choices": [
+      "군·현을 없애고 부족장에게 지방의 세습 통치를 맡기기 위해서이다.",
+      "향촌 호적을 폐기하여 농민의 국가 조세 부담을 없애기 위해서이다.",
+      "호구를 파악하고 조세와 요역을 징발할 향촌 조직이 필요했기 때문이다.",
+      "지방의 모든 토지를 사원에 넘겨 불교 교단이 조세를 걷게 하기 위해서이다."
+    ],
+    "answer": 2,
+    "explain": "호구를 파악하고 조세와 요역을 징발할 향촌 조직이 필요했기 때문이다. 교재 근거: “5가를 1린, 5린을 1리, 5리를 1당으로 묶음”",
+    "page": "dongyangsa-textbook-page-70",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "5가를 1린, 5린을 1리, 5리를 1당으로 묶음"
+      },
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "북위 효문제의 균전제와 삼장제"
+      },
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "호구 누락 조사, 조세·요역 징발, 치안 유지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-samjang-short",
+    "type": "blank",
+    "stem": "설명에 해당하는 용어를 쓰시오.",
+    "keyword": "삼장제",
+    "prompt": "북위에서 가·린·리·당으로 향촌을 편제하고 호적과 조세·요역을 파악한 제도 → 해당 용어는?",
+    "choices": null,
+    "answer": "삼장제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "삼장제"
+    ],
+    "page": "dongyangsa-textbook-page-70",
+    "explain": "삼장제: 북위에서 가·린·리·당으로 향촌을 편제하고 호적과 조세·요역을 파악한 제도 교재 근거: “5가를 1린, 5린을 1리, 5리를 1당으로 묶음”",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "5가를 1린, 5린을 1리, 5리를 1당으로 묶음"
+      },
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "북위 효문제의 균전제와 삼장제"
+      },
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "호구 누락 조사, 조세·요역 징발, 치안 유지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-two-tax-mc",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "keyword": "양세법",
+    "prompt": "당의 양세법이 취한 과세 원리로 옳은 것은?",
+    "choices": [
+      "호구의 자산과 관계없이 성인 남자 모두에게 같은 정액의 조·용·조를 부과한다.",
+      "현재 거주지를 무시하고 본적지에서만 조세를 징수한다.",
+      "전국의 모든 세금을 면제하고 대외 무역 수입만으로 재정을 마련한다.",
+      "현재 거주지를 기준으로 자산과 토지에 따라 여름·가을에 징수한다."
+    ],
+    "answer": 3,
+    "explain": "현재 거주지를 기준으로 자산과 토지에 따라 여름·가을에 징수한다. 교재 근거: “자산과 토지에 따라 세액을 정하고, 여름·가을 두 차례로 나누어 징수”",
+    "page": "dongyangsa-textbook-page-100",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "자산과 토지에 따라 세액을 정하고, 여름·가을 두 차례로 나누어 징수"
+      },
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "양세법(780)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "거주지 등록을 기준으로 하고, 나이가 아니라 빈부(자산)에 따라 차등 부과"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-two-tax-short",
+    "type": "blank",
+    "stem": "설명에 해당하는 용어를 쓰시오.",
+    "keyword": "양세법",
+    "prompt": "당에서 780년 자산·토지를 기준으로 세액을 정하고 여름과 가을 두 차례 징수하도록 한 세법 → 해당 용어는?",
+    "choices": null,
+    "answer": "양세법",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "양세법"
+    ],
+    "page": "dongyangsa-textbook-page-100",
+    "explain": "양세법: 당에서 780년 자산·토지를 기준으로 세액을 정하고 여름과 가을 두 차례 징수하도록 한 세법 교재 근거: “자산과 토지에 따라 세액을 정하고, 여름·가을 두 차례로 나누어 징수”",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "자산과 토지에 따라 세액을 정하고, 여름·가을 두 차례로 나누어 징수"
+      },
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "양세법(780)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "거주지 등록을 기준으로 하고, 나이가 아니라 빈부(자산)에 따라 차등 부과"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-diding-mc",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "keyword": "지정은제",
+    "prompt": "청의 지정은제에서 조세를 통합한 방식은?",
+    "choices": [
+      "정세를 지세에 합쳐 지세로 납부하게 하였다.",
+      "지세를 폐지하고 모든 장정에게 동일한 인두세만 부과하였다.",
+      "정세를 지세와 분리하여 증가한 인정마다 새로 징수하였다.",
+      "은납을 폐지하고 모든 세금을 노동력 제공으로 대체하였다."
+    ],
+    "answer": 0,
+    "explain": "정세를 지세에 합쳐 지세로 납부하게 하였다. 교재 근거: “정세(丁稅)를 지세(地稅)에 합쳐 지세만 납부(정세 소멸)”",
+    "page": "dongyangsa-textbook-page-156",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "정세(丁稅)를 지세(地稅)에 합쳐 지세만 납부(정세 소멸)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "옹정 연간 전국적 실시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-diding-short",
+    "type": "blank",
+    "stem": "설명에 해당하는 용어를 쓰시오.",
+    "keyword": "지정은제",
+    "prompt": "청 옹정제 때 전국적으로 실시되어 정세를 지세에 합쳐 납부하게 한 조세 제도 → 해당 용어는?",
+    "choices": null,
+    "answer": "지정은제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "지정은제"
+    ],
+    "page": "dongyangsa-textbook-page-156",
+    "explain": "지정은제: 청 옹정제 때 전국적으로 실시되어 정세를 지세에 합쳐 납부하게 한 조세 제도 교재 근거: “정세(丁稅)를 지세(地稅)에 합쳐 지세만 납부(정세 소멸)”",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "정세(丁稅)를 지세(地稅)에 합쳐 지세만 납부(정세 소멸)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "옹정 연간 전국적 실시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-zhongti-mc",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "keyword": "중체서용론",
+    "prompt": "양무 운동의 중체서용론을 설명한 것으로 옳은 것은?",
+    "choices": [
+      "중국의 전통적 윤리를 폐기하고 의회 중심의 공화정을 즉시 수립한다.",
+      "중국의 윤리와 제도를 근본으로 두고 서양의 기술을 도입한다.",
+      "서양 기술을 전면 금지하고 군수 공업의 육성도 거부한다.",
+      "서양의 종교만 수용하고 중국의 군사 기술은 그대로 유지한다."
+    ],
+    "answer": 1,
+    "explain": "중국의 윤리와 제도를 근본으로 두고 서양의 기술을 도입한다. 교재 근거: “중국의 윤상명교(倫常名敎)를 원본(原本)으로 삼고, 각 외국의 부강지술(富强之術)을 가지고 이를 보강한다면”",
+    "page": "dongyangsa-textbook-page-183",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "중국의 윤상명교(倫常名敎)를 원본(原本)으로 삼고, 각 외국의 부강지술(富强之術)을 가지고 이를 보강한다면"
+      },
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "(2) 양무 운동(洋務運動)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "(중체서용론)(中體西用論) 표방"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-zhongti-short",
+    "type": "blank",
+    "stem": "설명에 해당하는 용어를 쓰시오.",
+    "keyword": "중체서용론",
+    "prompt": "양무 운동에서 중국의 윤상명교를 근본으로 유지하면서 서양의 부강한 기술을 도입하자는 관점 → 해당 용어는?",
+    "choices": null,
+    "answer": "중체서용론",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "중체서용론",
+      "중체서용",
+      "중체 서용론"
+    ],
+    "page": "dongyangsa-textbook-page-183",
+    "explain": "중체서용론: 양무 운동에서 중국의 윤상명교를 근본으로 유지하면서 서양의 부강한 기술을 도입하자는 관점 교재 근거: “중국의 윤상명교(倫常名敎)를 원본(原本)으로 삼고, 각 외국의 부강지술(富强之術)을 가지고 이를 보강한다면”",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "중국의 윤상명교(倫常名敎)를 원본(原本)으로 삼고, 각 외국의 부강지술(富强之術)을 가지고 이를 보강한다면"
+      },
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "(2) 양무 운동(洋務運動)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "(중체서용론)(中體西用論) 표방"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-land-tax-mc",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "keyword": "지조 개정",
+    "prompt": "1873년 일본의 지조 개정이 정한 과세 기준은?",
+    "choices": [
+      "그해의 실제 수확량에 따라 매년 토지 가격과 무관하게 세금을 정한다.",
+      "농가의 장정 수만을 기준으로 동일한 인두세를 부과한다.",
+      "토지 가격을 기준으로 지조를 정한다.",
+      "상인의 무역량만을 기준으로 농촌의 토지세를 전면 폐지한다."
+    ],
+    "answer": 2,
+    "explain": "토지 가격을 기준으로 지조를 정한다. 교재 근거: “토지 대금의 100분의 3으로 하여금 지조(地租)라 정하도록”",
+    "page": "dongyangsa-textbook-page-253",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "토지 대금의 100분의 3으로 하여금 지조(地租)라 정하도록"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "지조 개정 : 연공 수취의 불안정 → 안정적인 지세 수취 도모"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "지조 개정 포고 및 조례(1873)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-land-tax-short",
+    "type": "blank",
+    "stem": "설명에 해당하는 용어를 쓰시오.",
+    "keyword": "지조 개정",
+    "prompt": "메이지 정부가 안정적인 지세 수입을 확보하려고 토지 가격을 기준으로 세금을 매기도록 한 개혁 → 해당 용어는?",
+    "choices": null,
+    "answer": "지조 개정",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "지조 개정",
+      "지조개정"
+    ],
+    "page": "dongyangsa-textbook-page-253",
+    "explain": "지조 개정: 메이지 정부가 안정적인 지세 수입을 확보하려고 토지 가격을 기준으로 세금을 매기도록 한 개혁 교재 근거: “토지 대금의 100분의 3으로 하여금 지조(地租)라 정하도록”",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "토지 대금의 100분의 3으로 하여금 지조(地租)라 정하도록"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "지조 개정 : 연공 수취의 불안정 → 안정적인 지세 수취 도모"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "지조 개정 포고 및 조례(1873)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-popular-rights-mc",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "keyword": "자유 민권 운동",
+    "prompt": "일본의 자유 민권 운동에서 제기한 요구에 해당하는 것은?",
+    "choices": [
+      "막부를 복원하고 번주의 세습 지배를 부활한다.",
+      "국회 설치를 반대하고 언론 공개를 금지한다.",
+      "천황제를 폐지하고 즉시 사회주의 집단농장을 건설한다.",
+      "국회를 개설하고 입헌 체제를 수립한다."
+    ],
+    "answer": 3,
+    "explain": "국회를 개설하고 입헌 체제를 수립한다. 교재 근거: “정부의 전제 정치 비판, 입헌 체제 수립 요구”",
+    "page": "dongyangsa-textbook-page-253",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "정부의 전제 정치 비판, 입헌 체제 수립 요구"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "민선의원설립건백서"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "국회 개설 청원 운동 본격화(1880)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-popular-rights-short",
+    "type": "blank",
+    "stem": "설명에 해당하는 용어를 쓰시오.",
+    "keyword": "자유 민권 운동",
+    "prompt": "메이지 정부의 전제 정치를 비판하며 민선의원과 국회 개설, 입헌 체제 수립을 요구한 운동 → 해당 용어는?",
+    "choices": null,
+    "answer": "자유 민권 운동",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "자유 민권 운동",
+      "자유민권운동",
+      "자유민권 운동"
+    ],
+    "page": "dongyangsa-textbook-page-253",
+    "explain": "자유 민권 운동: 메이지 정부의 전제 정치를 비판하며 민선의원과 국회 개설, 입헌 체제 수립을 요구한 운동 교재 근거: “정부의 전제 정치 비판, 입헌 체제 수립 요구”",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "정부의 전제 정치 비판, 입헌 체제 수립 요구"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "민선의원설립건백서"
+      },
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "국회 개설 청원 운동 본격화(1880)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-mc-001",
+    "page": "dongyangsa-textbook-page-11",
+    "explain": "상왕은 상제의 후손으로서 정치적 지도력과 종교적 권능을 결합했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-11",
+        "quote": "상왕: 상제의 후손, 정치적 지도자 + 종교적 권능"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "36d058a71bdc86f20fdca7e7465dc163717c7530fca935de731e2673ff9b78c6"
+    },
+    "prompt": "상왕이 정치적 지도자인 동시에 종교적 권능을 가졌다는 사실이 보여 주는 통치의 성격은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "신정통치",
+      "문관에 의한 입헌 통치",
+      "국민 주권에 따른 공화정",
+      "종교와 정치의 완전한 분리"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "상왕은 상제의 후손으로서 정치적 지도력과 종교적 권능을 결합했다.",
+      "상왕의 종교적 권능을 문관의 헌법적 통제로 설명할 수 없다.",
+      "상왕의 권위는 국민 주권이 아니라 상제와의 관계에 근거하였다.",
+      "한 인물이 정치와 종교 권능을 함께 지녔다는 설명과 반대다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-002",
+    "page": "dongyangsa-textbook-page-13",
+    "explain": "천명은 천하를 다스릴 능력과 덕을 겸비한 인물에게 주어진다고 보았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-13",
+        "quote": "• 천명(天命) : 천하를 지배할 수 있는 능력과 덕을 겸비한 인물에게 부여"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "e182b30afbce38e43a7cef17ec0fa3987577978c54996ac591ea40ab14af3471"
+    },
+    "prompt": "주의 천명 사상에서 통치 정당성의 핵심 조건으로 제시한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "출생 순서와 무관한 무작위 추첨",
+      "통치할 능력과 덕",
+      "상업 이익의 독점",
+      "외국 군주의 승인만 받는 것"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "천명을 추첨으로 정한다는 내용은 없다.",
+      "천명은 천하를 다스릴 능력과 덕을 겸비한 인물에게 주어진다고 보았다.",
+      "자료는 상업 이익이 아니라 능력과 덕을 천명의 조건으로 제시한다.",
+      "천명은 외국 군주의 승인과 구별되는 통치 정당성 논리다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-003",
+    "page": "dongyangsa-textbook-page-20",
+    "explain": "전공을 지위와 보상의 기준으로 삼아 혈연 외의 성취를 중시했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-20",
+        "quote": "- 군공수작제 : 전공(戰功)에 따른 정치·사회적 지위 부여, 전택·의복 등 차별"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "3e3fa6b516962cdc87e835d70a2b1e2011d8886759a268ba513440b4d3b320ac"
+    },
+    "prompt": "상앙의 군공수작제가 혈연 중심의 특권 질서를 약화하는 방향으로 작용한 이유는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "모든 군인의 공적을 평가 대상에서 제외했기 때문이다",
+      "상업 수익만으로 귀족 신분을 세습시켰기 때문이다",
+      "전쟁에서 세운 공을 정치·사회적 지위의 기준으로 삼았기 때문이다",
+      "가문의 연륜만으로 관직을 정했기 때문이다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "군공수작제는 오히려 군사적 공적을 평가했다.",
+      "전공이 기준이며 상업 수익이나 무조건적 세습이 기준이 아니다.",
+      "전공을 지위와 보상의 기준으로 삼아 혈연 외의 성취를 중시했다.",
+      "가문만 중시하는 것은 군공에 따라 지위를 부여하는 원리와 다르다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-004",
+    "page": "dongyangsa-textbook-page-22",
+    "explain": "맹자는 선천적 도덕성을 인정하고 그 배양과 확충을 강조했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-22",
+        "quote": "• 사상 : 仁의 실천 근거, 선천적 도덕성 인정, 본성의 배양·확충 주장"
+      },
+      {
+        "page": "dongyangsa-textbook-page-22",
+        "quote": "• 사상 : 인간에게 악·욕망이 존재한다고 주장, 선천적 도덕성 부정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "3eb7892cf3cec807cb5a69614e76f92ae1ce32539b26b99e06b13528f8bb4b5c"
+    },
+    "prompt": "맹자의 성선설을 순자의 성악설과 구별하는 설명은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "선천적 도덕성을 부정한다",
+      "후천적 교육은 인간을 전혀 바꿀 수 없다고 단정한다",
+      "모든 정치 질서의 폐지를 요구한다",
+      "도덕성의 선천적 근거를 인정한다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "이는 자료에서 순자의 성악설에 붙인 설명이다.",
+      "맹자와 순자의 차이를 교육의 완전한 불가능으로 설명할 수 없다.",
+      "성선설의 핵심은 본성과 도덕성에 관한 주장이다.",
+      "맹자는 선천적 도덕성을 인정하고 그 배양과 확충을 강조했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-005",
+    "page": "dongyangsa-textbook-page-24",
+    "explain": "교재는 겸애를 평등애로 설명하며 유가의 차등적 사랑과 대비한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-24",
+        "quote": "㉠ 겸애(兼愛) : 평등애 주장, 유가의 차등적 사랑에 반대"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "3024dd6c590d9184c41df0341ef8a8fafb047af5abde0dfa149e7300440cae66"
+    },
+    "prompt": "묵가의 겸애가 유가의 사랑과 구별되는 점은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "차등적 사랑에 반대하고 평등한 사랑을 주장한다",
+      "혈연에 따른 사랑의 차등만을 강화한다",
+      "능력과 상관없이 군주·관료의 세습을 옹호한다",
+      "모든 인간관계의 이익을 부정한다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "교재는 겸애를 평등애로 설명하며 유가의 차등적 사랑과 대비한다.",
+      "겸애는 차등적 사랑에 대한 비판이다.",
+      "묵가의 상현론은 세습을 부정하고 능력을 중시한다.",
+      "교상리는 서로 이롭게 하는 것을 강조한다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-006",
+    "page": "dongyangsa-textbook-page-32",
+    "explain": "진은 군현제를 전국적으로 실시하고 백성을 개별적으로 지배하는 체제를 지향했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-32",
+        "quote": "① 특징 : 중앙집권적 관료제, 군현제 전국적 실시, 백성에 대한 개별 인신적 지배"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "b524c6307b3ad20413b4be1fd6cbdbeea16991e2a205b936332d98339bb6b387"
+    },
+    "prompt": "진의 통일 이후 지방 지배 체제의 방향으로 적절한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "중앙 관료제를 해체하고 혈연 질서만 운영",
+      "군현제를 전국적으로 실시하는 중앙집권적 관료 지배",
+      "읍 단위 제후의 독립 권력을 일률적으로 확대",
+      "지방 통치를 종교 교단에 전면 위임"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "자료는 관료제 확립을 명시한다.",
+      "진은 군현제를 전국적으로 실시하고 백성을 개별적으로 지배하는 체제를 지향했다.",
+      "전국적인 군현제 실시는 지방 권력의 독립 확대와 반대 방향이다.",
+      "자료의 통치 주체는 황제와 관료제이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-007",
+    "page": "dongyangsa-textbook-page-34",
+    "explain": "병기 몰수는 민간의 무장을 억제하여 군사력을 중앙에 집중시키려는 정책이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-34",
+        "quote": "㉤ 병기 몰수 : 민간의 병기 몰수 통해 군사력을 중앙에서 독점"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "f1ce104d5b8d2c2d6b08777d0bb27d7b88319cd689aeb3480d80dceb8ca56ff5"
+    },
+    "prompt": "진이 민간 병기를 몰수한 정책의 직접적인 목적은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "각 제후국의 독립적 전쟁 수행을 돕는 것",
+      "황제의 군사 지휘권을 없애는 것",
+      "중앙이 군사력을 독점하는 것",
+      "모든 지방 귀족에게 사병 편성을 의무화하는 것"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "진의 정책은 지방 군사력 강화가 아니라 중앙 독점이다.",
+      "중앙의 군사력을 강화하려는 조치다.",
+      "병기 몰수는 민간의 무장을 억제하여 군사력을 중앙에 집중시키려는 정책이었다.",
+      "민간 병기 몰수는 사병의 무장 확대와 반대다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-008",
+    "page": "dongyangsa-textbook-page-37",
+    "explain": "귀향과 생업 복귀를 돕는 조치는 전쟁으로 황폐해진 경제를 재건하는 방향이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-37",
+        "quote": "㉡ 군대 해산 : 병을 귀향 → 공적·연공에 따라 노역 면제, 소규모 토지 수여"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "1c24a09bb4b7cdf1427e529f9d9fae3d9a098c6ca9b5f18b7de93b7b0f8d5865"
+    },
+    "prompt": "한 고조의 전쟁 후 경제 재건 조치에 해당하는 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "귀향을 막고 전 병사를 영구 원정군으로 편성했다",
+      "농민이 갖고 있던 경지와 택지를 일률적으로 몰수했다",
+      "진의 가혹한 법을 예외 없이 강화했다",
+      "병사를 귀향시키고 공적 등에 따라 노역 면제와 소규모 토지를 제공했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "자료는 군대 해산과 귀향을 설명한다.",
+      "자료에는 유망민의 기존 경지·택지 소유를 인정했다고 나온다.",
+      "자료는 가혹한 법 대부분의 폐지와 관대한 대응을 설명한다.",
+      "귀향과 생업 복귀를 돕는 조치는 전쟁으로 황폐해진 경제를 재건하는 방향이었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-009",
+    "page": "dongyangsa-textbook-page-42",
+    "explain": "봉지가 분할되면 개별 제후왕이 가진 지배 기반이 작아지는 효과를 기대할 수 있었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-42",
+        "quote": "• 추은령(推恩令) : 제후왕 봉지를 모든 자제에게 분봉하여 열후(列侯)가 되도록 규정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "961e6c17dddfe8d2dc47bda0931af88ce836c1c39d8513bab1725fd28a4705b5"
+    },
+    "prompt": "한 무제의 추은령이 제후왕 세력을 약화한 방식은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "봉지를 여러 자제에게 나누어 분봉하게 했다",
+      "모든 봉지를 장자 한 명에게만 확대 상속시켰다",
+      "제후왕에게 중앙 관료 임명권을 독점시켰다",
+      "제후왕의 별도 과세를 무제한 허용했다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "봉지가 분할되면 개별 제후왕이 가진 지배 기반이 작아지는 효과를 기대할 수 있었다.",
+      "여러 자제에게 나누는 방식과 반대다.",
+      "추은령의 직접 내용은 봉지의 분할이다.",
+      "별도 과세 금지는 부익률과 관련되며 추은령은 분봉 규정이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-010",
+    "page": "dongyangsa-textbook-page-43",
+    "explain": "교재는 동방 진출을 위만조선 멸망과 한 4군 설치로 설명한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-43",
+        "quote": "- 동방 진출 : 위만조선 멸망(B.C. 108년), 한 4군 설치"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "217ca252f82674bcda6e46e7f590a0e0695a2d95ce6474d77bf35d225c71ec24"
+    },
+    "prompt": "한 무제의 팽창 정책 중 한반도 북부와 직접 관련된 사건은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "오손과 혼인 관계를 맺었다",
+      "위만조선을 멸망시키고 한 4군을 설치했다",
+      "주천·무위·장액·돈황을 설치했다",
+      "대완에 군대를 보냈다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "오손과의 관계는 중국 서북부 유목 세력 및 서역 경영과 관련된다.",
+      "교재는 동방 진출을 위만조선 멸망과 한 4군 설치로 설명한다.",
+      "하서 4군 설치에 관한 내용으로 서북 방면과 관련된다.",
+      "대완 원정은 서역 방면 활동이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-011",
+    "page": "dongyangsa-textbook-page-50",
+    "explain": "광무제는 3공을 견제하고 황제 가까이의 상서대 기능을 강화했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-50",
+        "quote": "㉡ 황제권 강화 : 3공의 권한 약화 및 상서대 기능 강화"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "30b5be6b6aa97af56f7b53dbd73ca61000187d1549805c0971bf2f8ea696b936"
+    },
+    "prompt": "후한 광무제의 중앙 정치 운영에서 나타난 권력 재편은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "황제제를 폐지하고 제후들의 합의체만 두었다",
+      "관료 선발과 행정을 외국 군주에게 맡겼다",
+      "3공의 권한을 약화하고 상서대 기능을 강화했다",
+      "상서대를 폐지하고 3공에게 모든 권한을 넘겼다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "광무제의 조치는 황제권 강화를 지향했다.",
+      "상서대 기능 강화와 관계없는 설명이다.",
+      "광무제는 3공을 견제하고 황제 가까이의 상서대 기능을 강화했다.",
+      "자료에 제시된 방향이 반대다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-012",
+    "page": "dongyangsa-textbook-page-52",
+    "explain": "외척의 대두에 대응해 황제가 환관과 손잡은 구체적 사례다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-52",
+        "quote": "㉠ 외척 제거 : 두헌 세력 대두 → 환관 정중(鄭衆)과 모의하여 두헌 축출"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "ba71ea1f2b201e0f7d36ded2935f3b76f2a3c0c935b186da415f11f6f26d998b"
+    },
+    "prompt": "후한 화제가 환관 정중과 모의하여 두헌을 축출한 사례에서 읽을 수 있는 정치 구조는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "환관과 외척이 정치에서 완전히 배제되었다",
+      "모든 정권 교체가 과거 시험만으로 이루어졌다",
+      "외척이 황제의 권한을 영구히 포기시켰다",
+      "황제가 환관을 이용해 외척 세력을 견제했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "외척 제거 과정에 환관이 참여했다.",
+      "이 사례는 궁정 내부 세력의 대립을 보여 준다.",
+      "사례의 결과는 외척 두헌의 축출이다.",
+      "외척의 대두에 대응해 황제가 환관과 손잡은 구체적 사례다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-013",
+    "page": "dongyangsa-textbook-page-61",
+    "explain": "교재는 태시율령을 율·령 분리의 사례로 설명한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-61",
+        "quote": "㉡ 태시율령 제정 : 율 20편·령 40편으로 구성(율·령 분리) *(필기: 사마씨 왕조의 정식 법률 이름 / 유교는 명분주의로 논하는 이념이었으나 사마씨는 법을 통한 통치로 황제의 영향력 강화)*"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "9e11a93d2b97cbf923a0e035f0e219a9ad9e8214cec0c922e4627b0f17b526a2"
+    },
+    "prompt": "서진 태시율령의 형식에서 확인되는 법체계의 변화는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "율과 령을 분리하여 구성했다",
+      "법률을 전부 폐지했다",
+      "법령을 오직 제사 의례로 대체했다",
+      "문서 법규를 금지하고 구두 명령만 남겼다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "교재는 태시율령을 율·령 분리의 사례로 설명한다.",
+      "율 20편과 령 40편의 구성이 제시되어 있다.",
+      "태시율령은 통치를 위한 법률 체계다.",
+      "편으로 구성한 성문 법전이라는 내용과 맞지 않는다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-014",
+    "page": "dongyangsa-textbook-page-74",
+    "explain": "통혼·성씨·언어·복식에 걸쳐 한화 정책이 추진되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-74",
+        "quote": "• 호·한 병합 : 호한통혼, 성씨의 한화(漢化), 호속(胡俗)·호어(胡語) 금지, 한복(漢服) 강제"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "2774fc6c95ae0e4f63c6eb324a6afecb311e905faf75259f3f362ae42a5db416"
+    },
+    "prompt": "북위 효문제의 한화 정책을 보여 주는 조치만 고른 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "낙양 폐기와 모든 한인 귀족 추방",
+      "호한 통혼, 성씨의 한화, 호어 금지",
+      "호한 통혼 금지와 호어 사용 의무화",
+      "한족 문화의 수용 금지와 선비 풍속의 강제"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "낙양 천도와 호한 통합이라는 방향과 맞지 않는다.",
+      "통혼·성씨·언어·복식에 걸쳐 한화 정책이 추진되었다.",
+      "교재에 제시된 정책과 반대다.",
+      "한화 정책은 한족 문화를 수용하는 방향이었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-015",
+    "page": "dongyangsa-textbook-page-74",
+    "explain": "한화·문벌화와 낙양 중심 질서에서 소외된 북방 군진의 불만이 반란으로 이어졌다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-74",
+        "quote": "• 배경 : 낙양 천도 이후 6진의 대우 열악, 진장(鎭將)의 천시·사역 등에 반발"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "721d8abcb2cae52f26811314ffcb9a4330fcc98a7a6e3c98f79325e964dee369"
+    },
+    "prompt": "6진의 난의 배경을 낙양 천도 이후의 변화와 연결한 설명은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "낙양 천도와 관계없이 해상 무역세 인상만이 원인이었다",
+      "군진이 전부 폐지되어 반란의 주체가 사라졌다",
+      "북방 군진의 대우가 악화되어 군인들의 불만이 커졌다",
+      "모든 군인이 문벌 귀족보다 우대되어 반란이 일어났다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "자료의 직접 배경은 군진의 처우 악화다.",
+      "자료는 군진에서 반란이 확산했다고 설명한다.",
+      "한화·문벌화와 낙양 중심 질서에서 소외된 북방 군진의 불만이 반란으로 이어졌다.",
+      "자료는 군진의 천대와 열악한 대우를 원인으로 제시한다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-016",
+    "page": "dongyangsa-textbook-page-81",
+    "explain": "조공·책봉의 형식만으로 모든 관계를 일원적 직접 지배로 단정할 수 없다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-81",
+        "quote": "㉡ 성격 : 정치적 필요·실리에 따라 조공·책봉국 선택, 상징적 의례"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "1a7a1026cb30b8587acb25e4f72e54e7f0b9b995c90dd83e37e70c39a4757ad6"
+    },
+    "prompt": "남북조 시기 조공·책봉 관계를 다원적이라고 설명하는 근거는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "한 왕조만이 모든 주변국을 항상 직접 통치했다",
+      "조공이 늘 완전한 내정 지배를 뜻했다",
+      "국가 간 사절 교환 자체가 없었다",
+      "국가들이 정치적 필요와 실리에 따라 관계를 선택했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "자료는 통일 왕조 붕괴 속 다원적 관계를 설명한다.",
+      "상징적 의례와 실리적 선택이 있었다는 설명과 다르다.",
+      "중국 왕조 사이에도 사절이 교환되었다.",
+      "조공·책봉의 형식만으로 모든 관계를 일원적 직접 지배로 단정할 수 없다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-017",
+    "page": "dongyangsa-textbook-page-89",
+    "explain": "태종은 대당의 천자이면서 가한의 역할도 맡는다고 응낙했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-89",
+        "quote": "㉠ 천가한(天可汗) 칭호 획득(630)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-89",
+        "quote": "사방 오랑캐들의 우두머리들이 궁궐에 와서 당의 태종에게 '천가한'이 되기를 청하였다. 태종은 \"내가 대당(大唐)의 천자이면서 또 아래로 가한(可汗)의 일을 행할 것이다.\"라고 응낙하였다. 뭇 신하들과 사방의 오랑캐들이 모두 만세를 불렀다. 그 뒤 서북 지역 유목민의 우두머리들에게 황제의 조서를 보낼 때에는 모두 \"천가한\"이라고 칭하였다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "3c16c0a06cc159cf563f833999da06283f02d91bdeb3b021510abd03b049de89"
+    },
+    "prompt": "당 태종의 '천가한' 칭호가 보여 주는 특징은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "중국 황제의 지위와 유목 세계의 군주 권위를 함께 표방했다",
+      "유목 세력과의 모든 관계를 포기했다",
+      "중국 황제 칭호를 버리고 지방 관료가 되었다",
+      "상업 길드의 대표만을 뜻했다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "태종은 대당의 천자이면서 가한의 역할도 맡는다고 응낙했다.",
+      "칭호는 유목 부족의 귀부와 관련된다.",
+      "당의 천자이면서 가한의 역할도 행한다는 의미다.",
+      "천가한은 군주 권위에 관한 칭호다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-018",
+    "page": "dongyangsa-textbook-page-93",
+    "explain": "문하성은 심의와 봉박을 담당하여 황제의 일방적 권력 행사에 제약을 가할 수 있었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-93",
+        "quote": "• 문하성 : 심의·봉박권 행사(황제의 전제권력 행사 견제) → 중서문하성으로 황제권에 종속"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "abeaaec69903b169c09f6b48c8433582e27e5de3dc883f203bdb13746eee9b60"
+    },
+    "prompt": "당의 3성 가운데 조칙을 심의하고 봉박권을 행사한 기관은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "국자감",
+      "문하성",
+      "중서성",
+      "상서성"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "국자감은 3성 가운데 심의·봉박을 맡은 기관이 아니다.",
+      "문하성은 심의와 봉박을 담당하여 황제의 일방적 권력 행사에 제약을 가할 수 있었다.",
+      "중서성은 조칙과 법안의 기초를 담당했다.",
+      "상서성은 6부를 통해 집행을 담당했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-019",
+    "page": "dongyangsa-textbook-page-97",
+    "explain": "두 토지는 국가 환수 여부와 상속 가능성에서 구별되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-97",
+        "quote": "② 구분 : 영업전(永業田, 세습 가능), 구분전(口分田, 국가 환수 대상)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "0e58ddf091876a238964db4b1f459a7c3ac9c8ee027519520db726427eb9ed25"
+    },
+    "prompt": "당 균전제에서 영업전과 구분전을 비교한 설명은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "영업전만 국가 환수 대상이고 구분전은 세습 가능했다",
+      "두 토지 모두 관리에게만 주고 농민에게는 지급하지 않았다",
+      "영업전은 세습 가능하고 구분전은 국가 환수 대상이었다",
+      "두 토지는 모두 무조건 영구 사유지였다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "자료에 제시된 구분이 반대다.",
+      "정남에게 영업전과 구분전을 지급했다.",
+      "두 토지는 국가 환수 여부와 상속 가능성에서 구별되었다.",
+      "구분전은 국가 환수 대상이었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-020",
+    "page": "dongyangsa-textbook-page-97",
+    "explain": "왕·추장의 지위를 활용하면서 도호부와 조공·책봉 등으로 통제했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-97",
+        "quote": "㉡ 기미정책(羈縻政策)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-97",
+        "quote": "• 운영 : 복속시킨 후 이민족의 왕·추장 등을 도독·자사 등에 임명, 도호부 설치, 조공·책봉 체제 등을 통한 통제"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "a1b342501841886a2c0c491a099d6f92f08c0a26e125d09ac2c03c5157d6441e"
+    },
+    "prompt": "당이 복속 지역의 왕·추장을 도독·자사 등에 임명한 기미정책의 성격은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "모든 현지 지배자를 없애는 일률적 직접 통치",
+      "정복 지역을 아무 관계 없이 완전히 방치",
+      "복속민 전원을 수도로 이주시키는 정책",
+      "현지 지배자를 활용하는 간접 통치"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "왕·추장을 관리로 임명한다는 운영 방식과 다르다.",
+      "견제·통제와 조공·책봉을 활용했다.",
+      "기미정책의 핵심으로 제시된 내용이 아니다.",
+      "왕·추장의 지위를 활용하면서 도호부와 조공·책봉 등으로 통제했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-021",
+    "page": "dongyangsa-textbook-page-100",
+    "explain": "양세법은 자산과 토지를 기준으로 세액을 정하는 방향으로 전환했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "③ 특징 : 거주지 등록을 기준으로 하고, 나이가 아니라 빈부(자산)에 따라 차등 부과"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "e20a87b03e6a5721b91ff863430757bb67bddf779d2a9499b58435e80789179d"
+    },
+    "prompt": "당 양세법이 조용조 중심 수취와 구별되는 기준은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "나이보다 자산의 많고 적음을 중시했다",
+      "모든 거주민의 자산 차이를 무시했다",
+      "오직 성인 남자의 수만을 과세 기준으로 삼았다",
+      "세금을 전혀 걷지 않았다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "양세법은 자산과 토지를 기준으로 세액을 정하는 방향으로 전환했다.",
+      "빈부에 따른 차등 부과가 제시된다.",
+      "자산 중심 과세로의 전환이라는 설명과 반대다.",
+      "양세법은 여름과 가을에 세금을 징수했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-022",
+    "page": "dongyangsa-textbook-page-100",
+    "explain": "환관은 황제 친위 군사력을 장악하여 황제 옹립과 폐위에 개입했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "② 군권 장악 : 신책군의 지휘권을 장악하여 황제의 폐립까지 좌우"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "a57023875981e5bfe15e2794b7efe5aa2c1c8c8e6d41337fbacb3ce2d1228ec0"
+    },
+    "prompt": "당 후기 환관이 황제의 폐립까지 좌우할 수 있었던 권력 기반은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "중서성의 조칙 작성 기능 완전 폐지",
+      "신책군의 지휘권 장악",
+      "과거 응시생의 투표권 독점",
+      "모든 번진의 자발적 해산"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "환관의 권력 기반으로 제시된 것은 신책군 지휘권이다.",
+      "환관은 황제 친위 군사력을 장악하여 황제 옹립과 폐위에 개입했다.",
+      "자료가 제시한 직접 기반은 군권이다.",
+      "지방 번진의 자립은 계속되었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-001",
+    "page": "dongyangsa-textbook-page-11",
+    "explain": "갑골문은 상제의 의향을 묻거나 제사와 군사 활동을 기록한 자료다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-11",
+        "quote": "갑골문: 상제 의향 탐지·선왕에 대한 제사·군대 동원·봉건 기록"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "0b846e1e163cb3e849b3406d5fd1c460b6def3d9469ab606a966efe66113dbda"
+    },
+    "prompt": "상의 점복·제사·군대 동원 기록을 확인할 수 있는 문자 자료의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "갑골문",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-002",
+    "page": "dongyangsa-textbook-page-13",
+    "explain": "주의 제후에게는 조근, 공납, 병력 제공 의무가 있었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-13",
+        "quote": "• 의무 : 조근·공납·병력 제공 의무"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "fd56217e35d0ca7f2543dcc1ec572887ec4b8e4a7d72165742705df0a176c1c2"
+    },
+    "prompt": "주의 제후가 천자를 찾아뵙는 의무를 공납·병력 제공과 구분하여 무엇이라 하는가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "조근",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-003",
+    "page": "dongyangsa-textbook-page-20",
+    "explain": "함양 천도는 중원 진출을 위한 발판 마련과 관련되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-20",
+        "quote": "- 천도 : 수도를 함양으로 이전(B.C. 350년), 중원 진출 위한 발판 마련"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "add7d8d793b2d446966ec16eb33c00d0b6a80b1ce545ad47f3e6355da45918b6"
+    },
+    "prompt": "상앙의 변법 과정에서 진의 수도를 옮긴 도시는 어디인가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "함양",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-004",
+    "page": "dongyangsa-textbook-page-22",
+    "explain": "순자는 성악설을 제시하면서 인위와 교육에 의한 개조 가능성을 인정했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-22",
+        "quote": "• 사상 : 인간에게 악·욕망이 존재한다고 주장, 선천적 도덕성 부정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "506dce63ea24eb345c121f3e4003eb8306f139009fc1134473a081f8623e70fe"
+    },
+    "prompt": "선천적 도덕성을 부정하면서 후천적 개조와 교육을 강조한 유가 사상가는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "순자",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-005",
+    "page": "dongyangsa-textbook-page-24",
+    "explain": "상현론은 능력을 갖춘 현자를 높이고 세습을 부정한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-24",
+        "quote": "㉡ 상현론(尙賢論) : 군주·관료의 세습 부정, 능력 본위 사회서열 강조[尊賢]"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "3b6d59138eceea0aaecc97aba006e1b97648ef5bc61651a875f88433e74f7f7f"
+    },
+    "prompt": "묵가가 군주·관료의 세습 대신 능력을 중시하며 제시한 주장의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "상현론",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-006",
+    "page": "dongyangsa-textbook-page-34",
+    "explain": "진은 소전체를 제정해 문자 체계를 통일했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-34",
+        "quote": "㉡ 문자 통일 : 소전체(진전) 제정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "3cc87644f1ea4f5da5fb0173ba809c5e6a2e648694a3a7240f571b3ab86be84f"
+    },
+    "prompt": "진이 문자 통일을 위해 제정한 글씨체를 쓰시오.",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "소전체",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "소전",
+      "진전"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-007",
+    "page": "dongyangsa-textbook-page-37",
+    "explain": "소하는 한의 통치에 맞게 형법을 개정하여 구장률을 만들었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-37",
+        "quote": "• 『구장률(九章律)』 : 소하가 진의 가혹한 형법을 개정하여 법률 제정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "26f400e49c35d01420e86e0d95576371fc4b5206a0a03501bc9c3e26c6584084"
+    },
+    "prompt": "한 초 소하가 진의 가혹한 형법을 개정하여 만든 법률의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "구장률",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-008",
+    "page": "dongyangsa-textbook-page-42",
+    "explain": "자사는 지방관의 부정과 호족과의 유착을 살피는 감찰 기능을 맡았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-42",
+        "quote": "• 자사(刺史) : 전국 13주 구획 후 파견, 지방관의 부정·지방 호족과의 유착 감찰"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "16310fbcdff2379069996d6621ac5e6200e6231d3c9169529717a323ef569475"
+    },
+    "prompt": "한 무제가 전국을 13주로 나누고 지방관과 호족의 유착을 감찰하도록 파견한 관직은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "자사",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-009",
+    "page": "dongyangsa-textbook-page-43",
+    "explain": "윤대의 조칙은 계속된 대외 확대에서 조정하는 방향을 보여 준다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-43",
+        "quote": "- 윤대(輪臺)의 조칙 : 상홍양의 둔전 개설 확대 건의 거부, 흉노 공략 중단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "eebf5dba245bc2270a67e6f09b46d1c4cf30178386058d7e90ab9ab28f03e93e"
+    },
+    "prompt": "한 무제가 둔전 확대 건의를 거부하고 흉노 공략을 중단한 조칙의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "윤대의 조칙",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "윤대조칙"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-010",
+    "page": "dongyangsa-textbook-page-50",
+    "explain": "교재는 호족의 지지를 확보한 광무제가 낙양에 도읍했다고 설명한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-50",
+        "quote": "㉠ 후한 건국 : 호족의 지지 확보, 낙양 도읍"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "06d2797bb414d22dabb1c9c7beb72f6cdefad2597f1ecd8874c33d65efed90aa"
+    },
+    "prompt": "광무제가 후한을 세운 뒤 도읍으로 정한 도시는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "낙양",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-011",
+    "page": "dongyangsa-textbook-page-52",
+    "explain": "채륜은 후한 시기 제지법을 개량한 인물로 제시된다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-52",
+        "quote": "㉢ 제지법 발명 : 채륜이 제지법 발명(개량)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "703fde2b1f0e71b47a320c31d65d47120b0917ec3dc30dd10f63be7741f678cf"
+    },
+    "prompt": "후한 시대 종이 제조법의 개량과 관련된 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "채륜",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-012",
+    "page": "dongyangsa-textbook-page-61",
+    "explain": "사마염은 서진의 무제로, 위를 대신하여 새 왕조를 세웠다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-61",
+        "quote": "㉠ 건국 : 사마염(司馬炎)이 위(魏) 원제(元帝)의 선양을 받아 건국, 낙양에 도읍"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "fea05e50a113180272a125d6ba36f0665ec2dfc611d82fca00c13173fd77a78e"
+    },
+    "prompt": "위의 선양을 받아 서진을 건국한 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "사마염",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-013",
+    "page": "dongyangsa-textbook-page-70",
+    "explain": "북위 귀족층의 반발과 최호 처형으로 이어진 역사 편찬 관련 사건이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "㉢ 국사 필화 사건(國史筆禍事件)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "56cb58055c25d385ca1e2855c09b6a3289d254ba64483a9dee443c35ff6af5c9"
+    },
+    "prompt": "최호 등이 북위 왕실의 수치스러운 역사까지 기록했다가 처형된 사건의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "국사 필화 사건",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "국사필화"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-014",
+    "page": "dongyangsa-textbook-page-74",
+    "explain": "낙양을 중심으로 한 불교 문화의 유적으로 용문석굴이 제시된다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-74",
+        "quote": "• 영향 : 한화(漢化) 정책 본격 추진, 낙양 남쪽 교외에 용문석굴 조성"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "85d09d090c89c38620a84015733e584e3470eec9df1450b57853dd8c65958dde"
+    },
+    "prompt": "북위의 낙양 천도와 한화 정책 추진 이후 낙양 남쪽 교외에 조성된 석굴은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "용문석굴",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-015",
+    "page": "dongyangsa-textbook-page-81",
+    "explain": "토욕혼은 동서 교역로를 장악하여 중계무역을 발전시켰다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-81",
+        "quote": "토욕혼(吐谷渾)의 도움이 없이는 서역 여행을 무사히 할 수 없다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "14488abfdbc94147e0cec9bf8869f7bb68e3ccb462a07bceac89445ff6184745"
+    },
+    "prompt": "교재에서 서역 여행과 동서 교역의 중계 역할이 강조된 선비계 국가는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "토욕혼",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-016",
+    "page": "dongyangsa-textbook-page-89",
+    "explain": "오경정의는 오경의 해석을 정리한 관찬 경전 해석서이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-89",
+        "quote": "㉢ 『오경정의(五經正義)』 : 공영달(孔穎達) 등에게 오경의 해석서 편찬 명령"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c73485fddb401d878af88ae28ace9e7bbca45c23fc7c2bbfa737f23b1d05f12b"
+    },
+    "prompt": "당 태종이 공영달 등에게 편찬하도록 한 오경 해석서의 이름은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "오경정의",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-017",
+    "page": "dongyangsa-textbook-page-93",
+    "explain": "율은 형법, 령은 행정 법규, 격은 보완 개정 규정, 식은 시행 세칙이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-93",
+        "quote": "㉣ 식(式) : 시행 세칙"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "1d033d35feb5e7c877d0ade613d8c9e57dc11907781a8d8780bc5b6e631df1c2"
+    },
+    "prompt": "당의 율·령·격·식 가운데 법규의 구체적인 시행 세칙에 해당하는 것은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "식",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-018",
+    "page": "dongyangsa-textbook-page-97",
+    "explain": "구분전은 국가 환수 대상이며 영업전은 세습할 수 있었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-97",
+        "quote": "② 구분 : 영업전(永業田, 세습 가능), 구분전(口分田, 국가 환수 대상)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "dee6f067fe43b599a1b37a1e4cef15cfe79e65da47766870b413ebeb5c326411"
+    },
+    "prompt": "당 균전제에서 영업전과 달리 국가 환수의 대상이 된 토지의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "구분전",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-019",
+    "page": "dongyangsa-textbook-page-100",
+    "explain": "양염은 자산 중심 과세와 연 두 차례 징수를 내용으로 한 양세법을 건의했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "① 주도 : 재상 양염의 건의로 실시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "0edb45a261ff009dcad9ec9a5dbcef1696443162f2bb963c88f18b457b0bc2c8"
+    },
+    "prompt": "당 덕종 때 양세법 실시를 건의한 재상은 누구인가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "양염",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-020",
+    "page": "dongyangsa-textbook-page-100",
+    "explain": "과거 출신 계열과 문벌 계열의 대립이 환관 세력과 얽혀 국정을 어렵게 했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "① 대립 : 과거 출신 관료를 대표하는 우승유 일파와 문벌 세력을 대표하는 이덕유 일파의 대립"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "da40b909801373fa83508d65c630bc43a8d6b77a3bd94ea0d8d08c17bc96a52c"
+    },
+    "prompt": "당 후기 우승유와 이덕유 두 계열의 장기적 정치 대립을 무엇이라 하는가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "우·이 당쟁",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "우이당쟁",
+      "우이 당쟁"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-023",
+    "page": "dongyangsa-textbook-page-110",
+    "explain": "추밀원은 군사 최고 책임 기관이면서 황제에게 직결되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-110",
+        "quote": "• 추밀원(樞密院) : 대귀족·무관 배제, 군사 최고 책임(군정 일반), 황제 직결"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "4a4699c77bc874d039f8a15f31ad860fa698daad86dbb8a5ee228fca510a9bc5"
+    },
+    "prompt": "송이 추밀원을 황제에 직결시키고 군사 업무를 맡긴 조치의 방향은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "재정과 군사를 모두 상인에게 위임했다",
+      "황제와 군사 행정을 완전히 분리했다",
+      "군사 권한을 황제 중심으로 통제했다",
+      "군벌에게 군사권을 영구 세습시켰다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "추밀원은 국가의 군사 기관이다.",
+      "자료는 황제 직결을 명시한다.",
+      "추밀원은 군사 최고 책임 기관이면서 황제에게 직결되었다.",
+      "황제 직결 운영과 다르다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-024",
+    "page": "dongyangsa-textbook-page-112",
+    "explain": "교재는 호명법·등록법·쇄원을 공정성 확보 방안으로 제시한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-112",
+        "quote": "㉢ 공정성 확보 : 호명법(糊名法)·등록법(謄錄法) 시행, 쇄원(鎖院)의 제도"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "54eeaaed750096696767ddb80e9baa581e69903ffd9d15d4bd2c43fcae1e3e7c"
+    },
+    "prompt": "송 과거의 호명법·등록법을 도입한 목적은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "응시자의 가문을 더욱 뚜렷이 드러내기",
+      "과거를 폐지하고 세습만 인정하기",
+      "시험 답안을 공개 추첨으로 채점하기",
+      "시험의 공정성 확보"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "이름을 가리거나 답안을 옮기는 공정성 조치와 반대다.",
+      "과거 시행 방식의 개선이다.",
+      "교재에 없는 방식이다.",
+      "교재는 호명법·등록법·쇄원을 공정성 확보 방안으로 제시한다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-025",
+    "page": "dongyangsa-textbook-page-113",
+    "explain": "보갑법은 향촌민을 조직하여 치안과 군사 활동에 활용하려는 정책이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-113",
+        "quote": "• [보갑법] : 주객·재호 불문 향촌 조직 구성으로 경찰·민병 활용 시도(향병)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "bce9acbb9083af528c028f8583d7349504268a7a748bb8cb60746496f6b0e7b1"
+    },
+    "prompt": "왕안석의 보갑법이 향촌 조직을 활용하려 한 분야는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "경찰과 민병 기능",
+      "해외 외교 사절만 선발",
+      "불교 경전의 독점 번역",
+      "모든 농경지의 국외 매각"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "보갑법은 향촌민을 조직하여 치안과 군사 활동에 활용하려는 정책이었다.",
+      "향촌의 치안과 군사 기능을 담당했다.",
+      "종교 번역 기관이 아니다.",
+      "보갑법은 향촌 조직에 관한 제도다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-026",
+    "page": "dongyangsa-textbook-page-118",
+    "explain": "거경궁리는 마음의 수양과 이치 탐구를 함께 수행하는 방법이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-118",
+        "quote": "③ 거경궁리 : 마음 수양과 사물 탐구를 병행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "6af3f9e9fead1e207f7e14d74ea1e221c3f66fec190b0564f4ad8bb1e9a1068d"
+    },
+    "prompt": "주희 성리학의 거경궁리를 풀이한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "무력 정복을 학문의 유일한 방법으로 삼는다",
+      "마음을 수양하면서 사물의 이치를 탐구한다",
+      "마음 수양만 하고 사물 탐구는 금지한다",
+      "모든 도덕 수양을 폐지한다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "성리학의 수양·탐구 방법과 관계없다.",
+      "거경궁리는 마음의 수양과 이치 탐구를 함께 수행하는 방법이다.",
+      "자료는 두 활동의 병행을 말한다.",
+      "거경의 수양 측면을 부정한 설명이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-027",
+    "page": "dongyangsa-textbook-page-128",
+    "explain": "요는 농경과 유목의 서로 다른 사회에 맞춰 이원적 통치 체제를 운영했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-128",
+        "quote": "- 남면관 : 남추밀원 담당, 3성 6부제·주현제를 통한 농경민 통치(한인·발해인 등)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-128",
+        "quote": "- 북면관 : 북추밀원 담당(북재상부의 총괄), 부락 통제(유목민 부족제 기초)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "245e9fa9ed2adf7f6696586d96da01a8c66387389f601538a275c4652b067d18"
+    },
+    "prompt": "요의 남면관과 북면관 운영을 비교한 설명은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "두 체제 모두 농경민을 통치 대상에서 배제했다",
+      "북면관이 남면관보다 모든 국가 중대사에서 배제되었다",
+      "남면관은 중국식 제도로 농경민을 다스리고 북면관은 부족제를 활용했다",
+      "남면관만 유목민 부족제를 운영했다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "남면관은 한인·발해인 등 농경민을 통치했다.",
+      "자료는 북면관이 국가 중대사를 장악했다고 한다.",
+      "요는 농경과 유목의 서로 다른 사회에 맞춰 이원적 통치 체제를 운영했다.",
+      "자료는 북면관을 부족 통제와 연결한다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-028",
+    "page": "dongyangsa-textbook-page-133",
+    "explain": "교역 사절단 사건과 그 후 교섭 거부가 군사 원정으로 이어졌다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-133",
+        "quote": "• 배경 : 호라즘 왕국에서 몽골의 교역 사절단을 습격·살해 후 교섭 거부"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "c544d205d2a37758ba9c72f32a230cc1cb8f7e2934af383f0a70b2fb82cd689a"
+    },
+    "prompt": "몽골의 호라즘 정벌 계기로 교재가 제시한 사건은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "호라즘이 몽골에 모든 토지를 평화적으로 양도",
+      "명의 해금령 반포",
+      "송의 전시제 실시",
+      "교역 사절단 습격·살해와 교섭 거부"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "자료는 사절 습격을 계기로 제시한다.",
+      "칭기즈 칸 시기의 사건과 시대가 다르다.",
+      "호라즘 정벌의 직접 계기가 아니다.",
+      "교역 사절단 사건과 그 후 교섭 거부가 군사 원정으로 이어졌다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-029",
+    "page": "dongyangsa-textbook-page-138",
+    "explain": "통화 남발은 교초의 신뢰와 가치를 떨어뜨리고 물가 상승을 초래했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-138",
+        "quote": "• 영향 : 일시적으로 신뢰 확보 성공, But 지속적 남발로 화폐 가치 하락(물가 폭등)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "2b4351f2a2560777683e7a46b2c155f68dcac97e3c19c8e728ecde35b81757cc"
+    },
+    "prompt": "원에서 교초를 계속 남발했을 때 나타난 경제적 결과는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "화폐 가치가 하락하고 물가가 올랐다",
+      "교초 가치가 언제나 상승했다",
+      "모든 상품 가격이 영구히 고정되었다",
+      "교초가 발행 직후부터 전혀 사용되지 않았다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "통화 남발은 교초의 신뢰와 가치를 떨어뜨리고 물가 상승을 초래했다.",
+      "자료는 가치 하락을 명시한다.",
+      "물가 폭등이라는 결과와 다르다.",
+      "발행과 유통 이후의 남발 문제가 제시되어 있다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-030",
+    "page": "dongyangsa-textbook-page-140",
+    "explain": "교통로와 역참은 인적·물적 이동을 돕는 기반이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-140",
+        "quote": "• 제국 수립 : 초원길·비단길·바닷길 등의 안전한 개통(역참)을 통한 동서 교역 촉진"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "7cf48f8524d8e533de99614837e1760d6edbd0fb78d18f65e9aac1254568406d"
+    },
+    "prompt": "몽골 제국의 동서 교류 확대를 뒷받침한 조건은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "항구의 폐지와 해상 교역 단절",
+      "교통로의 안전한 개통과 역참 운영",
+      "모든 육상 교통로의 영구 폐쇄",
+      "외교 사절의 이동을 전면 금지"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "바닷길을 통한 교역도 확대되었다.",
+      "교통로와 역참은 인적·물적 이동을 돕는 기반이었다.",
+      "교역로 개통과 반대다.",
+      "자료는 사절 활동 촉진을 설명한다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-031",
+    "page": "dongyangsa-textbook-page-143",
+    "explain": "무역을 제한했지만 우회 교역과 밀무역이 함께 나타났다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-143",
+        "quote": "• 영향 : 중국 중심 동아시아 국제 무역 침체, 류큐의 중계 무역 발달, 밀무역 성행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "2b573ee1cd8ab2e708b4f2625459ba1f81f9ece6ef1e89f0d637d5b45963dfba"
+    },
+    "prompt": "명의 해금 정책이 가져온 교역상의 역설적 결과는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "모든 사무역이 정부의 무제한 허가를 받았다",
+      "류큐가 교역에서 완전히 배제되었다",
+      "공식 교역 제한 속에서 류큐의 중계 무역과 밀무역이 발달했다",
+      "해금 뒤 모든 교역이 현실에서도 완전히 사라졌다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "조공무역만 허용하는 제한 정책이었다.",
+      "류큐의 중계 기능이 발달했다.",
+      "무역을 제한했지만 우회 교역과 밀무역이 함께 나타났다.",
+      "자료는 중계무역과 밀무역의 발달을 제시한다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-032",
+    "page": "dongyangsa-textbook-page-153",
+    "explain": "신사층의 기존 지위를 인정함으로써 통치 협력을 얻으려 했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-153",
+        "quote": "• 유화 : 신사(紳士)의 기득권과 재산권 인정, 관료 등용, 과거제와 학교제 존속"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "ffbaebbd9b20b4e1a80bde548e0c8eff21af0622397652a908bace6dc202b53c"
+    },
+    "prompt": "청의 한인 지배에서 강압책과 함께 사용된 유화책은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "한인 신사의 모든 재산과 학위를 일괄 폐지했다",
+      "한인 관료 등용을 영구 금지했다",
+      "문자와 교육 제도 자체를 모두 없앴다",
+      "신사의 기득권·재산권을 인정하고 과거와 학교를 존속시켰다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "자료의 유화 정책과 반대다.",
+      "관료 등용이 유화책에 포함되었다.",
+      "과거·학교의 존속과 다르다.",
+      "신사층의 기존 지위를 인정함으로써 통치 협력을 얻으려 했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-033",
+    "page": "dongyangsa-textbook-page-155",
+    "explain": "군기대신은 황제의 명령을 직접 받아 지방 고관에게 전달했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-155",
+        "quote": "- 군기대신(軍機大臣) : 황제가 직접 만한 대학사 및 각 부의 상서·시랑 중 선임 → 황제의 명을 직접 받아 지방 총독·순무에게 그대로 전달"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "0134d145b32ca413de188f5bffff1704e1800715780d4db2638b803a7351a449"
+    },
+    "prompt": "청 군기대신의 업무 방식이 강화한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "황제 명령의 직접적인 전달과 집행",
+      "각 지방 총독의 독립 외교권",
+      "제후들의 합의 없이는 황제가 명령할 수 없는 체제",
+      "군기대신 가문의 세습 왕위"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "군기대신은 황제의 명령을 직접 받아 지방 고관에게 전달했다.",
+      "황제 명을 전달하는 기능과 다르다.",
+      "황제의 직접 통제를 설명하는 자료다.",
+      "관료의 명령 전달 기능을 왕위와 혼동했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-034",
+    "page": "dongyangsa-textbook-page-156",
+    "explain": "1711년의 정수를 기준으로 고정하여 이후 늘어난 인정의 부담을 면제했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "• 내용 : 1711년 당시의 정수를 정액화(定額化), 이후 증가된 인정(人丁) 면제"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c3fcd5af2fb0cc690cd634f8572ef9f72eec374ba1d90a9c1b320705a7a2895e"
+    },
+    "prompt": "성세자생인정의 과세 원리를 설명한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "과거 합격자에게만 인구 등록을 허용했다",
+      "기준 시점의 정수를 고정하고 이후 증가한 인정에는 세금을 면제했다",
+      "인구가 늘 때마다 정세 총액을 무제한 늘렸다",
+      "토지세를 완전히 없애고 관세만 남겼다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "정수 고정과 관계없는 설명이다.",
+      "1711년의 정수를 기준으로 고정하여 이후 늘어난 인정의 부담을 면제했다.",
+      "정수의 정액화와 증가 인정 면제가 핵심이다.",
+      "교재는 인정에 대한 조치로 설명한다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-035",
+    "page": "dongyangsa-textbook-page-160",
+    "explain": "신사는 행정 보좌와 향약·보갑 운영 등 향촌 사회에서 여러 기능을 수행했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-160",
+        "quote": "① 통치 : 조례상에 따라 지방 행정 보좌 참여, 이갑제 질서 대체"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f24e35810bdbb73dcfd2683abfe57047f4d9e9f189269d8660fa90d4b8e5bb24"
+    },
+    "prompt": "명·청 신사층의 향촌 내 역할로 적절한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "오직 해외 상선의 선장으로만 활동했다",
+      "황제와 무관한 독립 국왕이 되었다",
+      "지방 행정을 보좌하고 향촌 질서 유지에 관여했다",
+      "향촌에서 모든 공적 역할이 금지되었다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "신사층은 과거·학교 및 관직과 연결된 향촌 엘리트였다.",
+      "국가 권력을 보좌하는 역할과 다르다.",
+      "신사는 행정 보좌와 향약·보갑 운영 등 향촌 사회에서 여러 기능을 수행했다.",
+      "지방 행정 보좌에 참여했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-036",
+    "page": "dongyangsa-textbook-page-166",
+    "explain": "청은 서양 무역을 광주로 집중시키는 통제 체제를 운영했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-166",
+        "quote": "② 내용 : 무역항을 4개항에서 광주(광동)로 제한(1757) (유대관 등 기타 해관 폐지)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "6b3a563c34bcb21680a883de087b913dedc8bd480335aa9b23cf3ab3bcd01e98"
+    },
+    "prompt": "1757년 광동 무역 체제에서 서양과의 무역항에 일어난 변화는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "광주를 닫고 모든 내륙 도시를 무역항으로 삼았다",
+      "일본의 모든 항구가 청의 항구가 되었다",
+      "항구 제한을 전면 철폐했다",
+      "여러 항구에서 광주 한 곳으로 제한되었다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "자료는 광주로 제한했다고 한다.",
+      "중국의 대외무역 제도에 관한 내용이다.",
+      "무역항을 줄인 조치다.",
+      "청은 서양 무역을 광주로 집중시키는 통제 체제를 운영했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-037",
+    "page": "dongyangsa-textbook-page-175",
+    "explain": "공행 폐지와 협정관세는 기존 무역 통제를 약화한 조약 내용이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-175",
+        "quote": "③ 무역의 운명 : 공행(公行) 폐지, 영국과 관세 협의 규정(협정관세 규정)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "1cddb52df63d5c91bc002a8481416c862e286711fbcebf0af9e964b5c29dc039"
+    },
+    "prompt": "난징 조약이 이전 광동 무역 체제를 바꾼 내용은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "공행을 폐지하고 관세를 영국과 협의하도록 했다",
+      "공행의 독점권을 영구 강화했다",
+      "청의 관세 결정에 외국의 관여를 일절 금지했다",
+      "개항장을 모두 폐쇄했다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "공행 폐지와 협정관세는 기존 무역 통제를 약화한 조약 내용이다.",
+      "조약은 공행 폐지를 규정했다.",
+      "관세 협의 규정이 포함되었다.",
+      "5개항 개항이 이루어졌다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-038",
+    "page": "dongyangsa-textbook-page-178",
+    "explain": "외국 공사가 수도 베이징에 상주할 수 있게 되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-178",
+        "quote": "① 공사 주재 : 외국 공사의 베이징 상주를 허용"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "d911dbc1ded87a02037c80217c8704c99ddabb031103cb058103ff3b11cc49ae"
+    },
+    "prompt": "톈진 조약으로 확대된 외교상의 권리는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "공행 상인이 외국 군주를 임명할 권리",
+      "외국 공사의 베이징 상주",
+      "외국 사절의 중국 방문 영구 금지",
+      "청 황제의 런던 의회 의원 취임"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "외교 대표의 상주와 관계없다.",
+      "외국 공사가 수도 베이징에 상주할 수 있게 되었다.",
+      "상주 허용과 반대다.",
+      "자료에 없는 내용이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-039",
+    "page": "dongyangsa-textbook-page-182",
+    "explain": "천조전무제도는 성인 남녀에 대한 토지 균등 분배를 지향했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-182",
+        "quote": "• 토지 균등 지향 : 성인 남녀에 대한 균등 분배 제시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "9e4275ceb6db3703553db609dd118383d82a6e03a6f469f336a8d53577d76618"
+    },
+    "prompt": "태평천국 천조전무제도의 토지 분배 이상은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "기존 지주에게만 토지를 추가로 집중한다",
+      "모든 토지를 외국 상사에 양도한다",
+      "성인 남녀에게 토지를 균등하게 분배한다",
+      "여성에게는 어떤 경우에도 토지를 주지 않는다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "평등 분배라는 제시된 이상과 다르다.",
+      "자료에 없는 주장이다.",
+      "천조전무제도는 성인 남녀에 대한 토지 균등 분배를 지향했다.",
+      "남녀에 대한 균등 분배를 내세웠다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-040",
+    "page": "dongyangsa-textbook-page-183",
+    "explain": "서양 무기의 성능을 경험하면서 군수 산업과 기술 도입을 추진했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "① 배경 : 아편 전쟁과 태평천국 운동 진압 과정에서 서양 무기의 우수성 인식"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "99a7b384f2f8590987ae0824792d7decd54968b1cf405d3e77dad6f86e0b60f8"
+    },
+    "prompt": "양무 운동이 시작된 배경으로 적절한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "서양 기술이 군사적으로 전혀 유용하지 않다고 결론냈다",
+      "청조가 이미 민주 공화국으로 전환했다",
+      "전통 과거 교육만으로 모든 군수 문제를 해결했다",
+      "전쟁과 반란 진압 과정에서 서양 무기의 우수성을 인식했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "서양 무기의 우수성 인식과 반대다.",
+      "양무 운동은 청조 관료들이 추진했다.",
+      "서양식 군수 산업의 필요성이 대두했다.",
+      "서양 무기의 성능을 경험하면서 군수 산업과 기술 도입을 추진했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-041",
+    "page": "dongyangsa-textbook-page-186",
+    "explain": "개항장의 제조업 종사권은 상품 무역을 넘어 생산 활동에 관한 이권이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-186",
+        "quote": "• 권리 확대 : 개항장 내 제조업 종사권 획득"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "38dd9ff4c6e37169764f286ad49e82de1c3fbc5a3090af19166a2f0f5aadb7cd"
+    },
+    "prompt": "시모노세키 조약의 경제적 내용 가운데 외국 기업의 생산 활동과 직접 관련된 권리는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "개항장에서 제조업에 종사할 권리",
+      "외국인의 제조업 활동을 전면 금지",
+      "청의 모든 철도에 대한 무상 국유화",
+      "일본이 청에 관세 자주권을 무조건 반환"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "개항장의 제조업 종사권은 상품 무역을 넘어 생산 활동에 관한 이권이었다.",
+      "제조업 종사권 획득과 반대다.",
+      "해당 조약 내용으로 제시되지 않았다.",
+      "자료의 권리 확대와 관계없다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-042",
+    "page": "dongyangsa-textbook-page-188",
+    "explain": "부청멸양은 청조 지지와 배외적 목표를 결합한 구호다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-188",
+        "quote": "• 부청멸양(扶淸滅洋)의 구호 : 서양 세력 타도 제시, 청조의 지원 획득"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f562765f61277a55dd33275f1cf3f55b67897cb163cee0ae806be1141df29009"
+    },
+    "prompt": "의화단의 부청멸양 구호를 풀이한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "공산당과 국민당을 합당한다",
+      "청을 돕고 서양 세력을 타도한다",
+      "청을 타도하고 서양 군대를 지원한다",
+      "왕조와 외세를 모두 무조건 지지한다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "의화단 운동의 시대와 주체가 다르다.",
+      "부청멸양은 청조 지지와 배외적 목표를 결합한 구호다.",
+      "구호의 방향이 반대다.",
+      "서양 세력 타도를 내세웠다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-043",
+    "page": "dongyangsa-textbook-page-190",
+    "explain": "청의 만주 주권 확인과 별개로 일본은 러시아의 남만주 이권을 이어받았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-190",
+        "quote": "• 내용 : (만주에 대한 청의 주권 확인), (일본이 러시아의 남만주 이권 계승)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "cf3981d1a694ba0a56456a2b46345d7bcc09705d5f5d3aa9b4321a3e3181267e"
+    },
+    "prompt": "포츠머스 조약이 만주의 이권 관계에 가져온 변화는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "남만주의 모든 외국 이권이 아무 조건 없이 소멸했다",
+      "청이 러시아와 일본의 전 영토를 지배했다",
+      "일본이 러시아의 남만주 이권을 계승했다",
+      "러시아가 일본의 모든 본토를 병합했다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "일본으로의 이권 계승이 있었다.",
+      "자료의 주권 확인과 이권 관계를 과장했다.",
+      "청의 만주 주권 확인과 별개로 일본은 러시아의 남만주 이권을 이어받았다.",
+      "만주의 이권 계승과 다른 설명이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-044",
+    "page": "dongyangsa-textbook-page-193",
+    "explain": "민권주의는 정치적 권리와 민주국가 수립의 문제를 다룬다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-193",
+        "quote": "- 민권주의(民權主義) : 전제 지배의 타도와 민주국가의 수립 지향"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "87212cfb3bcac955d4157b0120b2db865494d61deb3d825127afd2d00bd6048b"
+    },
+    "prompt": "삼민주의 중 민권주의의 목표는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "땅값 상승분의 국가 귀속만을 다룬다",
+      "청 왕조의 전제 지배를 영구 보존한다",
+      "한족 국가 회복만을 유일한 내용으로 한다",
+      "전제 지배를 타도하고 민주국가를 수립한다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "이는 민생주의의 설명에 해당한다.",
+      "민권주의가 타도하려는 대상이다.",
+      "민족주의와 민권주의를 혼동했다.",
+      "민권주의는 정치적 권리와 민주국가 수립의 문제를 다룬다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-045",
+    "page": "dongyangsa-textbook-page-197",
+    "explain": "신문화 운동은 전통 권위를 비판하면서 민주주의와 과학을 내세웠다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-197",
+        "quote": "• 내용 : 공자 비판·민주주의와 과학 제창 → 사회주의·공산주의 소개 (5·4 운동)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "cdd8d49d4d17e362c324199ef429dd250a7837a47eea99774b5098428c83a129"
+    },
+    "prompt": "신문화 운동이 강조한 핵심 가치의 조합은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "민주주의와 과학",
+      "신분 세습과 미신의 절대화",
+      "전제정치와 쇄국주의",
+      "문벌 귀족의 독점 통치"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "신문화 운동은 전통 권위를 비판하면서 민주주의와 과학을 내세웠다.",
+      "전통 권위 비판과 과학 강조에 반한다.",
+      "자주·진보·세계성을 강조한 움직임과 다르다.",
+      "근대 사상 계몽의 방향과 반대다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-046",
+    "page": "dongyangsa-textbook-page-202",
+    "explain": "학생·노동자·상인의 참여가 동맹휴학·파업·철시로 나타났다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-202",
+        "quote": "- 내용 : 삼파(三罷) 투쟁 등의 매국노 규탄 및 배일 운동 전국적 확산 (동맹휴학, 파업, 철시)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "be82b484187942c8a7d3f407731ee902ab0df22950af27a539850f72ebbc7862"
+    },
+    "prompt": "5·4 운동이 학생 시위를 넘어 확산되었음을 보여 주는 '삼파'의 구성은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "조공·책봉·혼인",
+      "동맹휴학·파업·철시",
+      "징병·징세·토지 조사",
+      "분서·갱유·봉선"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "대외 관계 형식이며 삼파의 내용이 아니다.",
+      "학생·노동자·상인의 참여가 동맹휴학·파업·철시로 나타났다.",
+      "대중 투쟁 세 방식과 다르다.",
+      "진대의 통치와 관련된 용어를 섞은 것이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-047",
+    "page": "dongyangsa-textbook-page-203",
+    "explain": "공산당원의 개인 자격 국민당 입당이 합작의 주요 방식이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-203",
+        "quote": "• 과정 : 개인 자격으로 국민당에 입당한 (진독수·이대조) 등이 참여"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "5c402eff0b4798d30dd03f3a4dd2c14ef20d573f764204337288b6c892b5ce02"
+    },
+    "prompt": "제1차 국공 합작의 조직적 방식을 설명한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "국민당원이 모두 소련 시민으로 귀화했다",
+      "공산당원의 국민당 접촉이 전면 금지되었다",
+      "공산당원이 개인 자격으로 국민당에 입당했다",
+      "두 당이 모두 해산되어 단일 무정당 정부가 되었다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "국공 합작의 내용이 아니다.",
+      "입당과 합작이 추진되었다.",
+      "공산당원의 개인 자격 국민당 입당이 합작의 주요 방식이었다.",
+      "개인 자격 입당 방식과 다르다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-048",
+    "page": "dongyangsa-textbook-page-205",
+    "explain": "신삼민주의는 대외적으로 제국주의의 지배에 맞서는 민족 해방을 강조했다. 오족공화는 1912년에도 제시되었으므로 1924년에 새로 등장한 목표로 보지 않는다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-205",
+        "quote": "- 민족주의 : 반제국주의, 오족공화"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "32b4a3d6589eda99767a79fd9dbdf516a55e095eb4c6ba3cd08cdc1a72ab5506"
+    },
+    "prompt": "1924년 신삼민주의의 민족주의에서 종래의 반만주 왕조 목표를 넘어 강조된 대외적 목표는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "만주족에 대한 혈연적 배제만 영구 고수",
+      "모든 외세의 지배를 적극 승인",
+      "청의 황제권을 복구하는 것",
+      "반제국주의를 통한 민족 해방"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "신삼민주의의 확대된 내용을 설명하지 못한다.",
+      "반제국주의와 반대다.",
+      "공화 혁명 진영의 목표가 아니다.",
+      "신삼민주의는 대외적으로 제국주의의 지배에 맞서는 민족 해방을 강조했다. 오족공화는 1912년에도 제시되었으므로 1924년에 새로 등장한 목표로 보지 않는다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-049",
+    "page": "dongyangsa-textbook-page-211",
+    "explain": "공산당 군대의 재편은 공동 항일을 위한 합작 내용이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-211",
+        "quote": "- 군대 개편 : 홍군의 국민혁명군 제팔로군 편입, 중·남부 유격대의 신사군 개편"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f3f588e23105c30db6ec8b9c9c4de9f05816b1e064861892956d5bdd27f4ad75"
+    },
+    "prompt": "제2차 국공 합작 때 공산당 군대에 생긴 변화는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "홍군이 팔로군으로 편입되고 중·남부 유격대가 신사군으로 개편되었다",
+      "공산당의 모든 무장 병력이 즉시 해산되었다",
+      "홍군 전체가 일본군에 편입되었다",
+      "신사군이 명나라의 친위군으로 편성되었다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "공산당 군대의 재편은 공동 항일을 위한 합작 내용이었다.",
+      "재편하여 항전에 참가했다.",
+      "국민혁명군 체제로의 편입이었다.",
+      "시대와 소속이 다르다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-050",
+    "page": "dongyangsa-textbook-page-214",
+    "explain": "감조감식은 소작료 등의 부담 경감, 토지법 대강은 토지 소유 관계의 개혁을 지향했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-214",
+        "quote": "• 토지법 대강(1947) : 경자유전 원칙 표방(토지 개혁), 모든 지주 존재 부정"
+      },
+      {
+        "page": "dongyangsa-textbook-page-214",
+        "quote": "• 감조감식 : 급진적 토지 몰수 대신 소작료 인하 규정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "85ea715ed4c74727aae048d65b6982e636603fa2ecce742e634d6c741e294cd9"
+    },
+    "prompt": "공산당의 감조감식과 1947년 토지법 대강을 비교한 설명은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "토지법 대강이 모든 농민의 경작을 금지했다",
+      "소작료 인하 중심에서 경자유전의 토지 개혁으로 나아갔다",
+      "소작료 인하에서 지주 소유권의 무조건 강화로 바뀌었다",
+      "두 정책 모두 농촌 문제를 전혀 다루지 않았다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "경자유전 원칙과 반대다.",
+      "감조감식은 소작료 등의 부담 경감, 토지법 대강은 토지 소유 관계의 개혁을 지향했다.",
+      "토지법 대강은 지주 소유권 폐지를 내세웠다.",
+      "둘 다 농촌의 토지·수취 문제와 관련된다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-051",
+    "page": "dongyangsa-textbook-page-219",
+    "explain": "무리한 목표와 부정확한 보고가 생산과 계획 운영을 왜곡했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-219",
+        "quote": "㉡ 목표 설정 : 조급한 목표 설정과 거짓 보고 등의 누적으로 경제 계획 황폐화"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "51eaa299673c64801b7255c35aab65cb9bd1cf6f5fec9340b496ab95e7b3c260"
+    },
+    "prompt": "대약진 운동의 경제 계획이 흔들린 요인으로 제시된 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "철강 생산을 처음부터 전면 금지했다",
+      "모든 농업이 자율적으로 안정 성장했다",
+      "조급한 생산 목표와 거짓 보고의 누적",
+      "현실적인 목표만을 정하고 보고를 철저히 검증했다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "재래식 용광로를 통한 무모한 생산이 장려되었다.",
+      "생산 급감과 대량 아사가 발생했다.",
+      "무리한 목표와 부정확한 보고가 생산과 계획 운영을 왜곡했다.",
+      "자료가 제시한 문제와 반대다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-052",
+    "page": "dongyangsa-textbook-page-222",
+    "explain": "농가별 책임과 경영 동기를 인정하는 방향으로 농업 제도를 개편했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-222",
+        "quote": "① 농업 : 인민공사 폐지 → 농가별 청부·생산 책임제 인정, 향진기업의 설립 장려"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "c25e437903fb8def53e3c5bf8f70124c6989bd8dfaced4d353c888e031a1a56f"
+    },
+    "prompt": "1980년대 중국의 농업 개혁 방향은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "농가의 생산 책임을 모두 없애고 인민공사를 영구 확대했다",
+      "모든 농업 생산을 중단했다",
+      "향진기업 설립을 일률적으로 금지했다",
+      "인민공사를 폐지하고 농가별 생산 책임제를 인정했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "자료에 제시된 변화와 반대다.",
+      "농업 경영 방식의 변경이지 생산 중단이 아니다.",
+      "향진기업 설립이 장려되었다.",
+      "농가별 책임과 경영 동기를 인정하는 방향으로 농업 제도를 개편했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-021",
+    "page": "dongyangsa-textbook-page-108",
+    "explain": "북송은 변경, 즉 개봉을 수도로 삼았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-108",
+        "quote": "• 북송(北宋)의 황제와 재위 연도 [수도: 변경(개봉)]"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "409a5cb8def3e6e553afe4bd28762425a532859a330afb679415ed0f1dcc7199"
+    },
+    "prompt": "북송의 수도로 교재에 제시된 도시는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "개봉",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "변경"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-022",
+    "page": "dongyangsa-textbook-page-110",
+    "explain": "재정은 삼사사가 책임지고 군정은 추밀원이 담당하는 식으로 권한을 나누었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-110",
+        "quote": "• 삼사사(三司使) : 삼사(三司)의 책임자, 재정 책임"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "9c338595b37f586475634abae90501fbbfb3730f377b277afda5a86df56bbc66"
+    },
+    "prompt": "송 중앙 관제에서 재정을 책임진 삼사의 책임자는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "삼사사",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-023",
+    "page": "dongyangsa-textbook-page-112",
+    "explain": "전시는 좌주문생 관계를 약화하고 황제권을 강화하는 효과가 있었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-112",
+        "quote": "㉠ 전시제 확립 : 해시(解試, 향시) → 성시(省試, 회시) → 전시(殿試)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "11be82de6c8f2c6b699eb2fffe46ac3ff575eff4010660c14d8923b02f0b3798"
+    },
+    "prompt": "송 과거에서 황제가 최종 시험을 주관해 합격자를 자신의 문생으로 삼은 제도는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "전시제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "전시"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-024",
+    "page": "dongyangsa-textbook-page-113",
+    "explain": "정확한 토지 측량과 등급 설정을 통해 균평한 조세를 추구했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-113",
+        "quote": "• 방전균세법 : 전토의 정확한 측량과 토지 등급(5등) 설정을 통한 균평한 조세 추구"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "97e2a8c58849e61db73f2c0978c16ccc9a77ea1a93f514d62abeebb0500800e8"
+    },
+    "prompt": "왕안석 신법 가운데 토지를 측량하고 등급을 정하여 세 부담의 형평을 추구한 제도는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "방전균세법",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-025",
+    "page": "dongyangsa-textbook-page-113",
+    "explain": "보마법은 민간의 군마 사육을 활용한 군사 정책이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-113",
+        "quote": "• 보마법 : 민간에 군마 사육 위탁(토지부가세 등 면제)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "5f4f4abf23492e93fb1b8f4fbf10ed71544fd6048f94dc4b151bbbf3ba36e8d8"
+    },
+    "prompt": "왕안석 신법 중 민간에 군마를 기르게 하고 부담 일부를 면제한 제도는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "보마법",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-026",
+    "page": "dongyangsa-textbook-page-118",
+    "explain": "사서집주는 사서 해석을 체계화한 책이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-118",
+        "quote": "③ 사서집주 : 이후 과거와 동아시아 유학의 표준"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "9d14a0705c6c80041d5241b038f46b69e86f13eee0c4807a4303563945508f8c"
+    },
+    "prompt": "주희의 사서 해석을 담아 이후 과거와 동아시아 유학의 표준이 된 책은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "사서집주",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-027",
+    "page": "dongyangsa-textbook-page-128",
+    "explain": "남면관은 한인과 발해인 등 농경민을 통치하는 계통이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-128",
+        "quote": "- 남면관 : 남추밀원 담당, 3성 6부제·주현제를 통한 농경민 통치(한인·발해인 등)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f50d11f8f8038c9d5002ed5d99a6675a845acc3ef42b87eea1b0a2d4c43b9f17"
+    },
+    "prompt": "요에서 중국식 3성 6부제·주현제를 이용해 농경민을 통치한 관제는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "남면관",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-028",
+    "page": "dongyangsa-textbook-page-130",
+    "explain": "완안희윤은 금의 독자적인 문자 정비에 관여했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-130",
+        "quote": "㉢ 여진문자 제정 : 완안희윤(完顔希尹)에게 명하여 제정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f7720cb124ba6f3c70f8d301da0fdbaabf4d92905fceaed3812344e84fa46395"
+    },
+    "prompt": "금 태조의 명으로 여진문자를 제정한 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "완안희윤",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-029",
+    "page": "dongyangsa-textbook-page-133",
+    "explain": "역참은 군사적 통신과 제국 운영을 지원했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-133",
+        "quote": "㉣ 역참(잠치) 설치 : 명령 전달·정보 보고 등 주로 군사적 목적으로 설치"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "9aa1bdd611de511a21a2185d5f135a92b469b265fbd75e4f2caf0691e909fcec"
+    },
+    "prompt": "칭기즈 칸이 명령 전달과 정보 보고 등을 위해 설치한 교통·통신 조직은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "역참",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "잠치"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-030",
+    "page": "dongyangsa-textbook-page-136",
+    "explain": "원 인종은 과거를 부활시키고 사서집주를 시험 교재로 채택했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-136",
+        "quote": "• 유교적 통치 이념 확립 : 과거제 부활(1315) 및 과거 시험 교재로 『사서집주』 채택"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "e2d7ffa2eeba8e50ff103a4a044bf90324b6419b92bfe71e16091f6098c4d51d"
+    },
+    "prompt": "원 인종이 부활시킨 관리 선발 제도의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "과거제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "과거"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-031",
+    "page": "dongyangsa-textbook-page-138",
+    "explain": "왕정농서는 지역 조건에 따른 농업 방식의 차이를 강조했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-138",
+        "quote": "③ 『왕정농서』 편찬 : 남북의 지리적 차이에 따라 다른 농업 방식 등을 주장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "3ac88d0ef9cab5b9a01c6dfea23bd4d7feecc641218e6c6873ceb346d89c22c7"
+    },
+    "prompt": "남북의 지리적 차이에 맞는 농업 방식을 주장한 원대 농서의 제목은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "왕정농서",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-032",
+    "page": "dongyangsa-textbook-page-140",
+    "explain": "원 사신 주달관의 견문을 담은 기록이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-140",
+        "quote": "③ 『진랍풍토기』 : 원나라 사신 주달관이 캄보디아와 앙코르와트 등을 둘러보고 기록"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "cf5e245cca973dd63e84d818e348534879727d9986437ee3e065229531e98718"
+    },
+    "prompt": "주달관이 캄보디아의 풍속과 문화를 기록한 책은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "진랍풍토기",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-033",
+    "page": "dongyangsa-textbook-page-141",
+    "explain": "명의 건국은 남경에서 이루어졌고 뒤에 영락제가 북경으로 천도했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-141",
+        "quote": "② 건국 : 강남 장악(장사성 토벌) → 한림아 살해(추정), 남경에서 명 건국, 연호 홍무"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "ab09e621920b25ae23eb91cf6fc206be4fa537c16cb5e1b321e85daaec4a51cb"
+    },
+    "prompt": "홍무제가 명을 세울 때 수도로 삼은 도시는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "남경",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-034",
+    "page": "dongyangsa-textbook-page-143",
+    "explain": "연왕 주체는 정난의 변을 통해 황제가 되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-143",
+        "quote": "② 과정 : 건문제 삭번 정책에 연왕 주체(영락제) 기병(1399)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "7b265caf741ca26d4c9a9643a824ff448f15d8a04143e4e49bac96943efa0a52"
+    },
+    "prompt": "건문제의 삭번 정책에 맞서 군사를 일으켜 영락제가 된 연왕의 이름은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "주체",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-035",
+    "page": "dongyangsa-textbook-page-153",
+    "explain": "변발령은 청 초기의 강압적 통치 조치였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-153",
+        "quote": "• 탄압 : 변발령(薙髮令) 실시(주사안, 통천안 등을 통하여 탄압)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "d0c4745b61a71eaf26713fcc7afdd64de1ea7541758fe81103d63eb572a111bb"
+    },
+    "prompt": "청이 한인에게 만주식 머리 모양을 강요한 명령을 무엇이라 하는가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "변발령",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-036",
+    "page": "dongyangsa-textbook-page-155",
+    "explain": "이번원은 청의 번부 통치와 내륙아시아 업무를 맡았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-155",
+        "quote": "⑦ 이번원 : 몽골·티베트·청해 등의 내륙아시아 방면 문제 담당"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "90e48976e18a3181110c12d9225fbaa77f1a422508fb129a3c51a382e1e08e27"
+    },
+    "prompt": "청에서 몽골·티베트·청해 등 내륙아시아 문제를 담당한 기관은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "이번원",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-037",
+    "page": "dongyangsa-textbook-page-156",
+    "explain": "학자를 등용해 한인 지식인층을 포용하려는 조치였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "① 포용책 : 박학홍사과(博學鴻詞科) 설치(1678)를 통하여 명의 유신 회유"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "3d2f8592b03869eacb5888238baed37978e0d147b32aef7534499b2643a60fa9"
+    },
+    "prompt": "강희제가 명의 유신과 학자를 회유하기 위해 설치한 특별 선발 제도는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "박학홍사과",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-038",
+    "page": "dongyangsa-textbook-page-160",
+    "explain": "교재에서 신은 관직 경력자, 사는 생원 이상 학위 소지자로 구별된다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-160",
+        "quote": "③ 사(士) : 생원(生員) 이상의 학위 소지자"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "cc4cc841ce9bb79061dba4f12391fbe90f5f9f43e9c1c9286ce50ea8e4fe63b6"
+    },
+    "prompt": "명·청 신사를 구성하는 '사'는 최소 어떤 학위 이상의 소지자를 가리키는가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "생원",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-039",
+    "page": "dongyangsa-textbook-page-163",
+    "explain": "시진은 농업과 상업의 발달에 따라 번성한 전문적 상공업 도시였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-163",
+        "quote": "② 시진 번성 : 업종별로 전문화된 상공업 도시(인구는 1~5만 명)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "57ebd19b29db40c54caa3f991cb42e8d457b8451a80178a2509689b2e95dd6c9"
+    },
+    "prompt": "명·청 시기 업종별로 전문화되어 성장한 중소 상공업 도시를 부르는 말은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "시진",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-040",
+    "page": "dongyangsa-textbook-page-166",
+    "explain": "공행은 독점 무역권과 외국 상인 감독 책임을 가진 조직이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-166",
+        "quote": "- 징수 : 공행이 관세를 징수하여 청조에 납부"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "6e5fb7998fb7894787b7673de9319d1a574569e26f154edac12d15c840860d83"
+    },
+    "prompt": "광동 무역 체제에서 서양 무역을 중개하고 관세를 거두어 청에 납부한 상인 조직은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "공행",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-041",
+    "page": "dongyangsa-textbook-page-175",
+    "explain": "홍콩섬은 무역과 군사 거점으로 할양되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-175",
+        "quote": "① 영토 및 배상금 할양 : 배상금 2100만 달러 지불, 홍콩섬 할양(무역·군사 거점)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "54fd157ae17b21dc944fe2afda7962e274a2067719a88be22448b946c4293b7e"
+    },
+    "prompt": "난징 조약으로 청이 영국에 할양한 섬의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "홍콩섬",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "홍콩 섬"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-042",
+    "page": "dongyangsa-textbook-page-178",
+    "explain": "조약은 여권을 지닌 외국인의 내지 여행과 통상을 허용했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-178",
+        "quote": "③ 내지 여행 : 여권을 지닌 외국인의 내지 여행·통상을 허용"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "afb94204ba68584f7173c74cb4ea8bc31bc7b974b1e1567cb5e0f2cf966ba9bb"
+    },
+    "prompt": "톈진 조약에서 외국인이 내지를 여행·통상할 때 소지하도록 한 문서는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "여권",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-043",
+    "page": "dongyangsa-textbook-page-182",
+    "explain": "남경은 태평천국의 수도가 되면서 천경으로 개칭되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-182",
+        "quote": "• (남경)(南京) 점령 : 점령 직후 (천경(天京)) 개칭(수도) → 통치 영역 확보 노력"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "0ae26e78f733cadd7b30550ab9c90b59809f83a81493bbe2f3d6fb6cc6f9d92a"
+    },
+    "prompt": "태평천국이 점령한 남경을 수도로 삼으며 바꾼 이름은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "천경",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-044",
+    "page": "dongyangsa-textbook-page-183",
+    "explain": "양무 운동은 군수·기술 도입을 정당화하는 논리로 중체서용을 내세웠다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "㉠ 사상 : 『해국도지』의 사이제이(師夷之長技以制夷), (중체서용론)(中體西用論) 표방"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "baf033d8f886b005dda5568f46abf7a344da03da47f0d3a3a04365086bcac8ed"
+    },
+    "prompt": "중국의 전통적 체제를 근본으로 두면서 서양 기술을 이용한다는 양무 운동의 논리는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "중체서용론",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "중체서용"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-045",
+    "page": "dongyangsa-textbook-page-186",
+    "explain": "이 조약은 조선에 대한 청의 종주권 포기와 영토·배상 등의 내용을 담았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-186",
+        "quote": "④ 시모노세키 조약 체결(1895. 4)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "08280ce4c3b0385c4425d625181c3b24762bfc132fb4950dfbf6d4bcbc22d018"
+    },
+    "prompt": "청·일 전쟁의 결과 1895년 체결한 강화 조약의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "시모노세키 조약",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "마관조약",
+      "마관 조약"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-046",
+    "page": "dongyangsa-textbook-page-188",
+    "explain": "자료는 주술에 대한 믿음이 투지를 고취하는 데 이용되었다고 설명한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-188",
+        "quote": "• 신비주의적 요소 : 주술로 총포를 물리친다고 선전, 맹목적 투지 고취"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "1c352394d2aaff8f03026b80e0c111becc1c3958185cfc161498541a8d71cef4"
+    },
+    "prompt": "의화단이 총포를 물리칠 수 있다고 선전하며 내세운 신비주의적 수단은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "주술",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-047",
+    "page": "dongyangsa-textbook-page-193",
+    "explain": "민보는 보황파의 신민총보와 논쟁하며 혁명파의 입장을 알렸다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-193",
+        "quote": "㉢ 기관지 『민보(民報)』 (1905~1910)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "344e36d3e8eed12a095110bcf940ec1448cd327de8b2dde01bda4bc0bc14a73c"
+    },
+    "prompt": "중국동맹회가 삼민주의를 알리고 혁명을 선전한 기관지는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "민보",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-048",
+    "page": "dongyangsa-textbook-page-197",
+    "explain": "진독수는 청년 계몽과 사상 변혁을 위한 잡지를 발행했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-197",
+        "quote": "• 발간 : 진독수(陳獨秀)가 『청년잡지』 창간(1915) → 이듬해 『신청년』으로 개명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "76c77d7c0cb1e4cb3ad7ba9dfb067a830e3f42221b09727fe3dd829d14557a6d"
+    },
+    "prompt": "청년잡지를 창간하여 신청년으로 발전시킨 신문화 운동의 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "진독수",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "천두슈"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-049",
+    "page": "dongyangsa-textbook-page-202",
+    "explain": "교재는 조여림·장종상·육종여 등의 파면을 운동의 성과로 제시한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-202",
+        "quote": "• 친일 고관 파면 : 조여림·장종상·육종여(陸宗輿) 등의 친일 고관 파면"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "7a359a4cfe1f6e6ed7e7bd8f6e5ade26604b013db07f387096e437854f92d800"
+    },
+    "prompt": "5·4 운동으로 파면된 친일 고관 가운데 조여림·육종여와 함께 교재에 제시된 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "장종상",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "장쭝샹"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-050",
+    "page": "dongyangsa-textbook-page-203",
+    "explain": "이 선언은 제1차 국공 합작으로 향하는 과정의 하나였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-203",
+        "quote": "㉣ 쑨·요페 선언(1923. 1. 26.)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "4da5e555a721f624fd8598504585b00d5ed8fd372d634667a37774a16b9bc179"
+    },
+    "prompt": "쑨원과 소련 대표가 중국의 통일·독립 원조 문제를 확인한 1923년 선언은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "쑨·요페 선언",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "쑨요페선언",
+      "손문 요페 선언"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-051",
+    "page": "dongyangsa-textbook-page-208",
+    "explain": "중화소비에트 정부는 강서성 서금을 중심지로 삼았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-208",
+        "quote": "㉡ 임시정부 성립 선포 : 강서성 서금(瑞金)을 수도로 하는 정부 설립 선포"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "caacdf34983c6438914d28d1ce0b6ce30abf8cf51873d05d08c6de07b65e5c86"
+    },
+    "prompt": "1931년 공산당이 임시정부의 수도로 정한 강서성의 도시는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "서금",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "루이진"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-052",
+    "page": "dongyangsa-textbook-page-211",
+    "explain": "노구교 사건 뒤 전면적인 항전과 제2차 국공 합작이 진행되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-211",
+        "quote": "㉠ 발달 : 노구교 사건(1937. 7.)을 빌미로 확산"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "9eacb2d65216b6592a1fffd957dd4445c5d377cfc89dfac3fd5ded6d4516c508"
+    },
+    "prompt": "1937년 중·일 전쟁이 확대되는 계기가 된 사건은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "노구교 사건",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "루거우차오 사건"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-053",
+    "page": "dongyangsa-textbook-page-214",
+    "explain": "교재는 경자유전을 토지 개혁의 원칙으로 제시한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-214",
+        "quote": "• 토지법 대강(1947) : 경자유전 원칙 표방(토지 개혁), 모든 지주 존재 부정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "2b03ad7c7342c7c97aedd5a2990bbd8954372ad6996e1393ec239f4ca7b9f0f2"
+    },
+    "prompt": "1947년 토지법 대강이 내세운, 경작자가 토지를 소유한다는 원칙은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "경자유전",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-054",
+    "page": "dongyangsa-textbook-page-219",
+    "explain": "팽덕회는 대약진 비판 후 정치적 탄압을 받았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-219",
+        "quote": "㉡ 반대와 실각 : 팽덕회가 대약진 운동 문제점 지적 → 우파 기회주의자로 몰려 실각"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "b6d1588f129d3ad237f2f0d57dd0373f830b00bf9c25ba35e18c29c6d56d1c10"
+    },
+    "prompt": "대약진 운동의 문제점을 지적했다가 우파 기회주의자로 몰려 실각한 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "팽덕회",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "펑더화이"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-055",
+    "page": "dongyangsa-textbook-page-222",
+    "explain": "주석제 폐지와 총서기제 도입은 지도 체제의 변화였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-222",
+        "quote": "③ 집단지도 체제 확립 : 중국 공산당의 주석제 폐지 → 총서기제 도입"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "55d502465e770eadca6bf94f92f4d75cdaf7a1ef14e6dbc88327735843a8af18"
+    },
+    "prompt": "집단지도 체제를 확립하는 과정에서 중국 공산당이 주석제 대신 도입한 제도는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "총서기제",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-mc-053",
+    "page": "dongyangsa-textbook-page-225",
+    "explain": "조몬은 채집·사냥 생활과 토기·간석기 사용이 함께 나타나는 문화다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-225",
+        "quote": "㉠ 농경 문화 결여 : 농경·목축 거의 부재, But 토기·간석기 등 신석기 문화 특성 보유"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "91559e399904b61d89c9eec4e233f9fe6b2159dbbcd9d02a15168cea210abb67"
+    },
+    "prompt": "조몬 문화에 대한 설명으로 교재의 서술과 일치하는 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "농경·목축이 거의 없었지만 토기와 간석기를 사용했다",
+      "벼농사만으로 모든 생계를 유지했다",
+      "토기를 전혀 만들지 않았다",
+      "철제 공장 생산이 경제의 중심이었다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "조몬은 채집·사냥 생활과 토기·간석기 사용이 함께 나타나는 문화다.",
+      "자료는 농경·목축의 거의 부재를 말한다.",
+      "토기 사용이 명시되어 있다.",
+      "조몬의 신석기적 생활과 맞지 않는다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-054",
+    "page": "dongyangsa-textbook-page-225",
+    "explain": "농경 생산의 확대는 취락·계급사회·정치체 형성으로 이어졌다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-225",
+        "quote": "㉢ 사회 구성 : 생산경제 진입(농경 시작) → 계급사회 구성(취락 발달) → 구니(國) 등장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "63beedb777019558db720012819328787b30967309f30197334a42d830807971"
+    },
+    "prompt": "야요이 시대 농경의 시작과 연결되는 사회 변화는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "사회적 구분이 영구히 소멸했다",
+      "취락과 계급사회가 발전하고 구니가 등장했다",
+      "취락이 모두 사라지고 정치 조직이 해체되었다",
+      "생산경제가 사라지고 사냥만 남았다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "계급사회 구성이 제시되어 있다.",
+      "농경 생산의 확대는 취락·계급사회·정치체 형성으로 이어졌다.",
+      "자료는 취락 발달과 구니 등장을 제시한다.",
+      "농경을 통한 생산경제 진입과 반대다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-055",
+    "page": "dongyangsa-textbook-page-227",
+    "explain": "히미코의 지배는 제사장적 성격으로 설명된다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-227",
+        "quote": "㉠ 통치 성격 : 제사장적 성격을 지닌 지배자(종교적 권위 의존)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f8b57e2d4cc9d18f0c3266438e5a2beb8f0b9eb85a45c44020aa84841329db57"
+    },
+    "prompt": "야마타이국의 히미코가 권위를 확보한 방식으로 적절한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "불교 사원의 과거 시험으로 선출되었다",
+      "직할 산업은행의 이사회에서 선출되었다",
+      "제사장적 지위와 종교적 권위에 의존했다",
+      "근대적 보통선거만으로 권력을 얻었다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "자료에 없는 방식이다.",
+      "고대 소국 연합의 지배 구조와 맞지 않는다.",
+      "히미코의 지배는 제사장적 성격으로 설명된다.",
+      "자료는 종교적 권위를 말한다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-056",
+    "page": "dongyangsa-textbook-page-230",
+    "explain": "토지와 인민을 군주 중심 국가의 통제 아래 두려는 개혁이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-230",
+        "quote": "• 공지공민제 : 황족·호족들의 토지·인민 사유화 금지, 국유 전환"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "a3758a4e18b41f4278fb560ac3b52f103d69e9e4fd5a59cc10d31717268e8f44"
+    },
+    "prompt": "다이카 개신의 공지공민제가 지향한 방향은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "모든 토지와 인민을 호족의 영구 사유로 보장했다",
+      "군주 중심의 율령 체제를 폐지했다",
+      "외국 상인에게 인민 통치권을 양도했다",
+      "호족의 토지·인민 사유를 제한하고 국가 지배로 전환했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "사유화 금지와 반대다.",
+      "중앙집권적 율령 체제를 지향했다.",
+      "교재의 국유 전환과 다른 내용이다.",
+      "토지와 인민을 군주 중심 국가의 통제 아래 두려는 개혁이었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-057",
+    "page": "dongyangsa-textbook-page-233",
+    "explain": "신불습합은 전래 불교와 일본의 신토가 결합한 현상이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-233",
+        "quote": "• 신불습합(神佛習合) : 신토(神道)·불교를 융합하여 하나의 신앙 체계로 확립·성행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "0b6537054ba4f0a9bd43b4ea124ec6b19e393a5ea4e4301964156df43a8eeafb"
+    },
+    "prompt": "나라 시대 신불습합의 뜻은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "신토와 불교를 융합한 신앙 체계",
+      "신토와 불교의 완전한 상호 배제",
+      "불교와 이슬람의 정치 동맹",
+      "유교 경전만으로 모든 제사를 대체"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "신불습합은 전래 불교와 일본의 신토가 결합한 현상이다.",
+      "융합이라는 의미와 반대다.",
+      "교재는 신토와 불교를 제시한다.",
+      "신불습합의 설명이 아니다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-058",
+    "page": "dongyangsa-textbook-page-233",
+    "explain": "신화와 왕실 계보의 연결은 왕권의 신성함을 설명하는 서술 방식이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-233",
+        "quote": "㉠ 『고사기(古事記)』 : 천황의 계보와 신화·전설 및 사적 등을 정리"
+      },
+      {
+        "page": "dongyangsa-textbook-page-233",
+        "quote": "• 목적 : 일본 국왕 가문의 혈통을 고대 신화와 연결하여 국왕의 신성함을 강조"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "a9e4c28656dddd1a026a3e107bb884015b7d897260a3f095f75bd11ebdc1b6ec"
+    },
+    "prompt": "고사기와 같은 신화·계보 편찬이 천황 권위에 기여하는 방식은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "천황을 해외 무역회사 사장으로만 규정한다",
+      "왕실의 계보를 신화와 연결해 신성한 권위를 강조한다",
+      "왕실의 모든 계보를 무작위로 삭제한다",
+      "신화의 존재 자체를 법으로 금지한다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "고대 왕권의 신성함과 관계없다.",
+      "신화와 왕실 계보의 연결은 왕권의 신성함을 설명하는 서술 방식이다.",
+      "계보와 신화를 정리한 편찬의 목적과 다르다.",
+      "신화가 편찬의 중요한 내용이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-059",
+    "page": "dongyangsa-textbook-page-236",
+    "explain": "후지와라씨는 혼인과 섭정·관백 지위를 통해 권력을 장악했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-236",
+        "quote": "• 의미 : 후지와라 일족이 섭정(攝政)·관백(關白)의 지위를 통하여 정권 장악"
+      },
+      {
+        "page": "dongyangsa-textbook-page-236",
+        "quote": "㉡ 대두 : 천황 가문과 계속해서 혼인 관계 → 점차 정치적 실권 장악"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "ea665745ba497d911ee5348b41cb15354797ee2026ca4fef1fed2e051d3eadf3"
+    },
+    "prompt": "헤이안 시대 후지와라씨가 정치 실권을 행사한 주요 방식은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "군주제를 폐지하고 공화국 총리가 되었다",
+      "오직 하층 농민의 직접 선거에 의존했다",
+      "천황가와 혼인하고 섭정·관백의 지위를 활용했다",
+      "천황가와의 모든 혈연 관계를 끊었다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "섭정·관백은 천황제를 전제로 한 지위다.",
+      "교재가 제시한 권력 기반과 다르다.",
+      "후지와라씨는 혼인과 섭정·관백 지위를 통해 권력을 장악했다.",
+      "혼인 관계가 권력 기반이었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-060",
+    "page": "dongyangsa-textbook-page-238",
+    "explain": "원정은 퇴위 후에도 원에서 정치적 영향력을 행사하는 체제였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-238",
+        "quote": "• 내용 : 천황 퇴위 직후 院이 천황 후견인 입장에서 정치 실권 장악"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "30996d5a2f34fb2137017673cf5bbe429c9e7875c3c3dd9f15df67ca8b73fedd"
+    },
+    "prompt": "원정이 천황의 단순 은퇴와 구별되는 점은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "퇴위자는 정치 관여가 완전히 금지되었다",
+      "상황이 모두 외국으로 추방되었다",
+      "천황가가 영구히 해체되었다",
+      "퇴위한 천황이 후견인으로서 정치 실권을 행사했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "원정은 퇴위 뒤 실권 행사다.",
+      "자료에 없는 설명이다.",
+      "천황과 상황이 병존하는 구조다.",
+      "원정은 퇴위 후에도 원에서 정치적 영향력을 행사하는 체제였다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-061",
+    "page": "dongyangsa-textbook-page-239",
+    "explain": "무사들은 방어 동원에 따른 비용을 부담했으나 충분한 보상을 받지 못했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-239",
+        "quote": "• 이후 : 3차 침입 대비, 무사들을 장기간 규슈 방어에 동원 → But, 미흡한 보상"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "0f2cd5614bbf095d6a4f4c2235bde73cf347d9877d7c3cadf6dccae7170c5ef3"
+    },
+    "prompt": "여·원 원정에 대한 방어가 가마쿠라 막부의 무사 지지 기반을 흔든 이유는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "장기간 동원 부담에 비해 보상이 미흡했다",
+      "전투 없이 모든 무사에게 무한한 새 토지가 생겼다",
+      "모든 무사가 농업 부담에서 영구 해방되었다",
+      "외부 침입이 막부의 비용을 전혀 늘리지 않았다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "무사들은 방어 동원에 따른 비용을 부담했으나 충분한 보상을 받지 못했다.",
+      "방어전 뒤 충분한 보상이 어려웠다.",
+      "장기 동원으로 부담이 커졌다.",
+      "방어 동원이 지속되었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-062",
+    "page": "dongyangsa-textbook-page-239",
+    "explain": "불만을 가진 무사층의 참여는 막부 타도 움직임을 확대했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-239",
+        "quote": "• 호응 : 경제적 처지 및 호조씨의 권력 독점에 불만을 품은 무사층의 적극적 호응"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "62767c661713afee32d7d1c053db019678470a7f99a18fcb92cc1410187eb4d1"
+    },
+    "prompt": "가마쿠라 막부 말 고다이고 천황의 거병에 무사들이 호응한 배경은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "외국 상인이 모든 무사에게 정치 참여를 금지했다",
+      "경제적 어려움과 호조씨의 권력 독점에 대한 불만",
+      "모든 무사가 호조씨 독점에 만족했다",
+      "천황가와 막부의 갈등이 전혀 없었다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "자료의 설명과 다르다.",
+      "불만을 가진 무사층의 참여는 막부 타도 움직임을 확대했다.",
+      "불만이 호응 배경이었다.",
+      "천황가 간섭에 대한 불만으로 거병했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-063",
+    "page": "dongyangsa-textbook-page-241",
+    "explain": "직접 사무역과 새 교역 세력의 등장으로 류큐의 중개 우위가 약화했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-241",
+        "quote": "• 쇠퇴 : 명의 해금 완화로 인한 사무역 발달, 포르투갈 상인 등의 등장으로 쇠퇴"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "2373597d7cc1bd628ab10f3b7a2ded42196a46d1779f78857eeea5fe71cd08f9"
+    },
+    "prompt": "류큐의 중계무역이 쇠퇴한 배경은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "동아시아에서 바닷길이 물리적으로 사라졌다",
+      "포르투갈이 동아시아에 전혀 접근하지 않았다",
+      "명의 해금 완화와 포르투갈 상인 등 경쟁자의 등장",
+      "명의 해금이 더욱 완벽해져 류큐만 교역했다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "교역 구조와 경쟁의 변화다.",
+      "포르투갈 상인의 등장이 쇠퇴 요인으로 나온다.",
+      "직접 사무역과 새 교역 세력의 등장으로 류큐의 중개 우위가 약화했다.",
+      "자료는 사무역 발달과 경쟁을 제시한다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-064",
+    "page": "dongyangsa-textbook-page-242",
+    "explain": "조카마치는 다이묘의 성과 그 주변에 형성된 도시였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-242",
+        "quote": "㉡ 조카마치(城下町) 형성 : 전국 다이묘의 거점인 성을 중심으로 도시 형성"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "5153fbcfd1219f3d05d1ac9c9b18ddae336e06b5fb2b8b556db8795f59e6c5bf"
+    },
+    "prompt": "센고쿠 시대 조카마치의 형성 기반은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "오직 수도원 내부의 폐쇄적 농장",
+      "모든 항구의 폐쇄와 무역 금지",
+      "산간 수렵민의 일시적 야영지",
+      "다이묘의 성을 중심으로 한 도시 발달"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "다이묘의 성이 중심이다.",
+      "성하 도시의 형성 기준과 다르다.",
+      "군사·정치 거점을 중심으로 도시가 형성되었다.",
+      "조카마치는 다이묘의 성과 그 주변에 형성된 도시였다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-065",
+    "page": "dongyangsa-textbook-page-242",
+    "explain": "노부나가는 총포를 활용하여 다케다 가쓰요리의 기마군단에 맞섰다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-242",
+        "quote": "㉡ 나가시노 전투 : 총포 대량 활용 전법으로 다케다 가쓰요리의 기마 군단 격멸"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "b63a6031d25bddf670b9a8159d31f09419f74a04fc718f3cae84bf23f10c30a2"
+    },
+    "prompt": "오다 노부나가가 나가시노 전투에서 활용한 군사적 특징은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "총포를 대량으로 활용했다",
+      "총포 사용을 전면 금지했다",
+      "철제 무기 없이 토기만 사용했다",
+      "해군 잠수함으로 기마군단을 공격했다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "노부나가는 총포를 활용하여 다케다 가쓰요리의 기마군단에 맞섰다.",
+      "자료의 전법과 반대다.",
+      "근세 전쟁의 무기 활용과 맞지 않는다.",
+      "교재에 없는 시대착오적 전법이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-066",
+    "page": "dongyangsa-textbook-page-244",
+    "explain": "병농 분리는 무사와 농민의 생활 공간 및 신분을 구분하는 방향이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-244",
+        "quote": "• 무사 : 촌락으로부터 분리(거주지 분리), 농민·상공업자가 되는 것 금지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "08868c79831e4cb7d92ed30526d9eaf5a301b43c261cff3683d6a6e15cb1d8e3"
+    },
+    "prompt": "히데요시의 병농 분리 정책이 추진한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "다이묘의 군사력을 곧바로 전부 없앴다",
+      "무사의 거주지를 농촌에서 분리하고 신분 이동을 제한했다",
+      "무사와 농민의 직업 이동을 무제한 허용했다",
+      "모든 무사를 농민으로 즉시 전환했다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "강한 다이묘의 군사력이 남았다는 한계가 있었다.",
+      "병농 분리는 무사와 농민의 생활 공간 및 신분을 구분하는 방향이었다.",
+      "신분 분리와 반대다.",
+      "무사와 농민을 분리하려 했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-067",
+    "page": "dongyangsa-textbook-page-244",
+    "explain": "검지는 토지 등급·면적·경작자를 파악해 연공 수취의 기반을 정비했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-244",
+        "quote": "㉡ 검지령 : 토지 측량 및 등급 분류, 연공(고쿠다카) 결정, 경작 농민 이름과 면적 등재"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "c439aeef751fa4368868ba9a9879b01af71f66d3c56907f5473c8c3c452e77ca"
+    },
+    "prompt": "히데요시의 검지령이 토지 측량과 함께 파악하려 한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "모든 농민의 토지 경작을 금지",
+      "토지의 등급 차이를 법적으로 무시",
+      "경작 농민·면적과 연공 부과 기준",
+      "외국 항구의 선박 보험료만 조사"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "경작자를 파악하여 수취 체제를 정비했다.",
+      "토지 등급 분류가 포함되었다.",
+      "검지는 토지 등급·면적·경작자를 파악해 연공 수취의 기반을 정비했다.",
+      "국내 토지와 농민의 수취 기반을 조사했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-068",
+    "page": "dongyangsa-textbook-page-245",
+    "explain": "다이묘와 수행원의 정기적 왕래는 소비·교통 수요를 늘렸다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-245",
+        "quote": "- 영향 : 에도가 거대한 상업 지구로 발전, 도로망 정비, 숙박업 등의 발달"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "f64e3306b9a9c0951dcecddf826bf7f14414377ea4311b14b4a1bc28338774fe"
+    },
+    "prompt": "산킨고타이가 다이묘 통제 외에 경제에 미친 영향은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "에도의 상업이 법적으로 전면 폐지되었다",
+      "도로 이용을 없애 모든 이동이 중단되었다",
+      "숙박 수요가 완전히 사라졌다",
+      "에도의 상업과 교통·숙박업 발달을 촉진했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "자료는 상업 지구의 발전을 제시한다.",
+      "에도 왕래가 도로망 발전을 촉진했다.",
+      "가신을 동반한 이동은 숙박업 발전과 연결되었다.",
+      "다이묘와 수행원의 정기적 왕래는 소비·교통 수요를 늘렸다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-069",
+    "page": "dongyangsa-textbook-page-245",
+    "explain": "성의 수를 제한하는 조치는 다이묘의 군사적 기반을 통제했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-245",
+        "quote": "㉢ 일국일성령(一國一城令) : 본성을 제외한 모든 지성 파괴 명령"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "45485738e7b0ec360e57ecbd1be989aff8ceb62cf622cbdfada93d85bccb148d"
+    },
+    "prompt": "에도 막부의 일국일성령은 어떤 통제 조치였는가?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "본성 외의 지성을 파괴하도록 하여 성곽을 제한했다",
+      "다이묘에게 원하는 만큼 새 성을 쌓게 했다",
+      "모든 영지를 외국 상인에게 양도했다",
+      "막부의 모든 직할령을 자치 공화국으로 만들었다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "성의 수를 제한하는 조치는 다이묘의 군사적 기반을 통제했다.",
+      "성곽 확대가 아니라 제한이었다.",
+      "다이묘의 군사 거점을 통제한 조치다.",
+      "교재 내용과 다르다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-070",
+    "page": "dongyangsa-textbook-page-247",
+    "explain": "막부는 슈인장을 발급하여 동남아시아 무역선을 허용·통제했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-247",
+        "quote": "㉡ 슈인장(朱印狀) 발급 : 무역 허가제 → 동남아시아 무역선 허용"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "e263cdd97253dc9dfaa6f8271af4de625e518d59dc5b2472f13fc21fb2f44e26"
+    },
+    "prompt": "슈인선 무역에서 슈인장이 수행한 기능은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "불교 승려의 출가 자격만을 증명했다",
+      "막부의 무역 허가를 증명했다",
+      "모든 선박의 해적 활동을 합법화했다",
+      "농민의 토지 소유만을 증명했다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "무역 허가 문서다.",
+      "막부는 슈인장을 발급하여 동남아시아 무역선을 허용·통제했다.",
+      "무역 허가제로 통제하려는 문서였다.",
+      "해외 무역선의 활동과 관련된다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-071",
+    "page": "dongyangsa-textbook-page-247",
+    "explain": "선박 수와 거래를 통제해 은 유출을 줄이려 했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-247",
+        "quote": "• 배경 : 아라이 하쿠세키가 청 상선의 수를 줄여서 은 유출을 억제할 것을 건의"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "7e92b79c7228c6513039ade66f9310a29fcbf7a931febf128a97988ea78dd0f0"
+    },
+    "prompt": "에도 막부가 청 상선에 신패를 발급하고 입항 수를 제한한 목적은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "청 상인에게 일본의 모든 관세권을 양도하는 것",
+      "동남아의 모든 일본인 거류지를 수도로 만드는 것",
+      "무역에 따른 은 유출을 억제하는 것",
+      "은을 제한 없이 더 많이 내보내는 것"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "막부가 무역을 통제한 조치다.",
+      "신패 발급의 목적과 관계없다.",
+      "선박 수와 거래를 통제해 은 유출을 줄이려 했다.",
+      "자료에 제시된 의도와 반대다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-072",
+    "page": "dongyangsa-textbook-page-248",
+    "explain": "국학은 일본의 신화·역사·문학을 연구하며 전통과 고유성을 강조했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-248",
+        "quote": "• 전통 부활 추구 : 고대 일본 문학에 초점, 일본 문화의 우월성 주장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "b89c003aaf5ab86aaa6ac325894cc435410be969b260dbb809d16b550fac1cdf"
+    },
+    "prompt": "에도 시대 국학이 유학 중심 한학과 구별하여 강조한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "중국 유교 경전만을 유일한 연구 대상으로 삼기",
+      "모든 일본 고전의 소각",
+      "인도 불경의 산스크리트어 문법만 연구",
+      "고대 일본의 문학·신화·문화 연구"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "국학은 한학에 대한 저항 속 일본 고전을 중시했다.",
+      "고전 연구를 통해 전통 부활을 추구했다.",
+      "교재가 제시한 연구 대상과 다르다.",
+      "국학은 일본의 신화·역사·문학을 연구하며 전통과 고유성을 강조했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-073",
+    "page": "dongyangsa-textbook-page-253",
+    "explain": "징병제와 군사 행정 기구 정비는 근대 국가 건설의 일부였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "㉡ 군제 정비 : 징병제 실시, 병부성 폐지(1872) → 육군성·해군성 설치"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f7fb9573e88e0309c884333a5f7bc24e20ae7503ad2aff8f293b76c846278689"
+    },
+    "prompt": "메이지 정부의 군제 정비 내용은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "징병제를 실시하고 육군성·해군성을 설치했다",
+      "근대 군대를 전면 해산했다",
+      "모든 병역을 오직 세습 무사의 사적 결정에 맡겼다",
+      "육군과 해군 업무를 폐지하고 사원에 위임했다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "징병제와 군사 행정 기구 정비는 근대 국가 건설의 일부였다.",
+      "근대 군제를 정비한 조치다.",
+      "징병제는 국가적 동원 체계다.",
+      "육군성과 해군성을 설치했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-074",
+    "page": "dongyangsa-textbook-page-253",
+    "explain": "내치 정비가 채택되면서 사이고 다카모리 등은 사직했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "• 결론 : 내치 정비 채택, 정한론 비판, 사이고 다카모리 등 사직"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "502078b780844e3418f8b2e2c112e870acccdc02c1188f8bc93afc20cd9074ab"
+    },
+    "prompt": "1873년 정한론 논쟁에서 귀국한 이와쿠라 사절단 측과의 논쟁 후 채택한 방향은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "모든 대외 관계를 영구 단절했다",
+      "조선 정벌보다 내치 정비를 우선했다",
+      "즉시 모든 군대를 조선에 파견하기로 확정했다",
+      "메이지 정부를 폐지하고 에도 막부를 복구했다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "내치 정비를 우선한 것이지 영구 단절이 아니다.",
+      "내치 정비가 채택되면서 사이고 다카모리 등은 사직했다.",
+      "논쟁의 결론은 내치 정비였다.",
+      "해당 논쟁의 결과가 아니다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-075",
+    "page": "dongyangsa-textbook-page-256",
+    "explain": "형식상 기관을 나누었지만 국가 원수인 천황이 통치권을 장악했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-256",
+        "quote": "㉣ 형태 : 내각·의회·재판소의 삼권분립 형식 → But, 천황에게 종속"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "4bf01d1f983198564df8333828f0c9ae567d7b147976b8e54d92e179c366257c"
+    },
+    "prompt": "메이지 헌법 체제의 권력 구조를 설명한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "주권이 모든 식민지 주민에게 동등하게 보장되었다",
+      "의회가 천황을 선출하고 군 통수권을 독점했다",
+      "삼권분립 형식을 두었지만 각 기관은 천황에 종속되었다",
+      "천황은 정치적 권한이 없는 상징으로만 규정되었다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "자료는 국가 권력과 천황권 강화를 설명한다.",
+      "교재의 천황 중심 체제와 다르다.",
+      "형식상 기관을 나누었지만 국가 원수인 천황이 통치권을 장악했다.",
+      "이는 전후 헌법과 구별되는 점이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-076",
+    "page": "dongyangsa-textbook-page-256",
+    "explain": "이 조항은 천황에게 육해군 통수권을 부여했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-256",
+        "quote": "제11조 천황은 육해군을 통수한다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "01472871a329a5bab997410a4d193f625ec806c5d0aa138de2fd9349512e0153"
+    },
+    "prompt": "메이지 헌법 제11조 '천황은 육해군을 통수한다'에서 확인할 수 있는 권한은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "노동조합의 단체교섭권",
+      "의회의 천황 폐위권",
+      "지방 도시의 군대 독립권",
+      "천황의 군 통수권"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "군사 지휘에 관한 조항이다.",
+      "천황의 권한을 규정한 조항이다.",
+      "군 통수의 주체가 천황으로 제시된다.",
+      "이 조항은 천황에게 육해군 통수권을 부여했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-077",
+    "page": "dongyangsa-textbook-page-259",
+    "explain": "교육칙어는 충효를 국가 질서와 교육의 근원으로 연결했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-259",
+        "quote": "㉢ 교육칙어 : 국민의 충성심·효성이 국체의 정화이자 교육의 근원임을 규정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "2e54cf476058fb10e62e82f1eebaffa2e7a7d3680d3cf872c801df5910dc1f71"
+    },
+    "prompt": "메이지 교육칙어가 강조한 교육 원리는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "충성과 효를 국체 및 교육의 근원으로 삼았다",
+      "천황과 국가에 대한 충성을 전면 부정했다",
+      "교육에서 도덕 규범을 완전히 배제했다",
+      "모든 학교를 외국 의회가 직접 운영하도록 했다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "교육칙어는 충효를 국가 질서와 교육의 근원으로 연결했다.",
+      "자료의 내용과 반대다.",
+      "충성과 효라는 규범이 제시되었다.",
+      "교재에 없는 설명이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-078",
+    "page": "dongyangsa-textbook-page-261",
+    "explain": "5개국 조약은 영·미·일 등의 주력함 비율을 정하는 군비 제한을 다루었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-261",
+        "quote": "㉢ 5개국 조약(1922) : 해군 군비 축소 논의, 영·미·일의 주력함 비율 조정(5:5:3)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "149e8cfd32c5328d44b6fcb7b69b97edda6d64967165da9f260410485c888d87"
+    },
+    "prompt": "워싱턴 회의 5개국 조약에서 주로 다룬 문제는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "조공국의 제사 순서",
+      "해군 군비 축소와 주력함 비율",
+      "신석기 농업 기술 보급",
+      "천황의 중국 황제 즉위"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "근대 국제 군비 조약의 내용이 아니다.",
+      "5개국 조약은 영·미·일 등의 주력함 비율을 정하는 군비 제한을 다루었다.",
+      "20세기 해군 군비 제한 회의와 다르다.",
+      "조약의 대상이 아니다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-079",
+    "page": "dongyangsa-textbook-page-261",
+    "explain": "중국의 영토 보존과 통상 기회 균등이라는 원칙이 재확인되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-261",
+        "quote": "• 중국 관련 : 중국의 영토 보존, 문호 개방, 중국에 대한 기회 균등 재확인"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "4f9c2287791a8552d3cd4ed2de84060699e2d950661d19f1097a82ea26c18b49"
+    },
+    "prompt": "워싱턴 체제에서 확인된 중국 관련 원칙은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "중국과 모든 나라의 통상 관계 전면 금지",
+      "중국의 주권을 공식적으로 완전 폐지",
+      "영토 보존·문호 개방·기회 균등",
+      "중국 영토를 일본이 독점하도록 무조건 승인"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "문호 개방과 반대다.",
+      "영토·주권 존중을 표방했다.",
+      "중국의 영토 보존과 통상 기회 균등이라는 원칙이 재확인되었다.",
+      "일본의 영향력 증대를 경계하는 원칙이었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-080",
+    "page": "dongyangsa-textbook-page-270",
+    "explain": "천황기관설 비판은 천황주권을 강조하는 이념적 공세였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-270",
+        "quote": "• 기쿠치 다케오 : 미노베 다쓰키치의 천황기관설을 국체 위배한 주장이라고 비난"
+      },
+      {
+        "page": "dongyangsa-textbook-page-270",
+        "quote": "• 천황주권설 공인 : 주권이 천황에게 있다는 학설 채택"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "fc5f637adacbb3280836368cd81f3adf863c8ace87b48aa1e679e1d4883894b6"
+    },
+    "prompt": "국체명징 운동의 공격 대상과 그 방향은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "천황주권설을 없애고 보통선거만으로 국체를 정했다",
+      "군부의 정치 개입을 완전히 없앴다",
+      "모든 헌법 논의를 노동조합에 위임했다",
+      "천황기관설을 비판하고 천황주권설을 공인했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "자료에 제시된 방향과 반대다.",
+      "우익과 군부 대두와 연결되었다.",
+      "교재에 없는 내용이다.",
+      "천황기관설 비판은 천황주권을 강조하는 이념적 공세였다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-081",
+    "page": "dongyangsa-textbook-page-272",
+    "explain": "사실상 미국 주도의 점령 아래 일본 정부 행정 기구가 활용되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-272",
+        "quote": "② 특징 : 사실상 미국의 단독 점령, 기존의 일본 정부 행정 기구를 활용한 간접 통치 형태"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "a261671a11cda530a82b4472219f58d43610556302c7eea384b7deb40e44bcf0"
+    },
+    "prompt": "연합국 점령기 일본의 통치 방식으로 적절한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "기존 일본 정부 기구를 활용한 간접 통치",
+      "모든 일본 행정 조직을 즉시 없애고 지방 부족만 활용",
+      "에도 막부를 복구해 쇼군에게 통치권 반환",
+      "일본의 해외 식민지를 다시 확대"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "사실상 미국 주도의 점령 아래 일본 정부 행정 기구가 활용되었다.",
+      "기존 기구를 활용했다.",
+      "근대 일본 정부 기구를 이용했다.",
+      "점령 개혁과 반대 방향이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-082",
+    "page": "dongyangsa-textbook-page-272",
+    "explain": "전후 헌법은 주권재민·인권존중·평화주의와 상징 천황을 규정했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-272",
+        "quote": "㉣ 신헌법 제정(평화헌법) : 상징 천황, 전쟁 포기 등 주권재민·평화주의·인권존중 원칙"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "98f15380354e05c7e905f44e6badac0c6f468f63a2787cc20b7429d4040ece5d"
+    },
+    "prompt": "전후 일본 헌법이 메이지 헌법과 달리 제시한 원리는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "정치범 석방 금지와 비밀경찰 확대",
+      "주권재민·평화주의와 상징 천황",
+      "천황의 신성불가침과 무제한 통치권",
+      "세습 무사의 지방 통수권"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "점령 개혁의 방향과 다르다.",
+      "전후 헌법은 주권재민·인권존중·평화주의와 상징 천황을 규정했다.",
+      "메이지 체제의 성격과 가깝다.",
+      "전후 헌법의 원리가 아니다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-083",
+    "page": "dongyangsa-textbook-page-273",
+    "explain": "농지 개혁은 지주의 소작지를 농민에게 이전해 자작농을 늘렸다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-273",
+        "quote": "• 농지 개혁 : 소작지 해방(전체 농지의 80%), 자작농 창출 → 내수 경기 부양"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "537a1bc0c3714bfffe3a997ffc45f85294b1280afd83af1a5c169d9d06210d0c"
+    },
+    "prompt": "전후 일본 농지 개혁의 주요 방향은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "모든 토지를 부재지주에게 집중했다",
+      "농민을 모두 해외로 강제 이주했다",
+      "소작지를 해방하고 자작농을 늘렸다",
+      "소작농을 없애기 위해 경작 자체를 금지했다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "소작지를 정부가 매입하여 농민에게 판매했다.",
+      "자료의 농지 소유 개혁과 다르다.",
+      "농지 개혁은 지주의 소작지를 농민에게 이전해 자작농을 늘렸다.",
+      "자작농을 창출하는 방향이었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-084",
+    "page": "dongyangsa-textbook-page-273",
+    "explain": "재벌 해체는 경제 권력 집중을 완화하려는 전후 개혁이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-273",
+        "quote": "• 재벌 해체 : 4대 재벌 중심 족벌 체제 종식, 독점 금지법 제정 → 경제 민주화 조치"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "a74e79bd4e7b945195893d899b209213a1c4d93e2ae8450cb71d20686eeffe24"
+    },
+    "prompt": "전후 재벌 해체와 독점 금지법이 지향한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "4대 재벌의 독점권을 헌법상 영구 보장",
+      "노동 3권의 전면 폐지",
+      "모든 중소기업의 해외 강제 매각",
+      "족벌 중심의 경제 집중을 완화하는 경제 민주화"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "해체·독점 금지의 방향과 반대다.",
+      "노동 3권 인정도 개혁에 포함되었다.",
+      "자료에 없는 조치다.",
+      "재벌 해체는 경제 권력 집중을 완화하려는 전후 개혁이었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-085",
+    "page": "dongyangsa-textbook-page-276",
+    "explain": "양국의 상이한 경제적 필요가 관계 정상화의 한 배경이 되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-276",
+        "quote": "㉢ 이해관계 : 한국의 자금 마련 필요성, 일본의 수출 시장 필요성"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "50b71662179ec91bce42f0718aaa698a019ff03e4ff5954f890d3b6800f4a757"
+    },
+    "prompt": "한·일 국교 정상화의 경제적 이해관계에 대한 설명은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "한국의 자금 수요와 일본의 수출 시장 수요가 맞물렸다",
+      "양국 모두 경제 교류를 영구 중단하려 했다",
+      "일본은 수출 시장이 전혀 필요 없었다",
+      "경제적 이해관계는 전혀 존재하지 않았다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "양국의 상이한 경제적 필요가 관계 정상화의 한 배경이 되었다.",
+      "자금·시장이라는 경제적 유인이 있었다.",
+      "교재는 수출 시장 필요성을 명시한다.",
+      "자료에 경제적 요인이 제시된다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-086",
+    "page": "dongyangsa-textbook-page-278",
+    "explain": "인더스 문명은 도시 간 및 외부 문명과의 교역망을 가졌다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-278",
+        "quote": "③ 교역 : 도시 간 교역 활발, 메소포타미아와도 교역"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "25bee4ebb9403ca8ff775349fc995611651b72d127d9f162c13eea1d24f1adc3"
+    },
+    "prompt": "인더스 문명을 고립된 문명으로만 볼 수 없는 근거는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "외부 지역의 존재를 기록에서 완전히 부정했다",
+      "메소포타미아와도 교역했다",
+      "모든 도시 간 교역을 금지했다",
+      "문자와 건축이 전혀 없었다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "메소포타미아와의 교역이 확인된다.",
+      "인더스 문명은 도시 간 및 외부 문명과의 교역망을 가졌다.",
+      "도시 간 교역이 활발했다.",
+      "청동기·상형문자·벽돌 건물이 제시된다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-087",
+    "page": "dongyangsa-textbook-page-280",
+    "explain": "여러 지역을 연결하는 교역이 쿠샨 왕조의 번영을 뒷받침했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-280",
+        "quote": "② 중계 무역 : 중국·인도·이란을 연결하는 무역을 독점하며 번영"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "7aa0f4d9731ceb09778b65b5d80673f7ad164884b82acdd8e9c68fb298a95a3b"
+    },
+    "prompt": "쿠샨 왕조의 번영을 뒷받침한 경제적 조건은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "모든 대외 교역을 영구 금지했다",
+      "동아시아 전체에 근대 철도를 부설했다",
+      "중국·인도·이란을 잇는 중계무역",
+      "아메리카의 은광을 직접 통치했다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "중계무역으로 번영했다.",
+      "쿠샨 시기의 조건이 아니다.",
+      "여러 지역을 연결하는 교역이 쿠샨 왕조의 번영을 뒷받침했다.",
+      "쿠샨의 지역·시대와 맞지 않는다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-088",
+    "page": "dongyangsa-textbook-page-280",
+    "explain": "헬레니즘의 영향이 불상 제작과 연결된 교류 사례다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-280",
+        "quote": "• 간다라 미술 : 알렉산드로스의 원정 통해 헬레니즘 유입 → 불상 제작"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "ccaac97c855aa3ebe9a80cec0627047dacf116fc56ada2685d644e8c30d875a5"
+    },
+    "prompt": "간다라 미술에서 나타나는 문화 교류의 특징은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "외부 문화의 영향 없이 불상 제작이 금지되었다",
+      "일본 국풍 문화가 인도에 먼저 전해졌다",
+      "이슬람 서예만으로 불교를 완전히 대체했다",
+      "헬레니즘의 영향과 불교 미술이 결합했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "헬레니즘 유입과 불상 제작이 제시된다.",
+      "자료의 교류 방향과 다르다.",
+      "간다라 불교 미술의 성격이 아니다.",
+      "헬레니즘의 영향이 불상 제작과 연결된 교류 사례다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-089",
+    "page": "dongyangsa-textbook-page-282",
+    "explain": "아크바르의 지즈야 폐지와 달리 아우랑제브는 이를 부활시켰다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-282",
+        "quote": "• 탄압 : 지즈야 부활, 힌두 사원 파괴 등을 통한 이교도 탄압"
+      },
+      {
+        "page": "dongyangsa-textbook-page-282",
+        "quote": "• 지즈야 폐지 : 이교도가 납부하는 인두세 폐지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "446dd30e407395d9387aac852834c5c03f64c7a4e5b24c31bad4b721c8f82412"
+    },
+    "prompt": "아크바르와 비교한 아우랑제브의 종교 정책은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "지즈야를 부활시키고 힌두 사원을 파괴하는 등 탄압을 강화했다",
+      "지즈야를 처음 폐지하고 모든 종교를 동등하게 포용했다",
+      "종교와 관계된 정책을 전혀 시행하지 않았다",
+      "모든 무슬림 관료를 추방했다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "아크바르의 지즈야 폐지와 달리 아우랑제브는 이를 부활시켰다.",
+      "아크바르의 관용 정책과 혼동했다.",
+      "지즈야와 사원 정책이 제시된다.",
+      "이교도 탄압이라는 자료와 다르다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-090",
+    "page": "dongyangsa-textbook-page-283",
+    "explain": "항쟁 뒤 회사 지배는 영국 정부·왕실의 통치로 바뀌었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-283",
+        "quote": "③ 영향 : 무굴 황제 폐위, 동인도회사의 통치권 회수 → 인도 통치 개선법(영국 왕의 통치)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "882d6e8258834ca655318b357aef9fef61afb64e23b08ff89aa6f60b981f6319"
+    },
+    "prompt": "세포이 항쟁 진압 뒤 인도 통치 구조가 바뀐 방향은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "인도 전역이 즉시 독립 공화국이 되었다",
+      "동인도회사의 통치권을 회수하고 영국 왕실 통치로 전환했다",
+      "동인도회사가 영국 정부를 완전히 지배했다",
+      "무굴 황제의 권한이 이전보다 강화되었다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "영국 왕의 통치로 전환되었다.",
+      "항쟁 뒤 회사 지배는 영국 정부·왕실의 통치로 바뀌었다.",
+      "회사의 통치권이 회수되었다.",
+      "무굴 황제는 폐위되었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-091",
+    "page": "dongyangsa-textbook-page-285",
+    "explain": "간디·네루 등은 전쟁기에 영국의 철수와 독립을 요구했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-285",
+        "quote": "㉠ 내용 : 간디·네루 등이 영국의 즉각적 철수 및 인도의 완전한 독립 주장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f7527b3c72b37e5246c6a56a3b536d64ca805e4f84d37e0f706e52b7e3319fca"
+    },
+    "prompt": "1942년 인도 철수 운동의 요구는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "무굴 제국의 중국 합병",
+      "제2차 세계대전에서 영국에 무조건 협력",
+      "영국의 즉각 철수와 완전 독립",
+      "영국 식민 통치를 무기한 연장"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "해당 운동의 요구가 아니다.",
+      "비협조와 독립 요구가 핵심이었다.",
+      "간디·네루 등은 전쟁기에 영국의 철수와 독립을 요구했다.",
+      "운동의 목표와 반대다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-092",
+    "page": "dongyangsa-textbook-page-287",
+    "explain": "리 왕조는 유교 교육과 과거 등을 통해 통치 체제를 정비했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-287",
+        "quote": "㉡ 유교 교육 : 문묘·국자감 건립, 과거제 실시(부정기적 실시)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "e84ea456aaa2669343817467882409bdbcb2d98ba1101f3f4a9bfbda7ec5bf5e"
+    },
+    "prompt": "베트남 리 왕조가 중국식 문물로 정치 체제를 정비한 사례는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "유교 교육과 시험 제도를 전면 금지",
+      "모든 관료를 무작위 추첨만으로 선발",
+      "국가의 법률을 모두 폐지",
+      "문묘·국자감 건립과 과거제 실시"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "자료는 교육 기관과 과거 도입을 설명한다.",
+      "과거제 실시와 다르다.",
+      "율령도 수용했다.",
+      "리 왕조는 유교 교육과 과거 등을 통해 통치 체제를 정비했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-093",
+    "page": "dongyangsa-textbook-page-289",
+    "explain": "쯔놈은 한자를 활용해 베트남어를 표기하는 독자적 문자 체계다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-289",
+        "quote": "㉡ 특징 : 한자를 베트남어 음에 맞게 고쳐 제정, 19세기까지 사용"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "13c9dd680978c2a649c0920b94cf1737eb04529d94d0c347e2fba1585e16a668"
+    },
+    "prompt": "쯔놈 문자의 성격을 설명한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "한자를 바탕으로 베트남어에 맞게 고안했다",
+      "한자와 전혀 관계없는 로마자만 사용했다",
+      "프랑스어 철자를 그대로 베트남 고대에 사용했다",
+      "베트남어 표기를 전면 금지하는 기호였다"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "쯔놈은 한자를 활용해 베트남어를 표기하는 독자적 문자 체계다.",
+      "한자에서 파생한 문자다.",
+      "고대 한자에서 파생한 성격과 다르다.",
+      "베트남어를 나타내기 위한 문자였다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-094",
+    "page": "dongyangsa-textbook-page-291",
+    "explain": "조약은 베트남의 영토·통상·종교 관련 권리를 제약했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-291",
+        "quote": "• 내용 : 다낭 등의 3개항 개항, 코친차이나 동부 3성 할양, 선교의 자유 인정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f8a3b787caf048afa568cb577c4ec5098827b00ad42058ec00ba900a319a37f7"
+    },
+    "prompt": "제1차 사이공 조약에서 베트남이 수용한 내용은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "영국이 베트남의 모든 영토를 반환",
+      "항구 개방, 코친차이나 동부 3성 할양, 선교의 자유",
+      "프랑스의 모든 식민지를 베트남에 양도",
+      "프랑스인의 상업·포교를 모두 영구 금지"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "프랑스의 침략과 관련된 조약이다.",
+      "조약은 베트남의 영토·통상·종교 관련 권리를 제약했다.",
+      "베트남이 영토와 권리를 내주는 조약이었다.",
+      "통상과 선교의 자유가 인정되었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-095",
+    "page": "dongyangsa-textbook-page-292",
+    "explain": "청은 프랑스와 베트남 사이의 조약을 인정하고 종주권을 상실했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-292",
+        "quote": "• 영향 : 청의 베트남 종주권 상실, 양무 운동에 대한 비판적 여론 등장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "21ad1c784b7046e042dadc9bf9da1db1274f5fee5f310da4be260d63fd901c9c"
+    },
+    "prompt": "청·불 전쟁 뒤 톈진 조약이 베트남의 국제적 지위에 미친 영향은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "청이 프랑스 본토를 통치하게 되었다",
+      "베트남이 이때 완전한 탈식민 독립을 이뤘다",
+      "청이 베트남에 대한 종주권을 잃었다",
+      "프랑스가 청에 베트남을 직접 양도했다"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "자료에 없는 내용이다.",
+      "프랑스의 지배 강화와 관련된 시기다.",
+      "청은 프랑스와 베트남 사이의 조약을 인정하고 종주권을 상실했다.",
+      "청의 종주권 상실이라는 결과와 다르다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-096",
+    "page": "dongyangsa-textbook-page-296",
+    "explain": "도이머이는 소유 형태와 경제 활동의 다양성을 확대하는 방향이었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-296",
+        "quote": "㉡ 핵심적 전환 : 국유제 → 국유·협동 조합 소유·사유의 혼합 경제로 전환"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "3437fdebe58d86f540a9cf58f9ae97597a78ac23bbb096e20b00a4bba62f4cbc"
+    },
+    "prompt": "베트남 도이머이 정책의 소유 제도상 변화는?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "모든 사유와 협동조합을 일률적으로 폐지했다",
+      "국내외 모든 교역을 금지했다",
+      "농업 투자를 전면 중단했다",
+      "국유 일변도에서 여러 소유 형태의 혼합 경제로 전환했다"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "혼합 소유로의 전환과 반대다.",
+      "교역 확대와 외자 유치가 추진되었다.",
+      "농업 부문에 집중 투자했다.",
+      "도이머이는 소유 형태와 경제 활동의 다양성을 확대하는 방향이었다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-097",
+    "page": "dongyangsa-textbook-page-299",
+    "explain": "차·커피·사탕수수 등 상품작물 중심 농업이 식민지 경제를 재편했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-299",
+        "quote": "㉠ 방식 : 유럽 열강이 원주민의 노동력을 이용하여 특정 상품작물을 대량 생산"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "19f81969396608da1be015a6a013e22c5c90d948dcbca4e347e58d56823848bb"
+    },
+    "prompt": "식민지 동남아시아 플랜테이션의 성격은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "현지 노동력으로 수출용 상품작물을 대량 재배하는 방식",
+      "모든 농민이 자급용 작물만 자유롭게 재배",
+      "상품 거래를 완전히 없애는 자급 촌락",
+      "도시 공장에서 기계만 생산하는 제도"
+    ],
+    "answer": 0,
+    "choiceExplanations": [
+      "차·커피·사탕수수 등 상품작물 중심 농업이 식민지 경제를 재편했다.",
+      "특정 상품작물 재배가 강요되었다.",
+      "국제 상품 생산과 연결되었다.",
+      "농업 생산 방식에 관한 말이다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-098",
+    "page": "dongyangsa-textbook-page-301",
+    "explain": "열강의 대립과 타이의 양보 외교 속에서 완충 지대의 지위가 형성되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-301",
+        "quote": "㉡ 결과 : 영국과 프랑스의 완충 지대(중립 보장) → 독립 유지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "a6c9cf69389ff3a1852095bfb1258696051cfe075bb18b82307bdd57f10d0bc4"
+    },
+    "prompt": "타이가 식민지화를 피하며 독립을 유지한 국제적 조건은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "주변 영토를 하나도 양보하지 않았다",
+      "영국과 프랑스 사이의 완충 지대가 되었다",
+      "동남아시아에서 외국 세력이 완전히 철수했다",
+      "타이가 영국 본토를 군사 점령했다"
+    ],
+    "answer": 1,
+    "choiceExplanations": [
+      "캄보디아·라오스 등의 양도가 제시된다.",
+      "열강의 대립과 타이의 양보 외교 속에서 완충 지대의 지위가 형성되었다.",
+      "두 열강이 대립하던 상황이었다.",
+      "완충 지대라는 외교적 조건과 다르다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-099",
+    "page": "dongyangsa-textbook-page-301",
+    "explain": "라마 5세는 교육과 유학을 통해 근대 문물을 수용했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-301",
+        "quote": "㉠ 내용 : 공교육 도입·유학생 파견 등을 통한 근대 문물 수용"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "6e47bc2539a180ecc6aa1e4eb4b2e3edc2d093ac76059b9d29f43764dcea4233"
+    },
+    "prompt": "라마 5세의 근대화 정책으로 적절한 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "근대 문물을 전면 거부했다",
+      "모든 개혁을 1932년 뒤에만 시작했다",
+      "공교육을 도입하고 유학생을 파견했다",
+      "학교를 전부 폐쇄하고 유학을 영구 금지"
+    ],
+    "answer": 2,
+    "choiceExplanations": [
+      "근대 문물 수용을 추진했다.",
+      "라마 5세 시기의 개혁과 시기를 혼동했다.",
+      "라마 5세는 교육과 유학을 통해 근대 문물을 수용했다.",
+      "교재 내용과 반대다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-mc-100",
+    "page": "dongyangsa-textbook-page-305",
+    "explain": "크메르 루주는 강제적인 농촌화와 통화 폐지 등 급진적 사회 개조를 추진했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-305",
+        "quote": "㉢ 급진적 정책 : 도시민의 농촌 강제 이주, 통화 폐지 등의 정책, 200만 명 학살"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "63f764bc28b2d526f27ee0e9295af7984cb7354082d39bb6881d56d09f18b8f6"
+    },
+    "prompt": "크메르 루주 정권의 급진적 정책으로 제시된 것은?",
+    "type": "mc",
+    "stem": "교재 기반 자체 제작 연습문항",
+    "choices": [
+      "자유로운 도시 이주와 통화 시장의 전면 확대",
+      "모든 농촌 주민의 자발적 해외 유학",
+      "식민지 회사의 의회 선거 확대",
+      "도시민의 농촌 강제 이주와 통화 폐지"
+    ],
+    "answer": 3,
+    "choiceExplanations": [
+      "자료의 강제 이주·통화 폐지와 반대다.",
+      "강제적 사회 재편과 다른 내용이다.",
+      "당시 정권의 정책이 아니다.",
+      "크메르 루주는 강제적인 농촌화와 통화 폐지 등 급진적 사회 개조를 추진했다."
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-056",
+    "page": "dongyangsa-textbook-page-225",
+    "explain": "교재는 토기 표면의 새끼줄 무늬를 조몬 문화의 특징으로 제시한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-225",
+        "quote": "• 특징 : 토기 표면에 새끼줄(繩) 무늬 → 점차 불꽃무늬 토기 등장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "0140de7e8cce991f622a2c95e1f827683aa554ff62e69c5182baa64e60660a7c"
+    },
+    "prompt": "조몬 토기의 이름과 관련되는 대표적인 표면 무늬는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "새끼줄 무늬",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "새끼줄",
+      "승문"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-057",
+    "page": "dongyangsa-textbook-page-225",
+    "explain": "동모 등의 무기와 함께 동탁 등의 제사용 청동기가 사용되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-225",
+        "quote": "• 청동기 : 동모(銅矛) 등 무기류, 동탁(銅鐸) 등 제사 용구 사용"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "fef70a7441a8b5558cab0902960b880310574337ad1eb05448c22c7201427237"
+    },
+    "prompt": "야요이 문화에서 제사 용구로 사용한 청동제 방울 형태 유물의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "동탁",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-058",
+    "page": "dongyangsa-textbook-page-227",
+    "explain": "교재는 광무제의 노국왕 금인 하사를 일본 소국과 중국의 교류 사례로 제시한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-227",
+        "quote": "㉠ 후한(後漢) : 광무제의 노국왕 금인(金印) 하사(57)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "53669bfbb8ecff5cd5ff40a56df60ec62e5a9f5e365cca63b0e49c8d3b1e2762"
+    },
+    "prompt": "57년 노국왕에게 금인을 하사한 후한 황제는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "광무제",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-059",
+    "page": "dongyangsa-textbook-page-227",
+    "explain": "위와의 조공 관계 속에서 친위왜왕이라는 칭호를 받았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-227",
+        "quote": "• 위(魏) : 대방군을 통하여 조공(239), '친위왜왕(親魏倭王)' 칭호 획득"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "ed7273f346168feb3aa56a77143da23b7647e961d7031c4678d9a0c98ec91160"
+    },
+    "prompt": "히미코가 위에 조공한 뒤 얻은 칭호는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "친위왜왕",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-060",
+    "page": "dongyangsa-textbook-page-230",
+    "explain": "견수사는 수와의 외교 및 문물 수용에 관여했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-230",
+        "quote": "• 견수사 파견 : 수(隋) 중심의 조공 질서에 동참(문물 수용)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "a524483f10be47c35d7bdadf371f8422a58975ed025f2317ec374b47ef810f09"
+    },
+    "prompt": "일본이 수의 문물을 수용하기 위해 파견한 사절을 무엇이라 하는가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "견수사",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-061",
+    "page": "dongyangsa-textbook-page-230",
+    "explain": "반전수수법은 호적·계장 정비 및 통일적 조세와 결합한 토지 제도였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-230",
+        "quote": "• 반전수수법 : 균전제와 유사한 제도 실시, 새로운 전·호별 조세제 실시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "652b237bff30ee7267efda612b43966e12e243b41c344a116b1ed2051e52d85c"
+    },
+    "prompt": "다이카 개신에서 균전제와 유사한 토지 지급·환수 원리를 담은 제도는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "반전수수법",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-062",
+    "page": "dongyangsa-textbook-page-233",
+    "explain": "만요슈는 일본어 어순에 따라 만요가나로 시가를 기록하였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-233",
+        "quote": "㉡ 『만요슈(萬葉集)』 : 일본 최고의 시가집, 와가를 일본어 어순에 따라 만요가나로 표기"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "2191561a8a46c31dcabe7f75b4d3c3ae495a28c07915406bab639347b0d56795"
+    },
+    "prompt": "만요가나로 와가를 표기한 일본의 오래된 시가집은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "만요슈",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "만엽집"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-063",
+    "page": "dongyangsa-textbook-page-233",
+    "explain": "만요가나는 이후 히라가나와 가타카나 발달에 영향을 주었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-233",
+        "quote": "㉠ 성립 : 한자의 음(音)·훈(訓)을 빌려 고대 일본어의 음절 표기"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "5fe5afd96bd9001e1cc3f0d5ad4730c417323074bbc7bfc095ddfc38f44feacb"
+    },
+    "prompt": "한자의 음과 훈을 빌려 고대 일본어 음절을 표기한 가나의 초기 형태는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "만요가나",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-064",
+    "page": "dongyangsa-textbook-page-238",
+    "explain": "요리토모는 고케닌·슈고·지토 등을 활용한 무사 지배를 확립했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-238",
+        "quote": "• 임명 : 요리토모의 세이타이쇼군 취임, 무사 계층 최고 지배자 군림"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "b1a360eb3931076a815ed0c4de21e8b840f5c8f4d8e7f3661401fa4a0dba00cd"
+    },
+    "prompt": "1192년 세이타이쇼군에 취임하여 가마쿠라 막부 지배를 확립한 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "미나모토 요리토모",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "미나모토노 요리토모",
+      "요리토모"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-065",
+    "page": "dongyangsa-textbook-page-239",
+    "explain": "고다이고 천황의 거병과 무사층의 호응으로 가마쿠라 막부가 무너졌다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-239",
+        "quote": "• 멸망 : 호조 다카토키 일족의 집단 자살로 가마쿠라 막부 멸망(1333)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c2d32ef6a47acb4b8d880d76f017317f548a4396045345574df2ea04b10cf38d"
+    },
+    "prompt": "호조 다카토키 일족의 몰락과 함께 가마쿠라 막부가 멸망한 해는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "1333",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "1333년"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-066",
+    "page": "dongyangsa-textbook-page-241",
+    "explain": "류큐는 동아시아 해상 교역망에서 중계무역을 수행했다. 원문의 나하 수도 표기는 출제에서 제외했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-241",
+        "quote": "• 시기 : 14세기 후반~16세기 전반(명-조선-일본-동남아시아 연결)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-241",
+        "quote": "⑤ 류큐의 성장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "45f6b7f11b805e354160f62474c24ad90cde96135a4a9ad0f72499bbc23bf084"
+    },
+    "prompt": "14세기 후반부터 16세기 전반까지 명·조선·일본·동남아시아를 잇는 중계무역으로 성장한 섬 왕국은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "류큐",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "류큐 왕국",
+      "유구",
+      "유구 왕국"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-067",
+    "page": "dongyangsa-textbook-page-242",
+    "explain": "미나토마치는 항구를 중심으로 성장한 도시이며 성을 중심으로 한 조카마치와 구별된다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-242",
+        "quote": "㉢ 미나토마치(港町) 형성 : 사카이·효고·하카타 등의 항구 도시 발달, 자율적 시정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "28ab6da60eee683d4ce22009f03f054750e0a3d3de4b0b72f0097ae3e8f48d6b"
+    },
+    "prompt": "센고쿠 시대 사카이·효고·하카타와 같은 항구 도시를 부르는 용어는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "미나토마치",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-068",
+    "page": "dongyangsa-textbook-page-242",
+    "explain": "이와미 은광 개발은 일본의 은 생산 및 무역 확대와 연결되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-242",
+        "quote": "• 배경 : 16세기 초 연은분리법 도입, 이와미 은광 본격 개발, 전국 다이묘 경쟁"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f62b926f8f844079d67ad820f1f504fe66103e614a5fefcc38ac811acea836b6"
+    },
+    "prompt": "16세기 연은분리법 도입 이후 본격 개발된 일본의 대표적 은광은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "이와미 은광",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "이와미"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-069",
+    "page": "dongyangsa-textbook-page-244",
+    "explain": "히데요시는 오사카성을 본거지로 삼았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-244",
+        "quote": "㉠ 과정 : 노부나가 후계자로 등국, 본거지로 오사카 성 축조, 전국 통일 달성(1590)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "3308a7ff86a30b9959b0cd56547df08cfd73579afe12a46285676ea90a9ea61c"
+    },
+    "prompt": "도요토미 히데요시가 전국 통일의 본거지로 축조한 성은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "오사카 성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "오사카성"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-070",
+    "page": "dongyangsa-textbook-page-245",
+    "explain": "이 승리 후 이에야스는 서군에 가담한 다이묘의 영지를 몰수·감봉했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-245",
+        "quote": "㉢ 세키가하라 전투 승리(1600)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "13f66f6677631adc66b611168e069fecc8e174859919223fc137e47d73090814"
+    },
+    "prompt": "1600년 도쿠가와 이에야스가 동군을 이끌고 승리한 전투는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "세키가하라 전투",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-071",
+    "page": "dongyangsa-textbook-page-245",
+    "explain": "이에야스는 세키가하라 전투 승리 이후 막부를 열었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-245",
+        "quote": "㉣ 막부 수립 : 도쿠가와 이에야스의 쇼군 취임(1603)으로 에도 막부 개설"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "417ea4ed2da7e20e6837d541e544f34ea18542cd828953af948a980de6f64822"
+    },
+    "prompt": "1603년 쇼군에 취임하여 에도 막부를 연 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "도쿠가와 이에야스",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "이에야스"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-072",
+    "page": "dongyangsa-textbook-page-245",
+    "explain": "막부는 다이묘의 정기적인 에도 왕래와 체류를 제도화했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-245",
+        "quote": "• 산킨고타이제(參勤交代制)의 시행(1635)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "9c629a760f6c863383169fbec95ecf07af66a2943fdbd1a48ccd3b19bb99a7a3"
+    },
+    "prompt": "다이묘가 자신의 영지와 에도에 교대로 머물도록 한 제도의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "산킨고타이",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "산킨고타이제",
+      "산킨코타이",
+      "산킨코타이제",
+      "참근교대제"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-073",
+    "page": "dongyangsa-textbook-page-247",
+    "explain": "일본 상인의 동남아시아 진출과 함께 니혼마치가 형성되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-247",
+        "quote": "㉢ 영향 : 일본인의 동남아 진출 활발, 자치 도시인 니혼마치(日本町) 형성"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c467d566b7f1ce1c99b499e0b70e151cb061771e0c5951fc400918419ab08d93"
+    },
+    "prompt": "슈인선 무역으로 동남아시아에 형성된 일본인 자치 거류 도시의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "니혼마치",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-074",
+    "page": "dongyangsa-textbook-page-248",
+    "explain": "교재는 나카에 도주를 일본 양명학의 시초로 제시한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-248",
+        "quote": "㉠ 나카에 도주 : 일본 양명학 시초, 상하 귀천 없는 평등 주장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "48cfb83cbf12de97504638e2042242a09b657ec4d8e50a5df0c92b9b8f5d5400"
+    },
+    "prompt": "상하 귀천 없는 평등을 주장한 일본 양명학의 초기 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "나카에 도주",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "나카에 토주"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-075",
+    "page": "dongyangsa-textbook-page-248",
+    "explain": "이토 진사이는 고전으로 돌아가 유학의 본질을 탐구하려 한 고학의 인물이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-248",
+        "quote": "㉡ 이토 진사이 : 주자학의 이기론 비판, 기 중심의 독자적 철학을 체계화"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "1e825e82c766520e8a77d3b7add757c12407b20627f3b01b383e64dff81cdf27"
+    },
+    "prompt": "주자학의 이기론을 비판하고 기 중심의 독자적 철학을 전개한 고학자는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "이토 진사이",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-076",
+    "page": "dongyangsa-textbook-page-248",
+    "explain": "하야시 라잔은 막부와 연결되어 성리학의 확산에 기여했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-248",
+        "quote": "- 하야시 라잔 : 쇼군을 섬기며 성리학 전파 공헌"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "347e3507aa3eb3742e56bb6e4e28f3fc96934d7ab22191e13d240bc4fddc8e24"
+    },
+    "prompt": "쇼군을 섬기면서 성리학 전파에 공헌한 에도 시대 학자는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "하야시 라잔",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-077",
+    "page": "dongyangsa-textbook-page-256",
+    "explain": "교재는 독일식 헌법을 채택한 것으로 설명한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-256",
+        "quote": "㉡ 과정 : 이토 히로부미 등을 유럽헌법조사단으로 파견(1882~1883), 독일식 헌법 채택"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "e688e2c6afdc2ddd193d814bac65341f6e7801c0097cddc21e50f6b21ffed289"
+    },
+    "prompt": "메이지 정부가 이토 히로부미 등의 유럽 헌법 조사 후 채택한 헌법 모델은 어느 나라의 것이었는가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "독일",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "독일식",
+      "독일식 헌법",
+      "프로이센",
+      "프로이센식",
+      "프로이센식 헌법"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-078",
+    "page": "dongyangsa-textbook-page-259",
+    "explain": "근대 학제의 공포는 근대 교육 체계 형성의 조치였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-259",
+        "quote": "㉡ 근대 학제 공포 : 소학교-중학교-대학교로 연결되는 근대 학제 공포(1872)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "7e8054293b7cfb531537c7767130536f446da15aaf6cb978476c69c19df252a0"
+    },
+    "prompt": "메이지 정부가 소학교·중학교·대학교로 이어지는 근대 학제를 공포한 해는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "1872",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "1872년"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-079",
+    "page": "dongyangsa-textbook-page-259",
+    "explain": "개항장과 근대 언론의 발전을 보여 주는 신문이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-259",
+        "quote": "• 『요코하마 마이니치 신문』 : 요코하마 개항장에서 최초의 일간지 발행(1870)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "2411ecec84aaca7ee342fafb890eb6badbcecb06a55892a15e2239c4e096bd03"
+    },
+    "prompt": "요코하마 개항장에서 발행된 일본 최초의 일간지로 교재에 제시된 신문은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "요코하마 마이니치 신문",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-080",
+    "page": "dongyangsa-textbook-page-261",
+    "explain": "영국·미국·일본의 비율은 5:5:3으로 정해졌다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-261",
+        "quote": "㉢ 5개국 조약(1922) : 해군 군비 축소 논의, 영·미·일의 주력함 비율 조정(5:5:3)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "34107098511b9ba1bf00c6682cd710d981aaa122b89930bc498e980e3cf8c01a"
+    },
+    "prompt": "워싱턴 5개국 조약에서 영국·미국을 각각 5로 보았을 때 일본의 주력함 비율은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "3",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-081",
+    "page": "dongyangsa-textbook-page-272",
+    "explain": "제9조는 전쟁 포기와 함께 국가의 교전권을 인정하지 않는다고 규정했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-272",
+        "quote": "2. 전항의 목적을 이루기 위하여 육·해·공군 및 기타의 전력을 보유하지 않는다. 국가의 교전권은 인정하지 않는다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c5ae06f1353bc0da24c4fcce3dc1cd2ff6621b232c841cc1c89ebfac50a8e14e"
+    },
+    "prompt": "일본 전후 헌법 제9조가 국가에 대해 인정하지 않는다고 명시한 권리는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "교전권",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-082",
+    "page": "dongyangsa-textbook-page-273",
+    "explain": "교육기본법은 전후 민주화 개혁의 교육 분야 조치였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-273",
+        "quote": "• 교육기본법 : 군국주의 교육 부정, 민주주의 이념과 기회 균등의 표방"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "e684ab4bfd92d62941a534cf836a3542c743130ddb7a5de090b4d8cc80fa939d"
+    },
+    "prompt": "전후 일본에서 군국주의 교육을 부정하고 민주주의와 기회 균등을 내세운 법은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "교육기본법",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-083",
+    "page": "dongyangsa-textbook-page-273",
+    "explain": "교재는 노동 3권 인정을 전후 개혁으로 제시한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-273",
+        "quote": "• 노동 개혁 : 노동 3권 인정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "5922fcb28b5da28232e468d684ca04792c330e1802dc00a7eab7b9b5fc10c79f"
+    },
+    "prompt": "전후 일본 노동 개혁에서 인정한 단결·교섭·행동의 권리를 통틀어 무엇이라 하는가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "노동 3권",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "노동삼권"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-084",
+    "page": "dongyangsa-textbook-page-273",
+    "explain": "이 조약은 전쟁의 처리와 일본의 영토 포기 등의 내용을 담았다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-273",
+        "quote": "② 샌프란시스코 강화 조약(1951)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "26fcfe1a26b481b8620c6d855a695d0f7d29843ed47b570802017372d2e62996"
+    },
+    "prompt": "1951년 일본의 국제 사회 복귀와 관련하여 체결한 강화 조약은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "샌프란시스코 강화 조약",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "샌프란시스코 조약"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-085",
+    "page": "dongyangsa-textbook-page-276",
+    "explain": "미·일 협상에 따라 오키나와 반환이 이행되었다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-276",
+        "quote": "③ 오키나와현의 일본 반환(1972. 5.)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "804e351dc2a827f01bbc0198543de5a2f4249ea3aed803e5488496c940be20f5"
+    },
+    "prompt": "미국의 통치를 받던 오키나와가 일본에 반환된 해는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "1972",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "1972년"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-086",
+    "page": "dongyangsa-textbook-page-276",
+    "explain": "일본의 전쟁 책임·반성 표명과 함께 중국의 대일 배상 청구권 포기가 제시된다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-276",
+        "quote": "• 중국 : 대일 배상 청구권 포기"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "3aead1fd1ec62f24eab39b21f4ee821ab5942dd0e979894567a8d1aecb74414a"
+    },
+    "prompt": "1972년 중·일 공동 성명에서 중국이 포기한 대일 권리는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "배상 청구권",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "대일 배상 청구권"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-087",
+    "page": "dongyangsa-textbook-page-278",
+    "explain": "하라파와 모헨조다로는 인더스 문명의 대표 도시이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-278",
+        "quote": "㉡ 도시 : 하라파·모헨조다로 등의 건설"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "1d0a8bcf04fdc305b5fe5bf60656b848f955a5e7d67090e9510915689956e629"
+    },
+    "prompt": "인더스 문명의 대표 도시 중 모헨조다로와 함께 제시된 도시는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "하라파",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-088",
+    "page": "dongyangsa-textbook-page-278",
+    "explain": "교재는 카스트제를 혈통 신분에 따른 사회 규범으로 설명한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-278",
+        "quote": "㉡ 특징 : 혈통 신분에 따른 사회적 지위 및 생활 규정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "9b0d6bd6ace251d482ceab403199e0313264640cf031e2c7282e067ed96f8091"
+    },
+    "prompt": "인도에서 혈통에 따른 사회적 지위와 생활을 규정한 신분 제도의 명칭은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "카스트제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "카스트"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-089",
+    "page": "dongyangsa-textbook-page-280",
+    "explain": "교재는 안드라 왕조의 번영을 해상무역과 연결한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-280",
+        "quote": "㉡ 발전 : 로마, 동남아시아와의 해상 무역을 통하여 번영"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "a48d43db0adb6130bee3f8e08fad86f29f7038be518d2ce312a20a97f81a5a1f"
+    },
+    "prompt": "남인도 데칸 고원에서 성장하며 로마·동남아시아와의 해상무역으로 번영한 왕조는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "안드라 왕조",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "안드라"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-090",
+    "page": "dongyangsa-textbook-page-280",
+    "explain": "굽타 왕조는 북인도 대부분을 차지하며 발전하였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-280",
+        "quote": "① 성립 : 4세기 초 찬드라 굽타 1세가 건국, 북인도 대부분 차지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "5e396e5fc538c6e7946afaacfdd11d42fea4e6983136e91a5d593b6f052c3e84"
+    },
+    "prompt": "4세기 초 굽타 왕조를 건국한 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "찬드라 굽타 1세",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "찬드라굽타 1세"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-091",
+    "page": "dongyangsa-textbook-page-282",
+    "explain": "바부르는 무굴 제국의 창건자이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-282",
+        "quote": "① 성립 : 바부르의 카불 점령(1504), 이후 델리 점령하여 무굴 제국 수립(1526)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "ade014a89851e530f8c99c22111b795da9d3dacf7086abfe219d7d19514d2fb6"
+    },
+    "prompt": "카불에 기반을 마련하고 1526년 델리를 점령해 무굴 제국을 세운 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "바부르",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-092",
+    "page": "dongyangsa-textbook-page-282",
+    "explain": "아크바르의 지즈야 폐지는 종교적 관용 정책의 사례다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-282",
+        "quote": "• 지즈야 폐지 : 이교도가 납부하는 인두세 폐지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c6f7181aa2825d23d9a9736e080cab65e8f45f048c943747f41766a8bb5e4bff"
+    },
+    "prompt": "무굴 시대 비무슬림에게 부과된 인두세로, 아크바르가 폐지한 세금은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "지즈야",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-093",
+    "page": "dongyangsa-textbook-page-283",
+    "explain": "영국은 벵골을 기반으로 인도 지배를 확대했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-283",
+        "quote": "㉡ 결과 : 영국 동인도회사의 벵골 지방 통치권·조세 징수권 강탈(1765)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c9b9383b81aacfe8c9011af9996cca35d05b1f88315464e219cbdbfc9fa53346"
+    },
+    "prompt": "플라시 전투 이후 영국 동인도회사가 통치권·조세 징수권을 확보한 인도의 지역은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "벵골",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-094",
+    "page": "dongyangsa-textbook-page-285",
+    "explain": "네루는 완전 독립을 목표로 불복종 운동을 독려했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-285",
+        "quote": "㉠ 활동 : 국민회의 새로운 의장으로 선출(1929) → 인도의 완전 독립을 목표로 선언"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "00d64c99aaa4a4d1eec00e1912d513ed7c652582eec2dffb747ea220e2dda6c1"
+    },
+    "prompt": "1929년 국민회의 의장으로 선출되어 완전 독립을 목표로 선언한 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "네루",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "자와할랄 네루"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-095",
+    "page": "dongyangsa-textbook-page-287",
+    "explain": "외왕내제는 중국과의 통교 형식과 국내 군주 권위가 병존한 방식이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-287",
+        "quote": "• 특징 : 외왕내제(황제 자칭·연호 사용), 송과 통교"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "4dcc8e268f68fcb508c0ffd1656d637f9bd4fecf1f835856b3ddc3e9b69b7195"
+    },
+    "prompt": "베트남 딘 왕조가 대외적으로 왕의 형식을 취하면서 국내에서 황제와 연호를 사용하는 방식을 무엇이라 하는가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "외왕내제",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-096",
+    "page": "dongyangsa-textbook-page-289",
+    "explain": "명은 영락제 때 베트남을 직접 지배하며 학교를 세우고 성리학을 보급했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-289",
+        "quote": "㉢ 명의 지배 : 영락제의 침입으로 직접 지배, 중앙·지방에 학교 건립, 성리학 보급"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "bfa45f881a9766cbc7b17b01f7c49b477083f4570fd8f9130222dd3f78977eef"
+    },
+    "prompt": "15세기 초 베트남을 침략하여 직접 지배한 명의 황제는?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "영락제",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-097",
+    "page": "dongyangsa-textbook-page-294",
+    "explain": "일본에서 근대 문물을 배우도록 한 유학 운동이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-294",
+        "quote": "• 동유 운동 : 량치차오와의 만남 직후 베트남 학생들의 일본 유학 추진"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "d43407e7206f6f24f5af298c93a18b53da257539745fd5c1ad0eef34c470a36f"
+    },
+    "prompt": "판보이쩌우가 베트남 학생들의 일본 유학을 추진한 운동은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "동유 운동",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "동유운동",
+      "동두 운동"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-098",
+    "page": "dongyangsa-textbook-page-296",
+    "explain": "도이머이는 농업 투자와 교역·외자 유치 확대를 포함했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-296",
+        "quote": "③ 도이머이(Doi Moi) 정책의 추진(1986)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "008685dc2f69e9eaa9b6c701600d3485293afc32e8af5cd2e6553e44ead591b1"
+    },
+    "prompt": "베트남이 1986년 시작한 혼합 경제와 외자 유치를 추진하는 개혁 정책은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "도이머이",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "도이머이 정책"
+    ]
+  },
+  {
+    "id": "dongyangsa-ext-short-099",
+    "page": "dongyangsa-textbook-page-301",
+    "explain": "카르티니의 활동은 여성 교육과 권리 의식 성장의 사례다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-301",
+        "quote": "① 카르티니 : 여성 교육 운동 헌신, 사후 『어둠에서 빛으로』 출판 → 카르티니 학교 설립"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c7e88eae3c8ae2e0ad4d2f658ef71ba2d6cdb8db2e40afba1f1665d8d3976eef"
+    },
+    "prompt": "인도네시아에서 여성 교육 운동에 헌신하고 사후 학교 설립에 영향을 준 인물은?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "카르티니",
+    "match": "aliases",
+    "acceptedAnswers": []
+  },
+  {
+    "id": "dongyangsa-ext-short-100",
+    "page": "dongyangsa-textbook-page-303",
+    "explain": "아웅산 수치 등이 참여한 미얀마 민주화 운동이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-303",
+        "quote": "③ 8888 민주화 항쟁 : 네윈 사임 요구하는 시위 발생(1988), 아웅산 수치 등의 참여"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "643528629a01bef532e425312bedf41c577e3e2ecaad48bb94f61fdf403f8a7b"
+    },
+    "prompt": "1988년 미얀마에서 네윈의 사임 등을 요구한 민주화 시위를 통상 무엇이라 하는가?",
+    "type": "blank",
+    "stem": "답을 쓰시오.",
+    "choices": null,
+    "answer": "8888 민주화 항쟁",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "8888항쟁",
+      "8888 항쟁",
+      "8888민주화운동"
+    ]
+  }
+]

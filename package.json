@@ -4,11 +4,23 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "prebuild": "node tools/build-release.mjs",
     "build": "vite build",
+    "deploy:pages": "node tools/deploy-pages.mjs",
+    "deploy:verify": "node tools/verify-deployment.mjs",
     "preview": "vite preview",
     "test": "node --test tests/*.test.js",
     "textbook:viewer": "python3 tools/smart-textbook-pipeline/run_pipeline.py",
-    "textbook:test": "python3 -m unittest discover -s tools/smart-textbook-pipeline/tests"
+    "textbook:test": "python3 -m unittest discover -s tools/smart-textbook-pipeline/tests",
+    "kb:import": "python3 tools/history-kb/build.py",
+    "kb:questions": "python3 tools/history-questions/generate.py",
+    "kb:questions:check": "python3 tools/history-questions/generate.py --check",
+    "kb:validate": "python3 tools/history-kb/validate.py",
+    "kb:import:test": "python3 -m unittest discover -s tools/history-kb -p test_*.py",
+    "kb:questions:test": "python3 -m unittest discover -s tools/history-questions -p test_*.py",
+    "kb:compile": "python3 tools/history-kb/compact.py",
+    "kb:figures": "python3 tools/history-figures/build.py",
+    "kb:figures:test": "python3 -m unittest discover -s tools/history-figures -p 'test_*.py'"
   },
   "dependencies": {
     "@remotion/player": "^4.0.399",

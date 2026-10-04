@@ -1,0 +1,200 @@
+[
+  {
+    "id": "dongyangsa-essay-qin-han-rule",
+    "title": "진의 군현제와 한의 군국제",
+    "prompt": "진의 전국적 군현제와 한 고조의 군국제를 비교하시오. 진의 관리 임명 방식, 한의 지역별 통치 방식, 한의 제후왕에게 허용된 자율성을 구분하여 서술하시오.",
+    "page": "dongyangsa-textbook-page-32"
+  },
+  {
+    "id": "dongyangsa-essay-tax-comparison",
+    "title": "양세법과 지정은제의 과세 방식",
+    "prompt": "당의 양세법과 청의 지정은제를 비교하시오. 양세법의 과세 기준과 징수 시기, 지정은제에서 통합된 두 세목, 지정은제가 정구 은닉에 미친 영향을 설명하시오.",
+    "page": "dongyangsa-textbook-page-100"
+  },
+  {
+    "id": "dongyangsa-essay-self-strengthening",
+    "title": "양무 운동의 사상과 추진 내용",
+    "prompt": "양무 운동의 중체서용론을 설명하고, 군수 산업과 인재 양성에서 추진한 조치를 각각 한 가지 이상 서술하시오.",
+    "page": "dongyangsa-textbook-page-183"
+  },
+  {
+    "id": "dongyangsa-ext-essay-001",
+    "title": "상·주의 통치 정당성",
+    "prompt": "상왕의 종교적 권위, 주의 천명 부여 조건, 주 봉건제와 종법제의 관계를 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-11"
+  },
+  {
+    "id": "dongyangsa-ext-essay-002",
+    "title": "맹자와 순자의 인간관",
+    "prompt": "맹자의 도덕성 이해와 순자의 본성 이해를 비교하고, 순자가 제시한 인간 변화의 방법을 설명하시오.",
+    "page": "dongyangsa-textbook-page-22"
+  },
+  {
+    "id": "dongyangsa-ext-essay-003",
+    "title": "진의 중앙집권 정책",
+    "prompt": "진이 통일 뒤 시행한 지방 지배, 문자 체계, 군사력 통제 정책을 한 가지씩 제시하고 공통 방향을 설명하시오.",
+    "page": "dongyangsa-textbook-page-32"
+  },
+  {
+    "id": "dongyangsa-ext-essay-004",
+    "title": "한 무제의 지방 통제",
+    "prompt": "한 무제의 추은령·자사·좌관율이 각각 통제하려 한 대상을 설명하시오.",
+    "page": "dongyangsa-textbook-page-42"
+  },
+  {
+    "id": "dongyangsa-ext-essay-005",
+    "title": "북위 한화 정책과 군진의 반발",
+    "prompt": "효문제의 호한 통합 조치, 문벌화에 따른 병호의 처지, 6진의 난의 직접 배경을 연결해 설명하시오.",
+    "page": "dongyangsa-textbook-page-74"
+  },
+  {
+    "id": "dongyangsa-ext-essay-006",
+    "title": "당의 율령과 중앙 행정",
+    "prompt": "당의 율과 령의 기능을 구별하고, 3성 가운데 문하성과 상서성의 역할 차이를 설명하시오.",
+    "page": "dongyangsa-textbook-page-93"
+  },
+  {
+    "id": "dongyangsa-ext-essay-007",
+    "title": "당의 토지와 농민 부담",
+    "prompt": "영업전과 구분전의 차이, 조용조의 부과 대상, 부병제 농민의 평상시 생활을 설명하시오.",
+    "page": "dongyangsa-textbook-page-97"
+  },
+  {
+    "id": "dongyangsa-ext-essay-008",
+    "title": "당 후기 재정과 정치",
+    "prompt": "양세법의 과세 기준과 징수 시기, 번진의 재정적 자립, 환관의 군사적 기반을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-100"
+  },
+  {
+    "id": "dongyangsa-ext-essay-009",
+    "title": "송의 권한 분담과 과거",
+    "prompt": "송의 삼사사와 추밀원의 담당 업무를 구별하고, 전시가 황제권 강화와 연결된 이유를 설명하시오.",
+    "page": "dongyangsa-textbook-page-110"
+  },
+  {
+    "id": "dongyangsa-ext-essay-010",
+    "title": "왕안석 신법의 목표와 결과",
+    "prompt": "방전균세법의 목적, 보갑법의 활용 분야, 강제적 시행에 따른 농민의 반응을 설명하시오.",
+    "page": "dongyangsa-textbook-page-113"
+  },
+  {
+    "id": "dongyangsa-ext-essay-011",
+    "title": "요의 이원적 통치",
+    "prompt": "요가 이원적 통치를 채택한 사회경제적 배경과 북면관·남면관의 담당 대상을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-128"
+  },
+  {
+    "id": "dongyangsa-ext-essay-012",
+    "title": "원의 교류와 통화 문제",
+    "prompt": "원의 역참이 교류에 미친 영향, 교초의 초기 신뢰 기반, 교초 남발의 결과를 설명하시오.",
+    "page": "dongyangsa-textbook-page-140"
+  },
+  {
+    "id": "dongyangsa-ext-essay-013",
+    "title": "명·청의 교역 통제 변화",
+    "prompt": "명의 해금에서 허용된 무역 형태, 청 광동 체제의 항구 제한, 난징 조약의 공행과 관세 관련 변화를 서술하시오.",
+    "page": "dongyangsa-textbook-page-143"
+  },
+  {
+    "id": "dongyangsa-ext-essay-014",
+    "title": "청의 강압과 포용",
+    "prompt": "청 초기 변발령, 한인 신사에 대한 유화책, 강희제의 특별 인재 선발을 각각 들어 강압과 포용을 설명하시오.",
+    "page": "dongyangsa-textbook-page-153"
+  },
+  {
+    "id": "dongyangsa-ext-essay-015",
+    "title": "태평천국의 이상과 한계",
+    "prompt": "천조전무제도의 토지 분배 이상, 제도 설계의 미비, 집권층의 특권화를 구별하여 설명하시오.",
+    "page": "dongyangsa-textbook-page-182"
+  },
+  {
+    "id": "dongyangsa-ext-essay-016",
+    "title": "양무 운동의 도입 논리와 사업",
+    "prompt": "양무 운동의 사상적 논리, 군수 산업 운영, 기술 인력 양성 정책을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-183"
+  },
+  {
+    "id": "dongyangsa-ext-essay-017",
+    "title": "중국의 민중운동과 항일 합작",
+    "prompt": "5·4 운동의 삼파 투쟁, 제1차 국공 합작의 입당 방식, 제2차 국공 합작의 군대 재편을 설명하시오.",
+    "page": "dongyangsa-textbook-page-202"
+  },
+  {
+    "id": "dongyangsa-ext-essay-018",
+    "title": "대약진과 개혁기의 농촌 정책",
+    "prompt": "대약진기의 계획 운영 문제, 조정 정책의 방향, 1980년대 농가 생산 책임제의 변화를 서술하시오.",
+    "page": "dongyangsa-textbook-page-219"
+  },
+  {
+    "id": "dongyangsa-ext-essay-019",
+    "title": "일본의 고대 생산과 국가 정비",
+    "prompt": "조몬의 생업, 야요이 농경이 낳은 사회 변화, 다이카 개신의 공지공민제 방향을 구별하여 설명하시오.",
+    "page": "dongyangsa-textbook-page-225"
+  },
+  {
+    "id": "dongyangsa-ext-essay-020",
+    "title": "일본의 귀족 정치와 무사 성장",
+    "prompt": "후지와라씨의 혼인과 섭정·관백 정치, 원정의 권력 행사 방식, 원의 무사 고용이 낳은 변화를 서술하시오.",
+    "page": "dongyangsa-textbook-page-236"
+  },
+  {
+    "id": "dongyangsa-ext-essay-021",
+    "title": "히데요시의 사회 통제",
+    "prompt": "검지령이 파악한 대상, 병농 분리의 방식, 조카마치와 농촌의 분화라는 결과를 설명하시오.",
+    "page": "dongyangsa-textbook-page-244"
+  },
+  {
+    "id": "dongyangsa-ext-essay-022",
+    "title": "에도 막부의 통제와 교역",
+    "prompt": "산킨고타이의 공간적 통제, 슈인장의 기능, 청 상선 제한의 경제적 목적을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-245"
+  },
+  {
+    "id": "dongyangsa-ext-essay-023",
+    "title": "메이지 헌법과 전후 헌법",
+    "prompt": "메이지 헌법의 통치권 주체, 전후 헌법의 천황 지위, 전후 헌법 제9조의 원칙을 비교하시오.",
+    "page": "dongyangsa-textbook-page-256"
+  },
+  {
+    "id": "dongyangsa-ext-essay-024",
+    "title": "전후 일본의 민주화 개혁",
+    "prompt": "전후 일본의 농지 개혁, 노동 개혁, 재벌 개혁의 방향을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-273"
+  },
+  {
+    "id": "dongyangsa-ext-essay-025",
+    "title": "인도 문화와 교역의 연결",
+    "prompt": "인더스 문명의 대외 교역, 쿠샨 왕조의 중계무역, 간다라 미술의 교류 성격을 설명하시오.",
+    "page": "dongyangsa-textbook-page-278"
+  },
+  {
+    "id": "dongyangsa-ext-essay-026",
+    "title": "무굴의 관용과 탄압",
+    "prompt": "아크바르의 관리 등용, 지즈야 폐지, 아우랑제브의 종교 정책에 대한 저항을 설명하시오.",
+    "page": "dongyangsa-textbook-page-282"
+  },
+  {
+    "id": "dongyangsa-ext-essay-027",
+    "title": "인도의 식민 지배와 독립 요구",
+    "prompt": "영국 지배 아래 수공업 변화, 세포이 항쟁 뒤 통치 주체의 변화, 1942년 인도 철수 운동의 요구를 서술하시오.",
+    "page": "dongyangsa-textbook-page-283"
+  },
+  {
+    "id": "dongyangsa-ext-essay-028",
+    "title": "베트남의 문화 수용과 자립",
+    "prompt": "리 왕조의 유교 교육 수용, 쯔놈 문자의 형성, 후레 왕조 성종의 성리학 제도화를 설명하시오.",
+    "page": "dongyangsa-textbook-page-287"
+  },
+  {
+    "id": "dongyangsa-ext-essay-029",
+    "title": "베트남의 식민 침략과 개혁",
+    "prompt": "제1차 사이공 조약의 영토 양도, 판보이쩌우의 동유 운동, 도이머이의 경제 전환을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-291"
+  },
+  {
+    "id": "dongyangsa-ext-essay-030",
+    "title": "동남아시아의 근대화와 민족 운동",
+    "prompt": "타이가 독립을 유지한 외교 조건, 라마 5세의 교육 개혁, 인도네시아 카르티니의 활동을 설명하시오.",
+    "page": "dongyangsa-textbook-page-301"
+  }
+]

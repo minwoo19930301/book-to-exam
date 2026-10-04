@@ -1,0 +1,1658 @@
+{
+  "schemaVersion": 1,
+  "subject": "seoyangsa",
+  "targetExam": "2027학년도 중등 역사 임용",
+  "asOf": "2026-10-03",
+  "scope": {
+    "publicationYears": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "cutoff": "2026-10-03",
+    "method": "공식 대학 페이지의 소속·공개 논문 목록과 KCI/학술지 서지·공개 초록을 대조. 공개 웹과 HTTP만 사용.",
+    "selection": "시대·주제 범위를 고려한 연구 참고 인물. 출제 참여나 출제 가능성 순위가 아니다.",
+    "inventory": "공식 페이지에 노출된 기간 내 논문·일반 글·서평을 서지화하되 유형을 구별. 모든 학계 논문 또는 모든 개인 업적의 완전 목록은 아니다.",
+    "readScope": "핵심 19편은 공개 초록 검토. 논문 전문 정독은 0편. 서지 수집과 내용 검토를 별도 집계.",
+    "forecast": "기존 핵심 내용에 새로운 해석 질문을 연결한 연습용 후보. 빈도 분석·실제 출제위원 확인·적중 확률 산정은 하지 않음."
+  },
+  "faculty": [
+    {
+      "id": "kim",
+      "name": "김덕수",
+      "affiliation": "서울대학교 사범대학 역사교육과",
+      "position": "명예교수",
+      "field": "로마사",
+      "officialUrls": [
+        "https://emeritus.snu.ac.kr/%ED%9A%8C%EC%9B%90%EB%AA%85%EB%8B%A8/document/806/?mod=list&pageid=10"
+      ],
+      "verifiedAt": "2026-10-03",
+      "listedPeriodRecordCount": 0,
+      "bibliographyCoverage": "공식 명예교수 명단으로 현재 지위 확인. 기간별 공식 업적목록은 확보하지 못했으며 KCI에서 소속·전공을 대조한 3편만 보완 수집. 전수 서지 아님.",
+      "examCommitteeStatus": "공개 확인 근거 없음. 출제위원·유력후보로 지목하지 않음.",
+      "paperIds": [
+        "ART002867001",
+        "ART003222824",
+        "ART002800210"
+      ]
+    },
+    {
+      "id": "parkh",
+      "name": "박흥식",
+      "affiliation": "서울대학교 인문대학 역사학부",
+      "position": "교수",
+      "field": "서양 중세도시사",
+      "officialUrls": [
+        "https://humanities.snu.ac.kr/academics/faculty?md=view&profidx=131"
+      ],
+      "verifiedAt": "2026-10-03",
+      "listedPeriodRecordCount": 3,
+      "bibliographyCoverage": "공식 교수 소개 논문 표에 표시된 2021–2026 기록 3건 전부 수집. 그중 1건은 일반 잡지 글. 마지막 표시 연도는 2021이며 이후 업적 부재를 뜻하지 않음.",
+      "examCommitteeStatus": "공개 확인 근거 없음. 출제위원·유력후보로 지목하지 않음.",
+      "paperIds": [
+        "ART002802876",
+        "ART002765322",
+        "parkh-2021-medieval-civilization"
+      ]
+    },
+    {
+      "id": "nam",
+      "name": "남종국",
+      "affiliation": "이화여자대학교 인문과학대학 사학과",
+      "position": "교수",
+      "field": "중세 지중해 교류사",
+      "officialUrls": [
+        "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+        "https://cmsfox.ewha.ac.kr/historian/faculty/faculty01.do?articleNo=684991&mode=view&title=%EB%82%A8%EC%A2%85%EA%B5%AD(%E5%8D%97%E5%AE%97%E5%B1%80)"
+      ],
+      "verifiedAt": "2026-10-03",
+      "listedPeriodRecordCount": 11,
+      "bibliographyCoverage": "공식 교수 업적의 기간 내 학술지논문 11건. 영어·한국어 중복 표기를 동일 논문으로 합침. 저역서·단행본 장은 논문 집계에서 제외.",
+      "examCommitteeStatus": "공개 확인 근거 없음. 출제위원·유력후보로 지목하지 않음.",
+      "paperIds": [
+        "ART003296546",
+        "nam-2024-monte",
+        "ART003120168",
+        "nam-2023-medici",
+        "ART003001053",
+        "nam-2023-pilgrims",
+        "nam-2023-trends",
+        "ART002861394",
+        "nam-2021-italy",
+        "nam-2021-ibnjubayr",
+        "ART002794882"
+      ]
+    },
+    {
+      "id": "song",
+      "name": "송충기",
+      "affiliation": "국립공주대학교 사학과",
+      "position": "교수",
+      "field": "독일 현대사",
+      "officialUrls": [
+        "https://history.kongju.ac.kr/ZB0410/5282/subview.do"
+      ],
+      "verifiedAt": "2026-10-03",
+      "listedPeriodRecordCount": 6,
+      "bibliographyCoverage": "학과 공식 교수 소개의 2021–2026 학술논문 목록 6건 전부 수집. 일반 잡지 글 포함. 2023년 KCI 2건 별도 보완. 공식 연구자 DB는 접근 제한으로 확인하지 못함.",
+      "examCommitteeStatus": "공개 확인 근거 없음. 출제위원·유력후보로 지목하지 않음.",
+      "paperIds": [
+        "ART002921374",
+        "ART002905359",
+        "song-2022-pets",
+        "ART002877130",
+        "song-2022-war-use",
+        "ART002692909",
+        "ART003209875",
+        "ART003039475"
+      ]
+    },
+    {
+      "id": "parky",
+      "name": "박윤덕",
+      "affiliation": "충남대학교 사학과",
+      "position": "교수",
+      "field": "프랑스 혁명사",
+      "officialUrls": [
+        "https://human.cnu.ac.kr/human/graduate/cooper03.do",
+        "https://baekjeyeongu.or.kr/subList/32000003457"
+      ],
+      "verifiedAt": "2026-10-03",
+      "listedPeriodRecordCount": 0,
+      "bibliographyCoverage": "공식 협동과정 참여교수·대학 연구소 조직에서 소속 확인. 기간별 공식 업적목록을 확보하지 못하여 KCI 확인 3편만 보완. 전체 목록이라고 주장하지 않음.",
+      "examCommitteeStatus": "공개 확인 근거 없음. 출제위원·유력후보로 지목하지 않음.",
+      "paperIds": [
+        "ART002722373",
+        "ART002959311",
+        "ART003046178"
+      ]
+    },
+    {
+      "id": "parkgu",
+      "name": "박구병",
+      "affiliation": "아주대학교 사학과",
+      "position": "교수",
+      "field": "라틴아메리카 현대사",
+      "officialUrls": [
+        "https://ajou.ac.kr/gs/research/prof-search-popup.do?article_no=144682&empl_no=200911016&mngt_no=200911016&mode=profView"
+      ],
+      "verifiedAt": "2026-10-03",
+      "listedPeriodRecordCount": 6,
+      "bibliographyCoverage": "공식 교수 페이지 국내학술논문지의 2021–2026 기록 6건 전부 수집. 서평 1건 포함. 2026년 2월·3월 실발행 논문까지 확인.",
+      "examCommitteeStatus": "공개 확인 근거 없음. 출제위원·유력후보로 지목하지 않음.",
+      "paperIds": [
+        "ART003312893",
+        "ART003308815",
+        "ART003287842",
+        "parkgu-2023-spain-review",
+        "ART003021648",
+        "ART002861968"
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "id": "ART002867001",
+      "facultyId": "kim",
+      "title": "클레오파트라에 대한 혐오와 로마공화정의 몰락",
+      "year": 2022,
+      "journal": "서양고대사연구",
+      "issue": "64",
+      "pages": "79–120",
+      "doi": "10.20975/jcskor.2022..64.79",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002867001",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": false,
+      "officialListUrl": null,
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "클레오파트라에 관한 성적·민족적 타자화와 옥타비아누스의 정치 선전을 연결한다. 개인적 연애담만으로 내전과 일인 지배의 성립을 설명하지 않는다.",
+      "reviewTheme": "공화정 말기 정치 선전과 사료 편향",
+      "selectionRationale": "악티움의 사건 확인에서 기록자의 정치적 이해관계 판별로 확장할 수 있다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-rome-113",
+        "seoyangsa-ext-rome-015"
+      ],
+      "connectionType": "direct",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토."
+    },
+    {
+      "id": "ART003222824",
+      "facultyId": "kim",
+      "title": "역사 속에서 형성된 외국인과 외래 문화에 대한 로마의 개방성 - 시민권 정책을 중심으로",
+      "year": 2025,
+      "journal": "리버럴아츠",
+      "issue": "5(1)",
+      "pages": "5–34",
+      "doi": "10.23371/libart.2025.5.1.5",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003222824",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": false,
+      "officialListUrl": null,
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "로마의 시민권 확대를 고정된 민족성보다 갈등과 제국 운영 속에서 형성된 정책으로 설명한다. 포용의 범위가 시기마다 달랐음을 강조한다.",
+      "reviewTheme": "시민권 확대의 역사성과 제국 통합",
+      "selectionRationale": "황제 이름 암기와 시민권 정책의 기능 설명을 구별하기 좋다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-rome-111"
+      ],
+      "connectionType": "direct",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토."
+    },
+    {
+      "id": "ART002800210",
+      "facultyId": "kim",
+      "title": "폼페이우스, 카이사르 그리고 로마 원로원: ‘건축경쟁’에서 내전으로(62–44 B.C.)",
+      "year": 2021,
+      "journal": "서양고대사연구",
+      "issue": "62",
+      "pages": "35–74",
+      "doi": "10.20975/jcskor.2021..62.35",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002800210",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": false,
+      "officialListUrl": null,
+      "readScope": "abstract-partial",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART002802876",
+      "facultyId": "parkh",
+      "title": "기후변화, 흑사병 그리고 대전환",
+      "year": 2021,
+      "journal": "역사학보",
+      "issue": "252",
+      "pages": "93–119",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002802876",
+      "kind": "research-article",
+      "publicationDate": "2021-12",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://humanities.snu.ac.kr/academics/faculty?md=view&profidx=131",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "기후 변화·기근·역병과 인간의 이동·도시화·교역이 결합한 중세 말 변동을 검토한다. 환경과 사회의 상호작용을 읽는 관점을 제공한다.",
+      "reviewTheme": "복합 원인과 지역별 사회 변화",
+      "selectionRationale": "흑사병을 단독·동일 결과의 원인으로 만드는 답안을 점검할 수 있다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-medieval-028",
+        "seoyangsa-ext-medieval-279"
+      ],
+      "connectionType": "direct",
+      "caution": "기후가 모든 사회 변화를 자동 결정했다고 확대하지 않는다. 초록 검토이며 정량 근거는 미검토."
+    },
+    {
+      "id": "ART002765322",
+      "facultyId": "parkh",
+      "title": "교류사와 관계사의 확대 및 학제적 연구 노력: 2019~2020년 서양 중세사 연구동향",
+      "year": 2021,
+      "journal": "역사학보",
+      "issue": "251",
+      "pages": "251–286",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002765322",
+      "kind": "research-trend-review",
+      "publicationDate": "2021-09",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://humanities.snu.ac.kr/academics/faculty?md=view&profidx=131",
+      "readScope": "abstract-partial",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "parkh-2021-medieval-civilization",
+      "facultyId": "parkh",
+      "title": "중세 문명 다시 보기",
+      "year": 2021,
+      "journal": "목회와 신학",
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://humanities.snu.ac.kr/academics/faculty?md=view&profidx=131",
+      "kind": "general-article",
+      "publicationDate": "2021-01",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://humanities.snu.ac.kr/academics/faculty?md=view&profidx=131",
+      "readScope": "metadata-only",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003296546",
+      "facultyId": "nam",
+      "title": "1575-7년 베네치아 페스트에 관한 의학 논쟁",
+      "year": 2025,
+      "journal": "서양사론",
+      "issue": "167",
+      "pages": "170–217",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003296546",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [
+        "KCI 초록 첫 문장은 1577년 7월 유입이라고 적지만 제목·후속 서술은 1575–1577년을 다룸. 전문 대조 전 최초 유입연도와 그에 의존한 연표 출제 보류."
+      ],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "베네치아의 페스트 진단 논쟁과 정부의 대응 변경을 다룬다. 의학 내부의 불일치와 정책 판단의 관계를 검토할 여지가 있다.",
+      "reviewTheme": "지식의 불확실성과 정책 결정",
+      "selectionRationale": "자료 적용형 소재이나 초록의 연대 불일치 때문에 연표·세부 인과 출제는 보류한다.",
+      "priority": "hold",
+      "linkedQuestionIds": [],
+      "connectionType": "coverage-gap",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토."
+    },
+    {
+      "id": "nam-2024-monte",
+      "facultyId": "nam",
+      "title": "저리 대출 은행(Monte di pietà)의 설립과 이자 논쟁",
+      "year": 2024,
+      "journal": "역사학보",
+      "issue": "262",
+      "pages": "137–176",
+      "doi": null,
+      "url": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "metadata-only",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003120168",
+      "facultyId": "nam",
+      "title": "중세 말과 근대 초 베네치아 공화국의 공중위생 제도에 대한 고찰",
+      "year": 2024,
+      "journal": "서양중세사연구",
+      "issue": "54",
+      "pages": "133–177",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003120168",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "베네치아의 격리·보건 행정 발전과 의학 지식, 종교 인식, 교역·재정 이해관계 사이의 제약을 함께 검토한다. 제도의 존재가 완전한 방역 성공을 보장하지 않는다.",
+      "reviewTheme": "공중위생 제도의 발전과 한계",
+      "selectionRationale": "질병-사회 관계의 확장 자료로 적합하다. 세부 설치연도보다 제도와 실효성의 차이를 우선한다.",
+      "priority": "extension",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-medieval-028"
+      ],
+      "connectionType": "adjacent",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토."
+    },
+    {
+      "id": "nam-2023-medici",
+      "facultyId": "nam",
+      "title": "15세기 메디치 은행과 이자 대부에 대한 피렌체 시민의 인식",
+      "year": 2023,
+      "journal": "서양사연구",
+      "issue": "68",
+      "pages": "259–298",
+      "doi": null,
+      "url": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "metadata-only",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003001053",
+      "facultyId": "nam",
+      "title": "의학 지식의 수용과 거부: 11–14세기 아랍어 의서의 라틴어 번역",
+      "year": 2023,
+      "journal": "서양중세사연구",
+      "issue": "52",
+      "pages": "81–106",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003001053",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "아랍어 의학서의 라틴어 번역에서 지식 유입과 종교·도덕적 저항이 함께 나타났음을 설명한다. 교류를 일방 전달이나 전면 수용으로 단순화하지 않는다.",
+      "reviewTheme": "중세 문화 교류와 선택적 수용",
+      "selectionRationale": "스콜라 철학·아랍 학문의 연결에 비교 관점을 제공하나 의학 사례는 별도 자료가 필요하다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-medieval-030",
+        "seoyangsa-ext-medieval-221"
+      ],
+      "connectionType": "adjacent",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토."
+    },
+    {
+      "id": "nam-2023-pilgrims",
+      "facultyId": "nam",
+      "title": "Christian pilgrims to Jerusalem and their perception of Muslims in the Later Middle Ages",
+      "year": 2023,
+      "journal": "역사문화연구",
+      "issue": "85",
+      "pages": "303–334",
+      "doi": null,
+      "url": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "metadata-only",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "nam-2023-trends",
+      "facultyId": "nam",
+      "title": "연구주제의 다변화와 시대별 균형: 2021∼2022년 서양 중세사 연구 동향",
+      "year": 2023,
+      "journal": "역사학보",
+      "issue": "259",
+      "pages": "253–288",
+      "doi": null,
+      "url": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "kind": "research-trend-review",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "metadata-only",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART002861394",
+      "facultyId": "nam",
+      "title": "Tatar Slaves in Late Fourteenth Century Florence",
+      "year": 2022,
+      "journal": "mediterranean review",
+      "issue": "15(1)",
+      "pages": "1–24",
+      "doi": "10.18218/mr.2022.15.1.001",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002861394",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "피렌체의 노예 명부와 거래 기록을 통해 타타르 명칭의 범위와 몽골계 사람들의 이동을 검토한다. 집단 명칭과 실제 출신을 단순히 동일시하지 않는다.",
+      "reviewTheme": "몽골 세계와 지중해의 인적 이동",
+      "selectionRationale": "교류의 강제성과 민족명 해석을 보여 주지만 기존 300문항의 직접 대응 내용은 없다.",
+      "priority": "extension",
+      "linkedQuestionIds": [],
+      "connectionType": "coverage-gap",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토."
+    },
+    {
+      "id": "nam-2021-italy",
+      "facultyId": "nam",
+      "title": "2019~2020년 이탈리아사 회고와 전망",
+      "year": 2021,
+      "journal": "역사학보",
+      "issue": "251",
+      "pages": "327–348",
+      "doi": null,
+      "url": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "kind": "research-trend-review",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "metadata-only",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "nam-2021-ibnjubayr",
+      "facultyId": "nam",
+      "title": "Christian-Muslim Relations in the Period of Ibn Jubayr’s Pilgrimage",
+      "year": 2021,
+      "journal": "서양중세사연구",
+      "issue": "47",
+      "pages": "77–118",
+      "doi": null,
+      "url": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "metadata-only",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART002794882",
+      "facultyId": "nam",
+      "title": "흑사병의 서유럽 전파에 관한 오해와 왜곡: 무시스의 기록을 중심으로",
+      "year": 2021,
+      "journal": "의사학",
+      "issue": "30(3)",
+      "pages": "465–498",
+      "doi": "10.13081/kjmh.2021.30.465",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002794882",
+      "kind": "research-article",
+      "publicationDate": "2021-12",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ewha.ac.kr/ewha/academics/liberal-arts-prof.do?deptUniNo=6&mode=view&pId=ZTVd4jsbo3lFZe7vzegz2w%3D%3D",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "무시스의 비목격 서술을 다른 기록과 비교하고 당시의 정보·의학·종교 관념 속에서 해석한다. 부정확한 기록이라는 판단과 의도적인 거짓말이라는 판단을 구별한다.",
+      "reviewTheme": "흑사병 전파 기록의 사료 비판",
+      "selectionRationale": "익숙한 역병 주제에 목격 여부·상호 검증·편향 판별을 결합할 수 있다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-medieval-028",
+        "seoyangsa-ext-medieval-279"
+      ],
+      "connectionType": "adjacent",
+      "caution": "카파의 시체 투척을 확정적 전파 원인으로 제시하지 않는다. 반대로 비목격자라는 이유만으로 기록 전체가 무가치하다고 채점하지 않는다.",
+      "additionalUrls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10556421/",
+        "https://www.medhist.or.kr/upload/pdf/kjmh-30-3-465.pdf"
+      ]
+    },
+    {
+      "id": "ART002722373",
+      "facultyId": "parky",
+      "title": "프랑스 혁명과 봉건제 폐지",
+      "year": 2021,
+      "journal": "역사학연구",
+      "issue": "82",
+      "pages": "403–436",
+      "doi": "10.37924/JSSW.82.13",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002722373",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": false,
+      "officialListUrl": null,
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [
+        "유통 DB 발행 월 표기가 1월/5월로 다름. 연도 2021과 권호 82만 채택."
+      ],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "봉건 부과조의 폐지는 1789년의 차등 처리, 되사기 갈등, 증서 입증 책임의 변화, 1793년의 무상 폐지로 진행되었다. 선언과 권리의 실제 소멸을 구분한다.",
+      "reviewTheme": "프랑스 혁명의 단계와 소유권",
+      "selectionRationale": "1789년 봉건제 폐지를 한 번의 완결된 조치로 서술하는 오류를 교정한다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-revolutions-045"
+      ],
+      "connectionType": "adjacent",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토.",
+      "additionalUrls": [
+        "https://kiss.kstudy.com/Detail/Ar?key=3888264"
+      ]
+    },
+    {
+      "id": "ART002959311",
+      "facultyId": "parky",
+      "title": "제헌국민의회와 동업조합 폐지",
+      "year": 2023,
+      "journal": "역사와 담론",
+      "issue": "106",
+      "pages": "321–360",
+      "doi": "10.22899/hosuh..106.202304.321",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002959311",
+      "kind": "research-article",
+      "publicationDate": "2023-04",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": false,
+      "officialListUrl": null,
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "1791년 알라르드법의 영업 자유·조합 폐지와 이후 제도 운영의 불완전성을 검토한다. 법적 해체와 일상 관행의 즉각 소멸은 일치하지 않았다.",
+      "reviewTheme": "경제적 자유와 제도 실행",
+      "selectionRationale": "르 샤플리에법과 알라르드법을 분리하고 제도 목적과 사회적 효과를 비교하게 한다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-revolutions-145"
+      ],
+      "connectionType": "direct",
+      "caution": "알라르드법(1791년 3월)의 길드 폐지와 르 샤플리에법의 노동자 결사 제한을 혼동하지 않는다. 미시적 집행 사례는 전문 미검토."
+    },
+    {
+      "id": "ART003046178",
+      "facultyId": "parky",
+      "title": "18세기 프랑스 서민의 빵과 일상",
+      "year": 2023,
+      "journal": "세계역사와문화연구",
+      "issue": "69",
+      "pages": "239–266",
+      "doi": "10.32961/jwhc.2023.12.69.239",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003046178",
+      "kind": "research-article",
+      "publicationDate": "2023-12",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": false,
+      "officialListUrl": null,
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "빵의 생산과 소비를 통해 경제 자유, 전쟁기 가격·공급 통제, 서민 생활의 연속성을 함께 다룬다. 정치 혁명이 일상을 즉시 바꾸었다는 도식을 경계한다.",
+      "reviewTheme": "민중의 생계와 혁명정부 통제",
+      "selectionRationale": "상퀼로트의 식량·가격 요구를 정책 배경과 연결하는 데 유용하다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-revolutions-046"
+      ],
+      "connectionType": "direct",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토."
+    },
+    {
+      "id": "ART002921374",
+      "facultyId": "song",
+      "title": "역사 속의 비인간: 포스트휴머니즘 역사학의 현황과 쟁점",
+      "year": 2022,
+      "journal": "역사학보",
+      "issue": "256",
+      "pages": "65–94",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002921374",
+      "kind": "research-article",
+      "publicationDate": "2022-12",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://history.kongju.ac.kr/ZB0410/5282/subview.do",
+      "readScope": "abstract-partial",
+      "coreReview": false,
+      "sourceWarnings": [
+        "대학 교수 페이지는 역사학보 267로 적지만 KCI는 256. KCI 권호 채택; 원문 표지는 미확인."
+      ],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART002905359",
+      "facultyId": "song",
+      "title": "전범기업 처벌의 딜레마: 크룹(Krupp)에 대한 ‘뉘른베르크 후속재판’을 중심으로",
+      "year": 2022,
+      "journal": "서양사연구",
+      "issue": "67",
+      "pages": "33–67",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002905359",
+      "kind": "research-article",
+      "publicationDate": "2022-11",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://history.kongju.ac.kr/ZB0410/5282/subview.do",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "기업 책임을 묻는 뉘른베르크 후속재판에서 전쟁 음모 혐의와 점령지 약탈·착취 책임이 다르게 다루어졌음을 검토한다.",
+      "reviewTheme": "전후 책임 추궁의 범위",
+      "selectionRationale": "국제군사재판과 미국의 후속재판, 기소와 유죄 인정의 범위를 구별하는 심화 소재다.",
+      "priority": "extension",
+      "linkedQuestionIds": [],
+      "connectionType": "coverage-gap",
+      "caution": "크룹 후속재판을 국제군사재판 자체와 동일시하지 않는다. 특정 판결 법리·판결문은 전문 확인 전 출제하지 않는다."
+    },
+    {
+      "id": "song-2022-pets",
+      "facultyId": "song",
+      "title": "동물보호운동과 반려동물 열풍의 역사적 기원",
+      "year": 2022,
+      "journal": "철학과 현실",
+      "issue": "134",
+      "pages": null,
+      "doi": null,
+      "url": "https://history.kongju.ac.kr/ZB0410/5282/subview.do",
+      "kind": "general-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://history.kongju.ac.kr/ZB0410/5282/subview.do",
+      "readScope": "metadata-only",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART002877130",
+      "facultyId": "song",
+      "title": "19세기 독일지역 동물보호협회의 초기 담론: 인간중심주의에서 인간과 동물 사이의 동화(同化) 관계로",
+      "year": 2022,
+      "journal": "독일연구 - 역사·사회·문화",
+      "issue": "50",
+      "pages": "5–37",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002877130",
+      "kind": "research-article",
+      "publicationDate": "2022-08",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://history.kongju.ac.kr/ZB0410/5282/subview.do",
+      "readScope": "abstract",
+      "coreReview": false,
+      "sourceWarnings": [
+        "대학 교수 페이지는 독일연구 32, 5–38쪽. KCI는 50, 5–37쪽; 국회도서관은 50, 5–38쪽. 권호 50은 일치하며 끝 쪽은 미해결."
+      ],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "song-2022-war-use",
+      "facultyId": "song",
+      "title": "역사의 이용과 오용: 백년 후에 바라본 제1차 세계대전",
+      "year": 2022,
+      "journal": "지식의 지평",
+      "issue": "50",
+      "pages": null,
+      "doi": null,
+      "url": "https://history.kongju.ac.kr/ZB0410/5282/subview.do",
+      "kind": "general-article",
+      "publicationDate": "2022-05",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://history.kongju.ac.kr/ZB0410/5282/subview.do",
+      "readScope": "metadata-only",
+      "coreReview": false,
+      "sourceWarnings": [
+        "권호 50은 대학 공식 목록 표기를 옮긴 것으로 학술지와 독립 대조하지 못함. 내용 검토·출제 근거로 사용하지 않음."
+      ],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART002692909",
+      "facultyId": "song",
+      "title": "19세기 함부르크 도축장의 근대성: 인간과 동물, 그리고 사물 사이의 연결망(Networks)",
+      "year": 2021,
+      "journal": "독일연구 - 역사·사회·문화",
+      "issue": "46",
+      "pages": "37–71",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002692909",
+      "kind": "research-article",
+      "publicationDate": "2021-02",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://history.kongju.ac.kr/ZB0410/5282/subview.do",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [
+        "대학 교수 페이지는 39–73쪽, KCI는 37–71쪽. KCI 쪽수 채택; PDF 대조 전 인쇄면 확정은 유보."
+      ],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "함부르크 도축장의 변화를 철도·통계·계량 장치와 인간·동물의 관계 속에서 검토한다. 산업화의 공간과 연결망을 보는 사례이다.",
+      "reviewTheme": "산업화의 기술·공간·노동 연결",
+      "selectionRationale": "산업혁명을 발명품 목록으로만 설명하는 문항을 보완할 수 있으나 사례 세부는 확장 자료다.",
+      "priority": "extension",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-nation-industry-054",
+        "seoyangsa-ext-nation-industry-058"
+      ],
+      "connectionType": "adjacent",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토."
+    },
+    {
+      "id": "ART003209875",
+      "facultyId": "song",
+      "title": "독일 바이마르공화국 시기의 평화운동과 평화주의 - ‘조직적 평화주의’에서 ‘급진적 평화주의’로",
+      "year": 2023,
+      "journal": "평화들 PEACES",
+      "issue": "2(1)",
+      "pages": "139–159",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003209875",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": false,
+      "officialListUrl": null,
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "독일평화협회의 대중화 이후 조약·군국주의·징집거부를 둘러싼 노선 갈등과 분열을 분석한다. 조직 확대와 정치적 대응 능력은 반드시 비례하지 않았다.",
+      "reviewTheme": "바이마르 시민사회와 평화운동의 한계",
+      "selectionRationale": "민주 공화국의 제도 수립과 민주주의를 지키는 사회적 역량을 구분하는 적용형으로 적합하다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-war-revolution-169"
+      ],
+      "connectionType": "adjacent",
+      "caution": "평화운동의 분열을 나치 집권의 유일한 원인으로 확대하지 않는다. 2023년 권호이며 웹 수집·게시 시점을 발행일로 사용하지 않았다."
+    },
+    {
+      "id": "ART003039475",
+      "facultyId": "song",
+      "title": "포스트휴머니즘 시대의 역사적 시간성에 관한 세 테제: 복합성과 현재성 그리고 주관성",
+      "year": 2023,
+      "journal": "한국사학사학보",
+      "issue": "48",
+      "pages": "71–100",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003039475",
+      "kind": "research-article",
+      "publicationDate": null,
+      "publicationDatePrecision": "year",
+      "listedOnOfficialFacultyPage": false,
+      "officialListUrl": null,
+      "readScope": "abstract",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003312893",
+      "facultyId": "parkgu",
+      "title": "알베르토 후지모리의 친위 쿠데타와 비상사태, 페루의 국가 폭력",
+      "year": 2026,
+      "journal": "민주법학",
+      "issue": "90",
+      "pages": "99–132",
+      "doi": "10.15756/dls.2026..90.99",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003312893",
+      "kind": "research-article",
+      "publicationDate": "2026-03",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ajou.ac.kr/gs/research/prof-search-popup.do?article_no=144682&empl_no=200911016&mngt_no=200911016&mode=profView",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "1992년 친위 쿠데타와 비상사태를 통해 페루의 헌정·시민권·국가 폭력 문제를 검토한다. 초록은 연구 목적과 검토 범위를 중심으로 제시한다.",
+      "reviewTheme": "비상권력과 민주주의",
+      "selectionRationale": "최근 논문이라는 이유로 우선 출제를 단정하지 않고 비교사 보충 후보로 둔다.",
+      "priority": "extension",
+      "linkedQuestionIds": [],
+      "connectionType": "coverage-gap",
+      "caution": "초록에서 검토 목적만 확인되는 항목을 입증된 세부 결론으로 바꾸지 않는다. 전환기 정의의 구체적 판결은 미검토.",
+      "additionalUrls": [
+        "https://delsa.or.kr/xe2/dls/26283"
+      ]
+    },
+    {
+      "id": "ART003308815",
+      "facultyId": "parkgu",
+      "title": "칠레의 장기 피노체트 체제: 신자유주의의 도입에서 변형까지",
+      "year": 2026,
+      "journal": "한국과 국제사회",
+      "issue": "10(1)",
+      "pages": "971–1003",
+      "doi": "10.22718/kga.2026.10.1.036",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003308815",
+      "kind": "research-article",
+      "publicationDate": "2026-02",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ajou.ac.kr/gs/research/prof-search-popup.do?article_no=144682&empl_no=200911016&mngt_no=200911016&mode=profView",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "칠레의 신자유주의를 군부·기술관료의 정치적 선택으로 보고, 민주화 이후에도 헌법·경제 제도가 개혁의 범위를 제약했다고 해석한다.",
+      "reviewTheme": "정치적 이행과 경제제도의 지속",
+      "selectionRationale": "대처·레이건의 정책 방향과 비교하되 칠레의 다른 정치 조건을 자료로 제시할 수 있다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-postwar-change-096",
+        "seoyangsa-ext-postwar-change-299"
+      ],
+      "connectionType": "adjacent",
+      "caution": "민주화 이후 아무 변화도 없었다거나 신자유주의가 오직 군부독재에서만 가능하다고 일반화하지 않는다. 연구자의 해석임을 제시문에 명시한다.",
+      "additionalUrls": [
+        "https://kci.go.kr/kciportal/landing/article.kci?arti_id=ART003308815"
+      ]
+    },
+    {
+      "id": "ART003287842",
+      "facultyId": "parkgu",
+      "title": "멕시코 혁명의 반교권주의와 크리스테로의 저항",
+      "year": 2025,
+      "journal": "이베로아메리카연구",
+      "issue": "36(3)",
+      "pages": "351–377",
+      "doi": "10.22927/snuibe.2025.36.3.351",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003287842",
+      "kind": "research-article",
+      "publicationDate": "2025-12",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ajou.ac.kr/gs/research/prof-search-popup.do?article_no=144682&empl_no=200911016&mngt_no=200911016&mode=profView",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "반교권적 국가 정책과 신앙 공동체의 저항을 검토하며, 빈민의 정치적 선택을 일률적으로 보지 않는다. 종교·토지 개혁과 정치 연합의 교차를 다룬다.",
+      "reviewTheme": "멕시코 혁명과 종교·사회 세력",
+      "selectionRationale": "국가 개혁 대 종교라는 이분법을 점검하는 확장 소재다. 기존 문제은행에 직접 대응 내용이 없다.",
+      "priority": "extension",
+      "linkedQuestionIds": [],
+      "connectionType": "coverage-gap",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토."
+    },
+    {
+      "id": "parkgu-2023-spain-review",
+      "facultyId": "parkgu",
+      "title": "서평 - 스페인의 역사: 8세기부터 17세기까지의 신앙의 왕국들",
+      "year": 2023,
+      "journal": "서양사론",
+      "issue": "159",
+      "pages": "198–205",
+      "doi": null,
+      "url": "https://ajou.ac.kr/gs/research/prof-search-popup.do?article_no=144682&empl_no=200911016&mngt_no=200911016&mode=profView",
+      "kind": "book-review",
+      "publicationDate": "2023-12",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ajou.ac.kr/gs/research/prof-search-popup.do?article_no=144682&empl_no=200911016&mngt_no=200911016&mode=profView",
+      "readScope": "metadata-only",
+      "coreReview": false,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003021648",
+      "facultyId": "parkgu",
+      "title": "콘도르 작전: 남아메리카 8개국의 합동 대반란전",
+      "year": 2023,
+      "journal": "역사문제연구",
+      "issue": "52",
+      "pages": "91–124",
+      "doi": "10.36432/CSMKH.52.202311.3",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003021648",
+      "kind": "research-article",
+      "publicationDate": "2023-11",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ajou.ac.kr/gs/research/prof-search-popup.do?article_no=144682&empl_no=200911016&mngt_no=200911016&mode=profView",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "남아메리카 군부 정권들의 반공 명분과 국경을 넘는 정보·억압 공조를 검토한다. 냉전이 각 사회 내부의 폭력과 연결되는 양상을 보여 준다.",
+      "reviewTheme": "냉전의 지역적·초국적 작동",
+      "selectionRationale": "미소 정상외교 중심의 서술을 확장할 수 있으나 작전 세부는 기존 300문항 밖이다.",
+      "priority": "extension",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-coldwar-295"
+      ],
+      "connectionType": "adjacent",
+      "caution": "초록에서 확인한 문제의식·결론 수준. 본문의 개별 사료와 반론은 미검토.",
+      "additionalUrls": [
+        "https://kiss.kstudy.com/Detail/Ar?key=4056086"
+      ]
+    },
+    {
+      "id": "ART002861968",
+      "facultyId": "parkgu",
+      "title": "16세기 초 에스파냐인들의 아스테카 정복의 역사 다시 쓰기",
+      "year": 2022,
+      "journal": "서양사론",
+      "issue": "153",
+      "pages": "203–236",
+      "doi": "10.46259/WHR.153.7",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002861968",
+      "kind": "research-article",
+      "publicationDate": "2022-06",
+      "publicationDatePrecision": "month",
+      "listedOnOfficialFacultyPage": true,
+      "officialListUrl": "https://ajou.ac.kr/gs/research/prof-search-popup.do?article_no=144682&empl_no=200911016&mngt_no=200911016&mode=profView",
+      "readScope": "abstract",
+      "coreReview": true,
+      "sourceWarnings": [],
+      "verifiedAt": "2026-10-03",
+      "readLocator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)",
+      "summary": "코르테스 개인의 영웅담을 넘어 원주민 동맹과 지역 정치의 역할을 검토한다. 정복자의 기록과 수동적 원주민이라는 도식을 재고한다.",
+      "reviewTheme": "아메리카 정복의 행위자와 사료 관점",
+      "selectionRationale": "교재의 내분·전염병·군사 요인을 원주민의 선택과 함께 설명하게 한다.",
+      "priority": "core-review",
+      "linkedQuestionIds": [
+        "seoyangsa-ext-early-modern-281"
+      ],
+      "connectionType": "adjacent",
+      "caution": "원주민의 능동성을 인정하는 것이 정복의 폭력·강제성이나 전염병의 영향을 부정하는 것은 아니다."
+    }
+  ],
+  "predictions": [
+    {
+      "id": "seoyangsa-research-roman-citizenship",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "시민권 확대와 제국 통합",
+      "prompt": "자료: 한 연구는 로마의 외부인 포용을 타고난 국민성보다 갈등과 제국 운영 속에서 형성된 정책으로 해석한다. 교재에는 212년 안토니누스 칙령이 제국의 모든 자유민에게 시민권을 주었다고 정리되어 있다. (김덕수, 2025, 초록 요약)\n\n① 칙령을 발표한 황제와 적용 대상을 쓰고, ② 확대의 통합적 기능을 설명하시오. ③ “로마는 처음부터 누구에게나 시민권을 주었다”는 설명을 자료의 관점에서 비판하시오.",
+      "modelAnswer": "카라칼라 황제의 칙령은 제국의 자유민에게 시민권을 확대하여 통합을 강화하는 기능을 가졌다. 적용 대상이 자유민이라는 점과 확대 조치의 시점은 포용의 범위가 무제한·불변이었다는 주장을 뒷받침하지 않는다. 시민권은 역사적 필요와 갈등 속에서 변화한 제도로 보아야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "황제와 적용 범위",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "카라칼라",
+              "points": 1
+            },
+            {
+              "text": "제국의 자유민임을 명시",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "정책의 기능",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "시민권의 확대를 제국 통합과 연결",
+              "points": 3
+            }
+          ],
+          "allowedScores": [
+            0,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "고정된 포용성 비판",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "자유민이라는 범위 또는 특정 시점의 확대를 근거로 무제한 포용을 부정",
+              "points": 2
+            },
+            {
+              "text": "제도를 갈등·운영 필요 속의 변화로 설명",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003222824"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003222824",
+          "scope": "abstract",
+          "locator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)"
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-47"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-47",
+          "quote": "㉡ 안토니누스 칙령(Constitutio Antoniniana, 212) 발표\n• 목적 : 로마 재정의 안정 추구, 로마 사회의 전체적인 통합\n• 내용 : 제국의 모든 자유민들에게 시민권 부여",
+          "provenance": "imported-unverified-transcription"
+        }
+      ],
+      "linkedQuestionIds": [
+        "seoyangsa-ext-rome-111"
+      ],
+      "caution": "자료가 제공하는 연구 관점을 적용하는 문항이다. 노예까지 모두 시민권을 얻었다는 답은 범위 요소를 인정하지 않는다. 세부 세율·면세권은 원문에 오류 가능성이 있어 출제하지 않는다.",
+      "reviewStatus": "research-based-draft",
+      "forecastConfidence": "not-estimated",
+      "officialGradingStatus": "자체 연습용 10점 기준. 평가원 공식 채점기준 아님."
+    },
+    {
+      "id": "seoyangsa-research-plague-source",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "역병 기록의 신뢰성과 사회 변화",
+      "prompt": "자료: 무시스의 흑사병 전파 기록을 검토한 연구는 그가 현장 목격자가 아니었고, 전해 들은 정보와 당시의 종교·의학 관념에 의존했다고 설명한다. (남종국, 2021, 초록 요약)\n\n① 이 기록을 이용하기 위한 검증 방법을 두 가지 제시하시오. ② 기록이 부정확할 가능성과 의도적 거짓말을 구별해야 하는 이유를 쓰시오. ③ 흑사병 이후 서유럽의 노동력 부족이 농민과 영주의 관계에 미친 영향을 설명하시오.",
+      "modelAnswer": "정보의 출처와 목격 여부를 확인하고 독립된 동시대 기록과 대조해야 한다. 당시 지식과 정보 전달의 한계는 부정확성을 낳을 수 있으므로 오류만으로 고의적 조작을 단정할 수 없다. 인구 감소에 따른 노동력 부족은 농민의 교섭력을 높여 금납화 등 영주의 대응을 촉진했으나 지역마다 결과는 달랐다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "사료 검증",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "정보의 출처·목격 여부 확인",
+              "points": 1
+            },
+            {
+              "text": "독립된 동시대 기록과 대조",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "오류와 고의의 구별",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "당시 정보·지식의 한계를 고려해 고의 단정을 피함",
+              "points": 3
+            }
+          ],
+          "allowedScores": [
+            0,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "노동 관계의 변화",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "노동력 감소와 농민의 교섭력 연결",
+              "points": 2
+            },
+            {
+              "text": "금납화 등 영주의 대응 또는 지역별 차이 설명",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002794882"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002794882",
+          "scope": "abstract",
+          "locator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)"
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-106"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-106",
+          "quote": "㉣ 흑사병으로 노동력 부족, 미경작 토지. 농업 노동자의 임금 인상 요구. 농산물값 인상, 화폐 가치의 하락\n㉤ 결과 : 영주들은 부역의 금납화, 직영지 경영 방식의 변화, 농노 해방 등으로 양보가 불가피하게 됨",
+          "provenance": "imported-unverified-transcription"
+        }
+      ],
+      "linkedQuestionIds": [
+        "seoyangsa-ext-medieval-028",
+        "seoyangsa-ext-medieval-279"
+      ],
+      "caution": "비목격 기록을 무조건 폐기하는 답은 사료 검증의 완결로 보지 않는다. 특정 집단이 역병을 의도적으로 퍼뜨렸다는 주장을 사실로 요구하지 않는다.",
+      "reviewStatus": "research-based-draft",
+      "forecastConfidence": "not-estimated",
+      "officialGradingStatus": "자체 연습용 10점 기준. 평가원 공식 채점기준 아님."
+    },
+    {
+      "id": "seoyangsa-research-aztec-agency",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "정복 서술과 원주민의 행위",
+      "prompt": "자료: 아스테카 정복을 다룬 연구는 코르테스의 능력만으로 승리를 설명하는 서술을 재검토하고 원주민 동맹과 지역 정치의 역할을 강조한다. (박구병, 2022, 초록 요약)\n\n① 이러한 해석이 원주민을 보는 관점에서 바꾸는 점을 설명하시오. ② 교재에 제시된 정복의 다른 요인을 두 가지 쓰시오. ③ 원주민의 능동성과 식민지적 강제가 양립할 수 있는 이유를 설명하시오.",
+      "modelAnswer": "원주민을 일률적인 수동적 피해자로만 보지 않고 집단별 이해관계와 선택을 가진 행위자로 본다. 군사 기술의 우위와 천연두 등 전염병도 고려해야 한다. 일부 집단의 동맹 선택이 이후 정복 권력의 노동·공납 수취를 정당화하거나 없애지는 않으므로 능동성과 강제성은 함께 분석할 수 있다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "행위자 관점",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "원주민 집단별 이해·선택을 파악",
+              "points": 3
+            }
+          ],
+          "allowedScores": [
+            0,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "복합 요인",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "무기·화기·기병 등 군사적 요인",
+              "points": 1
+            },
+            {
+              "text": "전염병과 인구 감소",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "능동성과 강제성",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "동맹 선택과 이후 식민 권력의 수취를 구별",
+              "points": 2
+            },
+            {
+              "text": "원주민 참여가 정복 폭력의 부정·정당화를 뜻하지 않음을 설명",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002861968"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002861968",
+          "scope": "abstract",
+          "locator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)"
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-124"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-124",
+          "quote": "③ 정복의 배경\n㉠ 철제 무기·화기·기병의 군사적 우위\n㉡ 원주민 사회의 내분 이용\n㉢ 천연두 등 전염병으로 원주민 인구 격감\n④ 식민 착취\n㉠ 엔코미엔다 : 정복자에게 원주민 노동력과 공납을 수취할 권리를 부여",
+          "provenance": "imported-unverified-transcription"
+        }
+      ],
+      "linkedQuestionIds": [
+        "seoyangsa-ext-early-modern-281"
+      ],
+      "caution": "논문의 관점을 자료로 제공한다. 동맹 집단의 고유명 암기는 요구하지 않는다. 모든 원주민이 정복자에게 협력했다고 쓰면 집단별 이해 요소를 인정하지 않는다.",
+      "reviewStatus": "research-based-draft",
+      "forecastConfidence": "not-estimated",
+      "officialGradingStatus": "자체 연습용 10점 기준. 평가원 공식 채점기준 아님."
+    },
+    {
+      "id": "seoyangsa-research-french-feudal-dues",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "봉건제 폐지의 선언과 실행",
+      "prompt": "자료: 연구에 따르면 1789년에는 인신적 부과조를 무상 폐지했지만 물적 부과조는 되사기 대상으로 남겼다. 이후 영주에게 권리의 입증을 요구하는 변화가 있었고, 1793년에는 남은 부과조도 무상 폐지했다. (박윤덕, 2021, 초록 요약)\n\n① 1789년 조치가 농민에게 즉시 모든 부담의 소멸을 뜻하지 않은 이유를 쓰시오. ② 되사기와 무상 폐지의 차이를 소유권 처리와 연결하시오. ③ 입증 책임의 변화를 포함하여 자료를 이용해 “1789년에 봉건제는 단번에 완전히 없어졌다”는 설명을 수정하시오.",
+      "modelAnswer": "물적 부과조는 돈을 내고 없애야 했으므로 부담이 곧 사라지지 않았다. 되사기는 영주의 권리를 보상할 재산권으로 인정한 반면 무상 폐지는 보상 없이 해당 권리를 소멸시켰다. 폐지는 1789년 선언 이후 갈등과 입증 책임의 변화를 거쳐 1793년 남은 부과조가 무상 폐지되는 과정으로 설명해야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "1789년 조치의 제한",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "물적 부과조와 되사기 부담이 남음을 설명",
+              "points": 3
+            }
+          ],
+          "allowedScores": [
+            0,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "권리 처리의 차이",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "되사기의 보상·재산권 인정",
+              "points": 1
+            },
+            {
+              "text": "무상 폐지의 보상 없는 권리 소멸",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "과정으로서의 폐지",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "입증 책임 등 중간 변화를 포함",
+              "points": 2
+            },
+            {
+              "text": "1789년 선언과 1793년 남은 부과조 폐지를 구별",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002722373"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002722373",
+          "scope": "abstract",
+          "locator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)"
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-171"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-171",
+          "quote": "③ 소유권을 신성불가침의 권리로 규정",
+          "provenance": "imported-unverified-transcription"
+        },
+        {
+          "page": "seoyangsa-textbook-page-171",
+          "quote": "① 8월 4일 조항에도 불구하고 모든 부과조의 납부를 거부",
+          "provenance": "imported-unverified-transcription"
+        }
+      ],
+      "linkedQuestionIds": [
+        "seoyangsa-ext-revolutions-045"
+      ],
+      "caution": "세부 법령 날짜는 제시문 밖 암기로 요구하지 않는다. 교재의 압축 표현을 논문과 대조하는 문항이며 토지 소유권 일반이 모두 폐지되었다고 쓰면 인정하지 않는다.",
+      "reviewStatus": "research-based-draft",
+      "forecastConfidence": "not-estimated",
+      "officialGradingStatus": "자체 연습용 10점 기준. 평가원 공식 채점기준 아님."
+    },
+    {
+      "id": "seoyangsa-research-weimar-peace",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "대중화와 평화운동의 정치적 역량",
+      "prompt": "자료: 독일평화협회는 제1차 세계대전 이후 명망가 중심에서 대중 조직으로 확대되었다. 그러나 베르사유 조약·군국주의·징집거부를 둘러싼 온건·급진 노선의 충돌로 분열하고 정치적으로 고립되었다고 연구는 설명한다. (송충기, 2023, 초록 요약)\n\n① 이 시기 독일의 민주 공화국을 쓰시오. ② 조직 규모의 확대만으로 정치적 대응력이 보장되지 않는 이유를 자료에서 설명하시오. ③ 이 연구를 나치 집권 전체의 설명으로 사용할 때 피해야 할 인과적 오류를 쓰시오.",
+      "modelAnswer": "바이마르 공화국이다. 참여가 늘어도 핵심 쟁점의 노선 갈등이 공동 행동을 약화하고 고립을 심화할 수 있다. 이 사례는 평화운동이 파시즘에 충분히 대응하지 못한 경로를 설명하지만 나치 집권의 여러 조건 전체를 단독으로 설명하지는 못한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "공화국 확인",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "바이마르 공화국 또는 바이마르 공화정",
+              "points": 3
+            }
+          ],
+          "allowedScores": [
+            0,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "규모와 역량 구별",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "노선 갈등이 공동 행동·대응력을 제약함을 설명",
+              "points": 3
+            }
+          ],
+          "allowedScores": [
+            0,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "인과 범위 통제",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "평화운동의 약화와 나치 집권 전체를 구별",
+              "points": 2
+            },
+            {
+              "text": "하나의 사례·조건을 유일 원인으로 일반화하지 않음",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003209875"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003209875",
+          "scope": "abstract",
+          "locator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)"
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-223"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-223",
+          "quote": "(5) 바이마르 공화국 수립\n① 최초의 의회 민주주의 공화국 선포(1919. 2.), 베르사유 조약 체결(1919. 6.)\n② 독일 민주공화국 헌법인 바이마르 헌법 공포(1919. 8.)",
+          "provenance": "imported-unverified-transcription"
+        }
+      ],
+      "linkedQuestionIds": [
+        "seoyangsa-ext-war-revolution-169"
+      ],
+      "caution": "논문은 평화운동의 특정 조직을 분석한다. 평화주의가 본질적으로 파시즘을 초래한다는 명제로 바꾸지 않는다. 공화국 수립 월의 암기는 채점하지 않는다.",
+      "reviewStatus": "research-based-draft",
+      "forecastConfidence": "not-estimated",
+      "officialGradingStatus": "자체 연습용 10점 기준. 평가원 공식 채점기준 아님."
+    },
+    {
+      "id": "seoyangsa-research-chile-transition",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "정치적 민주화와 경제제도의 지속",
+      "prompt": "자료: 칠레에 관한 2026년 연구는 군부와 기술관료가 추진한 신자유주의가 정치적 선택이었으며, 1990년 이후 민주화 과정에서도 기존 헌법과 사회·경제 제도가 개혁의 범위를 제약했다고 해석한다. (박구병, 2026, 초록 요약)\n\n① 대처·레이건 시기 신자유주의의 정책 수단을 두 가지 쓰시오. ② 정치 체제의 이행과 경제제도의 변화 속도가 다를 수 있음을 자료로 설명하시오. ③ 칠레와 영미의 비교에서 공통 정책 방향과 다른 정치 조건을 구별하시오.",
+      "modelAnswer": "민영화·규제 완화·복지 축소 등을 들 수 있다. 민주화로 집권 방식이 달라져도 기존 법·제도와 이해관계는 경제 개혁의 범위를 제약할 수 있다. 시장 역할 확대라는 공통 방향을 비교할 수 있지만 칠레의 군부 주도 도입과 영미의 정치 조건을 같다고 볼 수 없으며, 제도의 지속도 민주화 이후 변화가 전혀 없었다는 뜻은 아니다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "정책 수단",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "타당한 수단 한 가지",
+              "points": 1
+            },
+            {
+              "text": "첫 수단과 구별되는 다른 타당한 수단",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "이행과 지속",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "정치적 이행 후에도 기존 법·제도가 개혁을 제약할 수 있음을 설명",
+              "points": 3
+            }
+          ],
+          "allowedScores": [
+            0,
+            3
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "비교의 범위",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "시장 역할 확대라는 공통 정책 방향을 설명",
+              "points": 2
+            },
+            {
+              "text": "칠레의 군부 주도 도입과 영미의 정치 조건을 구별",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringRule": "충족한 요소의 점수를 합산. 동의 표현을 인정하며 이 기준과 무관한 오류를 중복 감점하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003308815"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003308815",
+          "scope": "abstract",
+          "locator": "KCI 논문 상세의 초록(필요시 국문·영문 및 서지 내보내기 AB 항목 대조)"
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-262"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-262",
+          "quote": "① 영국 대처(1979) : 복지 삭감, 민영화, 노조 규제\n② 미국 레이건 : 복지 축소, 규제 철폐, 감세, 통화 긴축",
+          "provenance": "imported-unverified-transcription"
+        }
+      ],
+      "linkedQuestionIds": [
+        "seoyangsa-ext-postwar-change-096",
+        "seoyangsa-ext-postwar-change-299"
+      ],
+      "caution": "칠레의 제도적 지속은 연구자가 제시한 해석으로 제공한다. 헌법 조문이나 현행 칠레 정치에 대한 미확인 지식은 요구하지 않는다. 최근 발표는 출제 확률의 증거가 아니다.",
+      "reviewStatus": "research-based-draft",
+      "forecastConfidence": "not-estimated",
+      "officialGradingStatus": "자체 연습용 10점 기준. 평가원 공식 채점기준 아님."
+    }
+  ],
+  "stats": {
+    "faculty": 6,
+    "bibliographicRecords": 34,
+    "officialProfilePeriodRecords": 26,
+    "coreAbstractReviews": 19,
+    "allCompleteAbstractReads": 21,
+    "partialAbstractReads": 3,
+    "fullTextReads": 0,
+    "predictionEssays": 6
+  },
+  "limitations": [
+    "김덕수·박윤덕의 공식 연도별 업적목록은 미확보. 다른 4명도 페이지 갱신 누락 가능성은 남는다.",
+    "학술 논문의 발행 연도와 웹 등록·수집일을 구별했다. 2026년 10월 3일 이후 미래 발행 자료는 포함하지 않았다.",
+    "실제 출제위원 또는 유력 후보라는 공개 근거는 확인되지 않았다. 명예교수와 재직 교수를 구별했다.",
+    "제시문은 논문 초록의 짧은 재서술이며 논문 전체의 증거 검증을 대신하지 않는다.",
+    "sourcePages는 기존 비공개 교재에서 수입한 전사문의 ID다. 정확 문자열 대조는 원본 사진·학술적 정확성의 전면 검수를 뜻하지 않는다.",
+    "공식 학원 유튜브·블로그의 2027학년도 서양사 전망은 이 조사에서 내용 검증하지 않았다. 추천·적중 주장에 사용하지 않는다.",
+    "KCI 후보 키워드 매칭이나 다수 연구자의 선정 사실을 공식 기출 빈도 또는 예상 출제 확률로 바꾸지 않는다.",
+    "연구 문항은 기존 300문항과 별도이며 자동으로 검증 완료 문제은행에 승격하지 않는다."
+  ],
+  "validation": {
+    "noteQuotes": "모든 evidence.quote가 지정 source note.text에 정확히 포함됨",
+    "questionLinks": "모든 linkedQuestionIds가 기존 서양사 300문항에 존재함",
+    "rubrics": "서술형 6개 모두 기준 3개·합계 10점",
+    "sourceUrls": "대학/학술 DB/학술지 URL만 근거로 수록",
+    "knownBibliographicDiscrepancies": "각 paper.sourceWarnings에 보존"
+  }
+}

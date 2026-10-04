@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "repo": "https://github.com/chaeeun-kim-teacher/smart-textbooks",
+  "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+  "sourceStatus": "imported-unverified",
+  "scanVerified": false,
+  "files": [
+    {
+      "path": "평가원_역사기출_스마트_교재뷰어.html",
+      "sha256": "9ca368c727c7863ccebac5c9cb9376a50f2f8362b55913d8ee4bbe8ea4b4466b",
+      "cards": 311,
+      "importedTextCards": 310,
+      "imageOnlyCards": 0,
+      "nonTextIndexCards": 1
+    },
+    {
+      "path": "서양사_스마트_교재뷰어.html",
+      "sha256": "8d8ca466b8c0e5c1eb11230a4b530196894a795cf3d85622dd5c59eb1a6c83bf",
+      "cards": 294,
+      "importedTextCards": 294,
+      "imageOnlyCards": 0,
+      "nonTextIndexCards": 0
+    },
+    {
+      "path": "서양사기출_스마트_교재뷰어.html",
+      "sha256": "9f778f80d75150d5b73918185a31202e26599a65412e530c5d764a4cde16fabf",
+      "cards": 31,
+      "importedTextCards": 31,
+      "imageOnlyCards": 0,
+      "nonTextIndexCards": 0
+    },
+    {
+      "path": "한국사_스마트_교재뷰어.html",
+      "sha256": "2b63e824cb22079ad83d147db6760bf0efeea322bb6c8b0078c68d86e9b0039c",
+      "cards": 329,
+      "importedTextCards": 329,
+      "imageOnlyCards": 0,
+      "nonTextIndexCards": 0
+    },
+    {
+      "path": "한국사기출_스마트_교재뷰어.html",
+      "sha256": "4c8c9ee76cb71b52c5c72313957343ee78396ed3cb6bf6ad55d0232869d90643",
+      "cards": 75,
+      "importedTextCards": 75,
+      "imageOnlyCards": 0,
+      "nonTextIndexCards": 0
+    },
+    {
+      "path": "동양사_스마트_교재뷰어.html",
+      "sha256": "823eb9b8d53794e71051628380021fe1e01b94039b0ef5367170dadb5896633a",
+      "cards": 176,
+      "importedTextCards": 176,
+      "imageOnlyCards": 0,
+      "nonTextIndexCards": 0
+    },
+    {
+      "path": "동양사기출_스마트_교재뷰어.html",
+      "sha256": "49a01b3bc14d308c7a2949f2173b2e5e44abe32f4612001a3ea7dc425e8721f0",
+      "cards": 30,
+      "importedTextCards": 30,
+      "imageOnlyCards": 0,
+      "nonTextIndexCards": 0
+    },
+    {
+      "path": "역사교육론_스마트_교재뷰어.html",
+      "sha256": "c9877a2cf0ecf056808062dd13db157322211c4c2585b0aedd2ab29aa9923ede",
+      "cards": 120,
+      "importedTextCards": 120,
+      "imageOnlyCards": 0,
+      "nonTextIndexCards": 0
+    },
+    {
+      "path": "역사교육론기출_스마트_교재뷰어.html",
+      "sha256": "44007a7f15f74a9042d4dc6ee78c7fa65c05e0a80c9b970e46a91fd5a635d029",
+      "cards": 37,
+      "importedTextCards": 37,
+      "imageOnlyCards": 0,
+      "nonTextIndexCards": 0
+    }
+  ],
+  "counts": {
+    "newSubjects": 4,
+    "notes": 1092,
+    "handMemoNotes": 75,
+    "examDocumentIndexEntries": 53,
+    "examPdfFilesPresent": 0,
+    "examPageExcerpts": 310
+  },
+  "quality": {
+    "reviewStatus": "needs-review",
+    "flagCounts": {
+      "front-matter": 17,
+      "repeated-lines": 40,
+      "short-text": 15,
+      "source-noise-or-placeholder": 17
+    },
+    "knownIssues": {
+      "dongyangsa-textbook-page-241": [
+        {
+          "id": "ryukyu-capital-naha",
+          "status": "known-discrepancy",
+          "quote": "류큐의 수도 나하",
+          "note": "류큐 왕국의 왕도 슈리와 무역항 나하를 구별해야 합니다. 오키나와현 공식 안내는 슈리성을 왕국의 중심, 나하를 교역항으로 설명합니다. 원문은 보존하되 이 구절은 출제 근거에서 제외합니다.",
+          "referenceUrl": "https://www.pref.okinawa.lg.jp/kyoiku/kodomo/1002705/1002706.html",
+          "referenceTitle": "오키나와현 공식 · 역사 개요"
+        }
+      ],
+      "seoyangsa-textbook-page-234": [
+        {
+          "id": "fdr-election-date",
+          "status": "known-discrepancy",
+          "quote": "루스벨트 당선(1933)",
+          "note": "원문의 당선 연도는 오류가 의심됩니다. FDR은 1932년 대통령 선거에서 당선되었고 1933년 취임했습니다. 가져온 원문은 보존하며 이 구절은 출제 근거에서 제외합니다.",
+          "referenceUrl": "https://www.fdrlibrary.org/fdr-presidency",
+          "referenceTitle": "Franklin D. Roosevelt Presidential Library · FDR's Presidency"
+        }
+      ]
+    },
+    "automaticSourceExamEligibility": false
+  },
+  "questionBoundaryVerified": false,
+  "examAnswerVerified": false
+}

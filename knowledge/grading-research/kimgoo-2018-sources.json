@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "scope": "교재 저자 김태규·구영모팀 공개 채점기준표와 최근 해설 안내",
+  "accessedDate": "2026-10-03",
+  "summary": {
+    "attemptedSources": 3,
+    "primaryContentUsed": 1,
+    "historySpecificPrimaryContentUsed": 1,
+    "officialExamRubricsFound": 0
+  },
+  "sources": [
+    {
+      "id": "kimgoo-2018-history-answer-key",
+      "title": "김구 임용 김태규·구영모팀 2018학년도 역사 모범답안",
+      "url": "https://att.pmg.co.kr/EtcData/board/2656/%EA%B9%80%ED%83%9C%EA%B7%9C,%EA%B5%AC%EC%98%81%EB%AA%A8%20%EC%A0%84%EA%B3%B5%EC%97%AD%EC%82%AC%202018%ED%95%99%EB%85%84%EB%8F%84%20%EA%B8%B0%EC%B6%9C%EB%AA%A8%EB%B2%94%EB%8B%B5%EC%95%88%20%EB%B0%8F%20%ED%95%B4%EC%84%A4.pdf",
+      "publisher": "박문각 임용 자료실",
+      "author": "김태규·구영모 전공역사팀(지면 머리글 확인)",
+      "publishedDate": null,
+      "dateEvidence": "2018학년도 시험(2017년 시행) 해설. 게시일은 확인하지 않음.",
+      "accessedDate": "2026-10-03",
+      "sourceType": "academy-history-answer-key",
+      "officialExamRubric": false,
+      "accessStatus": "primary-pdf-text-read",
+      "reviewedScope": "A형·B형 채점기준 표 전체 텍스트. 표 정렬은 렌더로 대조하지 않음.",
+      "evidence": [
+        {
+          "locator": "A형 1~4번",
+          "finding": "단답형을 칸별로 배점(1/1, 1/0.5/0.5)하고 인정 답안 열에 짧은 표기·다른 이름과 '순서 유의'를 적는다.",
+          "principle": "단답형은 칸별로 채점하고 인정 표기를 문항별로 명시한다."
+        },
+        {
+          "locator": "A형 12~14번, B형 1·6·7번",
+          "finding": "서술형 4~5점을 요구 조건마다 1점으로 배분하고 설명 요소는 폭넓게 인정하거나 '논의 필요'로 표시한다.",
+          "principle": "요구 조건 하나에 독립 기준 하나를 두고, 판단이 갈리는 답은 재검토로 남긴다."
+        },
+        {
+          "locator": "B형 8번(당시 논술형)",
+          "finding": "내용 요소 2/2/2/3점과 논리적 형식 1점을 나누고 비슷한 맥락의 표현을 인정한다.",
+          "principle": "내용 기준과 형식 기준을 섞지 않는다."
+        }
+      ],
+      "caveats": [
+        "학원의 추정 채점표이며 평가원 기준이 아니다.",
+        "한 해의 사례이므로 0.5점 단위와 인정 범위를 전 문항 공통 규칙으로 쓰지 않는다."
+      ],
+      "implementationUse": "예상 문항 루브릭을 요구 조건별 독립 기준·문항별 인정 표현으로 작성하는 설계 참고.",
+      "prohibitedUse": "학원 인정 답안을 실제 정답으로 확정하거나 표를 복제하지 않는다.",
+      "directQuotes": []
+    },
+    {
+      "id": "ssamplus-kimgoo-2026-explanation-listing",
+      "title": "2026학년도 전공역사 기출해설(김태규·구영모) 강좌 안내",
+      "url": "https://www.ssamplus.com/course/?sch_divcd=0405&sch_profseq=342&sch_tabs=on-lec",
+      "publisher": "KG에듀원 희소/쌤플러스",
+      "author": "김태규·구영모",
+      "publishedDate": null,
+      "dateEvidence": "강좌 소개 문구 확인. 해설 영상은 2025-12-03 공개로 검색되었으나 원본을 열지 않음.",
+      "accessedDate": "2026-10-03",
+      "sourceType": "academy-course-listing",
+      "officialExamRubric": false,
+      "accessStatus": "listing-only",
+      "reviewedScope": "강좌 소개와 저자 약력(희소고시학원 전공역사 전임교수, 교재 '선생님을 위한 시리즈 1~4').",
+      "evidence": [],
+      "caveats": [
+        "가답안과 수강생 180명 답안 복기를 포함했다는 안내만 확인했다. 해설 본문·영상은 읽지 않았다."
+      ],
+      "implementationUse": "교재 저자와 최신 해설의 존재 기록.",
+      "prohibitedUse": "읽지 않은 해설 내용을 채점 근거로 쓰지 않는다.",
+      "directQuotes": []
+    },
+    {
+      "id": "pmg-leeheemyeong-2026-channel-listing",
+      "title": "박문각임용 공식 채널 전공역사 이희명팀 영상 목록",
+      "url": "https://www.youtube.com/channel/UCU8LiiiemAZD18vu1AKhMOw",
+      "publisher": "박문각임용",
+      "author": "이희명팀(이희명·김기배·서익환 외)",
+      "publishedDate": null,
+      "dateEvidence": "채널 목록의 2026년 강좌 맛보기 영상 제목만 확인.",
+      "accessedDate": "2026-10-03",
+      "sourceType": "academy-video-listing",
+      "officialExamRubric": false,
+      "accessStatus": "listing-only",
+      "reviewedScope": "채널 소개와 최근 영상 제목.",
+      "evidence": [],
+      "caveats": [
+        "영상 자막·음성을 확인하지 않았다."
+      ],
+      "implementationUse": "조사 범위 기록.",
+      "prohibitedUse": "영상 내용을 확인한 것처럼 인용하지 않는다.",
+      "directQuotes": []
+    }
+  ]
+}

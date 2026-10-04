@@ -4,11 +4,14 @@ import ExamBar, { ExamFrame } from "./ExamBar.jsx";
 import { After, Mark } from "./noteMark.jsx";
 import { clean, usable, scoreLocal } from "./text.js";
 import { useExamPlay } from "./guide-mode.jsx";
+import { useSubject } from "./subjects.jsx";
+import BankStatus from "./BankStatus.jsx";
 
 const shortQuestions = list => list.filter(x => x.type === "blank" && usable(x)).map(x => ({ ...x, type: "short" }));
 
 export default function Short() {
-  const bank = useQuestionBank("/data/questions.json", shortQuestions);
+  const { dataFile } = useSubject();
+  const bank = useQuestionBank(dataFile("questions"), shortQuestions);
   const { q, value: val, setValue: setVal, result, setResult } = bank;
   useExamPlay({ q, setVal, setResult, kind: "short" });
   function grade() {
@@ -26,7 +29,7 @@ export default function Short() {
   return (
     <Chrome title="단답형">
       <ExamFrame>
-        {bank.error && <p role="alert">{bank.error}</p>}
+        <BankStatus bank={bank} />
         {q && (
           <div className="card q" data-guide="result">
             <h3>{clean(q.prompt)}</h3>

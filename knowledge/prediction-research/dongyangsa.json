@@ -1,0 +1,1379 @@
+{
+  "schemaVersion": 1,
+  "subject": "dongyangsa",
+  "examYear": 2027,
+  "asOf": "2026-10-03",
+  "purpose": "공개 연구를 이용한 자료 해석 심화 연습. 실제 출제위원 명단 또는 출제확률 예측이 아님.",
+  "faculty": [
+    {
+      "id": "kim-byungjoon",
+      "name": "김병준",
+      "affiliation": "서울대학교 인문대학 역사학부 동양사학전공",
+      "position": "교수",
+      "researchArea": "중국 고대사",
+      "officialProfileUrl": "https://asianhistory.snu.ac.kr/snu__professor/%EA%B9%80%EB%B3%91%EC%A4%80/",
+      "affiliationCheckedAt": "2026-10-03",
+      "selectionReason": "전공 범위 및 최근 공개 연구와 교재 주제의 연결성",
+      "examSetterStatus": "확인되지 않음. 연구 참고 인물이며 출제위원 또는 유력 후보라는 의미가 아님.",
+      "profileBibliographyCount": 18,
+      "bibliographyScope": "공식 프로필 논문·외국문 논문·관련 서평 목록에 표시된 2021~2026 항목. 저서·역서 및 지도학생 실적 제외. 해당 연구자의 전체 발표 실적임을 보증하지 않음."
+    },
+    {
+      "id": "cho-sungwu",
+      "name": "조성우",
+      "affiliation": "서울대학교 인문대학 역사학부 동양사학전공",
+      "position": "부교수",
+      "researchArea": "중국 중세사·종교사",
+      "officialProfileUrl": "https://asianhistory.snu.ac.kr/snu__professor/%EC%A1%B0%EC%84%B1%EC%9A%B0/",
+      "affiliationCheckedAt": "2026-10-03",
+      "selectionReason": "전공 범위 및 최근 공개 연구와 교재 주제의 연결성",
+      "examSetterStatus": "확인되지 않음. 연구 참고 인물이며 출제위원 또는 유력 후보라는 의미가 아님.",
+      "profileBibliographyCount": 5,
+      "bibliographyScope": "공식 프로필 논문·외국문 논문·관련 서평 목록에 표시된 2021~2026 항목. 저서·역서 및 지도학생 실적 제외. 해당 연구자의 전체 발표 실적임을 보증하지 않음."
+    },
+    {
+      "id": "koo-bumjin",
+      "name": "구범진",
+      "affiliation": "서울대학교 인문대학 역사학부 동양사학전공",
+      "position": "교수",
+      "researchArea": "중국 명·청사·동아시아 국제관계",
+      "officialProfileUrl": "https://asianhistory.snu.ac.kr/snu__professor/%EA%B5%AC%EB%B2%94%EC%A7%84/",
+      "affiliationCheckedAt": "2026-10-03",
+      "selectionReason": "전공 범위 및 최근 공개 연구와 교재 주제의 연결성",
+      "examSetterStatus": "확인되지 않음. 연구 참고 인물이며 출제위원 또는 유력 후보라는 의미가 아님.",
+      "profileBibliographyCount": 10,
+      "bibliographyScope": "공식 프로필 논문·외국문 논문·관련 서평 목록에 표시된 2021~2026 항목. 저서·역서 및 지도학생 실적 제외. 해당 연구자의 전체 발표 실적임을 보증하지 않음."
+    },
+    {
+      "id": "lee-wonjune",
+      "name": "이원준",
+      "affiliation": "서울대학교 인문대학 역사학부 동양사학전공",
+      "position": "부교수",
+      "researchArea": "중국 근현대사",
+      "officialProfileUrl": "https://asianhistory.snu.ac.kr/snu__professor/%EC%9D%B4%EC%9B%90%EC%A4%80/",
+      "affiliationCheckedAt": "2026-10-03",
+      "selectionReason": "전공 범위 및 최근 공개 연구와 교재 주제의 연결성",
+      "examSetterStatus": "확인되지 않음. 연구 참고 인물이며 출제위원 또는 유력 후보라는 의미가 아님.",
+      "profileBibliographyCount": 14,
+      "bibliographyScope": "공식 프로필 논문·외국문 논문·관련 서평 목록에 표시된 2021~2026 항목. 저서·역서 및 지도학생 실적 제외. 해당 연구자의 전체 발표 실적임을 보증하지 않음."
+    },
+    {
+      "id": "park-hun",
+      "name": "박훈",
+      "affiliation": "서울대학교 인문대학 역사학부 동양사학전공",
+      "position": "교수",
+      "researchArea": "일본 근현대 정치사",
+      "officialProfileUrl": "https://asianhistory.snu.ac.kr/snu__professor/%EB%B0%95%ED%9B%88/",
+      "affiliationCheckedAt": "2026-10-03",
+      "selectionReason": "전공 범위 및 최근 공개 연구와 교재 주제의 연결성",
+      "examSetterStatus": "확인되지 않음. 연구 참고 인물이며 출제위원 또는 유력 후보라는 의미가 아님.",
+      "profileBibliographyCount": 1,
+      "bibliographyScope": "공식 프로필 논문·외국문 논문·관련 서평 목록에 표시된 2021~2026 항목. 저서·역서 및 지도학생 실적 제외. 해당 연구자의 전체 발표 실적임을 보증하지 않음."
+    },
+    {
+      "id": "park-sucheol",
+      "name": "박수철",
+      "affiliation": "서울대학교 인문대학 역사학부 동양사학전공",
+      "position": "교수",
+      "researchArea": "일본 중세·근세사",
+      "officialProfileUrl": "https://asianhistory.snu.ac.kr/snu__professor/%EB%B0%95%EC%88%98%EC%B2%A0/",
+      "affiliationCheckedAt": "2026-10-03",
+      "selectionReason": "전공 범위 및 최근 공개 연구와 교재 주제의 연결성",
+      "examSetterStatus": "확인되지 않음. 연구 참고 인물이며 출제위원 또는 유력 후보라는 의미가 아님.",
+      "profileBibliographyCount": 6,
+      "bibliographyScope": "공식 프로필 논문·외국문 논문·관련 서평 목록에 표시된 2021~2026 항목. 저서·역서 및 지도학생 실적 제외. 해당 연구자의 전체 발표 실적임을 보증하지 않음."
+    },
+    {
+      "id": "chong-soonil",
+      "name": "정순일",
+      "affiliation": "고려대학교 사범대학 역사교육과",
+      "position": "교수",
+      "researchArea": "일본 고대사·해역교류사·역사교육",
+      "officialProfileUrl": "https://faculty.korea.ac.kr/kufaculty/taijired/index.do",
+      "affiliationCheckedAt": "2026-10-03",
+      "selectionReason": "전공 범위 및 최근 공개 연구와 교재 주제의 연결성",
+      "examSetterStatus": "확인되지 않음. 연구 참고 인물이며 출제위원 또는 유력 후보라는 의미가 아님.",
+      "profileBibliographyCount": 8,
+      "bibliographyScope": "공식 프로필 논문·외국문 논문·관련 서평 목록에 표시된 2021~2026 항목. 저서·역서 및 지도학생 실적 제외. 해당 연구자의 전체 발표 실적임을 보증하지 않음."
+    }
+  ],
+  "papers": [
+    {
+      "id": "dy-p01",
+      "author": "김병준",
+      "year": 2023,
+      "title": "진한(秦漢)시기 조령(詔令)의 반포와 령(令)의 정비",
+      "journal": "인문논총 80(2), 7–61",
+      "doi": "10.17326/jhsnu.80.2.202305.7",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002966363",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "출토 간독을 통해 황제 명령이 실무 기관으로 전달된 뒤 생략·결합·분류·발췌되는 과정을 논한다. 중앙집권과 실무 문서의 일률적 편찬을 동일시하기 어렵다는 관점이다.",
+      "examApplication": "군현제의 임면권과 지방 관서의 문서 정리 권한을 구분하는 자료 적용.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-006",
+        "dongyangsa-ext-essay-003"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p02",
+      "author": "김병준",
+      "year": 2025,
+      "title": "『사기』 유전(類傳) 속의 주연과 조연 — 『사기』 권86 「자객열전」의 서사 분석",
+      "journal": "인문논총 82(2), 139–185",
+      "doi": "10.17326/jhsnu.82.2.202505.139",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003210591",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "자객열전의 인물 배치와 상호 대비를 중심으로 형가의 실패를 설명하는 사마천의 서사 전략을 분석한다. 사서의 배열도 해석을 구성하는 요소라는 점을 보여준다.",
+      "examApplication": "사료가 사건을 단순 나열한다고 가정하지 않고 인물 배치·비교 방식 검토.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-essay-002"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p03",
+      "author": "조성우",
+      "year": 2024,
+      "title": "上章 의례를 통해 본 도교 의례 문서의 특징 — 鎭墓 기물과 天師道를 보는 한 시각",
+      "journal": "목간과문자 32, 71–102",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003101783",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "진묘문과 천사도 상장 의례 사이의 문서·관료제적 표현의 연속성과 차이를 논한다. 문서 형식의 유사성만으로 동일 교단에 속한다고 판정할 수 없다고 본다.",
+      "examApplication": "도교 성립에서 민간 의례와 체계화된 교단을 구분하는 비교 자료.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-essay-005"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p04",
+      "author": "조성우",
+      "year": 2022,
+      "title": "北齊 시기 山東 摩崖 刻經의 종교적 배경에 대한 재검토 — 末法思想 형성과정의 이해를 위하여",
+      "journal": "동양사학연구 158, 99–135",
+      "doi": "10.17856/jahs.2022.3.158.099",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002829548",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "북제 각경을 북주 무제의 폐불이나 완성된 삼시관에 바로 연결하는 해석을 재검토한다. 제작 연대와 당시 용어의 의미를 구별해야 한다고 주장한다.",
+      "examApplication": "인과관계를 제시하기 전에 선후관계와 개념의 당대성을 확인하는 문항.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-essay-005"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p05",
+      "author": "조성우",
+      "year": 2022,
+      "title": "『南嶽思大禪師立誓願文』과 ‘末法’ — 6세기 중엽 중국 불교 末法思想 관련 자료의 재검토",
+      "journal": "중국고중세사연구 63, 73–104",
+      "doi": "10.15840/amch.2022..63.003",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002819122",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "현전 서원문과 한역 경전의 시기·내용을 대조해 현재 남은 판본을 6세기 원형 그대로 취급하는 관행에 문제를 제기한다. 법 소멸에 대한 걱정과 정·상·말법의 삼시관도 구분한다.",
+      "examApplication": "사료 성립 시기와 후대 전승·가필 가능성을 구별하는 연습.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-essay-005"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p06",
+      "author": "구범진",
+      "year": 2024,
+      "title": "명 영락제의 베트남 침공(1406–1407)과 『명태종실록』의 기록 조작",
+      "journal": "명청사연구 61, 1–32",
+      "doi": "10.31329/jmhs.2024..61.001",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003078754",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "베트남 병합을 불가피한 결과로 설명한 명실록의 서사를 다른 조서와 대조한다. 저자는 편찬 과정의 날짜 변경·내용 수정이 정복의 정당화와 관련된다고 주장한다.",
+      "examApplication": "공식 사서와 동시대 명령 문서의 작성 목적·시차를 비교.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-031",
+        "dongyangsa-ext-essay-028"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p07",
+      "author": "구범진",
+      "year": 2024,
+      "title": "1635–36년 後金의 政變과 汗-버일러 관계의 변화: 병자호란 발발의 배경과 관련하여",
+      "journal": "동아문화 61, 51–95",
+      "doi": null,
+      "url": "https://s-space.snu.ac.kr/bitstream/10371/232348/1/2.1635-36%EB%85%84%20%E5%BE%8C%E9%87%91%EC%9D%98%20%E6%94%BF%E8%AE%8A%EA%B3%BC%20%E6%B1%97-%EB%B2%84%EC%9D%BC%EB%9F%AC%20%EA%B4%80%EA%B3%84%EC%9D%98%20%EB%B3%80%ED%99%94%20%EB%B3%91%EC%9E%90%ED%98%B8%EB%9E%80%20%EB%B0%9C%EB%B0%9C%EC%9D%98%20%EB%B0%B0%EA%B2%BD%EA%B3%BC%20%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC.pd.pdf",
+      "readScope": "abstract",
+      "readDetails": "대학 저장소에 공개된 PDF 말미 영문 초록(p.95)을 확인. 전문 미검토. 저장소 자동 문서 열기는 로딩 화면을 반환하여 검색에 노출된 초록을 읽었다.",
+      "retrievedAt": "2026-10-03",
+      "summary": "후금 내부에서 한과 버일러의 관계가 바뀐 과정을 홍타이지의 칭제와 조선에 대한 군신관계 요구에 연결한다. 국내 권력 구조와 국제질서를 함께 해석하는 관점이다.",
+      "examApplication": "대외정책을 국내 정치 변화와 연결하는 인과 논증.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-essay-014"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p08",
+      "author": "이원준",
+      "year": 2021,
+      "title": "마오쩌둥의 세계 인식과 ‘中間地帶論’의 變奏(1946–76)",
+      "journal": "중국근현대사연구 90, 215–242",
+      "doi": "10.29323/mchina.2021.6.90.215",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002737919",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "중간지대론의 의미가 1946년, 건국 이후, 중소 갈등기, 1970년대에 어떻게 달라졌는지 검토한다. 소련 중심의 두 진영 구도에서 벗어나는 인식 변화를 강조한다.",
+      "examApplication": "중소 동맹·갈등·미중 접근의 시계열을 냉전의 고정된 진영 구도와 비교.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-essay-018",
+        "dongyangsa-ext-mc-051"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p09",
+      "author": "이원준",
+      "year": 2022,
+      "title": "왕광치(王光祈)의 무정부주의와 오사운동(五四運動) 시기의 소규모 공동체 실험",
+      "journal": "중국학연구 100, 755–796",
+      "doi": "10.36493/JCS.100.24",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002846716",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "공독호조단 등 공동체 실험을 대중정당 정치로 가는 실패한 중간 단계로만 보는 설명을 재검토한다. 왕광치가 노동과 상호부조의 이상을 이어 간 점에 주목한다.",
+      "examApplication": "신문화운동과 오사운동 이후 사상적 선택의 복수성을 비교.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-045",
+        "dongyangsa-ext-mc-046",
+        "dongyangsa-ext-essay-017"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p10",
+      "author": "박수철",
+      "year": 2023,
+      "title": "血統과 器量으로 본 16세기 일본 ‘高名사회’",
+      "journal": "동양사학연구 164, 165–196",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003006383",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "전국시대의 공명·기량 추구가 신분 상승의 통로를 열었지만 가격·혈통 질서를 완전히 대체하지 않았다고 논한다. 관위가 두 원리의 조정에 작용했다는 해석이다.",
+      "examApplication": "전국시대 사회 이동과 통일 정권의 병농분리를 변화·연속성 양면에서 비교.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-066",
+        "dongyangsa-ext-mc-067",
+        "dongyangsa-ext-essay-021"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p11",
+      "author": "박수철",
+      "year": 2022,
+      "title": "오다 노부나가의 神格化 — 『信長公記』를 중심으로",
+      "journal": "동양사학연구 161, 231–261",
+      "doi": "10.17856/jahs.2022.12.161.231",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002921259",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "신장공기를 중심으로 노부나가의 권위가 신불·천황의 권위와 연결된 간접적 신격화 양상을 검토한다. 단순한 신격화 성공·실패의 이분법을 피한다.",
+      "examApplication": "무사 정권의 군사적 강제력과 종교·의례의 정당화 기능 구분.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-065",
+        "dongyangsa-ext-essay-021"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p12",
+      "author": "박훈",
+      "year": 2024,
+      "title": "幕末期幕府権力をどう見るか — 「幕閣」という謎",
+      "journal": "東京大学史料編纂所研究紀要 34, 103–109",
+      "doi": null,
+      "url": "https://www.hi.u-tokyo.ac.jp/publication/kiyo/34/kiyo0034-12.pdf",
+      "readScope": "fulltext-excerpt",
+      "readDetails": "발행기관 공개 PDF의 서론·결론 발췌(pp.103,109)를 읽음. 전편 정독으로 집계하지 않음.",
+      "retrievedAt": "2026-10-03",
+      "summary": "변혁을 주도한 세력에만 시선을 두기보다 막각이 유지한 정책 결정 권한과 제도적 저항을 검토하자는 문제를 제기한다. 사후 승자의 시각이 연구 대상 선정에 미치는 영향도 지적한다.",
+      "examApplication": "막말 정치를 개혁파·수구파 두 집단의 대결로만 설명하는 한계 검토.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-072",
+        "dongyangsa-ext-mc-073"
+      ],
+      "caution": "서론·결론 발췌만 확인. 동경대 발행물은 2024년 3월이고 SNU 인문대 별도 프로필은 2024년 1월로 기재하여 월 정보 차이가 있음. 본 파일은 발행기관을 따른다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p13",
+      "author": "정순일",
+      "year": 2022,
+      "title": "한일 역사교과서는 입당승·입송승을 어떻게 서술하고 있는가 — ‘견당사 정지-국풍문화 발달’ 문맥과의 관련성에 주목하여",
+      "journal": "일본역사연구 59, 135–172",
+      "doi": "10.24939/KJH.2022.12.59.135",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002911535",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "한일 고교 교과서의 도해승 서술이 견당사 정지·국풍문화 설명과 어떻게 연결되는지 분석하는 연구이다. 초록에는 연구 목적과 분석 범위가 주로 제시된다.",
+      "examApplication": "국가 사절 중단을 모든 교류 중단으로 확대하지 않는 탐구 질문.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-essay-020",
+        "dongyangsa-ext-essay-022"
+      ],
+      "caution": "초록은 연구 목적 중심이다. 교과서별 분석 결과나 저자의 구체적 평가를 읽은 것처럼 단정하지 않는다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p14",
+      "author": "정순일",
+      "year": 2023,
+      "title": "신안선(新安船)을 활용한 동아시아 해역교류사 학습 방안의 탐색",
+      "journal": "역사교육논집 82, 129–188",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002934525",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "신안선과 목간을 13~14세기 동아시아 해역 교류를 배우는 자료로 삼는 방안을 탐색한다. 일본 중세사의 맥락과 한국사·일본사의 연계를 강조한다.",
+      "examApplication": "유물의 이동 경로와 교역 참여자를 구별하는 자료 탐구.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-030",
+        "dongyangsa-ext-essay-012",
+        "dongyangsa-ext-essay-022"
+      ],
+      "caution": "연구의 해석과 교재의 기본 사실을 구별한다. 이 논문이 실제 출제된다는 근거는 없다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p15",
+      "author": "정순일",
+      "year": 2024,
+      "title": "고대 일본의 역법(曆法) 수용 루트 — 오기력과 선명력을 중심으로",
+      "journal": "사총 111, 223–248",
+      "doi": "10.16957/sa..111.202401.223",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048786",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "오기력·선명력의 이동에서 신라·발해의 역할을 살핀다. 단순 전달과 현지에서 소화된 지식의 교류를 구분하며 오기력 전래 주체에 관해서는 가능성을 제시한다.",
+      "examApplication": "중국에서 일본으로의 일방 전파 도식 대신 복수 경로·능동적 수용 검토.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-056",
+        "dongyangsa-ext-essay-019"
+      ],
+      "caution": "김암을 전래의 유일한 주역으로 확정하지 않는다. 저자도 가능성으로 제시한다.",
+      "coreReview": true
+    },
+    {
+      "id": "dy-p16",
+      "author": "정순일",
+      "year": 2026,
+      "title": "신안선 검출 자단목의 문자･문양 자료: 파스파 문자와 일본 중세 무사 가문(家紋)을 중심으로",
+      "journal": "아세아연구 69(1), 325–356 (2026.03)",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003334247",
+      "readScope": "abstract",
+      "readDetails": "공개 초록 전체를 읽음. 전문의 논증·주석·사료 대조는 미검토.",
+      "retrievedAt": "2026-10-03",
+      "summary": "자단목 표식을 파스파 문자 및 일본 무사 가문 문양과 연결할 가능성을 검토한다. 신안선을 여러 집단이 참여한 해역 교류망에서 보자는 제안이다.",
+      "examApplication": "표식 하나의 판독을 확정 사실로 취급하지 않고 비교 자료를 요구하는 탐구.",
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-030",
+        "dongyangsa-ext-essay-012"
+      ],
+      "caution": "KCI에서 비정규논문으로 분류. 표식·가문 대응은 가능성 수준의 해석이며 확정 정답으로 사용하지 않는다. 2026년 3월 발행 확인.",
+      "coreReview": true
+    }
+  ],
+  "predictions": [
+    {
+      "id": "dongyangsa-research-essay-001",
+      "type": "essay",
+      "title": "진한의 중앙집권과 법령의 실무 운용",
+      "priority": "연구 기반 심화 연습",
+      "forecastConfidence": "출제 확률 산정 불가",
+      "prompt": "[연구 관점] 출토 간독을 검토한 연구는 황제 명령이 실무 관서에 전달된 뒤 업무에 맞게 생략·결합·분류되었으며, 말단 관원도 필요한 부분을 발췌했다고 본다.\n(1) 진의 군현제에서 지방관의 임명과 세습 여부를 서술하시오. (2) 제시된 관점에서 지방 관서의 문서 정리와 법령의 권위가 각각 어디에 속하는지 구분하시오. (3) “중앙집권이므로 모든 관서가 동일한 완성 법전을 그대로 사용했다”라는 추론의 한계와 이를 검증할 추가 자료 대조 방법을 설명하시오.",
+      "modelAnswer": "진의 군현 관리는 중앙에서 파견되었고 황제가 임면권을 가졌으며 세습하지 못했다. 제시된 관점에서 명령의 권위는 황제에게 있었지만 이를 업무용 문서로 정리·발췌하는 작업은 실무 관서에서 이루어졌다. 인사와 명령의 중앙집권은 문서 편찬 방식의 획일성을 자동으로 뜻하지 않으므로, 실제 간독의 편집 흔적과 관서별 구성을 대조해야 한다.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "군현제의 인사 원리",
+          "max": 3,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "description": "중앙 파견·황제 임면권·세습 불가를 제시한다.",
+          "checkpoints": [
+            {
+              "text": "중앙 파견",
+              "points": 1
+            },
+            {
+              "text": "황제 임면권",
+              "points": 1
+            },
+            {
+              "text": "세습 불가",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "중앙 파견",
+            "황제 임면권",
+            "세습 불가"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p01"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c2",
+          "label": "권위와 실무의 구분",
+          "max": 3,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "description": "황제 명령의 권위와 실무 관서의 정리 작업을 구별한다.",
+          "checkpoints": [
+            {
+              "text": "명령의 권위는 황제",
+              "points": 1
+            },
+            {
+              "text": "정리·발췌는 실무 관서",
+              "points": 1
+            },
+            {
+              "text": "정리 권한을 독립적 입법권과 구분",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "명령의 권위는 황제",
+            "정리·발췌는 실무 관서",
+            "정리 권한을 독립적 입법권과 구분"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p01"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c3",
+          "label": "추론의 한계",
+          "max": 4,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "description": "중앙집권과 편찬 획일성을 구분하고 추가 검증 방법을 제시한다.",
+          "checkpoints": [
+            {
+              "text": "인사·명령과 문서 형식은 다른 층위",
+              "points": 2
+            },
+            {
+              "text": "간독의 편집 흔적 대조",
+              "points": 1
+            },
+            {
+              "text": "관서별 자료 비교",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "인사·명령과 문서 형식은 다른 층위",
+            "간독의 편집 흔적 대조",
+            "관서별 자료 비교"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p01"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        }
+      ],
+      "maxScore": 10,
+      "paperIds": [
+        "dy-p01"
+      ],
+      "paperReadScopes": [
+        {
+          "id": "dy-p01",
+          "readScope": "abstract"
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-32"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-32",
+          "quote": "㉣ 파견 : 군·현의 관리는 중앙에서 파견, 세습 불가, 황제의 임면권 장악"
+        }
+      ],
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-006",
+        "dongyangsa-ext-essay-003"
+      ],
+      "caution": "령의 운용에 대한 특정 논문의 관점을 제시문 안에 제공했다. 지방 정리 관행을 지방의 독립적 입법권으로 확대하지 않는다.",
+      "passageProvenance": "논문 초록의 관점을 바탕으로 새로 작성한 연습용 요약. 역사 사료 원문 또는 논문 직접 인용이 아님.",
+      "automaticExamEligible": false
+    },
+    {
+      "id": "dongyangsa-research-essay-002",
+      "type": "essay",
+      "title": "북조 불교 자료에서 선후관계와 개념 구분",
+      "priority": "연구 기반 심화 연습",
+      "forecastConfidence": "출제 확률 산정 불가",
+      "prompt": "[연구 관점] 한 연구는 북제 산동의 일부 마애 각경이 북주 무제의 폐불 이전부터 제작되었다고 지적한다. 또한 경전이 사라질 수 있다는 우려와 정법·상법·말법으로 나눈 삼시관은 구분해야 한다고 본다.\n(1) 교재에 제시된 북조 국가와 불교의 관계가 일정하지 않았음을 서술하시오. (2) “북주 무제의 폐불이 북제 각경 전체를 처음 발생시켰다”라는 설명을 연대에 근거해 비판하시오. (3) 경전 소멸 우려만으로 완성된 삼시관의 보급을 입증할 수 없는 이유와 필요한 추가 자료를 서술하시오.",
+      "modelAnswer": "북조에서는 불교 탄압과 국가 차원의 불교 보호가 교차했다. 제시문대로 폐불 이전의 각경이 있다면 후대 사건을 모든 각경의 발생 원인으로 삼을 수 없다. 경전 소멸의 우려는 일반적인 종교적 위기의식일 수 있어 정법·상법·말법의 체계적 구분과 같지 않다. 삼시의 명칭·기간·현시대 판정이 명시되고 성립 연대가 확인되는 당시 자료를 대조해야 한다.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "국가·불교 관계의 변화",
+          "max": 3,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "description": "탄압과 국가적 보호가 교차했음을 설명한다.",
+          "checkpoints": [
+            {
+              "text": "폐불",
+              "points": 1
+            },
+            {
+              "text": "국가 불교화",
+              "points": 1
+            },
+            {
+              "text": "시기별 변동",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "폐불",
+            "국가 불교화",
+            "시기별 변동"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p04",
+            "dy-p05"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c2",
+          "label": "연대에 기초한 비판",
+          "max": 3,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "description": "원인으로 든 사건보다 앞선 사례가 있음을 지적한다.",
+          "checkpoints": [
+            {
+              "text": "폐불 이전 제작",
+              "points": 1
+            },
+            {
+              "text": "후대 사건으로 전체 발생 설명 불가",
+              "points": 1
+            },
+            {
+              "text": "기존 각경과 이후 각경 구분",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "폐불 이전 제작",
+            "후대 사건으로 전체 발생 설명 불가",
+            "기존 각경과 이후 각경 구분"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p04",
+            "dy-p05"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c3",
+          "label": "개념과 검증 자료",
+          "max": 4,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "description": "일반 위기의식과 삼시관을 구분하고 당대 자료를 요구한다.",
+          "checkpoints": [
+            {
+              "text": "법 소멸 우려와 삼시관 구분",
+              "points": 2
+            },
+            {
+              "text": "삼시의 명칭·구조 확인",
+              "points": 1
+            },
+            {
+              "text": "자료의 성립 연대 검증",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "법 소멸 우려와 삼시관 구분",
+            "삼시의 명칭·구조 확인",
+            "자료의 성립 연대 검증"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p04",
+            "dy-p05"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        }
+      ],
+      "maxScore": 10,
+      "paperIds": [
+        "dy-p04",
+        "dy-p05"
+      ],
+      "paperReadScopes": [
+        {
+          "id": "dy-p04",
+          "readScope": "abstract"
+        },
+        {
+          "id": "dy-p05",
+          "readScope": "abstract"
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-84"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-84",
+          "quote": "• 국가의 입장 변동 : 폐불(廢佛) 사건과 국가 불교화 교차 진행"
+        }
+      ],
+      "linkedQuestionIds": [
+        "dongyangsa-ext-essay-005"
+      ],
+      "caution": "제시된 연구 관점을 적용하는 문제이다. 북조 불교 전체에 위기의식이 없었다는 결론을 요구하지 않는다.",
+      "passageProvenance": "논문 초록의 관점을 바탕으로 새로 작성한 연습용 요약. 역사 사료 원문 또는 논문 직접 인용이 아님.",
+      "automaticExamEligible": false
+    },
+    {
+      "id": "dongyangsa-research-essay-003",
+      "type": "essay",
+      "title": "영락제의 베트남 침공과 공식 기록의 비판",
+      "priority": "연구 기반 심화 연습",
+      "forecastConfidence": "출제 확률 산정 불가",
+      "prompt": "[연구 관점] 한 연구는 영락제가 쩐 왕조의 복구를 내세웠지만 베트남을 병합했다는 점에 주목한다. 저자는 명태종실록의 관련 기록과 원정 지휘관에게 보낸 명령을 비교하여 병합의 경위가 편찬 과정에서 정당화되었다고 해석한다.\n(1) 교재에 제시된 명의 정복 뒤 통치 기구를 쓰시오. (2) 복구라는 명분과 병합이라는 결과 사이의 차이를 서술하시오. (3) 이 해석을 검증하기 위해 두 자료의 작성 시점·대상·목적을 어떻게 비교할지 제안하시오.",
+      "modelAnswer": "명은 호 왕조를 멸망시키고 교지포정사사를 설치했다. 왕조 복구를 표방한 명분은 정복지를 직접 통치한 결과와 차이가 있다. 후대에 편찬한 실록과 원정 중 지휘관에게 전달한 명령의 작성 시점, 예상 독자, 정책 지시·왕조 정당화라는 목적을 비교하고, 같은 사건의 날짜와 명령 내용이 달라지는지 대조해야 한다. 관찬 기록이라는 이유만으로 무조건 믿거나 모두 거짓이라고 보아서는 안 된다.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "통치 기구",
+          "max": 3,
+          "allowedScores": [
+            0,
+            3
+          ],
+          "description": "교지포정사사를 정확히 제시한다.",
+          "checkpoints": [
+            {
+              "text": "교지포정사사",
+              "points": 3
+            }
+          ],
+          "acceptedConcepts": [
+            "교지포정사사"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p06"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c2",
+          "label": "명분과 결과",
+          "max": 3,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "description": "쩐 왕조 복구와 명의 병합·직접 지배를 대조한다.",
+          "checkpoints": [
+            {
+              "text": "왕조 복구 명분",
+              "points": 1
+            },
+            {
+              "text": "병합·직접 통치 결과",
+              "points": 1
+            },
+            {
+              "text": "둘의 불일치",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "왕조 복구 명분",
+            "병합·직접 통치 결과",
+            "둘의 불일치"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p06"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c3",
+          "label": "사료 비판 절차",
+          "max": 4,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "description": "시점·수신 대상·목적·내용 대조를 제시한다.",
+          "checkpoints": [
+            {
+              "text": "동시대 명령과 후대 편찬 기록",
+              "points": 2
+            },
+            {
+              "text": "수신자와 기록 목적",
+              "points": 1
+            },
+            {
+              "text": "날짜·명령 내용 교차 검증",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "동시대 명령과 후대 편찬 기록",
+            "수신자와 기록 목적",
+            "날짜·명령 내용 교차 검증"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p06"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        }
+      ],
+      "maxScore": 10,
+      "paperIds": [
+        "dy-p06"
+      ],
+      "paperReadScopes": [
+        {
+          "id": "dy-p06",
+          "readScope": "abstract"
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-143"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-143",
+          "quote": "• 내용 : 군대를 보내 호 왕조 멸망시키고 교지포정사사(交趾布政使司) 설치"
+        }
+      ],
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-031",
+        "dongyangsa-ext-essay-028"
+      ],
+      "caution": "초록에서 확인한 저자의 해석을 지문에 명시했다. 실록 전체의 허위성을 단정하거나 원문을 직접 읽었다고 표현하지 않는다.",
+      "passageProvenance": "논문 초록의 관점을 바탕으로 새로 작성한 연습용 요약. 역사 사료 원문 또는 논문 직접 인용이 아님.",
+      "automaticExamEligible": false
+    },
+    {
+      "id": "dongyangsa-research-essay-004",
+      "type": "essay",
+      "title": "견당사 정지와 교류 주체의 변화",
+      "priority": "연구 기반 심화 연습",
+      "forecastConfidence": "출제 확률 산정 불가",
+      "prompt": "[연구 관점] 최근 교과서 연구는 입당승·입송승의 서술을 견당사 정지와 국풍문화 발달이라는 설명 구조 속에서 살핀다. 다른 연구는 신안선의 목간·화물 표식을 통해 국가 외의 교류 주체를 탐구한다.\n(1) 교재에서 국풍문화 발달의 대외 배경으로 제시한 사실을 쓰시오. (2) 국가 사절의 정지와 모든 해상 교류의 단절을 구별해야 하는 이유를 설명하시오. (3) 승려의 여행 기록과 화물의 표식을 활용해 교류 주체·경로를 검증하는 탐구 방안을 각각 하나씩 제시하고 판독·추론의 불확실성을 어떻게 점검할지 설명하시오.",
+      "modelAnswer": "교재는 9세기 말 견당사 폐지를 국풍문화 발달의 대외 배경으로 제시한다. 국가 사절과 승려·상인 등 다른 주체의 이동은 같지 않으므로 사절 정지만으로 모든 교류가 끊겼다고 할 수 없다. 승려의 여행 기록에서 출발·기착·도착지를 조사하고, 목간이나 화물 표식을 생산지·수신자·용도와 대조하여 교역 참여자와 경로를 추론할 수 있다. 표식의 판독이 불확실하면 비교 자료를 추가해야 한다.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "대외 배경",
+          "max": 3,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "description": "9세기 말 견당사 정지를 제시한다.",
+          "checkpoints": [
+            {
+              "text": "견당사 정지",
+              "points": 1
+            },
+            {
+              "text": "9세기 말",
+              "points": 2
+            }
+          ],
+          "acceptedConcepts": [
+            "견당사 정지",
+            "9세기 말"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p13",
+            "dy-p14",
+            "dy-p16"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c2",
+          "label": "교류 주체 구분",
+          "max": 3,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "description": "국가 사절과 승려·상인 등 다른 주체의 이동을 구별한다.",
+          "checkpoints": [
+            {
+              "text": "국가 사절",
+              "points": 1
+            },
+            {
+              "text": "승려·상인",
+              "points": 1
+            },
+            {
+              "text": "사절 정지를 전면 단절로 확대하지 않음",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "국가 사절",
+            "승려·상인",
+            "사절 정지를 전면 단절로 확대하지 않음"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p13",
+            "dy-p14",
+            "dy-p16"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c3",
+          "label": "검증 활동",
+          "max": 4,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "description": "두 종류 자료에 맞는 구체적 질문과 대조 방법을 제시한다.",
+          "checkpoints": [
+            {
+              "text": "여행 기록의 이동 경로",
+              "points": 2
+            },
+            {
+              "text": "화물 표식의 생산지·수신자·용도",
+              "points": 1
+            },
+            {
+              "text": "판독·추론의 불확실성 점검",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "여행 기록의 이동 경로",
+            "화물 표식의 생산지·수신자·용도",
+            "판독·추론의 불확실성 점검"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p13",
+            "dy-p14",
+            "dy-p16"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        }
+      ],
+      "maxScore": 10,
+      "paperIds": [
+        "dy-p13",
+        "dy-p14",
+        "dy-p16"
+      ],
+      "paperReadScopes": [
+        {
+          "id": "dy-p13",
+          "readScope": "abstract"
+        },
+        {
+          "id": "dy-p14",
+          "readScope": "abstract"
+        },
+        {
+          "id": "dy-p16",
+          "readScope": "abstract"
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-236"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-236",
+          "quote": "㉠ 대외적 : 견당사 폐지(9세기 말), 당·발해·신라 멸망(10세기 초)"
+        }
+      ],
+      "linkedQuestionIds": [
+        "dongyangsa-ext-essay-020",
+        "dongyangsa-ext-essay-022",
+        "dongyangsa-ext-mc-030"
+      ],
+      "caution": "신안선 자료는 후대 사례이므로 견당사 정지 직후의 연속성을 그 자체로 입증하지 않는다. 두 시기의 자료를 구분하는 답을 인정한다. 파스파 문자 판독 가능성을 확정 정답으로 삼지 않는다.",
+      "passageProvenance": "논문 초록의 관점을 바탕으로 새로 작성한 연습용 요약. 역사 사료 원문 또는 논문 직접 인용이 아님.",
+      "automaticExamEligible": false
+    },
+    {
+      "id": "dongyangsa-research-essay-005",
+      "type": "essay",
+      "title": "전국시대 사회 이동과 통일 정권의 통제",
+      "priority": "연구 기반 심화 연습",
+      "forecastConfidence": "출제 확률 산정 불가",
+      "prompt": "[연구 관점] 16세기 일본에 관한 한 연구는 전공과 기량을 통해 신분 상승을 추구하는 움직임이 있었지만 혈통·가격의 질서도 존속했다고 본다. 관위는 이 두 원리를 조정하는 데 작용했다고 해석한다.\n(1) 히데요시의 병농분리를 위한 정책 한 가지와 그 목적을 제시하시오. (2) 전국시대의 사회 이동과 통일 정권의 신분 통제를 비교하시오. (3) 전공의 중요성이 커졌다는 사실만으로 혈통 질서가 완전히 소멸했다고 할 수 없는 이유를 제시된 관점에 따라 설명하시오.",
+      "modelAnswer": "히데요시는 가타나가리로 농민의 무기를 거두거나 무사의 조카마치 거주를 추진하는 등 병농분리를 강화했다. 전국시대에 전공·기량을 통한 상승의 여지가 있었던 것과 달리 통일 정권은 무사와 농민의 구분을 통제하려 했다. 그러나 전국시대의 이동 가능성도 혈통·가격의 폐지를 뜻하지는 않는다. 제시된 연구에서는 관위가 개인의 능력과 기존 신분 질서를 조정하는 장치로 작용했다고 보기 때문이다.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "병농분리 정책",
+          "max": 3,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "description": "가타나가리 등 해당 정책과 목적을 제시한다.",
+          "checkpoints": [
+            {
+              "text": "농민 무기 회수 또는 무사 거주 분리",
+              "points": 1
+            },
+            {
+              "text": "무사·농민 구분",
+              "points": 2
+            }
+          ],
+          "acceptedConcepts": [
+            "농민 무기 회수 또는 무사 거주 분리",
+            "무사·농민 구분"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p10"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c2",
+          "label": "시기 비교",
+          "max": 3,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "description": "상승의 여지와 통일 정권의 통제를 비교한다.",
+          "checkpoints": [
+            {
+              "text": "전공·기량을 통한 이동",
+              "points": 1
+            },
+            {
+              "text": "통일 뒤 신분 통제",
+              "points": 1
+            },
+            {
+              "text": "변화의 방향",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "전공·기량을 통한 이동",
+            "통일 뒤 신분 통제",
+            "변화의 방향"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p10"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c3",
+          "label": "변화와 연속성",
+          "max": 4,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "description": "기량의 확대와 혈통·가격의 존속을 함께 설명한다.",
+          "checkpoints": [
+            {
+              "text": "전공 중시가 혈통 폐지를 뜻하지 않음",
+              "points": 2
+            },
+            {
+              "text": "관위의 조정 기능",
+              "points": 1
+            },
+            {
+              "text": "두 원리의 병존",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "전공 중시가 혈통 폐지를 뜻하지 않음",
+            "관위의 조정 기능",
+            "두 원리의 병존"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p10"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        }
+      ],
+      "maxScore": 10,
+      "paperIds": [
+        "dy-p10"
+      ],
+      "paperReadScopes": [
+        {
+          "id": "dy-p10",
+          "readScope": "abstract"
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-244"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-244",
+          "quote": "1. 백성들이 칼, 단도, 활, 조총, 기타 무기류를 소지하는 것을 엄하게 금지한다. 불필요한 도검류를 쌓아 두고 연공이나 기타 세금의 납부를 꺼리거나, 영주의 가신에게 불법 행위를 하는 자들이 있다면 처벌하겠다. 백성들이 농기구만을 가지고 정착에 전념할 수 있다면, 자자손손 행복하게 살아갈 수 있을 것이다."
+        }
+      ],
+      "linkedQuestionIds": [
+        "dongyangsa-ext-mc-066",
+        "dongyangsa-ext-mc-067",
+        "dongyangsa-ext-essay-021"
+      ],
+      "caution": "논문은 혈통과 기량의 상호 관계를 다룬다. 모든 사람의 신분 이동이 자유로웠다거나 통일 순간 이동이 완전히 사라졌다고 단정하지 않는다.",
+      "passageProvenance": "논문 초록의 관점을 바탕으로 새로 작성한 연습용 요약. 역사 사료 원문 또는 논문 직접 인용이 아님.",
+      "automaticExamEligible": false
+    },
+    {
+      "id": "dongyangsa-research-essay-006",
+      "type": "essay",
+      "title": "중소 관계와 중국의 냉전 세계 인식",
+      "priority": "연구 기반 심화 연습",
+      "forecastConfidence": "출제 확률 산정 불가",
+      "prompt": "[연구 관점] 한 연구는 마오쩌둥의 중간지대론과 삼개세계론을 검토하면서, 중국의 세계 인식이 소련 중심의 두 진영 구도에서 점차 벗어났다고 해석한다.\n(1) 1950년 중국과 소련이 맺은 조약을 쓰시오. (2) 중소 대립 이후 1972년 미중 관계 변화의 방문 사건과 공동성명을 쓰고, 이를 정식 수교와 구별하시오. (3) 이 두 사실을 연결하여 냉전기의 중국 외교를 고정된 두 진영의 대립으로만 설명하는 한계와 이념·안보 관계를 서술하시오.",
+      "modelAnswer": "1950년 중국과 소련은 중소 우호 상호 원조 조약을 체결했다. 중소 대립 이후에는 닉슨의 중국 방문과 상하이 공동성명으로 1972년 미중 관계가 개선되었다. 따라서 사회주의 국가 사이의 동맹이 항상 지속되거나 사회주의 중국과 자본주의 미국이 항상 동일한 적대 관계에 머문다고 볼 수 없다. 이념과 함께 안보 위협 인식·국가 이해관계의 변화가 외교 노선에 작용했다. 1972년의 접근을 정식 수교와 혼동해서는 안 된다.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "1950년 조약",
+          "max": 3,
+          "allowedScores": [
+            0,
+            3
+          ],
+          "description": "중소 우호 상호 원조 조약을 제시한다.",
+          "checkpoints": [
+            {
+              "text": "중소 우호 상호 원조 조약",
+              "points": 3
+            }
+          ],
+          "acceptedConcepts": [
+            "중소 우호 상호 원조 조약"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p08"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c2",
+          "label": "1972년 변화",
+          "max": 3,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "description": "닉슨 방중과 상하이 공동성명을 제시한다.",
+          "checkpoints": [
+            {
+              "text": "닉슨 방중",
+              "points": 1
+            },
+            {
+              "text": "상하이 공동성명",
+              "points": 1
+            },
+            {
+              "text": "정식 수교와 구분",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "닉슨 방중",
+            "상하이 공동성명",
+            "정식 수교와 구분"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p08"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        },
+        {
+          "id": "c3",
+          "label": "고정 진영론의 한계",
+          "max": 4,
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "description": "중소 갈등과 미중 접근을 이념·안보 관계로 설명한다.",
+          "checkpoints": [
+            {
+              "text": "사회주의 국가 사이 갈등",
+              "points": 2
+            },
+            {
+              "text": "상이한 체제 사이 접근",
+              "points": 1
+            },
+            {
+              "text": "안보 위협·국가 이해의 변화",
+              "points": 1
+            }
+          ],
+          "acceptedConcepts": [
+            "사회주의 국가 사이 갈등",
+            "상이한 체제 사이 접근",
+            "안보 위협·국가 이해의 변화"
+          ],
+          "rejectConditions": [
+            "해당 요소의 핵심 인과·시점·주체를 뒤집으면 그 요소에서만 감점한다."
+          ],
+          "scoringNote": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 의미가 같은 표현을 인정하며 관련 요소의 오류만 반영한다.",
+          "paperIds": [
+            "dy-p08"
+          ],
+          "referenceNote": "지문에 제공한 연구 요약을 적용하는 연습 기준. 교재 evidence는 기본 사실의 근거이며 논문의 새 해석을 교재 원문으로 간주하지 않는다."
+        }
+      ],
+      "maxScore": 10,
+      "paperIds": [
+        "dy-p08"
+      ],
+      "paperReadScopes": [
+        {
+          "id": "dy-p08",
+          "readScope": "abstract"
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-217",
+        "dongyangsa-textbook-page-220"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-217",
+          "quote": "㉡ 중·소 우호 상호 원조 조약(1950. 2.)"
+        },
+        {
+          "page": "dongyangsa-textbook-page-220",
+          "quote": "• 국교 수립 : 닉슨 대통령의 방중, (상해 공동 성명)(1972) → 정식 국교 수립(1979)"
+        }
+      ],
+      "linkedQuestionIds": [
+        "dongyangsa-ext-essay-018",
+        "dongyangsa-ext-mc-051",
+        "dongyangsa-ext-mc-052"
+      ],
+      "caution": "1972년 미중 접근과 1979년 정식 수교를 구분한다. 특정 국제정세가 올해 출제를 보증한다는 판단은 하지 않는다.",
+      "passageProvenance": "논문 초록의 관점을 바탕으로 새로 작성한 연습용 요약. 역사 사료 원문 또는 논문 직접 인용이 아님.",
+      "automaticExamEligible": false
+    }
+  ],
+  "academySources": [
+    {
+      "id": "dy-academy-01",
+      "provider": "희소/쌤플러스 역사 김구팀",
+      "url": "https://www.ssamplus.com/course/?idx=25706&page=1&sch_divcd=0405&sch_profseq=342&sch_tabs=notice",
+      "examYear": 2027,
+      "checkedAt": "2026-10-03",
+      "readScope": "공식 강좌 소개·커리큘럼 텍스트",
+      "videoWatched": false,
+      "finding": "2027 설명회 및 기출 분석·기출 주제 변형·예상문항·단원별 문제풀이를 안내한다.",
+      "limitation": "동양사의 특정 논문·교수·주제를 올해 유력 출제 대상으로 지목한 근거는 이 페이지에서 확인하지 못했다. 영상 내용은 확인하지 않았다."
+    }
+  ],
+  "bibliographyFile": "knowledge/prediction-research/dongyangsa-bibliography.json",
+  "coverage": {
+    "facultyCount": 7,
+    "profileBibliographyItems": 62,
+    "abstractReviews": 15,
+    "fullTextExcerptReviews": 1,
+    "fullTextReviews": 0,
+    "researchPracticeEssays": 6,
+    "scope": "선정 7명의 지정 공식 프로필에 공개된 2021~2026 목록 전수 수집. 저서·역서·지도학생 성과 제외. 서평·발표문·기고 등은 유형으로 구분. 프로필 밖 미등재 실적은 전수라고 주장하지 않음.",
+    "limitations": [
+      "일부 공식 프로필은 월·권호·페이지가 없거나 오류가 있다. 원문 표기를 보존했다.",
+      "전체 서지 수집과 논문 내용 검토를 별도로 집계했다.",
+      "15편의 초록과 1편의 본문 일부를 읽었으며 전문 정독 논문은 없다.",
+      "2026 논문은 정순일 3월 발행을 확인했고 이원준 3월 논문은 서지만 확인했다. 미래 발행은 포함하지 않았다.",
+      "선정은 중국·일본사 중심이다. 인도·동남아시아 전공 교수 조사까지 망라한 목록은 아니다."
+    ]
+  }
+}

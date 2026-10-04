@@ -1,0 +1,2014 @@
+[
+  {
+    "id": "dongyangsa-gunhyeon-passage",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-32",
+    "prompt": "군·현의 관리는 _____에서 파견, 세습 불가, 황제의 임면권 장악",
+    "before": "군·현의 관리는 ",
+    "after": "에서 파견, 세습 불가, 황제의 임면권 장악",
+    "answer": "중앙",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "진(秦)의 통일 배경과 유능한 인재 등용 / 황제 지배 체제 형성(황제 칭호·삼공구경·군현제) — 군·현의 관리는 중앙에서 파견, 세습 불가, 황제의 임면권 장악",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-32",
+        "quote": "군·현의 관리는 중앙에서 파견, 세습 불가, 황제의 임면권 장악"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-gunguk-passage",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-36",
+    "prompt": "수도 주변 : 진의 _____ 계승",
+    "before": "수도 주변 : 진의 ",
+    "after": " 계승",
+    "answer": "군현제",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "진의 의의와 한 제국의 황제 재위 연표 / 한 고조의 통일과 군국제의 실시 — 수도 주변 : 진의 군현제 계승",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-36",
+        "quote": "수도 주변 : 진의 군현제 계승"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-samjang-passage",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-70",
+    "prompt": "_____ 누락 조사, 조세·요역 징발, 치안 유지",
+    "before": "",
+    "after": " 누락 조사, 조세·요역 징발, 치안 유지",
+    "answer": "호구",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "북위 태무제의 통치와 국사 필화 사건 / 북위 효문제의 개혁(균전제와 삼장제) — 호구 누락 조사, 조세·요역 징발, 치안 유지",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "호구 누락 조사, 조세·요역 징발, 치안 유지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-two-tax-passage",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-100",
+    "prompt": "자산과 토지에 따라 세액을 정하고, _____ 두 차례로 나누어 징수",
+    "before": "자산과 토지에 따라 세액을 정하고, ",
+    "after": " 두 차례로 나누어 징수",
+    "answer": "여름·가을",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "양세법과 모병제로의 이행 / 번진 체제와 환관의 전횡·당쟁 — 자산과 토지에 따라 세액을 정하고, 여름·가을 두 차례로 나누어 징수",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "자산과 토지에 따라 세액을 정하고, 여름·가을 두 차례로 나누어 징수"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-diding-passage",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-156",
+    "prompt": "_____(丁稅)를 지세(地稅)에 합쳐 지세만 납부",
+    "before": "",
+    "after": "(丁稅)를 지세(地稅)에 합쳐 지세만 납부",
+    "answer": "정세",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "강희제의 내정 정비와 성세자생인정 / 옹정제의 절대 군주권 확립과 지정은제·양렴은 — 정세(丁稅)를 지세(地稅)에 합쳐 지세만 납부",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "정세(丁稅)를 지세(地稅)에 합쳐 지세만 납부"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-zhongti-passage",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-183",
+    "prompt": "중국의 _____(倫常名敎)를 원본(原本)으로 삼고",
+    "before": "중국의 ",
+    "after": "(倫常名敎)를 원본(原本)으로 삼고",
+    "answer": "윤상명교",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "태평천국 운동의 의의와 양무 운동의 시작 / 양무 운동의 내용과 전개 — 중국의 윤상명교(倫常名敎)를 원본(原本)으로 삼고",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "중국의 윤상명교(倫常名敎)를 원본(原本)으로 삼고"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-land-tax-passage",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-253",
+    "prompt": "토지 대금의 _____으로 하여금 지조(地租)라 정하도록",
+    "before": "토지 대금의 ",
+    "after": "으로 하여금 지조(地租)라 정하도록",
+    "answer": "100분의 3",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "사회진화론과 내정 개혁 / 메이지 정부에 대한 반발과 자유 민권 운동 — 토지 대금의 100분의 3으로 하여금 지조(地租)라 정하도록",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "토지 대금의 100분의 3으로 하여금 지조(地租)라 정하도록"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-popular-rights-passage",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-253",
+    "prompt": "_____ 개설 청원 운동 본격화(1880)",
+    "before": "",
+    "after": " 개설 청원 운동 본격화(1880)",
+    "answer": "국회",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "사회진화론과 내정 개혁 / 메이지 정부에 대한 반발과 자유 민권 운동 — 국회 개설 청원 운동 본격화(1880)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "국회 개설 청원 운동 본격화(1880)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-blank-001",
+    "page": "dongyangsa-textbook-page-11",
+    "explain": "원문에서 빠진 핵심어는 정인이다. 점복: 정인이 점을 치면 왕이 길흉 판단",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-11",
+        "quote": "점복: 정인이 점을 치면 왕이 길흉 판단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "bc8e8d134d8254b83df6693177f404d4a50fcb5cfca43e85b2de8dab9512d42a"
+    },
+    "type": "blank",
+    "prompt": "점복: _____이 점을 치면 왕이 길흉 판단",
+    "before": "점복: ",
+    "after": "이 점을 치면 왕이 길흉 판단",
+    "answer": "정인",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-002",
+    "page": "dongyangsa-textbook-page-13",
+    "explain": "원문에서 빠진 핵심어는 공화행정이다. ㉡ 공화행정(共和行政)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-13",
+        "quote": "㉡ 공화행정(共和行政)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "87757425719225b00900e439edb555526d9d89efd0842b7e221ae5b128d3989b"
+    },
+    "type": "blank",
+    "prompt": "㉡ _____(共和行政)",
+    "before": "㉡ ",
+    "after": "(共和行政)",
+    "answer": "공화행정",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-003",
+    "page": "dongyangsa-textbook-page-20",
+    "explain": "원문에서 빠진 핵심어는 중농억상책이다. - 중농억상책 : 농업·양잠업 장려, 상업은 철저히 감독·통제",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-20",
+        "quote": "- 중농억상책 : 농업·양잠업 장려, 상업은 철저히 감독·통제"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "e3a5096ad0b638cabd7a58519c0025910aa334a9381a4c96926c5fcb165301bb"
+    },
+    "type": "blank",
+    "prompt": "- _____ : 농업·양잠업 장려, 상업은 철저히 감독·통제",
+    "before": "- ",
+    "after": " : 농업·양잠업 장려, 상업은 철저히 감독·통제",
+    "answer": "중농억상책",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-004",
+    "page": "dongyangsa-textbook-page-22",
+    "explain": "원문에서 빠진 핵심어는 역성혁명이다. • 방법 : 역성혁명 긍정[民의 유무], 선양(禪讓)의 이론적 근거",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-22",
+        "quote": "• 방법 : 역성혁명 긍정[民의 유무], 선양(禪讓)의 이론적 근거"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "4c3a21e127ac197ae55becdb1f3261a4f0e166f9316f0549485893f6ba27e296"
+    },
+    "type": "blank",
+    "prompt": "• 방법 : _____ 긍정[民의 유무], 선양(禪讓)의 이론적 근거",
+    "before": "• 방법 : ",
+    "after": " 긍정[民의 유무], 선양(禪讓)의 이론적 근거",
+    "answer": "역성혁명",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-005",
+    "page": "dongyangsa-textbook-page-24",
+    "explain": "원문에서 빠진 핵심어는 교상리이다. ㉢ 교상리(交相利) : 겸애를 통하여 서로 이롭게 해주는 것(이익 분배)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-24",
+        "quote": "㉢ 교상리(交相利) : 겸애를 통하여 서로 이롭게 해주는 것(이익 분배)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "e428403ac7a7768d9be13d4a5937c089a2bb4f882d8c15643bdf385ec5e34948"
+    },
+    "type": "blank",
+    "prompt": "㉢ _____(交相利) : 겸애를 통하여 서로 이롭게 해주는 것(이익 분배)",
+    "before": "㉢ ",
+    "after": "(交相利) : 겸애를 통하여 서로 이롭게 해주는 것(이익 분배)",
+    "answer": "교상리",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-006",
+    "page": "dongyangsa-textbook-page-34",
+    "explain": "원문에서 빠진 핵심어는 반량전이다. ㉠ 단위 통일 : 도량형(전량·진권), 화폐(반량전), 수레의 폭(6척) 통일",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-34",
+        "quote": "㉠ 단위 통일 : 도량형(전량·진권), 화폐(반량전), 수레의 폭(6척) 통일"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "7fa54943ac56abeeed98e598554c5b7d2b30482620f1960b0a71575e4ca8be07"
+    },
+    "type": "blank",
+    "prompt": "㉠ 단위 통일 : 도량형(전량·진권), 화폐(_____), 수레의 폭(6척) 통일",
+    "before": "㉠ 단위 통일 : 도량형(전량·진권), 화폐(",
+    "after": "), 수레의 폭(6척) 통일",
+    "answer": "반량전",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-007",
+    "page": "dongyangsa-textbook-page-37",
+    "explain": "원문에서 빠진 핵심어는 육가이다. • 『신어(新語)』 : 육가 편찬, 진의 멸망 원인 규명",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-37",
+        "quote": "• 『신어(新語)』 : 육가 편찬, 진의 멸망 원인 규명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "f033774031a5df6632a9f0ac37361294500fd4afebe1a981dc91d53edcd90c02"
+    },
+    "type": "blank",
+    "prompt": "• 『신어(新語)』 : _____ 편찬, 진의 멸망 원인 규명",
+    "before": "• 『신어(新語)』 : ",
+    "after": " 편찬, 진의 멸망 원인 규명",
+    "answer": "육가",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-008",
+    "page": "dongyangsa-textbook-page-42",
+    "explain": "원문에서 빠진 핵심어는 사례교위이다. • 사례교위(司隷校尉) : 수도 주변 지역에 대한 감찰 목적으로 설치(B.C. 89년)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-42",
+        "quote": "• 사례교위(司隷校尉) : 수도 주변 지역에 대한 감찰 목적으로 설치(B.C. 89년)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "d770d997411617e8556a3a04442e044f791eb0721127831b2d490f6695245d87"
+    },
+    "type": "blank",
+    "prompt": "• _____(司隷校尉) : 수도 주변 지역에 대한 감찰 목적으로 설치(B.C. 89년)",
+    "before": "• ",
+    "after": "(司隷校尉) : 수도 주변 지역에 대한 감찰 목적으로 설치(B.C. 89년)",
+    "answer": "사례교위",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-009",
+    "page": "dongyangsa-textbook-page-43",
+    "explain": "원문에서 빠진 핵심어는 사자교위이다. - 사자교위(使者校尉) : 외국으로 나가는 사자에게 식량과 말 먹이 공급",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-43",
+        "quote": "- 사자교위(使者校尉) : 외국으로 나가는 사자에게 식량과 말 먹이 공급"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "ffc5ad9684e04be0a8425427dddbe84822440f1974f1a00287ffd58fdc30800f"
+    },
+    "type": "blank",
+    "prompt": "- _____(使者校尉) : 외국으로 나가는 사자에게 식량과 말 먹이 공급",
+    "before": "- ",
+    "after": "(使者校尉) : 외국으로 나가는 사자에게 식량과 말 먹이 공급",
+    "answer": "사자교위",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-010",
+    "page": "dongyangsa-textbook-page-50",
+    "explain": "원문에서 빠진 핵심어는 상서대이다. ㉡ 황제권 강화 : 3공의 권한 약화 및 상서대 기능 강화",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-50",
+        "quote": "㉡ 황제권 강화 : 3공의 권한 약화 및 상서대 기능 강화"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "155783f9c55b933496432110bf13d2434262416aa685391d1104758c99c990a9"
+    },
+    "type": "blank",
+    "prompt": "㉡ 황제권 강화 : 3공의 권한 약화 및 _____ 기능 강화",
+    "before": "㉡ 황제권 강화 : 3공의 권한 약화 및 ",
+    "after": " 기능 강화",
+    "answer": "상서대",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-011",
+    "page": "dongyangsa-textbook-page-52",
+    "explain": "원문에서 빠진 핵심어는 백호통의이다. ㉠ 『백호통의(白虎通義)』 : 고문(古文)·금문(今文)학파 사이의 논쟁 토론 후 기록 정리",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-52",
+        "quote": "㉠ 『백호통의(白虎通義)』 : 고문(古文)·금문(今文)학파 사이의 논쟁 토론 후 기록 정리"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "d019bb68e9425dfe7d329b67717f7265414f752b1925caf99510fbcc4b4fec7d"
+    },
+    "type": "blank",
+    "prompt": "㉠ 『_____(白虎通義)』 : 고문(古文)·금문(今文)학파 사이의 논쟁 토론 후 기록 정리",
+    "before": "㉠ 『",
+    "after": "(白虎通義)』 : 고문(古文)·금문(今文)학파 사이의 논쟁 토론 후 기록 정리",
+    "answer": "백호통의",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-012",
+    "page": "dongyangsa-textbook-page-61",
+    "explain": "원문에서 빠진 핵심어는 280이다. ㉣ 통일 : 오(吳) 병합 통하여 삼국 통일 완수(280)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-61",
+        "quote": "㉣ 통일 : 오(吳) 병합 통하여 삼국 통일 완수(280)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "a590054e22000e1af88cc6e0b3d0a70c926fe1452d0570353e81e2e55f71aa0b"
+    },
+    "type": "blank",
+    "prompt": "㉣ 통일 : 오(吳) 병합 통하여 삼국 통일 완수(_____)",
+    "before": "㉣ 통일 : 오(吳) 병합 통하여 삼국 통일 완수(",
+    "after": ")",
+    "answer": "280",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-013",
+    "page": "dongyangsa-textbook-page-70",
+    "explain": "원문에서 빠진 핵심어는 평성이다. • 내용 : 천사도장 설치(평성), 황제 즉위식에서의 부적 인수 의례",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-70",
+        "quote": "• 내용 : 천사도장 설치(평성), 황제 즉위식에서의 부적 인수 의례"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "d8efcb809d022b13d256a7af379e5c925a838c6923bfa3b0e1dc7abd4704544e"
+    },
+    "type": "blank",
+    "prompt": "• 내용 : 천사도장 설치(_____), 황제 즉위식에서의 부적 인수 의례",
+    "before": "• 내용 : 천사도장 설치(",
+    "after": "), 황제 즉위식에서의 부적 인수 의례",
+    "answer": "평성",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-014",
+    "page": "dongyangsa-textbook-page-74",
+    "explain": "원문에서 빠진 핵심어는 4성이다. - 내용 : 선비족·한인 귀족을 동격으로 위치 선정(선비 8성 = 한족 4성)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-74",
+        "quote": "- 내용 : 선비족·한인 귀족을 동격으로 위치 선정(선비 8성 = 한족 4성)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "82b1df8b82180693e85526da9463a872d926c442ff8dfdf9636f9b8762331b42"
+    },
+    "type": "blank",
+    "prompt": "- 내용 : 선비족·한인 귀족을 동격으로 위치 선정(선비 8성 = 한족 _____)",
+    "before": "- 내용 : 선비족·한인 귀족을 동격으로 위치 선정(선비 8성 = 한족 ",
+    "after": ")",
+    "answer": "4성",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-015",
+    "page": "dongyangsa-textbook-page-89",
+    "explain": "원문에서 빠진 핵심어는 나·당 동맹이다. • 진전 : 신라의 청병 요구 거절(643) → 나·당 동맹 체결(648)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-89",
+        "quote": "• 진전 : 신라의 청병 요구 거절(643) → 나·당 동맹 체결(648)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "4df6423a282298fe0ac5052969a3a3f506ae97ec971ad1c8597f8e17cf2d0070"
+    },
+    "type": "blank",
+    "prompt": "• 진전 : 신라의 청병 요구 거절(643) → _____ 체결(648)",
+    "before": "• 진전 : 신라의 청병 요구 거절(643) → ",
+    "after": " 체결(648)",
+    "answer": "나·당 동맹",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-016",
+    "page": "dongyangsa-textbook-page-93",
+    "explain": "원문에서 빠진 핵심어는 중서성이다. • 중서성 : 조칙 및 법안의 기초",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-93",
+        "quote": "• 중서성 : 조칙 및 법안의 기초"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "df1a9239256efced50ab07a9093897e52c274e7d1af9bbaa8676e4caad49aacd"
+    },
+    "type": "blank",
+    "prompt": "• _____ : 조칙 및 법안의 기초",
+    "before": "• ",
+    "after": " : 조칙 및 법안의 기초",
+    "answer": "중서성",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-017",
+    "page": "dongyangsa-textbook-page-97",
+    "explain": "원문에서 빠진 핵심어는 20일이다. • 용(庸) : 20일간의 역역, 혹은 하루에 견 3척이나 포 3.75척 환산 납부",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-97",
+        "quote": "• 용(庸) : 20일간의 역역, 혹은 하루에 견 3척이나 포 3.75척 환산 납부"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "7f52d7ba0b658a05695a2fbabc7b306c1380e67eaf78e839bad3ad32d10295d9"
+    },
+    "type": "blank",
+    "prompt": "• 용(庸) : _____간의 역역, 혹은 하루에 견 3척이나 포 3.75척 환산 납부",
+    "before": "• 용(庸) : ",
+    "after": "간의 역역, 혹은 하루에 견 3척이나 포 3.75척 환산 납부",
+    "answer": "20일",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-018",
+    "page": "dongyangsa-textbook-page-100",
+    "explain": "원문에서 빠진 핵심어는 두우이다. ㉢ 『통전(通典)』 편찬 : 재상 두우(杜佑)의 제도사 편찬(九門 분류)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "㉢ 『통전(通典)』 편찬 : 재상 두우(杜佑)의 제도사 편찬(九門 분류)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "1de582fa015eecddd96d0cf76387087f907c3751bcac3c347217084dee59f149"
+    },
+    "type": "blank",
+    "prompt": "㉢ 『통전(通典)』 편찬 : 재상 _____(杜佑)의 제도사 편찬(九門 분류)",
+    "before": "㉢ 『통전(通典)』 편찬 : 재상 ",
+    "after": "(杜佑)의 제도사 편찬(九門 분류)",
+    "answer": "두우",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-019",
+    "page": "dongyangsa-textbook-page-110",
+    "explain": "원문에서 빠진 핵심어는 황제 결재이다. • 재상부 : 5~6명이 재상부 구성 → 합의 및 황제 결재 필요",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-110",
+        "quote": "• 재상부 : 5~6명이 재상부 구성 → 합의 및 황제 결재 필요"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "973be70153cc83f41fcbc6c2be4eb2d186356f2a37a877c7f7ef1ce2f5164d7e"
+    },
+    "type": "blank",
+    "prompt": "• 재상부 : 5~6명이 재상부 구성 → 합의 및 _____ 필요",
+    "before": "• 재상부 : 5~6명이 재상부 구성 → 합의 및 ",
+    "after": " 필요",
+    "answer": "황제 결재",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-020",
+    "page": "dongyangsa-textbook-page-112",
+    "explain": "원문에서 빠진 핵심어는 호명법이다. ㉢ 공정성 확보 : 호명법(糊名法)·등록법(謄錄法) 시행, 쇄원(鎖院)의 제도",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-112",
+        "quote": "㉢ 공정성 확보 : 호명법(糊名法)·등록법(謄錄法) 시행, 쇄원(鎖院)의 제도"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "ffa29c620ef3536d439ebd6756acd2622714eeed61e0b0c6d20cb26e4f5c8094"
+    },
+    "type": "blank",
+    "prompt": "㉢ 공정성 확보 : _____(糊名法)·등록법(謄錄法) 시행, 쇄원(鎖院)의 제도",
+    "before": "㉢ 공정성 확보 : ",
+    "after": "(糊名法)·등록법(謄錄法) 시행, 쇄원(鎖院)의 제도",
+    "answer": "호명법",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-021",
+    "page": "dongyangsa-textbook-page-113",
+    "explain": "원문에서 빠진 핵심어는 삼사법이다. • 삼사법 : 외사·내사·상사 3단계 학교제를 통한 관리 양성",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-113",
+        "quote": "• 삼사법 : 외사·내사·상사 3단계 학교제를 통한 관리 양성"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "cd7767cebfcefdcb0284942b2c6fd01f8995ea652f5528a0dd88f724fc20f0b9"
+    },
+    "type": "blank",
+    "prompt": "• _____ : 외사·내사·상사 3단계 학교제를 통한 관리 양성",
+    "before": "• ",
+    "after": " : 외사·내사·상사 3단계 학교제를 통한 관리 양성",
+    "answer": "삼사법",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-022",
+    "page": "dongyangsa-textbook-page-118",
+    "explain": "원문에서 빠진 핵심어는 소학이다. ① 소학 : 아동의 예절과 수양 입문",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-118",
+        "quote": "① 소학 : 아동의 예절과 수양 입문"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "9a09f0335c71298fbfea59fe73da9fe6c0d9bcff6d4854cf6858cad34c78c000"
+    },
+    "type": "blank",
+    "prompt": "① _____ : 아동의 예절과 수양 입문",
+    "before": "① ",
+    "after": " : 아동의 예절과 수양 입문",
+    "answer": "소학",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-023",
+    "page": "dongyangsa-textbook-page-128",
+    "explain": "원문에서 빠진 핵심어는 투하주이다. ② 투하주(頭下州) : 유목귀족의 권력 기반",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-128",
+        "quote": "② 투하주(頭下州) : 유목귀족의 권력 기반"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "93cc467580d294e91bd101b1f94528eac2b834140907c7518dca67a24253702f"
+    },
+    "type": "blank",
+    "prompt": "② _____(頭下州) : 유목귀족의 권력 기반",
+    "before": "② ",
+    "after": "(頭下州) : 유목귀족의 권력 기반",
+    "answer": "투하주",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-024",
+    "page": "dongyangsa-textbook-page-130",
+    "explain": "원문에서 빠진 핵심어는 수국이다. ㉠ 건국 : 요(遼)에 반기 표방 → 국호 '대금', 연호 '수국(收國)'",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-130",
+        "quote": "㉠ 건국 : 요(遼)에 반기 표방 → 국호 '대금', 연호 '수국(收國)'"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "44faa5fb31b9be9f118e3e671b6a713790e7cea357a40a8fb76c8f0a908bc6da"
+    },
+    "type": "blank",
+    "prompt": "㉠ 건국 : 요(遼)에 반기 표방 → 국호 '대금', 연호 '_____(收國)'",
+    "before": "㉠ 건국 : 요(遼)에 반기 표방 → 국호 '대금', 연호 '",
+    "after": "(收國)'",
+    "answer": "수국",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-025",
+    "page": "dongyangsa-textbook-page-133",
+    "explain": "원문에서 빠진 핵심어는 교역 사절단이다. • 배경 : 호라즘 왕국에서 몽골의 교역 사절단을 습격·살해 후 교섭 거부",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-133",
+        "quote": "• 배경 : 호라즘 왕국에서 몽골의 교역 사절단을 습격·살해 후 교섭 거부"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "a955e804ba86a6e8a4d3855a2b2d2f574e0472a151c1ca79a16d4b51d62a125f"
+    },
+    "type": "blank",
+    "prompt": "• 배경 : 호라즘 왕국에서 몽골의 _____을 습격·살해 후 교섭 거부",
+    "before": "• 배경 : 호라즘 왕국에서 몽골의 ",
+    "after": "을 습격·살해 후 교섭 거부",
+    "answer": "교역 사절단",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-026",
+    "page": "dongyangsa-textbook-page-136",
+    "explain": "원문에서 빠진 핵심어는 가치 하락이다. • 교초 남발 : 라마교 숭상 등에 막대한 재정 낭비, 교초 남발로 가치 하락",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-136",
+        "quote": "• 교초 남발 : 라마교 숭상 등에 막대한 재정 낭비, 교초 남발로 가치 하락"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "15548fa833ebf2f7618c3a41266973b1b2a4a6bba8c0cc0b1000b4c32e207d9b"
+    },
+    "type": "blank",
+    "prompt": "• 교초 남발 : 라마교 숭상 등에 막대한 재정 낭비, 교초 남발로 _____",
+    "before": "• 교초 남발 : 라마교 숭상 등에 막대한 재정 낭비, 교초 남발로 ",
+    "after": "",
+    "answer": "가치 하락",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-027",
+    "page": "dongyangsa-textbook-page-138",
+    "explain": "원문에서 빠진 핵심어는 중통교초이다. ② 중통교초(中統交鈔) 발행(1260) → 원거리 무역과 상업 발전에 영향",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-138",
+        "quote": "② 중통교초(中統交鈔) 발행(1260) → 원거리 무역과 상업 발전에 영향"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "6e45ed22de34aa11637e2c3cfbefaec436f0754ea31134fa548629e4ec2ea43e"
+    },
+    "type": "blank",
+    "prompt": "② _____(中統交鈔) 발행(1260) → 원거리 무역과 상업 발전에 영향",
+    "before": "② ",
+    "after": "(中統交鈔) 발행(1260) → 원거리 무역과 상업 발전에 영향",
+    "answer": "중통교초",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-028",
+    "page": "dongyangsa-textbook-page-140",
+    "explain": "원문에서 빠진 핵심어는 파이자이다. • 운영 : 역참에서의 역마·숙식·식량 제공, 파이자 발급",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-140",
+        "quote": "• 운영 : 역참에서의 역마·숙식·식량 제공, 파이자 발급"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "4b1087a57fbfea99abcfdec4c7a2256fa0d81790c1c262636b18fb223bd42588"
+    },
+    "type": "blank",
+    "prompt": "• 운영 : 역참에서의 역마·숙식·식량 제공, _____ 발급",
+    "before": "• 운영 : 역참에서의 역마·숙식·식량 제공, ",
+    "after": " 발급",
+    "answer": "파이자",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-029",
+    "page": "dongyangsa-textbook-page-141",
+    "explain": "원문에서 빠진 핵심어는 대명률이다. ① 한문화 부흥 : 『대명률』 제정, 주자학의 관학화, 과거 부흥, 유학 건립, 『육유(六諭)』 반포",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-141",
+        "quote": "① 한문화 부흥 : 『대명률』 제정, 주자학의 관학화, 과거 부흥, 유학 건립, 『육유(六諭)』 반포"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "7fa0d8f73b1a99f384ead0b69480bb10ff7b3f49b43c818548aa09011890be71"
+    },
+    "type": "blank",
+    "prompt": "① 한문화 부흥 : 『_____』 제정, 주자학의 관학화, 과거 부흥, 유학 건립, 『육유(六諭)』 반포",
+    "before": "① 한문화 부흥 : 『",
+    "after": "』 제정, 주자학의 관학화, 과거 부흥, 유학 건립, 『육유(六諭)』 반포",
+    "answer": "대명률",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-030",
+    "page": "dongyangsa-textbook-page-143",
+    "explain": "원문에서 빠진 핵심어는 1421이다. ② 과정 : 북평을 북경으로 명명, 행재소 설치, 부도(副都)로 승격 → 천도(1421) + 자금성 축조",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-143",
+        "quote": "② 과정 : 북평을 북경으로 명명, 행재소 설치, 부도(副都)로 승격 → 천도(1421) + 자금성 축조"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "0da23f5aac5fd5056584b384030b090a0e4108f814ff6452884b814669cf17f7"
+    },
+    "type": "blank",
+    "prompt": "② 과정 : 북평을 북경으로 명명, 행재소 설치, 부도(副都)로 승격 → 천도(_____) + 자금성 축조",
+    "before": "② 과정 : 북평을 북경으로 명명, 행재소 설치, 부도(副都)로 승격 → 천도(",
+    "after": ") + 자금성 축조",
+    "answer": "1421",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-031",
+    "page": "dongyangsa-textbook-page-153",
+    "explain": "원문에서 빠진 핵심어는 십삼아문이다. ③ 십삼아문 설치 : 환관을 활용한 정치 기관 설립(1654) → 순치제 사후 폐지",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-153",
+        "quote": "③ 십삼아문 설치 : 환관을 활용한 정치 기관 설립(1654) → 순치제 사후 폐지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "8568913454984eee3f3dbb3425a48ca503659f1abeccbebe6c6d06a112de8a31"
+    },
+    "type": "blank",
+    "prompt": "③ _____ 설치 : 환관을 활용한 정치 기관 설립(1654) → 순치제 사후 폐지",
+    "before": "③ ",
+    "after": " 설치 : 환관을 활용한 정치 기관 설립(1654) → 순치제 사후 폐지",
+    "answer": "십삼아문",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-032",
+    "page": "dongyangsa-textbook-page-155",
+    "explain": "원문에서 빠진 핵심어는 도찰원이다. ⑧ 도찰원 : 감찰 기관",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-155",
+        "quote": "⑧ 도찰원 : 감찰 기관"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "8f846f8a4c7344469cc9bb8bd821f7c71a74297131112eebe9a65322b8591460"
+    },
+    "type": "blank",
+    "prompt": "⑧ _____ : 감찰 기관",
+    "before": "⑧ ",
+    "after": " : 감찰 기관",
+    "answer": "도찰원",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-033",
+    "page": "dongyangsa-textbook-page-156",
+    "explain": "원문에서 빠진 핵심어는 성유십육조이다. • 유교적 이념 확립 : 『성유십육조(聖諭十六條)』 반포",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "• 유교적 이념 확립 : 『성유십육조(聖諭十六條)』 반포"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "af385df75eaabdd909fc0da5502340002838117dcafec48251ca5a53bcfcd78c"
+    },
+    "type": "blank",
+    "prompt": "• 유교적 이념 확립 : 『_____(聖諭十六條)』 반포",
+    "before": "• 유교적 이념 확립 : 『",
+    "after": "(聖諭十六條)』 반포",
+    "answer": "성유십육조",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-034",
+    "page": "dongyangsa-textbook-page-160",
+    "explain": "원문에서 빠진 핵심어는 향시이다. - 시험 제도 : 동시(童試) → 향시(鄕試) → 회시(會試) → 전시(殿試)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-160",
+        "quote": "- 시험 제도 : 동시(童試) → 향시(鄕試) → 회시(會試) → 전시(殿試)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "fe4f1045ff6d9cfde1e07ffb50a11f78b36aca556aa14d1827daff13837d918d"
+    },
+    "type": "blank",
+    "prompt": "- 시험 제도 : 동시(童試) → _____(鄕試) → 회시(會試) → 전시(殿試)",
+    "before": "- 시험 제도 : 동시(童試) → ",
+    "after": "(鄕試) → 회시(會試) → 전시(殿試)",
+    "answer": "향시",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-035",
+    "page": "dongyangsa-textbook-page-163",
+    "explain": "원문에서 빠진 핵심어는 마제은이다. ③ 마제은 : 명 초 등장, 청나라 시기 사용 활발",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-163",
+        "quote": "③ 마제은 : 명 초 등장, 청나라 시기 사용 활발"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "b794cb4fae0e30ca61b659df9ba4d0e0b2fe3c054e1b23bd63e1b78a067f518a"
+    },
+    "type": "blank",
+    "prompt": "③ _____ : 명 초 등장, 청나라 시기 사용 활발",
+    "before": "③ ",
+    "after": " : 명 초 등장, 청나라 시기 사용 활발",
+    "answer": "마제은",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-036",
+    "page": "dongyangsa-textbook-page-175",
+    "explain": "원문에서 빠진 핵심어는 최혜국 대우이다. ② 호문 조약(1843. 10) : 개항장 거주 인정, 최혜국 대우",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-175",
+        "quote": "② 호문 조약(1843. 10) : 개항장 거주 인정, 최혜국 대우"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "109a8074c86f260e7c15c0161700ceb575c8c97b8e9dfbbbe94beb0b68822fc3"
+    },
+    "type": "blank",
+    "prompt": "② 호문 조약(1843. 10) : 개항장 거주 인정, _____",
+    "before": "② 호문 조약(1843. 10) : 개항장 거주 인정, ",
+    "after": "",
+    "answer": "최혜국 대우",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-037",
+    "page": "dongyangsa-textbook-page-183",
+    "explain": "원문에서 빠진 핵심어는 복건이다. • 해군 창설 : 군함 구입 등을 통하여 창설 → 북양·남양·복건의 3함대 성립(1884)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "• 해군 창설 : 군함 구입 등을 통하여 창설 → 북양·남양·복건의 3함대 성립(1884)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "75a23980ba43c20da5b381d82847a3d882322777de40260fa22b8d322dd0a4bb"
+    },
+    "type": "blank",
+    "prompt": "• 해군 창설 : 군함 구입 등을 통하여 창설 → 북양·남양·_____의 3함대 성립(1884)",
+    "before": "• 해군 창설 : 군함 구입 등을 통하여 창설 → 북양·남양·",
+    "after": "의 3함대 성립(1884)",
+    "answer": "복건",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-038",
+    "page": "dongyangsa-textbook-page-186",
+    "explain": "원문에서 빠진 핵심어는 팽호 열도이다. ㉡ 영토 문제 : 요동반도, 대만, 팽호 열도 등의 주권 및 군사시설 할양",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-186",
+        "quote": "㉡ 영토 문제 : 요동반도, 대만, 팽호 열도 등의 주권 및 군사시설 할양"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "afe23cce093370239a0b21f6587f338a565b933384048b6ad34d9f6bc3b79514"
+    },
+    "type": "blank",
+    "prompt": "㉡ 영토 문제 : 요동반도, 대만, _____ 등의 주권 및 군사시설 할양",
+    "before": "㉡ 영토 문제 : 요동반도, 대만, ",
+    "after": " 등의 주권 및 군사시설 할양",
+    "answer": "팽호 열도",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-039",
+    "page": "dongyangsa-textbook-page-197",
+    "explain": "원문에서 빠진 핵심어는 과학적이다. 6. 과학적이어야 하며, 공상적이지 않아야 한다. -",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-197",
+        "quote": "6. 과학적이어야 하며, 공상적이지 않아야 한다. -"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "65bca60f23c146ddd575c0371efad3d4b0c8635924046ce76ca9d4e9069ea55d"
+    },
+    "type": "blank",
+    "prompt": "6. _____이어야 하며, 공상적이지 않아야 한다. -",
+    "before": "6. ",
+    "after": "이어야 하며, 공상적이지 않아야 한다. -",
+    "answer": "과학적",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-040",
+    "page": "dongyangsa-textbook-page-219",
+    "explain": "원문에서 빠진 핵심어는 삼자일포이다. • 삼자일포(三自一包) : 자류지(自留地), 자유시장, 손익의 자기 부담과 농가의 생산 청부제",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-219",
+        "quote": "• 삼자일포(三自一包) : 자류지(自留地), 자유시장, 손익의 자기 부담과 농가의 생산 청부제"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "27218693cf45f142a90c2a5e77c96a3b66e963e74eb17fa03fcfa548afc40ca5"
+    },
+    "type": "blank",
+    "prompt": "• _____(三自一包) : 자류지(自留地), 자유시장, 손익의 자기 부담과 농가의 생산 청부제",
+    "before": "• ",
+    "after": "(三自一包) : 자류지(自留地), 자유시장, 손익의 자기 부담과 농가의 생산 청부제",
+    "answer": "삼자일포",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-041",
+    "page": "dongyangsa-textbook-page-225",
+    "explain": "원문에서 빠진 핵심어는 생산 도구이다. • 철기 : 생산 도구(가래·호미)·무기 등으로 사용",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-225",
+        "quote": "• 철기 : 생산 도구(가래·호미)·무기 등으로 사용"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "8f56f61becbd35d7e9f3d95f99245c567594894a5bbc3616563b8ae5a94d1915"
+    },
+    "type": "blank",
+    "prompt": "• 철기 : _____(가래·호미)·무기 등으로 사용",
+    "before": "• 철기 : ",
+    "after": "(가래·호미)·무기 등으로 사용",
+    "answer": "생산 도구",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-042",
+    "page": "dongyangsa-textbook-page-227",
+    "explain": "원문에서 빠진 핵심어는 변한이다. • 변한(弁韓) : 철 자원 확보 등의 해상 교류 활동 전개",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-227",
+        "quote": "• 변한(弁韓) : 철 자원 확보 등의 해상 교류 활동 전개"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "d767642ac8495bb98aca67360ab035fbf0b8e9fee604f9203a9cc977793bd08a"
+    },
+    "type": "blank",
+    "prompt": "• _____(弁韓) : 철 자원 확보 등의 해상 교류 활동 전개",
+    "before": "• ",
+    "after": "(弁韓) : 철 자원 확보 등의 해상 교류 활동 전개",
+    "answer": "변한",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-043",
+    "page": "dongyangsa-textbook-page-230",
+    "explain": "원문에서 빠진 핵심어는 화(和)이다. 제1조 화(和)를 귀하게 여기고, 거스르지 않음을 으뜸으로 할 것",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-230",
+        "quote": "제1조 화(和)를 귀하게 여기고, 거스르지 않음을 으뜸으로 할 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "4c6993728284b5362ae01f1105af5cc8983d6bbde296e62f2fb8dca8388f8a0d"
+    },
+    "type": "blank",
+    "prompt": "제1조 _____를 귀하게 여기고, 거스르지 않음을 으뜸으로 할 것",
+    "before": "제1조 ",
+    "after": "를 귀하게 여기고, 거스르지 않음을 으뜸으로 할 것",
+    "answer": "화(和)",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-044",
+    "page": "dongyangsa-textbook-page-233",
+    "explain": "원문에서 빠진 핵심어는 풍토기이다. ㉡ 『풍토기(風土記)』 : 천황의 칙명에 따라 각 지방의 신화·전설·설화 등을 정리",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-233",
+        "quote": "㉡ 『풍토기(風土記)』 : 천황의 칙명에 따라 각 지방의 신화·전설·설화 등을 정리"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "1227312e2b2072ab2797f49eedee2c65daca753d58b5795f5aeb6379079e045c"
+    },
+    "type": "blank",
+    "prompt": "㉡ 『_____(風土記)』 : 천황의 칙명에 따라 각 지방의 신화·전설·설화 등을 정리",
+    "before": "㉡ 『",
+    "after": "(風土記)』 : 천황의 칙명에 따라 각 지방의 신화·전설·설화 등을 정리",
+    "answer": "풍토기",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-045",
+    "page": "dongyangsa-textbook-page-236",
+    "explain": "원문에서 빠진 핵심어는 묘슈이다. • 묘슈(名主) : 장원 내부에서 유력 농민층인 묘슈 등장, 장원 관리",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-236",
+        "quote": "• 묘슈(名主) : 장원 내부에서 유력 농민층인 묘슈 등장, 장원 관리"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "7e41bfebdfdf5b1856257a7a720e305db695e77568b25533b0b176ab82208f7b"
+    },
+    "type": "blank",
+    "prompt": "장원 내부에서 유력 농민층인 _____ 등장, 장원 관리",
+    "before": "장원 내부에서 유력 농민층인 ",
+    "after": " 등장, 장원 관리",
+    "answer": "묘슈",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-046",
+    "page": "dongyangsa-textbook-page-238",
+    "explain": "원문에서 빠진 핵심어는 무사이다. ㉡ 영향 : 원(院)이 세력 강화를 위하여 무사 고용(무사의 중앙 정계 진출)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-238",
+        "quote": "㉡ 영향 : 원(院)이 세력 강화를 위하여 무사 고용(무사의 중앙 정계 진출)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "86a883ccdf3ad821ccdf3e950d6b6a11dbb755e18da0117afc793fc30df4c01d"
+    },
+    "type": "blank",
+    "prompt": "원(院)이 세력 강화를 위하여 _____ 고용",
+    "before": "원(院)이 세력 강화를 위하여 ",
+    "after": " 고용",
+    "answer": "무사",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-047",
+    "page": "dongyangsa-textbook-page-239",
+    "explain": "원문에서 빠진 핵심어는 카미카제이다. • 신국 사상 : 카미카제(神風)로 격퇴하였다는 신국(神國) 사상 확산",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-239",
+        "quote": "• 신국 사상 : 카미카제(神風)로 격퇴하였다는 신국(神國) 사상 확산"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "2d62ba7f922faa4f5911c1799ff6bddd00792d922f0ae6d10488f99e73aecbc1"
+    },
+    "type": "blank",
+    "prompt": "• 신국 사상 : _____(神風)로 격퇴하였다는 신국(神國) 사상 확산",
+    "before": "• 신국 사상 : ",
+    "after": "(神風)로 격퇴하였다는 신국(神國) 사상 확산",
+    "answer": "카미카제",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-048",
+    "page": "dongyangsa-textbook-page-241",
+    "explain": "원문에서 빠진 핵심어는 50척이다. • 쓰시마 도주는 매년 세견선 50척 이외에 특송선을 보낼 수 있다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-241",
+        "quote": "• 쓰시마 도주는 매년 세견선 50척 이외에 특송선을 보낼 수 있다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "1716104d1e7898b0ee16100d15c6e6c44ff0f6cd1a78d548ee8ba13773307376"
+    },
+    "type": "blank",
+    "prompt": "• 쓰시마 도주는 매년 세견선 _____ 이외에 특송선을 보낼 수 있다.",
+    "before": "• 쓰시마 도주는 매년 세견선 ",
+    "after": " 이외에 특송선을 보낼 수 있다.",
+    "answer": "50척",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-049",
+    "page": "dongyangsa-textbook-page-242",
+    "explain": "원문에서 빠진 핵심어는 사주전이다. ㉠ 사주전 유통 : 중국 수입 화폐의 감소로 인하여 조악한 화폐 주조·유통",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-242",
+        "quote": "㉠ 사주전 유통 : 중국 수입 화폐의 감소로 인하여 조악한 화폐 주조·유통"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "b41da7fa47583a57bc9984355b4f423f7536207522da04e553283cd9cbc8b923"
+    },
+    "type": "blank",
+    "prompt": "㉠ _____ 유통 : 중국 수입 화폐의 감소로 인하여 조악한 화폐 주조·유통",
+    "before": "㉠ ",
+    "after": " 유통 : 중국 수입 화폐의 감소로 인하여 조악한 화폐 주조·유통",
+    "answer": "사주전",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-050",
+    "page": "dongyangsa-textbook-page-244",
+    "explain": "원문에서 빠진 핵심어는 병농 분리이다. • 목적 : 농민 저항(잇키) 봉쇄, 병농 분리",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-244",
+        "quote": "• 목적 : 농민 저항(잇키) 봉쇄, 병농 분리"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "c76ce182ee6f8830a18c614eb7f93891ca96bfc1f45e5c4891c0c7c1e93b508a"
+    },
+    "type": "blank",
+    "prompt": "• 목적 : 농민 저항(잇키) 봉쇄, _____",
+    "before": "• 목적 : 농민 저항(잇키) 봉쇄, ",
+    "after": "",
+    "answer": "병농 분리",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-051",
+    "page": "dongyangsa-textbook-page-245",
+    "explain": "원문에서 빠진 핵심어는 무가제법도이다. ㉣ 무가제법도(武家諸法度) 공포(1615)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-245",
+        "quote": "㉣ 무가제법도(武家諸法度) 공포(1615)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "8444a6a1e4c4661731a349fd3cb285a0a878d9e7c889921ec6ceb176d23bbe54"
+    },
+    "type": "blank",
+    "prompt": "㉣ _____(武家諸法度) 공포(1615)",
+    "before": "㉣ ",
+    "after": "(武家諸法度) 공포(1615)",
+    "answer": "무가제법도",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-052",
+    "page": "dongyangsa-textbook-page-247",
+    "explain": "원문에서 빠진 핵심어는 구리이다. ㉢ 대금 결제 방식 변화 : 막부가 은 대신 구리로 무역 대금 결제",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-247",
+        "quote": "㉢ 대금 결제 방식 변화 : 막부가 은 대신 구리로 무역 대금 결제"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "6ee32bba41419edaa814d1c8d1e62d83e9355c83ef4223b91391c5aae0350ca1"
+    },
+    "type": "blank",
+    "prompt": "㉢ 대금 결제 방식 변화 : 막부가 은 대신 _____로 무역 대금 결제",
+    "before": "㉢ 대금 결제 방식 변화 : 막부가 은 대신 ",
+    "after": "로 무역 대금 결제",
+    "answer": "구리",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-053",
+    "page": "dongyangsa-textbook-page-248",
+    "explain": "원문에서 빠진 핵심어는 고사기전이다. • 『고사기전』 편찬 : 『고사기』 연구 집대성, 천황 만세일계 옹호(아마테라스 오미카미)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-248",
+        "quote": "• 『고사기전』 편찬 : 『고사기』 연구 집대성, 천황 만세일계 옹호(아마테라스 오미카미)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "3f0689aa420b4c64603d54d4234fbec91879af342d4d35a1f8ecfeaa7d97c752"
+    },
+    "type": "blank",
+    "prompt": "• 『_____』 편찬 : 『고사기』 연구 집대성, 천황 만세일계 옹호(아마테라스 오미카미)",
+    "before": "• 『",
+    "after": "』 편찬 : 『고사기』 연구 집대성, 천황 만세일계 옹호(아마테라스 오미카미)",
+    "answer": "고사기전",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-054",
+    "page": "dongyangsa-textbook-page-253",
+    "explain": "원문에서 빠진 핵심어는 지조 개정이다. ㉤ 지조 개정 : 연공 수취의 불안정 → 안정적인 지세 수취 도모",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-253",
+        "quote": "㉤ 지조 개정 : 연공 수취의 불안정 → 안정적인 지세 수취 도모"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "c4982385d4c21a76aeb7ec0fc59d174172c8e8b8893d1e4dd9d7a0e097069dcc"
+    },
+    "type": "blank",
+    "prompt": "㉤ _____ : 연공 수취의 불안정 → 안정적인 지세 수취 도모",
+    "before": "㉤ ",
+    "after": " : 연공 수취의 불안정 → 안정적인 지세 수취 도모",
+    "answer": "지조 개정",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-055",
+    "page": "dongyangsa-textbook-page-256",
+    "explain": "원문에서 빠진 핵심어는 우에키 에모리이다. - 민간의 헌법안 제작 : 우에키 에모리 등이 다양한 헌법안 제작",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-256",
+        "quote": "- 민간의 헌법안 제작 : 우에키 에모리 등이 다양한 헌법안 제작"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "9a99beabf8d2707580f270696cc1cc98e3283cf7262e24c5d75415108e4831d7"
+    },
+    "type": "blank",
+    "prompt": "- 민간의 헌법안 제작 : _____ 등이 다양한 헌법안 제작",
+    "before": "- 민간의 헌법안 제작 : ",
+    "after": " 등이 다양한 헌법안 제작",
+    "answer": "우에키 에모리",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-056",
+    "page": "dongyangsa-textbook-page-259",
+    "explain": "원문에서 빠진 핵심어는 메이로쿠 잡지이다. ㉡ 잡지 발행 : 메이로쿠샤(明六社)의 『메이로쿠 잡지』 발행(1874)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-259",
+        "quote": "㉡ 잡지 발행 : 메이로쿠샤(明六社)의 『메이로쿠 잡지』 발행(1874)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "9374c4e0d978eb553cb3813cf7a170cd9c8d8ba78de95af10f2289c142280b60"
+    },
+    "type": "blank",
+    "prompt": "㉡ 잡지 발행 : 메이로쿠샤(明六社)의 『_____』 발행(1874)",
+    "before": "㉡ 잡지 발행 : 메이로쿠샤(明六社)의 『",
+    "after": "』 발행(1874)",
+    "answer": "메이로쿠 잡지",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-057",
+    "page": "dongyangsa-textbook-page-261",
+    "explain": "원문에서 빠진 핵심어는 영·일 동맹이다. ㉡ 4개국 조약(1921) : 태평양 지역 상호 불가침, 영·일 동맹 폐기",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-261",
+        "quote": "㉡ 4개국 조약(1921) : 태평양 지역 상호 불가침, 영·일 동맹 폐기"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "cdb11854398e4fd7f8f4a9143e4fc5e0fd48fa85b57ed47908efd8962fb5942b"
+    },
+    "type": "blank",
+    "prompt": "㉡ 4개국 조약(1921) : 태평양 지역 상호 불가침, _____ 폐기",
+    "before": "㉡ 4개국 조약(1921) : 태평양 지역 상호 불가침, ",
+    "after": " 폐기",
+    "answer": "영·일 동맹",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-058",
+    "page": "dongyangsa-textbook-page-270",
+    "explain": "원문에서 빠진 핵심어는 미노베 다쓰키치이다. • 기쿠치 다케오 : 미노베 다쓰키치의 천황기관설을 국체 위배한 주장이라고 비난",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-270",
+        "quote": "• 기쿠치 다케오 : 미노베 다쓰키치의 천황기관설을 국체 위배한 주장이라고 비난"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "c2ae27851b71e0dfd2f2d0c3a586d4e4f47c246ad99cf875e76991d275cd314a"
+    },
+    "type": "blank",
+    "prompt": "• 기쿠치 다케오 : _____의 천황기관설을 국체 위배한 주장이라고 비난",
+    "before": "• 기쿠치 다케오 : ",
+    "after": "의 천황기관설을 국체 위배한 주장이라고 비난",
+    "answer": "미노베 다쓰키치",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-059",
+    "page": "dongyangsa-textbook-page-272",
+    "explain": "원문에서 빠진 핵심어는 전범 체포이다. ㉠ 군사 무장 해제 : 군수 생산 전면 중지, 육·해군 해체, 전범 체포",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-272",
+        "quote": "㉠ 군사 무장 해제 : 군수 생산 전면 중지, 육·해군 해체, 전범 체포"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "2b70f85ef9113397339a5edcad3c992339a252fad21ccef8e182a99fb15539a9"
+    },
+    "type": "blank",
+    "prompt": "㉠ 군사 무장 해제 : 군수 생산 전면 중지, 육·해군 해체, _____",
+    "before": "㉠ 군사 무장 해제 : 군수 생산 전면 중지, 육·해군 해체, ",
+    "after": "",
+    "answer": "전범 체포",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-060",
+    "page": "dongyangsa-textbook-page-273",
+    "explain": "원문에서 빠진 핵심어는 독점 금지법이다. • 재벌 해체 : 4대 재벌 중심 족벌 체제 종식, 독점 금지법 제정 → 경제 민주화 조치",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-273",
+        "quote": "• 재벌 해체 : 4대 재벌 중심 족벌 체제 종식, 독점 금지법 제정 → 경제 민주화 조치"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "a80ac6b0f87f75f33f55ebc0e10be1e869c8e313aa9ebea2fda324abcb572eea"
+    },
+    "type": "blank",
+    "prompt": "• 재벌 해체 : 4대 재벌 중심 족벌 체제 종식, _____ 제정 → 경제 민주화 조치",
+    "before": "• 재벌 해체 : 4대 재벌 중심 족벌 체제 종식, ",
+    "after": " 제정 → 경제 민주화 조치",
+    "answer": "독점 금지법",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-061",
+    "page": "dongyangsa-textbook-page-276",
+    "explain": "원문에서 빠진 핵심어는 기시 노부스케이다. ㉠ 배경 : 기시 노부스케 내각 주도의 개정 추진 → 미·일의 공동 방위 체제 구성",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-276",
+        "quote": "㉠ 배경 : 기시 노부스케 내각 주도의 개정 추진 → 미·일의 공동 방위 체제 구성"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "7f825d7c39f5b4120abc2ae3fbac585b133e676116ae32644f2da440eedb1fdb"
+    },
+    "type": "blank",
+    "prompt": "㉠ 배경 : _____ 내각 주도의 개정 추진 → 미·일의 공동 방위 체제 구성",
+    "before": "㉠ 배경 : ",
+    "after": " 내각 주도의 개정 추진 → 미·일의 공동 방위 체제 구성",
+    "answer": "기시 노부스케",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-062",
+    "page": "dongyangsa-textbook-page-278",
+    "explain": "원문에서 빠진 핵심어는 벽돌이다. ㉢ 특징 : 청동기, 상형문자, 벽돌 건물 등 건축",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-278",
+        "quote": "㉢ 특징 : 청동기, 상형문자, 벽돌 건물 등 건축"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "e82c9ac18b63f2986136e516057bdd8f5de48114158996821382c9363871da7f"
+    },
+    "type": "blank",
+    "prompt": "㉢ 특징 : 청동기, 상형문자, _____ 건물 등 건축",
+    "before": "㉢ 특징 : 청동기, 상형문자, ",
+    "after": " 건물 등 건축",
+    "answer": "벽돌",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-063",
+    "page": "dongyangsa-textbook-page-280",
+    "explain": "원문에서 빠진 핵심어는 데칸 고원이다. ㉠ 성장 : B.C. 1세기경 남인도의 데칸 고원을 중심으로 성장",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-280",
+        "quote": "㉠ 성장 : B.C. 1세기경 남인도의 데칸 고원을 중심으로 성장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "0a4c9a48a50308f8f9a89f3698a7c298881c2102b618a44036c69de0728c8fef"
+    },
+    "type": "blank",
+    "prompt": "㉠ 성장 : B.C. 1세기경 남인도의 _____을 중심으로 성장",
+    "before": "㉠ 성장 : B.C. 1세기경 남인도의 ",
+    "after": "을 중심으로 성장",
+    "answer": "데칸 고원",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-064",
+    "page": "dongyangsa-textbook-page-282",
+    "explain": "원문에서 빠진 핵심어는 만사브다리이다. ㉢ 만사브다리 : 평상시 군인·관료에게 군비 준비 의무화 → 관료 기구 서열화",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-282",
+        "quote": "㉢ 만사브다리 : 평상시 군인·관료에게 군비 준비 의무화 → 관료 기구 서열화"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "cbf346933d929d476c576cd927e9f723803b7d104fd7b34d64a851ffc795986b"
+    },
+    "type": "blank",
+    "prompt": "㉢ _____ : 평상시 군인·관료에게 군비 준비 의무화 → 관료 기구 서열화",
+    "before": "㉢ ",
+    "after": " : 평상시 군인·관료에게 군비 준비 의무화 → 관료 기구 서열화",
+    "answer": "만사브다리",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-065",
+    "page": "dongyangsa-textbook-page-283",
+    "explain": "원문에서 빠진 핵심어는 아편이다. ㉠ 재배 강요 : 면화·아편 등의 재배 강요",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-283",
+        "quote": "㉠ 재배 강요 : 면화·아편 등의 재배 강요"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "75d323fa0acebb85b36cf2d5cf1b5ce31f83b9df237adc87e1b2610bee5c5108"
+    },
+    "type": "blank",
+    "prompt": "㉠ 재배 강요 : 면화·_____ 등의 재배 강요",
+    "before": "㉠ 재배 강요 : 면화·",
+    "after": " 등의 재배 강요",
+    "answer": "아편",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-066",
+    "page": "dongyangsa-textbook-page-285",
+    "explain": "원문에서 빠진 핵심어는 1950이다. • 공화국 선포 : 인도 공화국(1950), 파키스탄 이슬람 공화국(1956) 선포",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-285",
+        "quote": "• 공화국 선포 : 인도 공화국(1950), 파키스탄 이슬람 공화국(1956) 선포"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "ee002066b1c653696c1897295ebca9d3cca74e7b33c9cadc3a1d001937d23958"
+    },
+    "type": "blank",
+    "prompt": "• 공화국 선포 : 인도 공화국(_____), 파키스탄 이슬람 공화국(1956) 선포",
+    "before": "• 공화국 선포 : 인도 공화국(",
+    "after": "), 파키스탄 이슬람 공화국(1956) 선포",
+    "answer": "1950",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-067",
+    "page": "dongyangsa-textbook-page-287",
+    "explain": "원문에서 빠진 핵심어는 대월이다. ② 대외 관계 : 국호 '대월(大越)', 송나라 침략 격퇴, 수차에 대규모 참파 토벌 실시",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-287",
+        "quote": "② 대외 관계 : 국호 '대월(大越)', 송나라 침략 격퇴, 수차에 대규모 참파 토벌 실시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "82dfca2bf9fc59df88fe1f941ee60828f21993056935d7d2fc3705985d7314f3"
+    },
+    "type": "blank",
+    "prompt": "② 대외 관계 : 국호 '_____(大越)', 송나라 침략 격퇴, 수차에 대규모 참파 토벌 실시",
+    "before": "② 대외 관계 : 국호 '",
+    "after": "(大越)', 송나라 침략 격퇴, 수차에 대규모 참파 토벌 실시",
+    "answer": "대월",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-068",
+    "page": "dongyangsa-textbook-page-289",
+    "explain": "원문에서 빠진 핵심어는 국조형률이다. ㉠ 통치 : 『국조형률(國朝刑律)』 제정(관습법 반영), 『대월사기전서』 편찬",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-289",
+        "quote": "㉠ 통치 : 『국조형률(國朝刑律)』 제정(관습법 반영), 『대월사기전서』 편찬"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "3180cb3e3e1e6151eacad90fbf51e9c3c0063a85309766a5ba37c36fa3a0e91c"
+    },
+    "type": "blank",
+    "prompt": "㉠ 통치 : 『_____(國朝刑律)』 제정(관습법 반영), 『대월사기전서』 편찬",
+    "before": "㉠ 통치 : 『",
+    "after": "(國朝刑律)』 제정(관습법 반영), 『대월사기전서』 편찬",
+    "answer": "국조형률",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-069",
+    "page": "dongyangsa-textbook-page-294",
+    "explain": "원문에서 빠진 핵심어는 1919이다. • 파리강화회의 참석 : 「베트남 인민의 8항목 요구」 제출(1919)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-294",
+        "quote": "• 파리강화회의 참석 : 「베트남 인민의 8항목 요구」 제출(1919)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "2584365bc495c1b77fcdfc65265e9b483cb1198a60533f478c4f3b028fff78da"
+    },
+    "type": "blank",
+    "prompt": "• 파리강화회의 참석 : 「베트남 인민의 8항목 요구」 제출(_____)",
+    "before": "• 파리강화회의 참석 : 「베트남 인민의 8항목 요구」 제출(",
+    "after": ")",
+    "answer": "1919",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "dongyangsa-ext-blank-070",
+    "page": "dongyangsa-textbook-page-301",
+    "explain": "원문에서 빠진 핵심어는 이슬람 동맹이다. ③ 이슬람 동맹 결성(1912)",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-301",
+        "quote": "③ 이슬람 동맹 결성(1912)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "e9cf0bd2072a6afb4b7fdf0cc1460b1561eacc6764c34ab8d96f8b6fce1a93b2"
+    },
+    "type": "blank",
+    "prompt": "③ _____ 결성(1912)",
+    "before": "③ ",
+    "after": " 결성(1912)",
+    "answer": "이슬람 동맹",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  }
+]

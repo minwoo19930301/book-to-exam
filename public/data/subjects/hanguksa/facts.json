@@ -1,0 +1,174 @@
+[
+  {
+    "id": "hanguksa-golpum",
+    "term": "골품제",
+    "def": "통일신라에서도 6두품이 아찬을 넘어 승진하는 것과 지방민의 중앙 관직 진출을 제약한 신분제",
+    "page": "hanguksa-textbook-page-51",
+    "title": "혜공왕 / 02 통일신라의 통치 제도 / 통일신라의 통치 제도 - 지방 행정 제도 / 관료제 운영과 골품제",
+    "evidence": [
+      {
+        "page": "hanguksa-textbook-page-51",
+        "quote": "6두품[아찬] 등의 승진 제약 지속, 지방민의 중앙관직 진출 불가"
+      },
+      {
+        "page": "hanguksa-textbook-page-51",
+        "quote": "(2) 관료제 운영과 골품제"
+      }
+    ]
+  },
+  {
+    "id": "hanguksa-revised-jeonsigwa",
+    "term": "개정전시과",
+    "def": "고려 목종 때 인품을 지급 기준에서 제외하고 관직을 기준으로 18과로 나누어 토지를 분급한 제도",
+    "page": "hanguksa-textbook-page-324",
+    "title": "시정·개정·경정전시과 / 녹과전 / 과전법",
+    "evidence": [
+      {
+        "page": "hanguksa-textbook-page-324",
+        "quote": "관직이라는 단일 기준에 따라 18과로 나누어 지급(인품 삭제)"
+      },
+      {
+        "page": "hanguksa-textbook-page-324",
+        "quote": "개정전시과(목종 원년, 998)"
+      }
+    ]
+  },
+  {
+    "id": "hanguksa-gwajeon",
+    "term": "과전법",
+    "def": "경기 지역의 토지 수조권을 전·현직 관리에게 18과로 나누어 지급하여 사대부의 경제적 기반을 마련한 제도",
+    "page": "hanguksa-textbook-page-127",
+    "title": "조선 전기의 경제 기출 경향과 과전법 / 과전법 규정과 직전법·관수관급제",
+    "evidence": [
+      {
+        "page": "hanguksa-textbook-page-127",
+        "quote": "수조권 재분배 → 사대부 경제적 기반 확립, 국가 재정·민생 안정 추구"
+      },
+      {
+        "page": "hanguksa-textbook-page-127",
+        "quote": "경기 지역에 한정하여 관료에게 과전 지급"
+      },
+      {
+        "page": "hanguksa-textbook-page-127",
+        "quote": "전·현직 관리에게 18과(150~10결)로 나누어 분급"
+      }
+    ]
+  },
+  {
+    "id": "hanguksa-gwansu",
+    "term": "관수관급제",
+    "def": "관리의 직접 수조에 따른 폐단을 줄이려고 관청이 수확량을 조사하고 조세를 거두어 관리에게 지급한 제도",
+    "page": "hanguksa-textbook-page-127",
+    "title": "조선 전기의 경제 기출 경향과 과전법 / 과전법 규정과 직전법·관수관급제",
+    "evidence": [
+      {
+        "page": "hanguksa-textbook-page-127",
+        "quote": "관청에서 수확량 조사하고 조세를 거둔 후 관리에게 지급"
+      },
+      {
+        "page": "hanguksa-textbook-page-127",
+        "quote": "수조권을 받은 관리가 직접 수조하는 과정에서 많은 폐단 자행"
+      }
+    ]
+  },
+  {
+    "id": "hanguksa-gyunyeok",
+    "term": "균역법",
+    "def": "영조 때 군포를 1년에 1필로 줄이고 결작·선무군관포 등으로 부족한 재정을 보충한 제도",
+    "page": "hanguksa-textbook-page-153",
+    "title": "③ 양역변통론 대두 / [02] 삼정의 문란",
+    "evidence": [
+      {
+        "page": "hanguksa-textbook-page-153",
+        "quote": "1년 2필 이상 군포를 1년 1필로 감필, 균역청 설치"
+      },
+      {
+        "page": "hanguksa-textbook-page-153",
+        "quote": "결작(結作) : 6도에 토지 1결당 쌀 2말 혹은 돈 5전을 부과"
+      },
+      {
+        "page": "hanguksa-textbook-page-153",
+        "quote": "토호·부민을 선무군관으로 임명하고 군포 1필 징수"
+      }
+    ]
+  },
+  {
+    "id": "hanguksa-junron",
+    "term": "준론 탕평",
+    "def": "정조가 충과 역의 구분을 강조하고 왕이 의리를 밝히며 정사를 이끈다는 입장에서 추진한 탕평",
+    "page": "hanguksa-textbook-page-147",
+    "title": "01 조선 후기의 정치 - 신임옥사의 발생, (4) 영조 (즉위 직후 혼란, 완론 탕평 추진) / 01 조선 후기의 정치 - 노론 우위 정권 수립, 통치 체제 정비, (5) 정조 (준론 탕평, 정치 개혁)",
+    "evidence": [
+      {
+        "page": "hanguksa-textbook-page-147",
+        "quote": "충(忠)·역(逆)의 명확한 구분 → 왕이 의리를 밝히고 정사를 이끈다는 입장"
+      },
+      {
+        "page": "hanguksa-textbook-page-147",
+        "quote": "정조(正祖, 1776~1800)"
+      },
+      {
+        "page": "hanguksa-textbook-page-147",
+        "quote": "준론 탕평(峻論蕩平)"
+      }
+    ]
+  },
+  {
+    "id": "hanguksa-gabo-first",
+    "term": "제1차 갑오개혁",
+    "def": "1894년 군국기무처를 중심으로 신분제·과거제 폐지와 재정의 탁지아문 일원화 등을 추진한 개혁",
+    "page": "hanguksa-textbook-page-191",
+    "title": "동학농민운동 의의·한계 / ⑤ 갑오·을미개혁과 아관파천 / (1) 1차 갑오개혁 / ③ 주요 내용 / [사료탐구] 1차 갑오개혁 주요 법령 / 정치적·경제적·사회적 영향",
+    "evidence": [
+      {
+        "page": "hanguksa-textbook-page-191",
+        "quote": "군국기무처에서 다양한 개혁 심의"
+      },
+      {
+        "page": "hanguksa-textbook-page-191",
+        "quote": "1차 갑오개혁(1894. 6.)"
+      },
+      {
+        "page": "hanguksa-textbook-page-191",
+        "quote": "과거제 폐지"
+      },
+      {
+        "page": "hanguksa-textbook-page-191",
+        "quote": "신분제 폐지"
+      },
+      {
+        "page": "hanguksa-textbook-page-191",
+        "quote": "국가 재정의 탁지아문 일원화"
+      }
+    ]
+  },
+  {
+    "id": "hanguksa-land-reform",
+    "term": "농지개혁",
+    "def": "1950년 개정 법률에 따라 정부가 비농가·비자경 농지 등을 보상 매수하고 농가당 총경영 면적 3정보 이내로 분배한 개혁",
+    "page": "hanguksa-textbook-page-278",
+    "title": "(2) 농지개혁(1949~1950) / (3) 이승만 정권의 동요와 대응",
+    "evidence": [
+      {
+        "page": "hanguksa-textbook-page-278",
+        "quote": "1가구당 총경영 면적 3정보를 초과하지 못한다."
+      },
+      {
+        "page": "hanguksa-textbook-page-278",
+        "quote": "농지개혁법(1950. 3.)"
+      },
+      {
+        "page": "hanguksa-textbook-page-278",
+        "quote": "아래의 농지는 적당한 보상으로 정부가 매수한다."
+      },
+      {
+        "page": "hanguksa-textbook-page-278",
+        "quote": "농가 아닌 자의 농지"
+      },
+      {
+        "page": "hanguksa-textbook-page-278",
+        "quote": "자경(自耕)하지 않는 자의 농지"
+      }
+    ]
+  }
+]

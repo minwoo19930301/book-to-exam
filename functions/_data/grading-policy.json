@@ -1,0 +1,75 @@
+{
+  "version": "2026-10-03.grading.2",
+  "kind": "authored-practice-policy",
+  "officialExamRubric": false,
+  "researchDate": "2026-10-03",
+  "rules": [
+    {
+      "id": "demand",
+      "text": "문항과 사전 기준이 요구한 대상·개수·시기·관점만 평가한다. 명칭만 요구하면 부가 설명 부족으로 감점하지 않는다. 상위 개념이나 관련 사건을 정확한 대상 대신 인정하지 않는다.",
+      "sourceIds": [
+        "pmg-history-2021-analysis"
+      ],
+      "basis": "academy-informed-design"
+    },
+    {
+      "id": "meaning",
+      "text": "서술형은 핵심 의미를 평가한다. 어순·조사·정확한 동의 표현은 허용하되 서로 다른 사건·제도·개념을 합치지 않는다. 명칭 기입형의 별칭은 해당 문항의 인정 답안에 한정한다.",
+      "sourceIds": [
+        "pmg-history-2021-analysis"
+      ],
+      "basis": "academy-informed-design"
+    },
+    {
+      "id": "relation",
+      "text": "이유·비교·과정·자료 해석을 요구한 기준은 용어 나열만으로 만점을 주지 않는다. 해당 기준이 요구한 주체·대상·관계가 실제 답안에 드러나는지 확인한다.",
+      "sourceIds": [
+        "willbes-kimjongkwon-2024-history-explanation",
+        "pmg-choi-education-20251106"
+      ],
+      "basis": "academy-informed-design"
+    },
+    {
+      "id": "source-context",
+      "text": "자료 해석형은 제시 자료가 말하는 대상·시점·입장과 답안의 대응을 확인한다. 외운 일반 지식이 맞더라도 주어진 자료의 질문에 답하지 않으면 그 요소의 만점을 주지 않는다.",
+      "sourceIds": [
+        "willbes-kimjongkwon-2024-history-explanation"
+      ],
+      "basis": "academy-informed-design"
+    },
+    {
+      "id": "analytic",
+      "text": "기준별로 독립 평가한다. checkpoints가 있으면 각 요소의 충족·누락을 점검하고 comment에 근거를 설명한다. 일부의 오류를 이유로 다른 독립 기준의 정답까지 모두 0점으로 만들지 않는다.",
+      "sourceIds": [
+        "ssamplus-snu-2024-history-public-material"
+      ],
+      "basis": "academy-informed-design"
+    },
+    {
+      "id": "contradiction",
+      "text": "정답 의미와 이를 부정하는 진술이 같은 요소에 함께 있으면 해당 요소의 점수를 주지 않는다. 추측성 답안 나열로 상충하는 대안을 동시에 제출한 경우도 해당 요소에 한정하여 판단한다.",
+      "sourceIds": [],
+      "basis": "project-scoring-design"
+    },
+    {
+      "id": "evidence",
+      "text": "학생이 실제 쓴 표현과 사전 근거를 각각 인용한다. 답안에 없는 지식을 추정하여 보충하지 않는다. 교재 인용에 단어가 있다는 사실만으로 문항의 관계 설명까지 충족했다고 보지 않는다.",
+      "sourceIds": [],
+      "basis": "project-scoring-design"
+    },
+    {
+      "id": "scores",
+      "text": "점수는 기준에 제공한 allowedScores 중에서만 선택한다. scoreLevels가 있으면 해당 조건을 우선 적용한다. 없으면 0은 핵심 누락·오류, 만점은 ok의 모든 요구 충족, 중간 점수는 정확히 충족한 일부와 남은 누락을 설명해야 한다. 이 점수 체계는 자체 연습용이며 학원 또는 평가원의 실제 배점으로 주장하지 않는다.",
+      "sourceIds": [],
+      "basis": "project-scoring-design"
+    },
+    {
+      "id": "uncertainty",
+      "text": "문항에 주어지지 않은 조건이나 외부 가답안으로 기준을 바꾸지 않는다. 출처가 충돌하거나 인정 여부를 판단하기 어려운 부분은 총평에 재검토 필요와 이유를 밝힌다. 시험 점수나 합격 가능성을 예측하지 않는다.",
+      "sourceIds": [],
+      "basis": "project-scoring-design"
+    }
+  ],
+  "sourceRegistry": "knowledge/grading-research",
+  "scope": "공개 학원 해설을 참고한 자체 연습용 평가. 실제 임용 채점기준이 아님."
+}

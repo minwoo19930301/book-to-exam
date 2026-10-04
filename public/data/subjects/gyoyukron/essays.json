@@ -1,0 +1,200 @@
+[
+  {
+    "id": "gyoyukron-essay-source-criticism",
+    "title": "진본 확인과 내용 신뢰성 판단",
+    "prompt": "어떤 일기가 실제 당시 작성된 진본임이 확인되었지만, 저자가 자신의 행동을 과장했을 가능성이 있다. 외적 비판과 내적 비판을 구분하고, 진본 확인만으로 서술 내용을 그대로 신뢰할 수 없는 이유를 설명하시오.",
+    "page": "gyoyukron-textbook-page-81"
+  },
+  {
+    "id": "gyoyukron-essay-curriculum-sequence",
+    "title": "연대기와 역연대기 내용 조직",
+    "prompt": "역사 내용을 고대부터 현재까지 배열하는 방식과 현재 문제에서 과거로 거슬러 올라가는 방식을 비교하시오. 두 방식의 조직 원리를 구분하고, 각각의 장점 한 가지와 역연대기적 방법의 주의점 한 가지를 서술하시오.",
+    "page": "gyoyukron-textbook-page-12"
+  },
+  {
+    "id": "gyoyukron-essay-empathy-teaching",
+    "title": "자료에 근거한 감정이입적 이해",
+    "prompt": "과거 인물의 일기를 쓰는 수업을 감정이입적 역사이해 활동으로 설계하려 한다. 자료·맥락적 지식이 필요한 이유, 행위자의 관점을 재구성하는 방식, 단순한 공감과의 차이를 설명하시오.",
+    "page": "gyoyukron-textbook-page-106"
+  },
+  {
+    "id": "gyoyukron-ext-essay-001",
+    "title": "교사지식의 세 역할",
+    "prompt": "교사가 역사학의 연구 방법을 공부하고, 학생의 오개념을 고려해 설명 방식을 고르며, 다른 교과의 자료와 연계하려 한다. 내용지식·교수내용지식·교육과정지식을 각각 구분하여 설명하시오.",
+    "page": "gyoyukron-textbook-page-74"
+  },
+  {
+    "id": "gyoyukron-ext-essay-002",
+    "title": "유추와 비교의 수업 역할",
+    "prompt": "교사는 낯선 제도를 익숙한 제도에 빗대어 설명한 뒤 두 제도를 나란히 탐구하게 했다. 유추와 비교의 차이를 설명하고, 이 표현 방식을 학습자에 맞게 고르는 교사지식의 의미를 서술하시오.",
+    "page": "gyoyukron-textbook-page-74"
+  },
+  {
+    "id": "gyoyukron-ext-essay-003",
+    "title": "과거의 약속과 현재의 판단",
+    "prompt": "과거 공동체가 한 약속을 오늘 어떻게 다룰지를 토론한다. 전통적 유형·비판적 유형·발생적 유형이 과거와 현재의 관계를 다루는 방식을 각각 구별하시오.",
+    "page": "gyoyukron-textbook-page-75"
+  },
+  {
+    "id": "gyoyukron-ext-essay-004",
+    "title": "수업목표와 평가 설계",
+    "prompt": "교사가 관찰 가능한 성취목표와 열린 탐구주제를 함께 설계하려 한다. 행동목표와 구현목표를 구분하고, 구현목표를 평가 준거로 사용할 때의 한계를 설명하시오.",
+    "page": "gyoyukron-textbook-page-9"
+  },
+  {
+    "id": "gyoyukron-ext-essay-005",
+    "title": "개념의 정의와 관계 진술",
+    "prompt": "학생들에게 개념의 속성을 찾게 하고, 구체적 사례를 분류한 뒤 개념 간 관계를 진술하게 한다. 내포적 정의·외연적 정의·일반화를 각각 구분하시오.",
+    "page": "gyoyukron-textbook-page-78"
+  },
+  {
+    "id": "gyoyukron-ext-essay-006",
+    "title": "역사 내용 배열의 선택",
+    "prompt": "수업 내용을 발생 순서, 현재 문제에서 거슬러 가는 순서, 공통 주제로 묶는 방식으로 구성하려 한다. 세 방식의 조직 원리를 각각 설명하시오.",
+    "page": "gyoyukron-textbook-page-12"
+  },
+  {
+    "id": "gyoyukron-ext-essay-007",
+    "title": "하나의 주제를 다루는 두 축",
+    "prompt": "교통이라는 주제로 여러 시대의 변화를 추적하는 단원과, 한 시대의 교통을 여러 측면에서 살피는 단원을 설계한다. 종적·횡적 관점을 구분하고 주제 조직에서 누락될 수 있는 맥락을 설명하시오.",
+    "page": "gyoyukron-textbook-page-12"
+  },
+  {
+    "id": "gyoyukron-ext-essay-008",
+    "title": "시기가 다른 두 자료의 활용",
+    "prompt": "사건 당시의 일기와 후대 연구자의 해설을 함께 읽는다. 1차·2차 사료를 구분하고, 당시 자료가 남아 있어도 과거 전체를 그대로 알 수 없는 이유를 서술하시오.",
+    "page": "gyoyukron-textbook-page-81"
+  },
+  {
+    "id": "gyoyukron-ext-essay-009",
+    "title": "진본 판별 이후의 읽기",
+    "prompt": "한 기록의 작성자와 연대는 확인되었으나 내용에 과장과 풍자가 보인다. 외적 비판·내적 비판·문맥 비판이 확인할 대상을 각각 서술하시오.",
+    "page": "gyoyukron-textbook-page-81"
+  },
+  {
+    "id": "gyoyukron-ext-essay-010",
+    "title": "사료 선정의 세 준거",
+    "prompt": "교사가 많은 사료 중 수업에 쓸 자료를 고르고 있다. 역사적 사고력이라는 목표, 해결할 학습과제, 학습자 수준을 고려하는 선정 원리를 각각 설명하시오.",
+    "page": "gyoyukron-textbook-page-81"
+  },
+  {
+    "id": "gyoyukron-ext-essay-011",
+    "title": "자료 모음의 보완",
+    "prompt": "번역 문헌만 모은 수업 자료집의 출처가 불명확하다. 근원성·정확성·다양성의 관점에서 각각 무엇을 확인하거나 보완해야 하는지 설명하시오.",
+    "page": "gyoyukron-textbook-page-81"
+  },
+  {
+    "id": "gyoyukron-ext-essay-012",
+    "title": "소설과 영상을 사실로 읽는 오류",
+    "prompt": "학생이 역사소설과 영화를 과거 사실 그대로라고 받아들인다. 소설의 허구성, 영상자료의 비판적 활용, 사료의 주관성을 각각 설명하여 이 태도를 검토하시오.",
+    "page": "gyoyukron-textbook-page-83"
+  },
+  {
+    "id": "gyoyukron-ext-essay-013",
+    "title": "한 사건의 세 수업 방식",
+    "prompt": "교사가 사건의 배경을 체계적으로 설명하고, 인물의 동기를 이야기로 제시하며, 사건 자체의 전개와 의미를 탐구하게 한다. 강의식·이야기식·사건학습의 중심을 각각 구별하시오.",
+    "page": "gyoyukron-textbook-page-85"
+  },
+  {
+    "id": "gyoyukron-ext-essay-014",
+    "title": "인물의 선택을 이해하는 수업",
+    "prompt": "인물의 이름과 업적만 암기하는 수업을 보완하려 한다. 인물학습의 초점, 행위결정 분석모형, 사건의 인과성을 이해하는 활동을 각각 설명하시오.",
+    "page": "gyoyukron-textbook-page-89"
+  },
+  {
+    "id": "gyoyukron-ext-essay-015",
+    "title": "두 시대 비교의 설계",
+    "prompt": "서로 다른 두 시대를 비교하는 수업을 준비한다. 시기학습의 시간 단위, 비교학습의 목적, 비교 범주와 초점을 미리 정할 필요를 설명하시오.",
+    "page": "gyoyukron-textbook-page-90"
+  },
+  {
+    "id": "gyoyukron-ext-essay-016",
+    "title": "점수를 주는 일과 평가",
+    "prompt": "교사가 학습 변화의 증거를 모아 수치로 표시하고 교육목표에 비추어 의미를 판단했다. 검사·측정·평가를 구별하여 설명하시오.",
+    "page": "gyoyukron-textbook-page-92"
+  },
+  {
+    "id": "gyoyukron-ext-essay-017",
+    "title": "성취를 판단하는 기준",
+    "prompt": "교사가 반 안의 등수와 목표 도달 여부를 혼동한다. 규범지향·목표지향평가를 구분하고, 수업 전 진단평가에서 얻을 정보를 설명하시오.",
+    "page": "gyoyukron-textbook-page-92"
+  },
+  {
+    "id": "gyoyukron-ext-essay-018",
+    "title": "같은 답안의 점수 차이",
+    "prompt": "한 답안에 대한 채점자들의 전체 인상이 서로 다르다. 총괄적 채점과 분석적 채점을 구분하고, 채점자 훈련이 필요한 이유를 설명하시오.",
+    "page": "gyoyukron-textbook-page-30"
+  },
+  {
+    "id": "gyoyukron-ext-essay-019",
+    "title": "보고서와 성찰 자료",
+    "prompt": "연구 보고서에 학습자의 성찰과 동료 피드백을 함께 활용하려 한다. 연구보고서법·자기평가보고서법·동료평가보고서법을 구별하시오.",
+    "page": "gyoyukron-textbook-page-30"
+  },
+  {
+    "id": "gyoyukron-ext-essay-020",
+    "title": "교실의 문화를 연구하기",
+    "prompt": "연구자가 교실 구성원의 언어와 활동을 현장에서 관찰하여 의미를 찾는다. 민족지학적 연구와 귀납적 연구 접근을 설명하고, 의미를 생산·조직하는 규칙으로서 담론의 개념을 서술하시오.",
+    "page": "gyoyukron-textbook-page-100"
+  },
+  {
+    "id": "gyoyukron-ext-essay-021",
+    "title": "삶의 의미와 대중의 역사",
+    "prompt": "생활의 의미체계와 집단의 사고방식을 연구하고 그 결과를 대중과 함께 나누려 한다. 신문화사·심성·공공역사를 각각 설명하시오.",
+    "page": "gyoyukron-textbook-page-103"
+  },
+  {
+    "id": "gyoyukron-ext-essay-022",
+    "title": "개인 기억과 사회의 재현",
+    "prompt": "개인의 과거 해석과 지역 박물관의 역사 재현을 함께 탐구한다. 역사의식과 역사문화를 구분하고 두 영역의 상보적 관계를 설명하시오.",
+    "page": "gyoyukron-textbook-page-75"
+  },
+  {
+    "id": "gyoyukron-ext-essay-023",
+    "title": "사료의 빈틈을 이해하기",
+    "prompt": "일부 기록만 남은 과거 인물의 경험과 사건의 관계를 이해하려 한다. 추체험·구조적 상상·보간을 구분하여 설명하시오.",
+    "page": "gyoyukron-textbook-page-105"
+  },
+  {
+    "id": "gyoyukron-ext-essay-024",
+    "title": "감정의 공유와 역사이해",
+    "prompt": "학생이 과거 인물이 불쌍하다는 느낌만으로 그 행동을 설명했다. 역사적 감정이입과 공감을 구분하고, 인물의 기록에 선택과 의도가 개입할 수 있음을 서술하시오.",
+    "page": "gyoyukron-textbook-page-106"
+  },
+  {
+    "id": "gyoyukron-ext-essay-025",
+    "title": "설명의 전제를 점검하기",
+    "prompt": "사건을 설명하는 글에 법칙과 초기 조건이 명시되었는지를 검토한다. 완전한 설명·불완전한 설명·생략적 설명을 구별하시오.",
+    "page": "gyoyukron-textbook-page-107"
+  },
+  {
+    "id": "gyoyukron-ext-essay-026",
+    "title": "설명력의 정도 판단",
+    "prompt": "설명에 일반법칙을 보충했으나 사건의 전부가 도출되지는 않았다. 부분적 설명을 설명하고, 완전한 설명 및 생략적 설명과 각각 구별하시오.",
+    "page": "gyoyukron-textbook-page-107"
+  },
+  {
+    "id": "gyoyukron-ext-essay-027",
+    "title": "여러 사료를 비판적으로 읽기",
+    "prompt": "서로 다른 기록 두 개를 읽으며 작성 의도, 자료 간 일치, 당대의 조건을 확인하려 한다. 출처 확인·확증·맥락화의 과제를 각각 서술하시오.",
+    "page": "gyoyukron-textbook-page-109"
+  },
+  {
+    "id": "gyoyukron-ext-essay-028",
+    "title": "내용 파악에서 해석으로",
+    "prompt": "학생이 사료의 명시적 주장만 정리하고 자신의 해석을 덧붙였으나 작성 의도를 확인하지 않았다. 표면적 읽기·의미 부여·출처 확인을 구분하여 설명하시오.",
+    "page": "gyoyukron-textbook-page-109"
+  },
+  {
+    "id": "gyoyukron-ext-essay-029",
+    "title": "내용 조직의 한계 보완",
+    "prompt": "현재 문제를 중심으로 과거를 살피는 수업, 통사 수업, 특정 주제 수업을 각각 운영한다. 현재주의의 위험, 심화 탐구의 한계, 맥락 누락의 위험을 각 방식과 연결하여 설명하시오.",
+    "page": "gyoyukron-textbook-page-12"
+  },
+  {
+    "id": "gyoyukron-ext-essay-030",
+    "title": "판별 문항의 질과 목표",
+    "prompt": "학습목표를 구체화한 뒤 상·하위 성취 집단의 응답 차이를 분석했다. 교육목표 상세화의 의미, 변별도의 의미, 결과에만 집중한 행동목표의 한계를 각각 설명하시오.",
+    "page": "gyoyukron-textbook-page-9"
+  }
+]

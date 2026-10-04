@@ -1,8 +1,10 @@
 import { Link } from "react-router-dom";
 import { clean } from "./text.js";
+import { useSubject } from "./subjects.jsx";
 
 export function reasonOf(q) {
-  const source = clean(q.explain).split("—").slice(1).join("—").trim();
+  const explanation = clean(q.explain);
+  const source = explanation.includes("—") ? explanation.split("—").slice(1).join("—").trim() : explanation;
   return source === answerOf(q) ? "" : source;
 
 }
@@ -27,12 +29,13 @@ export function Mark({ good, children }) {
 }
 
 export function After({ q }) {
+  const { to } = useSubject();
   const why = reasonOf(q);
   return (
     <div className="after">
       <p className="ans">정답 {answerOf(q)}</p>
       {why && <p className="why">{why}</p>}
-      {q.page && <Link className="source-link" to={`/viewer?page=${q.page}`}>뷰어 근거 보기 ↗</Link>}
+      {q.page && <Link className="source-link" to={to(`/viewer?page=${encodeURIComponent(q.page)}`)}>뷰어 근거 보기 ↗</Link>}
     </div>
   );
 }

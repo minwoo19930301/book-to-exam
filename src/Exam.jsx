@@ -1,5 +1,7 @@
 import { Navigate } from "react-router-dom";
+import { useSubject } from "./subjects.jsx";
 
 export default function Exam() {
-  return <Navigate to="/menu" replace />;
+  const { to } = useSubject();
+  return <Navigate to={to("/menu")} replace />;
 }

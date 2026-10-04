@@ -1,0 +1,3684 @@
+[
+  {
+    "id": "dongyangsa-essay-qin-han-rule",
+    "title": "진의 군현제와 한의 군국제",
+    "prompt": "진의 전국적 군현제와 한 고조의 군국제를 비교하시오. 진의 관리 임명 방식, 한의 지역별 통치 방식, 한의 제후왕에게 허용된 자율성을 구분하여 서술하시오.",
+    "page": "dongyangsa-textbook-page-32",
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "진의 관리 임명",
+        "max": 3,
+        "ok": "중앙이 비세습 관리를 파견하며 황제가 임면권을 장악했음을 설명한다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-32",
+            "quote": "군·현의 관리는 중앙에서 파견, 세습 불가, 황제의 임면권 장악"
+          }
+        ],
+        "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음."
+      },
+      {
+        "id": "r2",
+        "label": "한의 지역별 운영",
+        "max": 4,
+        "ok": "수도 주변은 군현제를 계승하고 원거리 지방은 일족·공신을 제후로 봉건했음을 설명한다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-36",
+            "quote": "원거리 지방 : 일족·공신을 제후왕(諸侯王)·열후(列侯)에 봉건"
+          },
+          {
+            "page": "dongyangsa-textbook-page-36",
+            "quote": "수도 주변 : 진의 군현제 계승"
+          }
+        ],
+        "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음."
+      },
+      {
+        "id": "r3",
+        "label": "제후왕의 자율성",
+        "max": 3,
+        "ok": "제후왕이 대규모 영토와 독자적인 기년법·관료기구를 유지했음을 설명한다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-36",
+            "quote": "제후왕 : 대규모 영토 차지, 독자적 기년법 사용, 독립된 관료기구 유지"
+          }
+        ],
+        "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음."
+      }
+    ],
+    "rubricVersion": "2026-10-03.starter.1"
+  },
+  {
+    "id": "dongyangsa-essay-tax-comparison",
+    "title": "양세법과 지정은제의 과세 방식",
+    "prompt": "당의 양세법과 청의 지정은제를 비교하시오. 양세법의 과세 기준과 징수 시기, 지정은제에서 통합된 두 세목, 지정은제가 정구 은닉에 미친 영향을 설명하시오.",
+    "page": "dongyangsa-textbook-page-100",
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "양세법의 기준과 시기",
+        "max": 4,
+        "ok": "자산·토지에 따라 세액을 정하고 여름·가을 두 차례 징수했음을 설명한다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-100",
+            "quote": "자산과 토지에 따라 세액을 정하고, 여름·가을 두 차례로 나누어 징수"
+          }
+        ],
+        "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음."
+      },
+      {
+        "id": "r2",
+        "label": "지정은제의 통합",
+        "max": 3,
+        "ok": "정세를 지세에 합쳐 지세로 납부하게 했음을 설명한다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-156",
+            "quote": "정세(丁稅)를 지세(地稅)에 합쳐 지세만 납부(정세 소멸)"
+          }
+        ],
+        "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음."
+      },
+      {
+        "id": "r3",
+        "label": "정구 파악에 미친 영향",
+        "max": 3,
+        "ok": "정구를 숨길 유인이 약해져 인구 파악이 쉬워졌다는 취지를 설명한다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-156",
+            "quote": "정구(丁口)를 숨기는 현상의 소멸로 인구 증가, 인구 파악 용이"
+          }
+        ],
+        "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음."
+      }
+    ],
+    "rubricVersion": "2026-10-03.starter.1"
+  },
+  {
+    "id": "dongyangsa-essay-self-strengthening",
+    "title": "양무 운동의 사상과 추진 내용",
+    "prompt": "양무 운동의 중체서용론을 설명하고, 군수 산업과 인재 양성에서 추진한 조치를 각각 한 가지 이상 서술하시오.",
+    "page": "dongyangsa-textbook-page-183",
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "중체서용론",
+        "max": 4,
+        "ok": "중국의 윤상명교를 근본으로 삼고 외국의 부강한 기술을 도입·보완하려 했음을 설명한다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-183",
+            "quote": "중국의 윤상명교(倫常名敎)를 원본(原本)으로 삼고, 각 외국의 부강지술(富强之術)을 가지고 이를 보강한다면"
+          }
+        ],
+        "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음."
+      },
+      {
+        "id": "r2",
+        "label": "군수 산업",
+        "max": 3,
+        "ok": "금릉 기기국 등 공장 설립 또는 서양 기술자를 초빙한 서양식 총포·선박 제조를 구체적으로 설명한다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-183",
+            "quote": "서양 기술자 초빙하여 서양식 총포 및 선박 제조"
+          },
+          {
+            "page": "dongyangsa-textbook-page-183",
+            "quote": "총 24개 공장 설립(예 : 금릉 기기국 등)"
+          }
+        ],
+        "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음."
+      },
+      {
+        "id": "r3",
+        "label": "인재 양성",
+        "max": 3,
+        "ok": "동문관의 외국어·자연과학 교육 또는 영국·미국 등으로의 유학생 파견 중 한 가지 이상을 구체적으로 설명한다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-183",
+            "quote": "[동문관] 설치 : 총리아문 산하에 설치(1862), 영어·불어·러시아어·자연과학 교육"
+          },
+          {
+            "page": "dongyangsa-textbook-page-183",
+            "quote": "유학생 파견 : 영국·미국 등으로 유학생 파견(유미유동)"
+          }
+        ],
+        "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음."
+      }
+    ],
+    "rubricVersion": "2026-10-03.starter.1"
+  },
+  {
+    "id": "dongyangsa-ext-essay-001",
+    "title": "상·주의 통치 정당성",
+    "prompt": "상왕의 종교적 권위, 주의 천명 부여 조건, 주 봉건제와 종법제의 관계를 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-11",
+    "answer": "상왕은 상제의 후손으로서 정치적 지도력과 종교적 권능을 함께 가졌다. 주는 통치할 능력과 덕을 갖춘 인물이 천명을 받는다고 보았다. 주는 상의 봉건제를 차용하면서 주 왕실 중심의 종법제를 결합하였다.",
+    "explain": "비교·설명의 기준은 상왕의 권위, 천명의 조건, 봉건제와 종법제이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-11",
+        "quote": "상왕: 상제의 후손, 정치적 지도자 + 종교적 권능"
+      },
+      {
+        "page": "dongyangsa-textbook-page-13",
+        "quote": "• 천명(天命) : 천하를 지배할 수 있는 능력과 덕을 겸비한 인물에게 부여"
+      },
+      {
+        "page": "dongyangsa-textbook-page-13",
+        "quote": "• 결합 : 상의 봉건제 차용 + 주 왕실을 중심으로 한 종법제 결합"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "상왕의 권위",
+        "max": 3,
+        "ok": "상왕은 상제의 후손으로서 정치적 지도력과 종교적 권능을 함께 가졌다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-11",
+            "quote": "상왕: 상제의 후손, 정치적 지도자 + 종교적 권능"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "상왕의 권위"
+        ],
+        "acceptedConcepts": [
+          "상왕은 상제의 후손으로서 정치적 지도력과 종교적 권능을 함께 가졌다."
+        ],
+        "rejectConditions": [
+          "상에서 정치와 종교가 완전히 분리되었다고 설명한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "천명의 조건",
+        "max": 3,
+        "ok": "주는 통치할 능력과 덕을 갖춘 인물이 천명을 받는다고 보았다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-13",
+            "quote": "• 천명(天命) : 천하를 지배할 수 있는 능력과 덕을 겸비한 인물에게 부여"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "천명의 조건"
+        ],
+        "acceptedConcepts": [
+          "주는 통치할 능력과 덕을 갖춘 인물이 천명을 받는다고 보았다."
+        ],
+        "rejectConditions": [
+          "천명의 조건을 통치 능력이나 덕과 무관하다고 설명한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "봉건제와 종법제",
+        "max": 4,
+        "ok": "주는 상의 봉건제를 차용하면서 주 왕실 중심의 종법제를 결합하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-13",
+            "quote": "• 결합 : 상의 봉건제 차용 + 주 왕실을 중심으로 한 종법제 결합"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "봉건제와 종법제"
+        ],
+        "acceptedConcepts": [
+          "주는 상의 봉건제를 차용하면서 주 왕실 중심의 종법제를 결합하였다."
+        ],
+        "rejectConditions": [
+          "주가 혈연 질서를 모두 폐지한 군현제만 운영했다고 설명한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "03565e52882e6ba830e674235f71a4a0ead53604ed447c6ffd1ae43872bde322"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-002",
+    "title": "맹자와 순자의 인간관",
+    "prompt": "맹자의 도덕성 이해와 순자의 본성 이해를 비교하고, 순자가 제시한 인간 변화의 방법을 설명하시오.",
+    "page": "dongyangsa-textbook-page-22",
+    "answer": "맹자는 선천적 도덕성을 인정하고 본성의 배양과 확충을 강조하였다. 순자는 인간에게 악과 욕망이 있다고 보아 선천적 도덕성을 부정하였다. 순자는 인위와 교육을 통하여 인간을 후천적으로 개조할 수 있다고 보았다.",
+    "explain": "비교·설명의 기준은 맹자의 본성론, 순자의 본성론, 순자의 교육론이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-22",
+        "quote": "• 사상 : 仁의 실천 근거, 선천적 도덕성 인정, 본성의 배양·확충 주장"
+      },
+      {
+        "page": "dongyangsa-textbook-page-22",
+        "quote": "• 사상 : 인간에게 악·욕망이 존재한다고 주장, 선천적 도덕성 부정"
+      },
+      {
+        "page": "dongyangsa-textbook-page-22",
+        "quote": "• 위(僞) : '인위(人爲)'='문화(文化)', 후천적 개조의 가능성 확신(교육 강조)"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "맹자의 본성론",
+        "max": 3,
+        "ok": "맹자는 선천적 도덕성을 인정하고 본성의 배양과 확충을 강조하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-22",
+            "quote": "• 사상 : 仁의 실천 근거, 선천적 도덕성 인정, 본성의 배양·확충 주장"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "맹자의 본성론"
+        ],
+        "acceptedConcepts": [
+          "맹자는 선천적 도덕성을 인정하고 본성의 배양과 확충을 강조하였다."
+        ],
+        "rejectConditions": [
+          "맹자가 선천적 도덕성을 부정했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "순자의 본성론",
+        "max": 3,
+        "ok": "순자는 인간에게 악과 욕망이 있다고 보아 선천적 도덕성을 부정하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-22",
+            "quote": "• 사상 : 인간에게 악·욕망이 존재한다고 주장, 선천적 도덕성 부정"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "순자의 본성론"
+        ],
+        "acceptedConcepts": [
+          "순자는 인간에게 악과 욕망이 있다고 보아 선천적 도덕성을 부정하였다."
+        ],
+        "rejectConditions": [
+          "순자의 성악설을 성선설로 설명한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "순자의 교육론",
+        "max": 4,
+        "ok": "순자는 인위와 교육을 통하여 인간을 후천적으로 개조할 수 있다고 보았다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-22",
+            "quote": "• 위(僞) : '인위(人爲)'='문화(文化)', 후천적 개조의 가능성 확신(교육 강조)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "순자의 교육론"
+        ],
+        "acceptedConcepts": [
+          "순자는 인위와 교육을 통하여 인간을 후천적으로 개조할 수 있다고 보았다."
+        ],
+        "rejectConditions": [
+          "순자가 교육에 의한 변화 가능성을 전면 부정했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "69eebc46fe75adfa53be7a01f61a011f7dbb3092f391f423dbff701c64bda483"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-003",
+    "title": "진의 중앙집권 정책",
+    "prompt": "진이 통일 뒤 시행한 지방 지배, 문자 체계, 군사력 통제 정책을 한 가지씩 제시하고 공통 방향을 설명하시오.",
+    "page": "dongyangsa-textbook-page-32",
+    "answer": "군현제를 전국적으로 실시하여 중앙집권적 관료 지배를 추진했다. 소전체 제정을 통한 문자 통일은 통일 국가의 공통 체계를 마련하는 조치였다. 민간의 병기를 몰수하여 군사력을 중앙에 독점시켰으며 세 조치는 중앙집권 강화라는 방향을 공유한다.",
+    "explain": "비교·설명의 기준은 지방 지배, 문자 통일, 군사력 집중이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-32",
+        "quote": "① 특징 : 중앙집권적 관료제, 군현제 전국적 실시, 백성에 대한 개별 인신적 지배"
+      },
+      {
+        "page": "dongyangsa-textbook-page-34",
+        "quote": "㉡ 문자 통일 : 소전체(진전) 제정"
+      },
+      {
+        "page": "dongyangsa-textbook-page-34",
+        "quote": "㉤ 병기 몰수 : 민간의 병기 몰수 통해 군사력을 중앙에서 독점"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "지방 지배",
+        "max": 3,
+        "ok": "군현제를 전국적으로 실시하여 중앙집권적 관료 지배를 추진했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-32",
+            "quote": "① 특징 : 중앙집권적 관료제, 군현제 전국적 실시, 백성에 대한 개별 인신적 지배"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "지방 지배"
+        ],
+        "acceptedConcepts": [
+          "군현제를 전국적으로 실시하여 중앙집권적 관료 지배를 추진했다."
+        ],
+        "rejectConditions": [
+          "제후의 완전한 독립 보장을 핵심으로 든다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "문자 통일",
+        "max": 3,
+        "ok": "소전체 제정을 통한 문자 통일은 통일 국가의 공통 체계를 마련하는 조치였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-34",
+            "quote": "㉡ 문자 통일 : 소전체(진전) 제정"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "문자 통일"
+        ],
+        "acceptedConcepts": [
+          "소전체 제정을 통한 문자 통일은 통일 국가의 공통 체계를 마련하는 조치였다."
+        ],
+        "rejectConditions": [
+          "각 지방 문자를 변경 없이 공용 문자로 병존시킨 조치라고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "군사력 집중",
+        "max": 4,
+        "ok": "민간의 병기를 몰수하여 군사력을 중앙에 독점시켰으며 세 조치는 중앙집권 강화라는 방향을 공유한다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-34",
+            "quote": "㉤ 병기 몰수 : 민간의 병기 몰수 통해 군사력을 중앙에서 독점"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "군사력 집중"
+        ],
+        "acceptedConcepts": [
+          "민간의 병기를 몰수하여 군사력을 중앙에 독점시켰으며 세 조치는 중앙집권 강화라는 방향을 공유한다."
+        ],
+        "rejectConditions": [
+          "민간 사병의 무장 확대를 위해 병기를 몰수했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "31cc762c0bfc48849653246cb41e35ece85041330188ee64e2bda1e951804727"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-004",
+    "title": "한 무제의 지방 통제",
+    "prompt": "한 무제의 추은령·자사·좌관율이 각각 통제하려 한 대상을 설명하시오.",
+    "page": "dongyangsa-textbook-page-42",
+    "answer": "추은령은 제후왕 봉지를 여러 자제에게 나누도록 하여 제후왕 세력을 제한했다. 자사는 지방관의 부정과 지방 호족과의 유착을 감찰했다. 좌관율은 함부로 제후왕과 군신 관계를 맺는 것을 금지해 제후의 독자적 인적 기반을 제한했다.",
+    "explain": "비교·설명의 기준은 봉지 분할, 지방 감찰, 사적 군신관계 제한이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-42",
+        "quote": "• 추은령(推恩令) : 제후왕 봉지를 모든 자제에게 분봉하여 열후(列侯)가 되도록 규정"
+      },
+      {
+        "page": "dongyangsa-textbook-page-42",
+        "quote": "• 자사(刺史) : 전국 13주 구획 후 파견, 지방관의 부정·지방 호족과의 유착 감찰"
+      },
+      {
+        "page": "dongyangsa-textbook-page-42",
+        "quote": "• 좌관율(左官律) : 함부로 제후왕과 군신 관계를 맺는 것 금지"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "봉지 분할",
+        "max": 3,
+        "ok": "추은령은 제후왕 봉지를 여러 자제에게 나누도록 하여 제후왕 세력을 제한했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-42",
+            "quote": "• 추은령(推恩令) : 제후왕 봉지를 모든 자제에게 분봉하여 열후(列侯)가 되도록 규정"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "봉지 분할"
+        ],
+        "acceptedConcepts": [
+          "추은령은 제후왕 봉지를 여러 자제에게 나누도록 하여 제후왕 세력을 제한했다."
+        ],
+        "rejectConditions": [
+          "봉지를 장자에게 집중하여 제후왕을 강화했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "지방 감찰",
+        "max": 3,
+        "ok": "자사는 지방관의 부정과 지방 호족과의 유착을 감찰했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-42",
+            "quote": "• 자사(刺史) : 전국 13주 구획 후 파견, 지방관의 부정·지방 호족과의 유착 감찰"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "지방 감찰"
+        ],
+        "acceptedConcepts": [
+          "자사는 지방관의 부정과 지방 호족과의 유착을 감찰했다."
+        ],
+        "rejectConditions": [
+          "자사를 세습 제후왕의 지위로 설명한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "사적 군신관계 제한",
+        "max": 4,
+        "ok": "좌관율은 함부로 제후왕과 군신 관계를 맺는 것을 금지해 제후의 독자적 인적 기반을 제한했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-42",
+            "quote": "• 좌관율(左官律) : 함부로 제후왕과 군신 관계를 맺는 것 금지"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "사적 군신관계 제한"
+        ],
+        "acceptedConcepts": [
+          "좌관율은 함부로 제후왕과 군신 관계를 맺는 것을 금지해 제후의 독자적 인적 기반을 제한했다."
+        ],
+        "rejectConditions": [
+          "제후왕과 임의로 군신 관계를 맺는 것을 장려했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "c2abbe609d62d55eb0a39c8fec1a3d1ffc61ec0e89436f470bbd3585b30334d2"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-005",
+    "title": "북위 한화 정책과 군진의 반발",
+    "prompt": "효문제의 호한 통합 조치, 문벌화에 따른 병호의 처지, 6진의 난의 직접 배경을 연결해 설명하시오.",
+    "page": "dongyangsa-textbook-page-74",
+    "answer": "호한 통혼과 성씨의 한화, 호어 금지 등으로 한족 문화를 수용하고 통합을 추진했다. 문벌 질서가 강화되는 과정에서 병호의 지위가 낮아지고 불만이 커졌다. 낙양 천도 뒤 6진의 대우 악화와 진장의 천시·사역이 반란의 배경이 되었다.",
+    "explain": "비교·설명의 기준은 한화 조치, 병호의 지위, 군진의 반발이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-74",
+        "quote": "• 호·한 병합 : 호한통혼, 성씨의 한화(漢化), 호속(胡俗)·호어(胡語) 금지, 한복(漢服) 강제"
+      },
+      {
+        "page": "dongyangsa-textbook-page-74",
+        "quote": "- 영향 : 병호(兵戶)의 천민화 초래, 병사들의 불만 초래, 북위 정권의 붕괴"
+      },
+      {
+        "page": "dongyangsa-textbook-page-74",
+        "quote": "• 배경 : 낙양 천도 이후 6진의 대우 열악, 진장(鎭將)의 천시·사역 등에 반발"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "한화 조치",
+        "max": 3,
+        "ok": "호한 통혼과 성씨의 한화, 호어 금지 등으로 한족 문화를 수용하고 통합을 추진했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-74",
+            "quote": "• 호·한 병합 : 호한통혼, 성씨의 한화(漢化), 호속(胡俗)·호어(胡語) 금지, 한복(漢服) 강제"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "한화 조치"
+        ],
+        "acceptedConcepts": [
+          "호한 통혼과 성씨의 한화, 호어 금지 등으로 한족 문화를 수용하고 통합을 추진했다."
+        ],
+        "rejectConditions": [
+          "호한 통혼을 전면 금지했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "병호의 지위",
+        "max": 3,
+        "ok": "문벌 질서가 강화되는 과정에서 병호의 지위가 낮아지고 불만이 커졌다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-74",
+            "quote": "- 영향 : 병호(兵戶)의 천민화 초래, 병사들의 불만 초래, 북위 정권의 붕괴"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "병호의 지위"
+        ],
+        "acceptedConcepts": [
+          "문벌 질서가 강화되는 과정에서 병호의 지위가 낮아지고 불만이 커졌다."
+        ],
+        "rejectConditions": [
+          "모든 병호가 일률적으로 최고 문벌 귀족이 되었다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "군진의 반발",
+        "max": 4,
+        "ok": "낙양 천도 뒤 6진의 대우 악화와 진장의 천시·사역이 반란의 배경이 되었다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-74",
+            "quote": "• 배경 : 낙양 천도 이후 6진의 대우 열악, 진장(鎭將)의 천시·사역 등에 반발"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "군진의 반발"
+        ],
+        "acceptedConcepts": [
+          "낙양 천도 뒤 6진의 대우 악화와 진장의 천시·사역이 반란의 배경이 되었다."
+        ],
+        "rejectConditions": [
+          "6진의 난을 해상 무역상만의 반란으로 설명한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "2913ae7af91a1698871d596d0a63ed9aee0cb1537020156c9ec7a7b5d2772804"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-006",
+    "title": "당의 율령과 중앙 행정",
+    "prompt": "당의 율과 령의 기능을 구별하고, 3성 가운데 문하성과 상서성의 역할 차이를 설명하시오.",
+    "page": "dongyangsa-textbook-page-93",
+    "answer": "율은 형벌과 범죄 처리를 다루는 형법이다. 령은 사회와 국가 운영의 제도·규범을 정한 행정 법규이다. 문하성은 심의·봉박을 담당하고 상서성의 집행 기능과 구별된다.",
+    "explain": "비교·설명의 기준은 율의 기능, 령의 기능, 문하성의 역할 구별이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-93",
+        "quote": "• 형법 : 태(笞)·장(杖)·도(徒)·유(流)·사(死) 5단계 체제 확립"
+      },
+      {
+        "page": "dongyangsa-textbook-page-93",
+        "quote": "㉡ 령(令) : 행정 법규(사회·국가를 운영하기 위한 제도와 규범)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-93",
+        "quote": "• 문하성 : 심의·봉박권 행사(황제의 전제권력 행사 견제) → 중서문하성으로 황제권에 종속"
+      },
+      {
+        "page": "dongyangsa-textbook-page-93",
+        "quote": "• 상서성 : 집행 담당(6부)"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "율의 기능",
+        "max": 3,
+        "ok": "율은 형벌과 범죄 처리를 다루는 형법이다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-93",
+            "quote": "• 형법 : 태(笞)·장(杖)·도(徒)·유(流)·사(死) 5단계 체제 확립"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "율의 기능"
+        ],
+        "acceptedConcepts": [
+          "율은 형벌과 범죄 처리를 다루는 형법이다."
+        ],
+        "rejectConditions": [
+          "율을 법률 시행 세칙만으로 설명한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "령의 기능",
+        "max": 3,
+        "ok": "령은 사회와 국가 운영의 제도·규범을 정한 행정 법규이다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-93",
+            "quote": "㉡ 령(令) : 행정 법규(사회·국가를 운영하기 위한 제도와 규범)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "령의 기능"
+        ],
+        "acceptedConcepts": [
+          "령은 사회와 국가 운영의 제도·규범을 정한 행정 법규이다."
+        ],
+        "rejectConditions": [
+          "령을 형벌의 종류만 정하는 규정으로 설명한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "문하성의 역할 구별",
+        "max": 4,
+        "ok": "문하성은 심의·봉박을 담당하고 상서성의 집행 기능과 구별된다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-93",
+            "quote": "• 문하성 : 심의·봉박권 행사(황제의 전제권력 행사 견제) → 중서문하성으로 황제권에 종속"
+          },
+          {
+            "page": "dongyangsa-textbook-page-93",
+            "quote": "• 상서성 : 집행 담당(6부)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "문하성의 역할 구별"
+        ],
+        "acceptedConcepts": [
+          "문하성은 심의·봉박을 담당하고 상서성의 집행 기능과 구별된다."
+        ],
+        "rejectConditions": [
+          "문하성을 조칙 기초만 담당하는 중서성과 혼동한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "6f07ce2788d835ad8d86faf68a300b2a0d3e4d1b5da44fdc9ff2df5ee3eefd29"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-007",
+    "title": "당의 토지와 농민 부담",
+    "prompt": "영업전과 구분전의 차이, 조용조의 부과 대상, 부병제 농민의 평상시 생활을 설명하시오.",
+    "page": "dongyangsa-textbook-page-97",
+    "answer": "영업전은 세습할 수 있었고 구분전은 국가 환수 대상이었다. 조용조는 균전의 대가로 성인 남자에게 부과되는 수취 체계였다. 부병제에서는 등록된 농민이 평상시 생업에 종사하다 군사 복무를 부담하였다.",
+    "explain": "비교·설명의 기준은 토지의 성격, 조용조의 대상, 부병의 생업이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-97",
+        "quote": "② 구분 : 영업전(永業田, 세습 가능), 구분전(口分田, 국가 환수 대상)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-97",
+        "quote": "㉠ 성격 : 균전의 대가로 부여, 성인 남자에 대한 징세 기준 확립"
+      },
+      {
+        "page": "dongyangsa-textbook-page-97",
+        "quote": "㉠ 농민 훈련 : 위부·절충부에 농민 등록, 평상시 생업 종사"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "토지의 성격",
+        "max": 3,
+        "ok": "영업전은 세습할 수 있었고 구분전은 국가 환수 대상이었다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-97",
+            "quote": "② 구분 : 영업전(永業田, 세습 가능), 구분전(口分田, 국가 환수 대상)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "토지의 성격"
+        ],
+        "acceptedConcepts": [
+          "영업전은 세습할 수 있었고 구분전은 국가 환수 대상이었다."
+        ],
+        "rejectConditions": [
+          "두 토지의 상속·환수 조건을 반대로 쓴다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "조용조의 대상",
+        "max": 3,
+        "ok": "조용조는 균전의 대가로 성인 남자에게 부과되는 수취 체계였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-97",
+            "quote": "㉠ 성격 : 균전의 대가로 부여, 성인 남자에 대한 징세 기준 확립"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "조용조의 대상"
+        ],
+        "acceptedConcepts": [
+          "조용조는 균전의 대가로 성인 남자에게 부과되는 수취 체계였다."
+        ],
+        "rejectConditions": [
+          "상업 길드에만 부과한 세금으로 설명한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "부병의 생업",
+        "max": 4,
+        "ok": "부병제에서는 등록된 농민이 평상시 생업에 종사하다 군사 복무를 부담하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-97",
+            "quote": "㉠ 농민 훈련 : 위부·절충부에 농민 등록, 평상시 생업 종사"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "부병의 생업"
+        ],
+        "acceptedConcepts": [
+          "부병제에서는 등록된 농민이 평상시 생업에 종사하다 군사 복무를 부담하였다."
+        ],
+        "rejectConditions": [
+          "부병을 농업과 무관한 상설 급료군으로만 설명한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "6f330afbee943519a521e3e08a9ab154444852b09447463463afe1108a5b985c"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-008",
+    "title": "당 후기 재정과 정치",
+    "prompt": "양세법의 과세 기준과 징수 시기, 번진의 재정적 자립, 환관의 군사적 기반을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-100",
+    "answer": "양세법은 자산과 토지에 따라 세액을 정하고 여름과 가을에 징수하였다. 번진의 조세 독점은 중앙 재정을 압박하고 지방 분권화를 심화하였다. 환관은 신책군 지휘권을 장악하여 황제의 폐립에까지 개입하였다.",
+    "explain": "비교·설명의 기준은 양세법, 번진의 재정, 환관의 군권이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "② 원리 : 자산과 토지에 따라 세액을 정하고, 여름·가을 두 차례로 나누어 징수"
+      },
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "• 재정의 부담 : 번진의 조세 독점, 지방 분권화 경향 심화"
+      },
+      {
+        "page": "dongyangsa-textbook-page-100",
+        "quote": "② 군권 장악 : 신책군의 지휘권을 장악하여 황제의 폐립까지 좌우"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "양세법",
+        "max": 3,
+        "ok": "양세법은 자산과 토지에 따라 세액을 정하고 여름과 가을에 징수하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-100",
+            "quote": "② 원리 : 자산과 토지에 따라 세액을 정하고, 여름·가을 두 차례로 나누어 징수"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "양세법"
+        ],
+        "acceptedConcepts": [
+          "양세법은 자산과 토지에 따라 세액을 정하고 여름과 가을에 징수하였다."
+        ],
+        "rejectConditions": [
+          "오직 나이에 따라 매달 같은 액수를 부과했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "번진의 재정",
+        "max": 3,
+        "ok": "번진의 조세 독점은 중앙 재정을 압박하고 지방 분권화를 심화하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-100",
+            "quote": "• 재정의 부담 : 번진의 조세 독점, 지방 분권화 경향 심화"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "번진의 재정"
+        ],
+        "acceptedConcepts": [
+          "번진의 조세 독점은 중앙 재정을 압박하고 지방 분권화를 심화하였다."
+        ],
+        "rejectConditions": [
+          "번진이 지방의 모든 조세 권한을 완전히 포기했다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "환관의 군권",
+        "max": 4,
+        "ok": "환관은 신책군 지휘권을 장악하여 황제의 폐립에까지 개입하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-100",
+            "quote": "② 군권 장악 : 신책군의 지휘권을 장악하여 황제의 폐립까지 좌우"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "환관의 군권"
+        ],
+        "acceptedConcepts": [
+          "환관은 신책군 지휘권을 장악하여 황제의 폐립에까지 개입하였다."
+        ],
+        "rejectConditions": [
+          "환관의 힘을 군사력과 무관한 선거권에서 찾는다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "0b44bdf2b8cb904adbf4d2e4f52f5233da5f8511d050343d2b5ac0c2581c1b63"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-009",
+    "title": "송의 권한 분담과 과거",
+    "prompt": "송의 삼사사와 추밀원의 담당 업무를 구별하고, 전시가 황제권 강화와 연결된 이유를 설명하시오.",
+    "page": "dongyangsa-textbook-page-110",
+    "answer": "삼사사는 삼사의 책임자로서 재정을 담당하였다. 추밀원은 황제에 직결되어 군정의 최고 책임을 맡았다. 전시 합격자를 황제의 문생으로 만들어 좌주문생 관계를 약화하고 황제권을 강화하였다.",
+    "explain": "비교·설명의 기준은 재정 담당, 군사 담당, 전시의 효과이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-110",
+        "quote": "• 삼사사(三司使) : 삼사(三司)의 책임자, 재정 책임"
+      },
+      {
+        "page": "dongyangsa-textbook-page-110",
+        "quote": "• 추밀원(樞密院) : 대귀족·무관 배제, 군사 최고 책임(군정 일반), 황제 직결"
+      },
+      {
+        "page": "dongyangsa-textbook-page-112",
+        "quote": "- 귀족 세력의 발흥 방지(좌주문생 관계 타파), 황제권 강화(전시 합격자는 황제의 문생성을 띰)"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "재정 담당",
+        "max": 3,
+        "ok": "삼사사는 삼사의 책임자로서 재정을 담당하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-110",
+            "quote": "• 삼사사(三司使) : 삼사(三司)의 책임자, 재정 책임"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "재정 담당"
+        ],
+        "acceptedConcepts": [
+          "삼사사는 삼사의 책임자로서 재정을 담당하였다."
+        ],
+        "rejectConditions": [
+          "삼사사의 주 업무를 군사 지휘로만 쓴다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "군사 담당",
+        "max": 3,
+        "ok": "추밀원은 황제에 직결되어 군정의 최고 책임을 맡았다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-110",
+            "quote": "• 추밀원(樞密院) : 대귀족·무관 배제, 군사 최고 책임(군정 일반), 황제 직결"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "군사 담당"
+        ],
+        "acceptedConcepts": [
+          "추밀원은 황제에 직결되어 군정의 최고 책임을 맡았다."
+        ],
+        "rejectConditions": [
+          "추밀원을 민간의 독립 상업 조합으로 설명한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "전시의 효과",
+        "max": 4,
+        "ok": "전시 합격자를 황제의 문생으로 만들어 좌주문생 관계를 약화하고 황제권을 강화하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-112",
+            "quote": "- 귀족 세력의 발흥 방지(좌주문생 관계 타파), 황제권 강화(전시 합격자는 황제의 문생성을 띰)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "전시의 효과"
+        ],
+        "acceptedConcepts": [
+          "전시 합격자를 황제의 문생으로 만들어 좌주문생 관계를 약화하고 황제권을 강화하였다."
+        ],
+        "rejectConditions": [
+          "전시가 황제를 과거 운영에서 배제했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "5363c5bb9fa044634c65f0ffe5db1b7e1809694963fca2f18957943409572dea"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-010",
+    "title": "왕안석 신법의 목표와 결과",
+    "prompt": "방전균세법의 목적, 보갑법의 활용 분야, 강제적 시행에 따른 농민의 반응을 설명하시오.",
+    "page": "dongyangsa-textbook-page-113",
+    "answer": "방전균세법은 토지를 정확히 측량하고 등급을 나누어 균평한 조세를 추구하였다. 보갑법은 향촌민을 조직해 경찰·민병으로 활용하려 했다. 관료의 강제적 시행으로 농민 부담 경감이 미미하여 농민의 반대도 나타났다.",
+    "explain": "비교·설명의 기준은 조세 형평, 향촌 조직, 시행의 한계이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-113",
+        "quote": "• 방전균세법 : 전토의 정확한 측량과 토지 등급(5등) 설정을 통한 균평한 조세 추구"
+      },
+      {
+        "page": "dongyangsa-textbook-page-113",
+        "quote": "• [보갑법] : 주객·재호 불문 향촌 조직 구성으로 경찰·민병 활용 시도(향병)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-113",
+        "quote": "㉡ 농민 부담 : 관료들의 강제적 실시로 부담 경감 미미 → 농민들의 신법 반대"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "조세 형평",
+        "max": 3,
+        "ok": "방전균세법은 토지를 정확히 측량하고 등급을 나누어 균평한 조세를 추구하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-113",
+            "quote": "• 방전균세법 : 전토의 정확한 측량과 토지 등급(5등) 설정을 통한 균평한 조세 추구"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "조세 형평"
+        ],
+        "acceptedConcepts": [
+          "방전균세법은 토지를 정확히 측량하고 등급을 나누어 균평한 조세를 추구하였다."
+        ],
+        "rejectConditions": [
+          "토지 조사 없이 모든 세금을 폐지했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "향촌 조직",
+        "max": 3,
+        "ok": "보갑법은 향촌민을 조직해 경찰·민병으로 활용하려 했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-113",
+            "quote": "• [보갑법] : 주객·재호 불문 향촌 조직 구성으로 경찰·민병 활용 시도(향병)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "향촌 조직"
+        ],
+        "acceptedConcepts": [
+          "보갑법은 향촌민을 조직해 경찰·민병으로 활용하려 했다."
+        ],
+        "rejectConditions": [
+          "해외 무역만 담당한 상인 조합으로 설명한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "시행의 한계",
+        "max": 4,
+        "ok": "관료의 강제적 시행으로 농민 부담 경감이 미미하여 농민의 반대도 나타났다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-113",
+            "quote": "㉡ 농민 부담 : 관료들의 강제적 실시로 부담 경감 미미 → 농민들의 신법 반대"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "시행의 한계"
+        ],
+        "acceptedConcepts": [
+          "관료의 강제적 시행으로 농민 부담 경감이 미미하여 농민의 반대도 나타났다."
+        ],
+        "rejectConditions": [
+          "모든 농민이 예외 없이 신법을 지지했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "afc14bfd25d3eff602a94e2b1f46bd1828fe2e4e0e075b89a256bc75bb5e9733"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-011",
+    "title": "요의 이원적 통치",
+    "prompt": "요가 이원적 통치를 채택한 사회경제적 배경과 북면관·남면관의 담당 대상을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-128",
+    "answer": "요는 성격이 다른 유목 지대와 농경 지대를 함께 지배하였다. 북면관은 유목민의 부족제를 기초로 부락을 통제하였다. 남면관은 3성 6부제와 주현제를 이용해 한인·발해인 등 농경민을 통치하였다.",
+    "explain": "비교·설명의 기준은 배경, 북면관, 남면관이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-128",
+        "quote": "- 배경 : 장성 이북의 유목 지대 + 화북의 농경 지대 보유(이질적 성격)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-128",
+        "quote": "- 북면관 : 북추밀원 담당(북재상부의 총괄), 부락 통제(유목민 부족제 기초)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-128",
+        "quote": "- 남면관 : 남추밀원 담당, 3성 6부제·주현제를 통한 농경민 통치(한인·발해인 등)"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "배경",
+        "max": 3,
+        "ok": "요는 성격이 다른 유목 지대와 농경 지대를 함께 지배하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-128",
+            "quote": "- 배경 : 장성 이북의 유목 지대 + 화북의 농경 지대 보유(이질적 성격)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "배경"
+        ],
+        "acceptedConcepts": [
+          "요는 성격이 다른 유목 지대와 농경 지대를 함께 지배하였다."
+        ],
+        "rejectConditions": [
+          "요가 유목민만 지배하고 농경민은 전혀 없었다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "북면관",
+        "max": 3,
+        "ok": "북면관은 유목민의 부족제를 기초로 부락을 통제하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-128",
+            "quote": "- 북면관 : 북추밀원 담당(북재상부의 총괄), 부락 통제(유목민 부족제 기초)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "북면관"
+        ],
+        "acceptedConcepts": [
+          "북면관은 유목민의 부족제를 기초로 부락을 통제하였다."
+        ],
+        "rejectConditions": [
+          "북면관을 농경민만을 위한 주현제 기관이라고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "남면관",
+        "max": 4,
+        "ok": "남면관은 3성 6부제와 주현제를 이용해 한인·발해인 등 농경민을 통치하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-128",
+            "quote": "- 남면관 : 남추밀원 담당, 3성 6부제·주현제를 통한 농경민 통치(한인·발해인 등)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "남면관"
+        ],
+        "acceptedConcepts": [
+          "남면관은 3성 6부제와 주현제를 이용해 한인·발해인 등 농경민을 통치하였다."
+        ],
+        "rejectConditions": [
+          "남면관과 북면관의 대상을 뒤바꾼다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "b1eddd2b9de977c4272433f1dbabd2dc2784991cd8e83251f5713b87a19e94a3"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-012",
+    "title": "원의 교류와 통화 문제",
+    "prompt": "원의 역참이 교류에 미친 영향, 교초의 초기 신뢰 기반, 교초 남발의 결과를 설명하시오.",
+    "page": "dongyangsa-textbook-page-140",
+    "answer": "역참은 제국의 지배력을 강화하면서 무역과 외교 사절의 이동도 촉진하였다. 금과 은을 축적한 교환 준비는 교초의 신뢰를 높였다. 교초의 계속된 남발은 화폐 가치 하락과 물가 상승을 초래하였다.",
+    "explain": "비교·설명의 기준은 역참의 효과, 통화의 신뢰, 남발의 결과이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-140",
+        "quote": "• 영향 : 몽골 제국의 전국적 지배력 강화, 무역·외교 사절 등의 활동 촉진"
+      },
+      {
+        "page": "dongyangsa-textbook-page-138",
+        "quote": "• 매환 준비 : 금(金)·은(銀) 등을 축적함에 따라 신뢰도 상승"
+      },
+      {
+        "page": "dongyangsa-textbook-page-138",
+        "quote": "• 영향 : 일시적으로 신뢰 확보 성공, But 지속적 남발로 화폐 가치 하락(물가 폭등)"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "역참의 효과",
+        "max": 3,
+        "ok": "역참은 제국의 지배력을 강화하면서 무역과 외교 사절의 이동도 촉진하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-140",
+            "quote": "• 영향 : 몽골 제국의 전국적 지배력 강화, 무역·외교 사절 등의 활동 촉진"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "역참의 효과"
+        ],
+        "acceptedConcepts": [
+          "역참은 제국의 지배력을 강화하면서 무역과 외교 사절의 이동도 촉진하였다."
+        ],
+        "rejectConditions": [
+          "역참이 모든 사절의 이동을 차단했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "통화의 신뢰",
+        "max": 3,
+        "ok": "금과 은을 축적한 교환 준비는 교초의 신뢰를 높였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-138",
+            "quote": "• 매환 준비 : 금(金)·은(銀) 등을 축적함에 따라 신뢰도 상승"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "통화의 신뢰"
+        ],
+        "acceptedConcepts": [
+          "금과 은을 축적한 교환 준비는 교초의 신뢰를 높였다."
+        ],
+        "rejectConditions": [
+          "초기의 신뢰가 아무 준비 없이 무제한 남발하는 데서 생겼다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "남발의 결과",
+        "max": 4,
+        "ok": "교초의 계속된 남발은 화폐 가치 하락과 물가 상승을 초래하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-138",
+            "quote": "• 영향 : 일시적으로 신뢰 확보 성공, But 지속적 남발로 화폐 가치 하락(물가 폭등)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "남발의 결과"
+        ],
+        "acceptedConcepts": [
+          "교초의 계속된 남발은 화폐 가치 하락과 물가 상승을 초래하였다."
+        ],
+        "rejectConditions": [
+          "남발이 화폐 가치의 지속적 상승만을 가져왔다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "ccb6da21f12fce8007e0ebc71948c4ab4814a39937370904b885ca666b091007"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-013",
+    "title": "명·청의 교역 통제 변화",
+    "prompt": "명의 해금에서 허용된 무역 형태, 청 광동 체제의 항구 제한, 난징 조약의 공행과 관세 관련 변화를 서술하시오.",
+    "page": "dongyangsa-textbook-page-143",
+    "answer": "명은 대외무역을 통제하면서 조공무역을 허용하였다. 청은 서양과의 무역항을 광주로 제한하였다. 난징 조약은 공행을 폐지하고 관세 협의 규정을 두어 기존 통제 체제를 바꾸었다.",
+    "explain": "비교·설명의 기준은 명의 해금, 광동 체제, 난징 조약이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-143",
+        "quote": "• 내용 : 대외 무역 통제, 조공 무역만 허용"
+      },
+      {
+        "page": "dongyangsa-textbook-page-166",
+        "quote": "② 내용 : 무역항을 4개항에서 광주(광동)로 제한(1757) (유대관 등 기타 해관 폐지)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-175",
+        "quote": "③ 무역의 운명 : 공행(公行) 폐지, 영국과 관세 협의 규정(협정관세 규정)"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "명의 해금",
+        "max": 3,
+        "ok": "명은 대외무역을 통제하면서 조공무역을 허용하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-143",
+            "quote": "• 내용 : 대외 무역 통제, 조공 무역만 허용"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "명의 해금"
+        ],
+        "acceptedConcepts": [
+          "명은 대외무역을 통제하면서 조공무역을 허용하였다."
+        ],
+        "rejectConditions": [
+          "해금이 모든 사무역을 자유화한 정책이라고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "광동 체제",
+        "max": 3,
+        "ok": "청은 서양과의 무역항을 광주로 제한하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-166",
+            "quote": "② 내용 : 무역항을 4개항에서 광주(광동)로 제한(1757) (유대관 등 기타 해관 폐지)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "광동 체제"
+        ],
+        "acceptedConcepts": [
+          "청은 서양과의 무역항을 광주로 제한하였다."
+        ],
+        "rejectConditions": [
+          "광동 체제가 모든 항구를 자유 개항했다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "난징 조약",
+        "max": 4,
+        "ok": "난징 조약은 공행을 폐지하고 관세 협의 규정을 두어 기존 통제 체제를 바꾸었다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-175",
+            "quote": "③ 무역의 운명 : 공행(公行) 폐지, 영국과 관세 협의 규정(협정관세 규정)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "난징 조약"
+        ],
+        "acceptedConcepts": [
+          "난징 조약은 공행을 폐지하고 관세 협의 규정을 두어 기존 통제 체제를 바꾸었다."
+        ],
+        "rejectConditions": [
+          "난징 조약이 공행의 독점권을 영구 강화했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "05c2822c1f0ebd2d20925e282fc2693ec5f9ad13441566de4c17b878856d3b8d"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-014",
+    "title": "청의 강압과 포용",
+    "prompt": "청 초기 변발령, 한인 신사에 대한 유화책, 강희제의 특별 인재 선발을 각각 들어 강압과 포용을 설명하시오.",
+    "page": "dongyangsa-textbook-page-153",
+    "answer": "변발령은 한인에게 만주식 머리 모양을 강제한 통치 조치였다. 청은 신사의 기득권·재산권을 인정하고 관료 등용 및 과거·학교 존속으로 협력을 유도하였다. 강희제는 박학홍사과를 설치해 명의 유신을 회유하였다.",
+    "explain": "비교·설명의 기준은 강압책, 신사 포용, 학자 회유이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-153",
+        "quote": "• 탄압 : 변발령(薙髮令) 실시(주사안, 통천안 등을 통하여 탄압)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-153",
+        "quote": "• 유화 : 신사(紳士)의 기득권과 재산권 인정, 관료 등용, 과거제와 학교제 존속"
+      },
+      {
+        "page": "dongyangsa-textbook-page-156",
+        "quote": "① 포용책 : 박학홍사과(博學鴻詞科) 설치(1678)를 통하여 명의 유신 회유"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "강압책",
+        "max": 3,
+        "ok": "변발령은 한인에게 만주식 머리 모양을 강제한 통치 조치였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-153",
+            "quote": "• 탄압 : 변발령(薙髮令) 실시(주사안, 통천안 등을 통하여 탄압)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "강압책"
+        ],
+        "acceptedConcepts": [
+          "변발령은 한인에게 만주식 머리 모양을 강제한 통치 조치였다."
+        ],
+        "rejectConditions": [
+          "변발령을 전적으로 자발적인 민간 유행으로 설명한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "신사 포용",
+        "max": 3,
+        "ok": "청은 신사의 기득권·재산권을 인정하고 관료 등용 및 과거·학교 존속으로 협력을 유도하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-153",
+            "quote": "• 유화 : 신사(紳士)의 기득권과 재산권 인정, 관료 등용, 과거제와 학교제 존속"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "신사 포용"
+        ],
+        "acceptedConcepts": [
+          "청은 신사의 기득권·재산권을 인정하고 관료 등용 및 과거·학교 존속으로 협력을 유도하였다."
+        ],
+        "rejectConditions": [
+          "신사의 재산과 교육 기회를 일률적으로 모두 박탈했다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "학자 회유",
+        "max": 4,
+        "ok": "강희제는 박학홍사과를 설치해 명의 유신을 회유하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-156",
+            "quote": "① 포용책 : 박학홍사과(博學鴻詞科) 설치(1678)를 통하여 명의 유신 회유"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "학자 회유"
+        ],
+        "acceptedConcepts": [
+          "강희제는 박학홍사과를 설치해 명의 유신을 회유하였다."
+        ],
+        "rejectConditions": [
+          "박학홍사과를 학자 처형을 위한 재판기관이라고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "00a5ae8d378b3d7fb7576e6e32cba1f61204bfa7705458515fec31ba3915af77"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-015",
+    "title": "태평천국의 이상과 한계",
+    "prompt": "천조전무제도의 토지 분배 이상, 제도 설계의 미비, 집권층의 특권화를 구별하여 설명하시오.",
+    "page": "dongyangsa-textbook-page-182",
+    "answer": "성인 남녀에 대한 균등한 토지 분배를 지향하였다. 토지를 마련하고 환수하여 다시 나눌 구체적 규정이 미비하였다. 홍씨 일가와 핵심 집단이 특권 계급화하면서 평등의 이상과 괴리가 생겼다.",
+    "explain": "비교·설명의 기준은 평등 분배, 설계의 한계, 권력의 특권화이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-182",
+        "quote": "• 토지 균등 지향 : 성인 남녀에 대한 균등 분배 제시"
+      },
+      {
+        "page": "dongyangsa-textbook-page-182",
+        "quote": "• 문제점 : (분배를 위한 토지 조성과 배분을 위한 환수 규정 등 미비)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-182",
+        "quote": "• 전제왕조화 : 홍씨 일가, 핵심 집단(형제당)의 특권 계급화"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "평등 분배",
+        "max": 3,
+        "ok": "성인 남녀에 대한 균등한 토지 분배를 지향하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-182",
+            "quote": "• 토지 균등 지향 : 성인 남녀에 대한 균등 분배 제시"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "평등 분배"
+        ],
+        "acceptedConcepts": [
+          "성인 남녀에 대한 균등한 토지 분배를 지향하였다."
+        ],
+        "rejectConditions": [
+          "여성의 분배 자격을 원천 부정하는 것만을 이상으로 든다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "설계의 한계",
+        "max": 3,
+        "ok": "토지를 마련하고 환수하여 다시 나눌 구체적 규정이 미비하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-182",
+            "quote": "• 문제점 : (분배를 위한 토지 조성과 배분을 위한 환수 규정 등 미비)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "설계의 한계"
+        ],
+        "acceptedConcepts": [
+          "토지를 마련하고 환수하여 다시 나눌 구체적 규정이 미비하였다."
+        ],
+        "rejectConditions": [
+          "완전한 실행 규정이 처음부터 갖춰졌다고 단정한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "권력의 특권화",
+        "max": 4,
+        "ok": "홍씨 일가와 핵심 집단이 특권 계급화하면서 평등의 이상과 괴리가 생겼다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-182",
+            "quote": "• 전제왕조화 : 홍씨 일가, 핵심 집단(형제당)의 특권 계급화"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "권력의 특권화"
+        ],
+        "acceptedConcepts": [
+          "홍씨 일가와 핵심 집단이 특권 계급화하면서 평등의 이상과 괴리가 생겼다."
+        ],
+        "rejectConditions": [
+          "지도부의 특권이 끝까지 전혀 없었다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "81c33afbfe56dcbb7cf6d903cd5f5c7772d3a71fb36fd74092e4a5e6187e6157"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-016",
+    "title": "양무 운동의 도입 논리와 사업",
+    "prompt": "양무 운동의 사상적 논리, 군수 산업 운영, 기술 인력 양성 정책을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-183",
+    "answer": "중체서용론을 내세워 전통 체제를 유지하면서 서양 기술을 활용하려 했다. 서양 기술자를 초빙하고 서양식 총포와 선박을 제조하였다. 번역관과 교육기관을 통해 과학기술 서적을 보급하고 기술 인력을 양성하였다.",
+    "explain": "비교·설명의 기준은 도입 논리, 군수 산업, 인력 양성이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "㉠ 사상 : 『해국도지』의 사이제이(師夷之長技以制夷), (중체서용론)(中體西用論) 표방"
+      },
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "• 운영 : 원자재 대부분 수입, 서양 기술자 초빙하여 서양식 총포 및 선박 제조"
+      },
+      {
+        "page": "dongyangsa-textbook-page-183",
+        "quote": "- 부설 번역관·교육기관 : 근대적 과학기술 서적 번역·보급, 새로운 기술인력 양성"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "도입 논리",
+        "max": 3,
+        "ok": "중체서용론을 내세워 전통 체제를 유지하면서 서양 기술을 활용하려 했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-183",
+            "quote": "㉠ 사상 : 『해국도지』의 사이제이(師夷之長技以制夷), (중체서용론)(中體西用論) 표방"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "도입 논리"
+        ],
+        "acceptedConcepts": [
+          "중체서용론을 내세워 전통 체제를 유지하면서 서양 기술을 활용하려 했다."
+        ],
+        "rejectConditions": [
+          "전통 체제를 모두 버리는 공화 혁명을 기본 원칙으로 삼았다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "군수 산업",
+        "max": 3,
+        "ok": "서양 기술자를 초빙하고 서양식 총포와 선박을 제조하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-183",
+            "quote": "• 운영 : 원자재 대부분 수입, 서양 기술자 초빙하여 서양식 총포 및 선박 제조"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "군수 산업"
+        ],
+        "acceptedConcepts": [
+          "서양 기술자를 초빙하고 서양식 총포와 선박을 제조하였다."
+        ],
+        "rejectConditions": [
+          "서양 기술자의 참여를 전면 금지했다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "인력 양성",
+        "max": 4,
+        "ok": "번역관과 교육기관을 통해 과학기술 서적을 보급하고 기술 인력을 양성하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-183",
+            "quote": "- 부설 번역관·교육기관 : 근대적 과학기술 서적 번역·보급, 새로운 기술인력 양성"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "인력 양성"
+        ],
+        "acceptedConcepts": [
+          "번역관과 교육기관을 통해 과학기술 서적을 보급하고 기술 인력을 양성하였다."
+        ],
+        "rejectConditions": [
+          "기술 교육을 전면 금지했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "54ccd5d1a6b3b585db3ca01d2de57b2c40e447a8b4bba700fed90165eee04c02"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-017",
+    "title": "중국의 민중운동과 항일 합작",
+    "prompt": "5·4 운동의 삼파 투쟁, 제1차 국공 합작의 입당 방식, 제2차 국공 합작의 군대 재편을 설명하시오.",
+    "page": "dongyangsa-textbook-page-202",
+    "answer": "삼파는 학생의 동맹휴학, 노동자의 파업, 상인의 철시로 나타났다. 공산당원들이 개인 자격으로 국민당에 입당하는 방식이 활용되었다. 홍군은 팔로군으로 편입되고 중·남부 유격대는 신사군으로 개편되어 항전에 참여했다.",
+    "explain": "비교·설명의 기준은 대중 참여, 제1차 합작, 제2차 합작이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-202",
+        "quote": "- 내용 : 삼파(三罷) 투쟁 등의 매국노 규탄 및 배일 운동 전국적 확산 (동맹휴학, 파업, 철시)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-203",
+        "quote": "• 과정 : 개인 자격으로 국민당에 입당한 (진독수·이대조) 등이 참여"
+      },
+      {
+        "page": "dongyangsa-textbook-page-211",
+        "quote": "- 군대 개편 : 홍군의 국민혁명군 제팔로군 편입, 중·남부 유격대의 신사군 개편"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "대중 참여",
+        "max": 3,
+        "ok": "삼파는 학생의 동맹휴학, 노동자의 파업, 상인의 철시로 나타났다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-202",
+            "quote": "- 내용 : 삼파(三罷) 투쟁 등의 매국노 규탄 및 배일 운동 전국적 확산 (동맹휴학, 파업, 철시)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "대중 참여"
+        ],
+        "acceptedConcepts": [
+          "삼파는 학생의 동맹휴학, 노동자의 파업, 상인의 철시로 나타났다."
+        ],
+        "rejectConditions": [
+          "삼파를 관료만의 청원으로 한정한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "제1차 합작",
+        "max": 3,
+        "ok": "공산당원들이 개인 자격으로 국민당에 입당하는 방식이 활용되었다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-203",
+            "quote": "• 과정 : 개인 자격으로 국민당에 입당한 (진독수·이대조) 등이 참여"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "제1차 합작"
+        ],
+        "acceptedConcepts": [
+          "공산당원들이 개인 자격으로 국민당에 입당하는 방식이 활용되었다."
+        ],
+        "rejectConditions": [
+          "두 당의 모든 조직을 해산하는 방식이었다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "제2차 합작",
+        "max": 4,
+        "ok": "홍군은 팔로군으로 편입되고 중·남부 유격대는 신사군으로 개편되어 항전에 참여했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-211",
+            "quote": "- 군대 개편 : 홍군의 국민혁명군 제팔로군 편입, 중·남부 유격대의 신사군 개편"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "제2차 합작"
+        ],
+        "acceptedConcepts": [
+          "홍군은 팔로군으로 편입되고 중·남부 유격대는 신사군으로 개편되어 항전에 참여했다."
+        ],
+        "rejectConditions": [
+          "공산군이 일본군에 편입되었다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "4b46fc9dde461b6fb5c7f42275df0f625e5e0ed387ff833b769071df7e99133d"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-018",
+    "title": "대약진과 개혁기의 농촌 정책",
+    "prompt": "대약진기의 계획 운영 문제, 조정 정책의 방향, 1980년대 농가 생산 책임제의 변화를 서술하시오.",
+    "page": "dongyangsa-textbook-page-219",
+    "answer": "조급한 목표와 거짓 보고의 누적이 경제 계획을 왜곡하였다. 대약진과 인민공사화 정책을 수정하고 생산 목표와 속도를 완화하였다. 인민공사를 폐지하고 농가별 청부·생산 책임제를 인정하였다.",
+    "explain": "비교·설명의 기준은 대약진의 문제, 조정 정책, 개혁기의 변화이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-219",
+        "quote": "㉡ 목표 설정 : 조급한 목표 설정과 거짓 보고 등의 누적으로 경제 계획 황폐화"
+      },
+      {
+        "page": "dongyangsa-textbook-page-219",
+        "quote": "㉢ 성격 : 대약진과 인민공사화 정책 수정, 생산 목표와 속도 완화"
+      },
+      {
+        "page": "dongyangsa-textbook-page-222",
+        "quote": "① 농업 : 인민공사 폐지 → 농가별 청부·생산 책임제 인정, 향진기업의 설립 장려"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "대약진의 문제",
+        "max": 3,
+        "ok": "조급한 목표와 거짓 보고의 누적이 경제 계획을 왜곡하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-219",
+            "quote": "㉡ 목표 설정 : 조급한 목표 설정과 거짓 보고 등의 누적으로 경제 계획 황폐화"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "대약진의 문제"
+        ],
+        "acceptedConcepts": [
+          "조급한 목표와 거짓 보고의 누적이 경제 계획을 왜곡하였다."
+        ],
+        "rejectConditions": [
+          "현실적인 목표와 정확한 보고만으로 일관했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "조정 정책",
+        "max": 3,
+        "ok": "대약진과 인민공사화 정책을 수정하고 생산 목표와 속도를 완화하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-219",
+            "quote": "㉢ 성격 : 대약진과 인민공사화 정책 수정, 생산 목표와 속도 완화"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "조정 정책"
+        ],
+        "acceptedConcepts": [
+          "대약진과 인민공사화 정책을 수정하고 생산 목표와 속도를 완화하였다."
+        ],
+        "rejectConditions": [
+          "조정 정책이 무조건 더 높은 생산 목표만 강요했다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "개혁기의 변화",
+        "max": 4,
+        "ok": "인민공사를 폐지하고 농가별 청부·생산 책임제를 인정하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-222",
+            "quote": "① 농업 : 인민공사 폐지 → 농가별 청부·생산 책임제 인정, 향진기업의 설립 장려"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "개혁기의 변화"
+        ],
+        "acceptedConcepts": [
+          "인민공사를 폐지하고 농가별 청부·생산 책임제를 인정하였다."
+        ],
+        "rejectConditions": [
+          "개혁기에 농가의 경영 책임을 모두 없앴다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "7e0ecf65f12c8bbb3c10dc37dac50aa29a1d4c36fb57f505b3d23d08bf54ff9a"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-019",
+    "title": "일본의 고대 생산과 국가 정비",
+    "prompt": "조몬의 생업, 야요이 농경이 낳은 사회 변화, 다이카 개신의 공지공민제 방향을 구별하여 설명하시오.",
+    "page": "dongyangsa-textbook-page-225",
+    "answer": "조몬 사람들은 움집에 거주하며 채집과 사냥 등으로 생활하였다. 농경 생산경제의 발달은 취락과 계급사회를 형성하고 구니의 등장을 뒷받침하였다. 공지공민제는 황족·호족의 토지와 인민 사유를 제한하고 국가 지배로 전환하려 했다.",
+    "explain": "비교·설명의 기준은 조몬 생업, 야요이 사회 변화, 국가 지배 강화이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-225",
+        "quote": "㉢ 생활 : 움집 거주, 채집·사냥(어패류 등)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-225",
+        "quote": "㉢ 사회 구성 : 생산경제 진입(농경 시작) → 계급사회 구성(취락 발달) → 구니(國) 등장"
+      },
+      {
+        "page": "dongyangsa-textbook-page-230",
+        "quote": "• 공지공민제 : 황족·호족들의 토지·인민 사유화 금지, 국유 전환"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "조몬 생업",
+        "max": 3,
+        "ok": "조몬 사람들은 움집에 거주하며 채집과 사냥 등으로 생활하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-225",
+            "quote": "㉢ 생활 : 움집 거주, 채집·사냥(어패류 등)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "조몬 생업"
+        ],
+        "acceptedConcepts": [
+          "조몬 사람들은 움집에 거주하며 채집과 사냥 등으로 생활하였다."
+        ],
+        "rejectConditions": [
+          "조몬에서 근대 공장 생산이 생활의 중심이었다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "야요이 사회 변화",
+        "max": 3,
+        "ok": "농경 생산경제의 발달은 취락과 계급사회를 형성하고 구니의 등장을 뒷받침하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-225",
+            "quote": "㉢ 사회 구성 : 생산경제 진입(농경 시작) → 계급사회 구성(취락 발달) → 구니(國) 등장"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "야요이 사회 변화"
+        ],
+        "acceptedConcepts": [
+          "농경 생산경제의 발달은 취락과 계급사회를 형성하고 구니의 등장을 뒷받침하였다."
+        ],
+        "rejectConditions": [
+          "농경의 발달이 취락과 정치체를 모두 없앴다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "국가 지배 강화",
+        "max": 4,
+        "ok": "공지공민제는 황족·호족의 토지와 인민 사유를 제한하고 국가 지배로 전환하려 했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-230",
+            "quote": "• 공지공민제 : 황족·호족들의 토지·인민 사유화 금지, 국유 전환"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "국가 지배 강화"
+        ],
+        "acceptedConcepts": [
+          "공지공민제는 황족·호족의 토지와 인민 사유를 제한하고 국가 지배로 전환하려 했다."
+        ],
+        "rejectConditions": [
+          "호족의 토지·인민 사유를 무제한 보장한 제도라고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "da8879abd4b8a08bd58f6d893a98f541d04f0196a79c3149e1d8d759901812a6"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-020",
+    "title": "일본의 귀족 정치와 무사 성장",
+    "prompt": "후지와라씨의 혼인과 섭정·관백 정치, 원정의 권력 행사 방식, 원의 무사 고용이 낳은 변화를 서술하시오.",
+    "page": "dongyangsa-textbook-page-236",
+    "answer": "후지와라씨는 천황가와 계속 혼인 관계를 맺고 섭정·관백의 지위를 활용하여 정권을 장악하였다. 퇴위한 천황이 천황의 후견인 입장에서 정치 실권을 행사하였다. 원은 세력 강화를 위해 무사를 고용하여 무사의 중앙 정계 진출을 촉진했다.",
+    "explain": "비교·설명의 기준은 귀족 정치, 원정, 무사 성장이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-236",
+        "quote": "• 의미 : 후지와라 일족이 섭정(攝政)·관백(關白)의 지위를 통하여 정권 장악"
+      },
+      {
+        "page": "dongyangsa-textbook-page-238",
+        "quote": "• 내용 : 천황 퇴위 직후 院이 천황 후견인 입장에서 정치 실권 장악"
+      },
+      {
+        "page": "dongyangsa-textbook-page-238",
+        "quote": "㉡ 영향 : 원(院)이 세력 강화를 위하여 무사 고용(무사의 중앙 정계 진출)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-236",
+        "quote": "㉡ 대두 : 천황 가문과 계속해서 혼인 관계 → 점차 정치적 실권 장악"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "귀족 정치",
+        "max": 3,
+        "ok": "후지와라씨는 천황가와 계속 혼인 관계를 맺고 섭정·관백의 지위를 활용하여 정권을 장악하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-236",
+            "quote": "• 의미 : 후지와라 일족이 섭정(攝政)·관백(關白)의 지위를 통하여 정권 장악"
+          },
+          {
+            "page": "dongyangsa-textbook-page-236",
+            "quote": "㉡ 대두 : 천황 가문과 계속해서 혼인 관계 → 점차 정치적 실권 장악"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "귀족 정치"
+        ],
+        "acceptedConcepts": [
+          "후지와라씨는 천황가와 계속 혼인 관계를 맺고 섭정·관백의 지위를 활용하여 정권을 장악하였다."
+        ],
+        "rejectConditions": [
+          "섭정·관백이 민중의 보통선거로만 정해졌다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "원정",
+        "max": 3,
+        "ok": "퇴위한 천황이 천황의 후견인 입장에서 정치 실권을 행사하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-238",
+            "quote": "• 내용 : 천황 퇴위 직후 院이 천황 후견인 입장에서 정치 실권 장악"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "원정"
+        ],
+        "acceptedConcepts": [
+          "퇴위한 천황이 천황의 후견인 입장에서 정치 실권을 행사하였다."
+        ],
+        "rejectConditions": [
+          "원정을 천황의 해외 군사 원정으로만 풀이한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "무사 성장",
+        "max": 4,
+        "ok": "원은 세력 강화를 위해 무사를 고용하여 무사의 중앙 정계 진출을 촉진했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-238",
+            "quote": "㉡ 영향 : 원(院)이 세력 강화를 위하여 무사 고용(무사의 중앙 정계 진출)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "무사 성장"
+        ],
+        "acceptedConcepts": [
+          "원은 세력 강화를 위해 무사를 고용하여 무사의 중앙 정계 진출을 촉진했다."
+        ],
+        "rejectConditions": [
+          "원이 무사의 정치 진출을 완전히 막았다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "8c4f4686cee38a3fdf7eef6a86fd5762346b5a3ea39fd85674c7c25beb65063d"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-021",
+    "title": "히데요시의 사회 통제",
+    "prompt": "검지령이 파악한 대상, 병농 분리의 방식, 조카마치와 농촌의 분화라는 결과를 설명하시오.",
+    "page": "dongyangsa-textbook-page-244",
+    "answer": "검지령은 토지의 면적·등급·경작 농민을 파악하고 연공을 정하는 기반이 되었다. 무사를 촌락에서 분리하고 농민·상공업자로의 전환을 금지하여 신분을 구분했다. 무사·조닌의 조카마치와 농민의 농촌이 분화하였다.",
+    "explain": "비교·설명의 기준은 토지 파악, 무사와 농민의 분리, 공간적 결과이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-244",
+        "quote": "㉡ 검지령 : 토지 측량 및 등급 분류, 연공(고쿠다카) 결정, 경작 농민 이름과 면적 등재"
+      },
+      {
+        "page": "dongyangsa-textbook-page-244",
+        "quote": "• 무사 : 촌락으로부터 분리(거주지 분리), 농민·상공업자가 되는 것 금지"
+      },
+      {
+        "page": "dongyangsa-textbook-page-244",
+        "quote": "• 영향 : 하극상 풍조 소멸, 조카마치(무사·조닌)와 농촌(농민) 분리"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "토지 파악",
+        "max": 3,
+        "ok": "검지령은 토지의 면적·등급·경작 농민을 파악하고 연공을 정하는 기반이 되었다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-244",
+            "quote": "㉡ 검지령 : 토지 측량 및 등급 분류, 연공(고쿠다카) 결정, 경작 농민 이름과 면적 등재"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "토지 파악"
+        ],
+        "acceptedConcepts": [
+          "검지령은 토지의 면적·등급·경작 농민을 파악하고 연공을 정하는 기반이 되었다."
+        ],
+        "rejectConditions": [
+          "토지와 경작자를 전혀 조사하지 않았다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "무사와 농민의 분리",
+        "max": 3,
+        "ok": "무사를 촌락에서 분리하고 농민·상공업자로의 전환을 금지하여 신분을 구분했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-244",
+            "quote": "• 무사 : 촌락으로부터 분리(거주지 분리), 농민·상공업자가 되는 것 금지"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "무사와 농민의 분리"
+        ],
+        "acceptedConcepts": [
+          "무사를 촌락에서 분리하고 농민·상공업자로의 전환을 금지하여 신분을 구분했다."
+        ],
+        "rejectConditions": [
+          "무사와 농민의 자유로운 신분 이동을 전면 허용했다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "공간적 결과",
+        "max": 4,
+        "ok": "무사·조닌의 조카마치와 농민의 농촌이 분화하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-244",
+            "quote": "• 영향 : 하극상 풍조 소멸, 조카마치(무사·조닌)와 농촌(농민) 분리"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "공간적 결과"
+        ],
+        "acceptedConcepts": [
+          "무사·조닌의 조카마치와 농민의 농촌이 분화하였다."
+        ],
+        "rejectConditions": [
+          "모든 무사와 도시민을 농촌 소작민으로 통합했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "9ea4662e1b78727c1e595566a3b648ac4b79ba225bf15fad18dd5c9925393d18"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-022",
+    "title": "에도 막부의 통제와 교역",
+    "prompt": "산킨고타이의 공간적 통제, 슈인장의 기능, 청 상선 제한의 경제적 목적을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-245",
+    "answer": "다이묘는 영지와 에도에 교대로 거주하며 막부의 통제를 받았다. 슈인장은 동남아시아 무역선을 허용·통제하는 문서였다. 청 상선의 수를 제한하는 것은 수입 대금으로 빠져나가는 은을 억제하려는 조치였다.",
+    "explain": "비교·설명의 기준은 다이묘 통제, 무역 허가, 은 유출 억제이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-245",
+        "quote": "제2조. 다이묘는 자신의 영지·에도에 교대로 거주하도록 정하는 바이다. 매년 4월에 참근(參勤)해야 한다."
+      },
+      {
+        "page": "dongyangsa-textbook-page-247",
+        "quote": "㉡ 슈인장(朱印狀) 발급 : 무역 허가제 → 동남아시아 무역선 허용"
+      },
+      {
+        "page": "dongyangsa-textbook-page-247",
+        "quote": "• 배경 : 아라이 하쿠세키가 청 상선의 수를 줄여서 은 유출을 억제할 것을 건의"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "다이묘 통제",
+        "max": 3,
+        "ok": "다이묘는 영지와 에도에 교대로 거주하며 막부의 통제를 받았다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-245",
+            "quote": "제2조. 다이묘는 자신의 영지·에도에 교대로 거주하도록 정하는 바이다. 매년 4월에 참근(參勤)해야 한다."
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "다이묘 통제"
+        ],
+        "acceptedConcepts": [
+          "다이묘는 영지와 에도에 교대로 거주하며 막부의 통제를 받았다."
+        ],
+        "rejectConditions": [
+          "다이묘가 영지를 떠날 의무가 전혀 없었다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "무역 허가",
+        "max": 3,
+        "ok": "슈인장은 동남아시아 무역선을 허용·통제하는 문서였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-247",
+            "quote": "㉡ 슈인장(朱印狀) 발급 : 무역 허가제 → 동남아시아 무역선 허용"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "무역 허가"
+        ],
+        "acceptedConcepts": [
+          "슈인장은 동남아시아 무역선을 허용·통제하는 문서였다."
+        ],
+        "rejectConditions": [
+          "슈인장을 과거 합격증으로 설명한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "은 유출 억제",
+        "max": 4,
+        "ok": "청 상선의 수를 제한하는 것은 수입 대금으로 빠져나가는 은을 억제하려는 조치였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-247",
+            "quote": "• 배경 : 아라이 하쿠세키가 청 상선의 수를 줄여서 은 유출을 억제할 것을 건의"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "은 유출 억제"
+        ],
+        "acceptedConcepts": [
+          "청 상선의 수를 제한하는 것은 수입 대금으로 빠져나가는 은을 억제하려는 조치였다."
+        ],
+        "rejectConditions": [
+          "제한의 목적을 은 유출의 무제한 확대라고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "c1cfe76f6a8959cd5c95b968ccd2067c05e1f84baadb518d060424c862bb9a6b"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-023",
+    "title": "메이지 헌법과 전후 헌법",
+    "prompt": "메이지 헌법의 통치권 주체, 전후 헌법의 천황 지위, 전후 헌법 제9조의 원칙을 비교하시오.",
+    "page": "dongyangsa-textbook-page-256",
+    "answer": "메이지 헌법은 천황을 국가 원수이자 통치권의 주체로 규정하였다. 전후 헌법은 국민의 총의에 기초한 국가와 국민 통합의 상징으로 천황을 규정하였다. 제9조는 국제 분쟁 해결 수단으로서 전쟁과 무력의 위협·행사를 포기한다고 규정하였다.",
+    "explain": "비교·설명의 기준은 메이지의 통치권, 전후 천황의 지위, 평화주의이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-256",
+        "quote": "제4조 천황은 국가의 원수이며, 통치권을 장악하고 이 법률의 조규에 의하여 이를 거행한다."
+      },
+      {
+        "page": "dongyangsa-textbook-page-272",
+        "quote": "제1조 천황은 일본국의 상징이며 일본 국민 통합의 상징이며, 이 지위는 주권이 존재하는 일본 국민의 총의에 기초한다."
+      },
+      {
+        "page": "dongyangsa-textbook-page-272",
+        "quote": "제9조 1. 국권의 발동에 의한 전쟁과 무력에 의한 위협 또는 무력의 행사는 국제 분쟁을 해결하는 수단으로서는 영구히 포기한다."
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "메이지의 통치권",
+        "max": 3,
+        "ok": "메이지 헌법은 천황을 국가 원수이자 통치권의 주체로 규정하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-256",
+            "quote": "제4조 천황은 국가의 원수이며, 통치권을 장악하고 이 법률의 조규에 의하여 이를 거행한다."
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "메이지의 통치권"
+        ],
+        "acceptedConcepts": [
+          "메이지 헌법은 천황을 국가 원수이자 통치권의 주체로 규정하였다."
+        ],
+        "rejectConditions": [
+          "메이지 헌법이 천황을 권한 없는 상징으로만 규정했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "전후 천황의 지위",
+        "max": 3,
+        "ok": "전후 헌법은 국민의 총의에 기초한 국가와 국민 통합의 상징으로 천황을 규정하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-272",
+            "quote": "제1조 천황은 일본국의 상징이며 일본 국민 통합의 상징이며, 이 지위는 주권이 존재하는 일본 국민의 총의에 기초한다."
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "전후 천황의 지위"
+        ],
+        "acceptedConcepts": [
+          "전후 헌법은 국민의 총의에 기초한 국가와 국민 통합의 상징으로 천황을 규정하였다."
+        ],
+        "rejectConditions": [
+          "전후 헌법에서 천황 개인에게 국민 주권이 귀속되었다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "평화주의",
+        "max": 4,
+        "ok": "제9조는 국제 분쟁 해결 수단으로서 전쟁과 무력의 위협·행사를 포기한다고 규정하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-272",
+            "quote": "제9조 1. 국권의 발동에 의한 전쟁과 무력에 의한 위협 또는 무력의 행사는 국제 분쟁을 해결하는 수단으로서는 영구히 포기한다."
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "평화주의"
+        ],
+        "acceptedConcepts": [
+          "제9조는 국제 분쟁 해결 수단으로서 전쟁과 무력의 위협·행사를 포기한다고 규정하였다."
+        ],
+        "rejectConditions": [
+          "제9조를 정복 전쟁의 무제한 허용 조항으로 쓴다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "f44d3634c3fdfb7f260414531614e2d15d3f648eff49b7ed15dd853d4b944495"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-024",
+    "title": "전후 일본의 민주화 개혁",
+    "prompt": "전후 일본의 농지 개혁, 노동 개혁, 재벌 개혁의 방향을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-273",
+    "answer": "소작지를 해방하고 자작농을 창출하는 방향으로 농지 소유를 바꾸었다. 노동 3권을 인정하여 노동자의 권리를 확대하였다. 재벌 해체와 독점 금지법으로 족벌 중심 경제 집중을 완화하려 했다.",
+    "explain": "비교·설명의 기준은 농지 개혁, 노동 개혁, 재벌 개혁이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-273",
+        "quote": "• 농지 개혁 : 소작지 해방(전체 농지의 80%), 자작농 창출 → 내수 경기 부양"
+      },
+      {
+        "page": "dongyangsa-textbook-page-273",
+        "quote": "• 노동 개혁 : 노동 3권 인정"
+      },
+      {
+        "page": "dongyangsa-textbook-page-273",
+        "quote": "• 재벌 해체 : 4대 재벌 중심 족벌 체제 종식, 독점 금지법 제정 → 경제 민주화 조치"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "농지 개혁",
+        "max": 3,
+        "ok": "소작지를 해방하고 자작농을 창출하는 방향으로 농지 소유를 바꾸었다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-273",
+            "quote": "• 농지 개혁 : 소작지 해방(전체 농지의 80%), 자작농 창출 → 내수 경기 부양"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "농지 개혁"
+        ],
+        "acceptedConcepts": [
+          "소작지를 해방하고 자작농을 창출하는 방향으로 농지 소유를 바꾸었다."
+        ],
+        "rejectConditions": [
+          "부재지주의 소유를 무제한 확대했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "노동 개혁",
+        "max": 3,
+        "ok": "노동 3권을 인정하여 노동자의 권리를 확대하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-273",
+            "quote": "• 노동 개혁 : 노동 3권 인정"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "노동 개혁"
+        ],
+        "acceptedConcepts": [
+          "노동 3권을 인정하여 노동자의 권리를 확대하였다."
+        ],
+        "rejectConditions": [
+          "노동자의 모든 집단적 권리를 폐지했다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "재벌 개혁",
+        "max": 4,
+        "ok": "재벌 해체와 독점 금지법으로 족벌 중심 경제 집중을 완화하려 했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-273",
+            "quote": "• 재벌 해체 : 4대 재벌 중심 족벌 체제 종식, 독점 금지법 제정 → 경제 민주화 조치"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "재벌 개혁"
+        ],
+        "acceptedConcepts": [
+          "재벌 해체와 독점 금지법으로 족벌 중심 경제 집중을 완화하려 했다."
+        ],
+        "rejectConditions": [
+          "재벌의 독점권을 국가가 영구 보장한 개혁이라고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "1361c14c1bc01e725b099f34c49cc07992d73c9f1023e4a1f93e4923904ed812"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-025",
+    "title": "인도 문화와 교역의 연결",
+    "prompt": "인더스 문명의 대외 교역, 쿠샨 왕조의 중계무역, 간다라 미술의 교류 성격을 설명하시오.",
+    "page": "dongyangsa-textbook-page-278",
+    "answer": "인더스 문명은 도시 간 교역뿐 아니라 메소포타미아와도 교역하였다. 쿠샨은 중국·인도·이란을 연결하는 중계무역으로 번영하였다. 헬레니즘 문화의 유입이 불상 제작과 결합해 간다라 미술에 영향을 주었다.",
+    "explain": "비교·설명의 기준은 인더스 교역, 쿠샨 중계무역, 간다라 미술이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-278",
+        "quote": "③ 교역 : 도시 간 교역 활발, 메소포타미아와도 교역"
+      },
+      {
+        "page": "dongyangsa-textbook-page-280",
+        "quote": "② 중계 무역 : 중국·인도·이란을 연결하는 무역을 독점하며 번영"
+      },
+      {
+        "page": "dongyangsa-textbook-page-280",
+        "quote": "• 간다라 미술 : 알렉산드로스의 원정 통해 헬레니즘 유입 → 불상 제작"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "인더스 교역",
+        "max": 3,
+        "ok": "인더스 문명은 도시 간 교역뿐 아니라 메소포타미아와도 교역하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-278",
+            "quote": "③ 교역 : 도시 간 교역 활발, 메소포타미아와도 교역"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "인더스 교역"
+        ],
+        "acceptedConcepts": [
+          "인더스 문명은 도시 간 교역뿐 아니라 메소포타미아와도 교역하였다."
+        ],
+        "rejectConditions": [
+          "인더스가 외부와 완전히 단절되었다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "쿠샨 중계무역",
+        "max": 3,
+        "ok": "쿠샨은 중국·인도·이란을 연결하는 중계무역으로 번영하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-280",
+            "quote": "② 중계 무역 : 중국·인도·이란을 연결하는 무역을 독점하며 번영"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "쿠샨 중계무역"
+        ],
+        "acceptedConcepts": [
+          "쿠샨은 중국·인도·이란을 연결하는 중계무역으로 번영하였다."
+        ],
+        "rejectConditions": [
+          "쿠샨의 번영을 대외 교역 전면 금지의 결과로 쓴다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "간다라 미술",
+        "max": 4,
+        "ok": "헬레니즘 문화의 유입이 불상 제작과 결합해 간다라 미술에 영향을 주었다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-280",
+            "quote": "• 간다라 미술 : 알렉산드로스의 원정 통해 헬레니즘 유입 → 불상 제작"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "간다라 미술"
+        ],
+        "acceptedConcepts": [
+          "헬레니즘 문화의 유입이 불상 제작과 결합해 간다라 미술에 영향을 주었다."
+        ],
+        "rejectConditions": [
+          "간다라 미술이 교류와 관계없이 불상 제작을 금지한 운동이었다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "a864f4a0cbcb659f817acd9ad85d944c80badb18536e7b48f6290b8777ff8584"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-026",
+    "title": "무굴의 관용과 탄압",
+    "prompt": "아크바르의 관리 등용, 지즈야 폐지, 아우랑제브의 종교 정책에 대한 저항을 설명하시오.",
+    "page": "dongyangsa-textbook-page-282",
+    "answer": "아크바르는 힌두교도와 이슬람교도 모두를 관리로 등용하였다. 아크바르는 비무슬림에게 부과하던 지즈야를 폐지하였다. 아우랑제브의 이교도 탄압은 시크교도·마라타 등의 반란 및 지방 분권화와 연결되었다.",
+    "explain": "비교·설명의 기준은 관리 등용, 조세의 관용, 탄압과 저항이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-282",
+        "quote": "• 관리 등용 : 힌두교도·이슬람교도 등을 등용"
+      },
+      {
+        "page": "dongyangsa-textbook-page-282",
+        "quote": "• 지즈야 폐지 : 이교도가 납부하는 인두세 폐지"
+      },
+      {
+        "page": "dongyangsa-textbook-page-282",
+        "quote": "• 영향 : 시크교도(펀자브 지방), 마라타 동맹(데칸 고원) 등의 반란 → 지방 분권화"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "관리 등용",
+        "max": 3,
+        "ok": "아크바르는 힌두교도와 이슬람교도 모두를 관리로 등용하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-282",
+            "quote": "• 관리 등용 : 힌두교도·이슬람교도 등을 등용"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "관리 등용"
+        ],
+        "acceptedConcepts": [
+          "아크바르는 힌두교도와 이슬람교도 모두를 관리로 등용하였다."
+        ],
+        "rejectConditions": [
+          "힌두교도의 관리 임용을 예외 없이 금지했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "조세의 관용",
+        "max": 3,
+        "ok": "아크바르는 비무슬림에게 부과하던 지즈야를 폐지하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-282",
+            "quote": "• 지즈야 폐지 : 이교도가 납부하는 인두세 폐지"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "조세의 관용"
+        ],
+        "acceptedConcepts": [
+          "아크바르는 비무슬림에게 부과하던 지즈야를 폐지하였다."
+        ],
+        "rejectConditions": [
+          "아크바르가 지즈야를 부활시킨 군주라고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "탄압과 저항",
+        "max": 4,
+        "ok": "아우랑제브의 이교도 탄압은 시크교도·마라타 등의 반란 및 지방 분권화와 연결되었다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-282",
+            "quote": "• 영향 : 시크교도(펀자브 지방), 마라타 동맹(데칸 고원) 등의 반란 → 지방 분권화"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "탄압과 저항"
+        ],
+        "acceptedConcepts": [
+          "아우랑제브의 이교도 탄압은 시크교도·마라타 등의 반란 및 지방 분권화와 연결되었다."
+        ],
+        "rejectConditions": [
+          "종교 탄압에 대한 지방의 저항이 전혀 없었다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "causation",
+      "inputSha256": "efb348433c3626f9fcd09588f2c6d2a365063f98a262a7d3933931d053fecc61"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-027",
+    "title": "인도의 식민 지배와 독립 요구",
+    "prompt": "영국 지배 아래 수공업 변화, 세포이 항쟁 뒤 통치 주체의 변화, 1942년 인도 철수 운동의 요구를 서술하시오.",
+    "page": "dongyangsa-textbook-page-283",
+    "answer": "영국산 면제품의 대량 유입은 인도 수공업의 몰락을 초래하였다. 세포이 항쟁 뒤 동인도회사의 통치권이 회수되고 영국 왕의 통치로 전환되었다. 인도 철수 운동은 영국의 즉각적 철수와 인도의 완전 독립을 요구하였다.",
+    "explain": "비교·설명의 기준은 수공업의 변화, 통치 주체 변화, 완전 독립 요구이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-283",
+        "quote": "㉡ 수공업 몰락 : 영국산 면제품을 인도에 대량 수출, 인도 수공업의 몰락"
+      },
+      {
+        "page": "dongyangsa-textbook-page-283",
+        "quote": "③ 영향 : 무굴 황제 폐위, 동인도회사의 통치권 회수 → 인도 통치 개선법(영국 왕의 통치)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-285",
+        "quote": "㉠ 내용 : 간디·네루 등이 영국의 즉각적 철수 및 인도의 완전한 독립 주장"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "수공업의 변화",
+        "max": 3,
+        "ok": "영국산 면제품의 대량 유입은 인도 수공업의 몰락을 초래하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-283",
+            "quote": "㉡ 수공업 몰락 : 영국산 면제품을 인도에 대량 수출, 인도 수공업의 몰락"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "수공업의 변화"
+        ],
+        "acceptedConcepts": [
+          "영국산 면제품의 대량 유입은 인도 수공업의 몰락을 초래하였다."
+        ],
+        "rejectConditions": [
+          "수입 면제품이 인도 수공업에 아무 영향도 미치지 않았다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "통치 주체 변화",
+        "max": 3,
+        "ok": "세포이 항쟁 뒤 동인도회사의 통치권이 회수되고 영국 왕의 통치로 전환되었다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-283",
+            "quote": "③ 영향 : 무굴 황제 폐위, 동인도회사의 통치권 회수 → 인도 통치 개선법(영국 왕의 통치)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "통치 주체 변화"
+        ],
+        "acceptedConcepts": [
+          "세포이 항쟁 뒤 동인도회사의 통치권이 회수되고 영국 왕의 통치로 전환되었다."
+        ],
+        "rejectConditions": [
+          "항쟁 직후 인도가 완전 독립했다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "완전 독립 요구",
+        "max": 4,
+        "ok": "인도 철수 운동은 영국의 즉각적 철수와 인도의 완전 독립을 요구하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-285",
+            "quote": "㉠ 내용 : 간디·네루 등이 영국의 즉각적 철수 및 인도의 완전한 독립 주장"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "완전 독립 요구"
+        ],
+        "acceptedConcepts": [
+          "인도 철수 운동은 영국의 즉각적 철수와 인도의 완전 독립을 요구하였다."
+        ],
+        "rejectConditions": [
+          "영국의 식민 지배 영구 연장을 주장했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "ea614f364f0bbf9e49878c68bc0578949b33635103ec872f42341693e701db8e"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-028",
+    "title": "베트남의 문화 수용과 자립",
+    "prompt": "리 왕조의 유교 교육 수용, 쯔놈 문자의 형성, 후레 왕조 성종의 성리학 제도화를 설명하시오.",
+    "page": "dongyangsa-textbook-page-287",
+    "answer": "리 왕조는 문묘와 국자감을 세우고 과거를 실시하였다. 쯔놈은 한자를 베트남어 표기에 맞게 활용한 문자였다. 성종 때 국자감과 정기 과거, 성리학 수용으로 유교를 통치 이념화하였다.",
+    "explain": "비교·설명의 기준은 유교 교육 수용, 문자의 현지화, 후레의 제도화이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-287",
+        "quote": "㉡ 유교 교육 : 문묘·국자감 건립, 과거제 실시(부정기적 실시)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-289",
+        "quote": "㉡ 특징 : 한자를 베트남어 음에 맞게 고쳐 제정, 19세기까지 사용"
+      },
+      {
+        "page": "dongyangsa-textbook-page-289",
+        "quote": "㉢ 유교의 통치 이념화 : 국자감 부활, 과거제 정기적 시행(3년), 성리학 본격 수용"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "유교 교육 수용",
+        "max": 3,
+        "ok": "리 왕조는 문묘와 국자감을 세우고 과거를 실시하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-287",
+            "quote": "㉡ 유교 교육 : 문묘·국자감 건립, 과거제 실시(부정기적 실시)"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "유교 교육 수용"
+        ],
+        "acceptedConcepts": [
+          "리 왕조는 문묘와 국자감을 세우고 과거를 실시하였다."
+        ],
+        "rejectConditions": [
+          "리 왕조가 유교 교육을 전면 금지했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "문자의 현지화",
+        "max": 3,
+        "ok": "쯔놈은 한자를 베트남어 표기에 맞게 활용한 문자였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-289",
+            "quote": "㉡ 특징 : 한자를 베트남어 음에 맞게 고쳐 제정, 19세기까지 사용"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "문자의 현지화"
+        ],
+        "acceptedConcepts": [
+          "쯔놈은 한자를 베트남어 표기에 맞게 활용한 문자였다."
+        ],
+        "rejectConditions": [
+          "쯔놈을 프랑스어 알파벳의 단순 복사로 설명한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "후레의 제도화",
+        "max": 4,
+        "ok": "성종 때 국자감과 정기 과거, 성리학 수용으로 유교를 통치 이념화하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-289",
+            "quote": "㉢ 유교의 통치 이념화 : 국자감 부활, 과거제 정기적 시행(3년), 성리학 본격 수용"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "후레의 제도화"
+        ],
+        "acceptedConcepts": [
+          "성종 때 국자감과 정기 과거, 성리학 수용으로 유교를 통치 이념화하였다."
+        ],
+        "rejectConditions": [
+          "성종이 모든 시험과 국자감을 폐지했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "625247778cece7b2509024f71e9001492608a2812d15bb07f74c45240d1009b4"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-029",
+    "title": "베트남의 식민 침략과 개혁",
+    "prompt": "제1차 사이공 조약의 영토 양도, 판보이쩌우의 동유 운동, 도이머이의 경제 전환을 각각 설명하시오.",
+    "page": "dongyangsa-textbook-page-291",
+    "answer": "제1차 사이공 조약으로 베트남은 코친차이나 동부 3성을 할양하고 개항·선교 자유를 인정하였다. 판보이쩌우는 베트남 학생의 일본 유학을 추진해 독립 운동의 역량을 기르려 했다. 도이머이는 국유 중심에서 국유·협동조합·사유가 함께 있는 혼합 경제로 전환하였다.",
+    "explain": "비교·설명의 기준은 식민 침략, 동유 운동, 경제 전환이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-291",
+        "quote": "• 내용 : 다낭 등의 3개항 개항, 코친차이나 동부 3성 할양, 선교의 자유 인정"
+      },
+      {
+        "page": "dongyangsa-textbook-page-294",
+        "quote": "• 동유 운동 : 량치차오와의 만남 직후 베트남 학생들의 일본 유학 추진"
+      },
+      {
+        "page": "dongyangsa-textbook-page-296",
+        "quote": "㉡ 핵심적 전환 : 국유제 → 국유·협동 조합 소유·사유의 혼합 경제로 전환"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "식민 침략",
+        "max": 3,
+        "ok": "제1차 사이공 조약으로 베트남은 코친차이나 동부 3성을 할양하고 개항·선교 자유를 인정하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-291",
+            "quote": "• 내용 : 다낭 등의 3개항 개항, 코친차이나 동부 3성 할양, 선교의 자유 인정"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "식민 침략"
+        ],
+        "acceptedConcepts": [
+          "제1차 사이공 조약으로 베트남은 코친차이나 동부 3성을 할양하고 개항·선교 자유를 인정하였다."
+        ],
+        "rejectConditions": [
+          "프랑스가 베트남에 자국 본토를 양도했다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "동유 운동",
+        "max": 3,
+        "ok": "판보이쩌우는 베트남 학생의 일본 유학을 추진해 독립 운동의 역량을 기르려 했다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-294",
+            "quote": "• 동유 운동 : 량치차오와의 만남 직후 베트남 학생들의 일본 유학 추진"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "동유 운동"
+        ],
+        "acceptedConcepts": [
+          "판보이쩌우는 베트남 학생의 일본 유학을 추진해 독립 운동의 역량을 기르려 했다."
+        ],
+        "rejectConditions": [
+          "동유 운동을 일본의 베트남 식민지화에 찬성한 운동으로 쓴다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "경제 전환",
+        "max": 4,
+        "ok": "도이머이는 국유 중심에서 국유·협동조합·사유가 함께 있는 혼합 경제로 전환하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-296",
+            "quote": "㉡ 핵심적 전환 : 국유제 → 국유·협동 조합 소유·사유의 혼합 경제로 전환"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "경제 전환"
+        ],
+        "acceptedConcepts": [
+          "도이머이는 국유 중심에서 국유·협동조합·사유가 함께 있는 혼합 경제로 전환하였다."
+        ],
+        "rejectConditions": [
+          "모든 사유와 교역을 없애는 정책이라고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "fb5cca477c785c0f22710f1e13ecae275b352395549ca766ff97aa9ffa2dd2fc"
+    }
+  },
+  {
+    "id": "dongyangsa-ext-essay-030",
+    "title": "동남아시아의 근대화와 민족 운동",
+    "prompt": "타이가 독립을 유지한 외교 조건, 라마 5세의 교육 개혁, 인도네시아 카르티니의 활동을 설명하시오.",
+    "page": "dongyangsa-textbook-page-301",
+    "answer": "타이는 영국과 프랑스 사이의 완충 지대가 되어 독립을 유지하였다. 라마 5세는 공교육을 도입하고 유학생을 파견해 근대 문물을 수용하였다. 카르티니는 여성 교육에 헌신하여 인도네시아 여성의 교육 기회 확대에 영향을 주었다.",
+    "explain": "비교·설명의 기준은 외교 조건, 교육 개혁, 여성 교육이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-301",
+        "quote": "㉡ 결과 : 영국과 프랑스의 완충 지대(중립 보장) → 독립 유지"
+      },
+      {
+        "page": "dongyangsa-textbook-page-301",
+        "quote": "㉠ 내용 : 공교육 도입·유학생 파견 등을 통한 근대 문물 수용"
+      },
+      {
+        "page": "dongyangsa-textbook-page-301",
+        "quote": "① 카르티니 : 여성 교육 운동 헌신, 사후 『어둠에서 빛으로』 출판 → 카르티니 학교 설립"
+      }
+    ],
+    "rubric": [
+      {
+        "id": "r1",
+        "label": "외교 조건",
+        "max": 3,
+        "ok": "타이는 영국과 프랑스 사이의 완충 지대가 되어 독립을 유지하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-301",
+            "quote": "㉡ 결과 : 영국과 프랑스의 완충 지대(중립 보장) → 독립 유지"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "외교 조건"
+        ],
+        "acceptedConcepts": [
+          "타이는 영국과 프랑스 사이의 완충 지대가 되어 독립을 유지하였다."
+        ],
+        "rejectConditions": [
+          "열강의 대립이 존재하지 않았다고 한다."
+        ]
+      },
+      {
+        "id": "r2",
+        "label": "교육 개혁",
+        "max": 3,
+        "ok": "라마 5세는 공교육을 도입하고 유학생을 파견해 근대 문물을 수용하였다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-301",
+            "quote": "㉠ 내용 : 공교육 도입·유학생 파견 등을 통한 근대 문물 수용"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "checkpoints": [
+          "교육 개혁"
+        ],
+        "acceptedConcepts": [
+          "라마 5세는 공교육을 도입하고 유학생을 파견해 근대 문물을 수용하였다."
+        ],
+        "rejectConditions": [
+          "모든 근대 교육과 유학을 폐지했다고 한다."
+        ]
+      },
+      {
+        "id": "r3",
+        "label": "여성 교육",
+        "max": 4,
+        "ok": "카르티니는 여성 교육에 헌신하여 인도네시아 여성의 교육 기회 확대에 영향을 주었다.",
+        "evidence": [
+          {
+            "page": "dongyangsa-textbook-page-301",
+            "quote": "① 카르티니 : 여성 교육 운동 헌신, 사후 『어둠에서 빛으로』 출판 → 카르티니 학교 설립"
+          }
+        ],
+        "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다.",
+        "allowedScores": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "checkpoints": [
+          "여성 교육"
+        ],
+        "acceptedConcepts": [
+          "카르티니는 여성 교육에 헌신하여 인도네시아 여성의 교육 기회 확대에 영향을 주었다."
+        ],
+        "rejectConditions": [
+          "카르티니가 여성 교육을 일률적으로 금지하려 했다고 한다."
+        ]
+      }
+    ],
+    "rubricVersion": "history-expansion.1",
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "comparison",
+      "inputSha256": "aea527dea1262e5fd73e6d99b599864825388b33bbc898454bf389ad1ad0253d"
+    }
+  }
+]

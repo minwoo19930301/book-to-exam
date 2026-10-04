@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "scope": "박문각 및 이순권 공개자료 조사",
+  "accessedDate": "2026-10-03",
+  "summary": {
+    "attemptedSources": 6,
+    "primaryContentUsed": 3,
+    "historySpecificPrimaryContentUsed": 1,
+    "crossSubjectDesignReferences": 2,
+    "officialExamRubricsFound": 0
+  },
+  "sources": [
+    {
+      "id": "pmg-history-2021-analysis",
+      "title": "2021학년도 임용고시 전공역사 문항 분석 및 예시 답안",
+      "url": "https://att.pmg.co.kr/EtcData/board/2656/2021_total%20ans(1).pdf",
+      "publisher": "박문각 임용 / 김구 전공역사",
+      "author": "김구 전공역사팀(지면 로고 확인)",
+      "publishedDate": null,
+      "dateEvidence": "게시일 미확인. PDF 생성·수정 메타데이터는 2020-12-18; 게시일로 대체하지 않음.",
+      "accessedDate": "2026-10-03",
+      "sourceType": "academy-history-exam-analysis",
+      "officialExamRubric": false,
+      "accessStatus": "primary-pdf-read-and-visually-checked",
+      "reviewedScope": "전체 6쪽 텍스트 확인; 표 정렬·원문은 3·4·6쪽 렌더로 대조.",
+      "evidence": [
+        {
+          "locator": "p.3 A2/A4",
+          "finding": "유물명과 지석, 전쟁과 개별 전투를 구별한다.",
+          "principle": "요구한 대상·개념 수준을 보존한다."
+        },
+        {
+          "locator": "p.4 A10/A11",
+          "finding": "번역어와 사료의 시기 한계를 고려한 인정답을 검토한다.",
+          "principle": "동의 표현은 문항별 근거로 관리한다."
+        },
+        {
+          "locator": "p.6 B7/B11",
+          "finding": "교육과정지식의 개념과 포트폴리오의 성장·발전 과정이 평가 대상이다.",
+          "principle": "명칭 적중과 핵심 의미 충족을 분리한다."
+        }
+      ],
+      "caveats": [
+        "표의 ‘실제 채점’에도 예상·추정 표현이 반복된다. 학원 해석이며 평가원 확정 기준이 아니다.",
+        "소수점 부분점수·전 문항 공통 오답 규칙·합격 예측은 이 자료로 정하지 않는다."
+      ],
+      "implementationUse": "사전 작성한 criterion별로 대상·핵심 의미·허용 표현을 검토하는 학습용 채점 원칙만 참고.",
+      "prohibitedUse": "학원 예상 인정답을 실제 임용 정답으로 확정하거나 현재 모든 문항에 자동 이식하지 않는다.",
+      "directQuotes": []
+    },
+    {
+      "id": "pmg-choi-education-20251106",
+      "title": "교육학 모의고사 및 모범답안(2)",
+      "url": "https://att.pmg.co.kr/gosiplan/Files/202511/135944.pdf",
+      "publisher": "공시기획 / 박문각 임용 노량진학원",
+      "author": "최원휘",
+      "publishedDate": "2025-11-06",
+      "dateEvidence": "PDF 지면 상단 날짜, 제1359호 44면",
+      "accessedDate": "2026-10-03",
+      "sourceType": "academy-education-answer-writing",
+      "officialExamRubric": false,
+      "accessStatus": "primary-pdf-visually-read",
+      "reviewedScope": "PDF 1쪽 전체(신문 44면), 하단 강의 자료와 오른쪽 작성 TIP·안 좋은 답 예시.",
+      "evidence": [
+        {
+          "locator": "44면 작성 TIP ①",
+          "finding": "문제·지문 조건을 답안에 반영하도록 지도한다.",
+          "principle": "요구 개수·범위·관점·단계를 criterion에 명시한다."
+        },
+        {
+          "locator": "44면 작성 TIP ②·③",
+          "finding": "이유와 결과의 부연, 단답 개념의 짧은 설명을 권한다.",
+          "principle": "서술 요구에는 관계 설명을 평가한다."
+        },
+        {
+          "locator": "44면 작성 TIP ④·⑤",
+          "finding": "현장 적용 예와 구체 수단이 드러나야 한다.",
+          "principle": "적용 문항은 실행 가능한 사례 여부를 확인한다."
+        }
+      ],
+      "caveats": [
+        "교육학 답안작성 지도이며 역사 전용 기준이나 공식 배점표가 아니다."
+      ],
+      "implementationUse": "역사교육론의 설명·적용형 답안 피드백 보완.",
+      "prohibitedUse": "기입형 명칭만 요구한 문제에 설명 부족을 이유로 자동 감점하지 않는다.",
+      "directQuotes": []
+    },
+    {
+      "id": "pmg-jeong-art-20250619",
+      "title": "전공미술 실전동형 모의고사 및 정답·해설(4)",
+      "url": "https://att.pmg.co.kr/gosiplan/Files/202506/134146.pdf",
+      "publisher": "공시기획 / 박문각 임용 노량진학원",
+      "author": "정샘",
+      "publishedDate": "2025-06-19",
+      "dateEvidence": "PDF 지면 상단 날짜, 제1341호 46면",
+      "accessedDate": "2026-10-03",
+      "sourceType": "academy-other-subject-mock-rubric",
+      "officialExamRubric": false,
+      "accessStatus": "primary-pdf-visually-read",
+      "reviewedScope": "PDF 1쪽 전체(신문 46면), 07·08 문항 작성 방법과 조건별 배점표.",
+      "evidence": [
+        {
+          "locator": "46면 07·08 배점 기준표",
+          "finding": "용어·특징·이유·개념을 별도 조건과 점수로 나눈다.",
+          "principle": "총점만 주지 않고 요구 요소별 충족·미충족을 제시한다."
+        },
+        {
+          "locator": "46면 08 작성 방법·배점표",
+          "finding": "지문이 요구한 표기 방식도 특정 조건의 평가 대상이다.",
+          "principle": "표기 조건은 문제에서 명시한 경우만 적용한다."
+        }
+      ],
+      "caveats": [
+        "미술 모의고사의 학원 배점 사례다. 역사 임용 부분점수의 실증 근거가 아니다."
+      ],
+      "implementationUse": "학습용 rubric을 조건별로 분해하는 설계 참고.",
+      "prohibitedUse": "여기의 0.5점 단위·영문 약자 규칙·명칭 오류 0점을 역사 전체의 규칙으로 이식하지 않는다.",
+      "directQuotes": []
+    },
+    {
+      "id": "pmg-kimgoo-history-2025-correction-video",
+      "title": "역사임용고시 김구팀 | 2025학년도 기출문제 해설 2강 (구영모 선생님 한국사,동양사) 수정",
+      "url": "https://www.youtube.com/watch?v=OjquW4m8E9A",
+      "publisher": "박문각임용 공식 유튜브",
+      "author": "구영모",
+      "publishedDate": "2024-12-19",
+      "dateEvidence": "YouTube 공개 페이지 metadata의 publishDate·channel·description 확인",
+      "accessedDate": "2026-10-03",
+      "sourceType": "academy-history-exam-video",
+      "officialExamRubric": false,
+      "accessStatus": "metadata-only-primary-transcript-unavailable",
+      "reviewedScope": "공식 채널·제목·게시일·설명 확인. 공개 한국어 자동자막 endpoint는 HTTP200 빈 본문. 공식 링크의 자료 페이지는 HTTP400.",
+      "evidence": [],
+      "candidateSecondaryTranscript": "https://lilys.ai/ko/notes/537973",
+      "caveats": [
+        "제3자 전사의 관련 대목을 탐색했으나 오인식이 존재하고 원본 음성·자막 대조에 실패했다."
+      ],
+      "implementationUse": "재검증 대기 목록만 유지. 채점 정책 근거로 채택하지 않음.",
+      "prohibitedUse": "제3자 전사만 보고 특정 답안의 인정·불인정을 확정하지 않는다.",
+      "directQuotes": []
+    },
+    {
+      "id": "ssam-lee-history-2026-lecture",
+      "title": "2026학년도 기출해설 특강",
+      "url": "https://www.ssamplus.com/course/pages/lecture_detail_single.asp?sch_tabs=on-lec&sch_divcd=&sch_profseq=20&sch_lecture=23555",
+      "publisher": "KG에듀원 희소/쌤플러스",
+      "author": "이순권",
+      "publishedDate": null,
+      "dateEvidence": "공개 페이지 제작년월 2025년11월; 강의목록 11/26. 게시일 미확인.",
+      "accessedDate": "2026-10-03",
+      "sourceType": "academy-course-listing",
+      "officialExamRubric": false,
+      "accessStatus": "listing-only",
+      "reviewedScope": "0원 강좌·7일 승인 수강·A/B 해설 목록만 확인. 수강 신청·로그인·강의 시청 안 함.",
+      "evidence": [],
+      "caveats": [
+        "현재 이 자료 제공 기관은 박문각이 아니라 KG에듀원이다."
+      ],
+      "implementationUse": "공개 해설 후보 목록.",
+      "prohibitedUse": "소개문구·무료 가격만으로 강의의 채점 원칙을 추정하지 않는다.",
+      "directQuotes": []
+    },
+    {
+      "id": "pmg-history-2019-comparison",
+      "title": "김태규·구영모팀 전공역사 2019학년도 출제 문항 대비 비교표",
+      "url": "https://att.pmg.co.kr/EtcData/board/4488/181126_%EA%B9%80%ED%83%9C%EA%B7%9C%EA%B5%AC%EC%98%81%EB%AA%A8%ED%8C%80_%EC%A0%84%EA%B3%B5%EC%97%AD%EC%82%AC_2019%ED%95%99%EB%85%84%EB%8F%84_%EC%B6%9C%EC%A0%9C_%EB%AC%B8%ED%95%AD_%EB%8C%80%EB%B9%84_%EB%B9%84%EA%B5%90%ED%91%9C.pdf",
+      "publisher": "박문각 임용",
+      "author": "김태규·구영모팀",
+      "publishedDate": null,
+      "dateEvidence": "파일명 날짜형식 181126은 확인되나 게시일 근거로 확정하지 않음.",
+      "accessedDate": "2026-10-03",
+      "sourceType": "academy-exam-topic-comparison",
+      "officialExamRubric": false,
+      "accessStatus": "primary-pdf-text-read",
+      "reviewedScope": "3쪽의 출제영역·내용·배점·학원 강좌 대응표.",
+      "evidence": [],
+      "caveats": [
+        "‘역사 글쓰기 채점 기준’은 출제 주제명이다. 실제 채점표의 공개로 해석할 수 없다."
+      ],
+      "implementationUse": "채점 정책에 사용하지 않음.",
+      "prohibitedUse": "적중·주제 표로 부분점수나 정답 인정 범위를 만들어내지 않는다.",
+      "directQuotes": []
+    }
+  ]
+}

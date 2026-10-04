@@ -1,0 +1,774 @@
+{
+  "reviewed": [
+    {
+      "id": "kice-exam-spread-3-figure-1",
+      "decision": "include",
+      "reason": "인물 초상의 독립된 정방형 그림으로 얼굴·상반신이 온전히 표시됩니다.",
+      "kind": "image",
+      "sourceSha256": "006f4988c248ff747a3e2ea27845c0d796c6ecacaf3f7ceeb9ce5f64cacd767b"
+    },
+    {
+      "id": "kice-exam-spread-3-figure-2",
+      "decision": "include",
+      "reason": "인물 초상의 독립된 정방형 그림으로 얼굴·상반신이 온전히 표시됩니다.",
+      "kind": "image",
+      "sourceSha256": "46a2f09254c839739bc7f3b49774a52e253278e63c9a683b1fcc04d109d567b5"
+    },
+    {
+      "id": "kice-exam-spread-3-figure-3",
+      "decision": "include",
+      "reason": "인물 초상의 독립된 정방형 그림으로 얼굴·상반신이 온전히 표시됩니다.",
+      "kind": "image",
+      "sourceSha256": "9aa9424563306fc48d589c613499c2781d842848d41213a2ab28493cfa0c00cb"
+    },
+    {
+      "id": "kice-exam-spread-5-figure-1",
+      "decision": "exclude",
+      "reason": "단원 구성 표가 위·아래 두 이미지로 분할되어 경계의 행이 잘렸습니다.",
+      "kind": "table",
+      "sourceSha256": "d38dacc289e784b5912c32460c101a45ca9d6e81925a63c32dde94acbb6552ac"
+    },
+    {
+      "id": "kice-exam-spread-5-figure-2",
+      "decision": "exclude",
+      "reason": "단원 구성 표가 위·아래 두 이미지로 분할되어 경계의 행이 잘렸습니다.",
+      "kind": "table",
+      "sourceSha256": "b2ff5ff4c46cd628f3827a6771c09d565660bc1dffe5d681f3edafdbb8dfde82"
+    },
+    {
+      "id": "kice-exam-spread-7-figure-1",
+      "decision": "exclude",
+      "reason": "평가 기준 표의 일부 행만 분리된 조각으로 다른 행이나 셀 내용이 잘렸습니다.",
+      "kind": "table",
+      "sourceSha256": "61e0c46a427da4fcd71e7294bb39101ebf873ae8a9639e79962beaa77250a403"
+    },
+    {
+      "id": "kice-exam-spread-7-figure-2",
+      "decision": "exclude",
+      "reason": "평가 기준 표의 일부 행만 분리된 조각으로 다른 행이나 셀 내용이 잘렸습니다.",
+      "kind": "table",
+      "sourceSha256": "e8165d45ba92fa72a1b3dcd3e4fcb4041ddb9e524a76a423d66def7e91844424"
+    },
+    {
+      "id": "kice-exam-spread-7-figure-3",
+      "decision": "exclude",
+      "reason": "평가 기준 표의 일부 행만 분리된 조각으로 다른 행이나 셀 내용이 잘렸습니다.",
+      "kind": "table",
+      "sourceSha256": "0fd67cfd2b6aa50ec98fc2ec9cddcc4838b4a4b04b9b0c9103a6e59505fca417"
+    },
+    {
+      "id": "kice-exam-spread-7-figure-4",
+      "decision": "exclude",
+      "reason": "평가 기준 표의 일부 행만 분리된 조각으로 다른 행이나 셀 내용이 잘렸습니다.",
+      "kind": "table",
+      "sourceSha256": "6aeb5a880804eb22aab2be5dc3916dc9a59d45f0f6224923046b63914d7dc7d7"
+    },
+    {
+      "id": "kice-exam-spread-13-figure-1",
+      "decision": "include",
+      "reason": "성취기준·학습단원·학습요소의 행과 외곽선이 완전한 문항 자료 표입니다.",
+      "kind": "table",
+      "sourceSha256": "081658358233a5cdf63ec56dd648c2a6f30ccffcd30acade56e5f99e12c1b111"
+    },
+    {
+      "id": "kice-exam-spread-25-figure-1",
+      "decision": "exclude",
+      "reason": "TV 뉴스 그림의 상단·중단·하단 띠 중 하나여서 인물 또는 화면이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "f300b4113748b8e7f7e9ac6af2ba71701bcd45d5d2a928c01e6d3194c42857f7"
+    },
+    {
+      "id": "kice-exam-spread-25-figure-2",
+      "decision": "exclude",
+      "reason": "TV 뉴스 그림의 상단·중단·하단 띠 중 하나여서 인물 또는 화면이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "817e7c90157834851059697d83f50dae3d165e039ead067b2bd3a970eaf46928"
+    },
+    {
+      "id": "kice-exam-spread-25-figure-3",
+      "decision": "exclude",
+      "reason": "TV 뉴스 그림의 상단·중단·하단 띠 중 하나여서 인물 또는 화면이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "67913d30a582f61c8775908f6f5b98fab5431d2a7445281e241ce60747e88ca2"
+    },
+    {
+      "id": "kice-exam-spread-31-figure-1",
+      "decision": "include",
+      "reason": "인물과 말풍선 문장이 잘리지 않은 독립된 대화 자료입니다.",
+      "kind": "image",
+      "sourceSha256": "bc34c7d9b6638cd2e13e289a28c6b0858b16a056be037ad3868982be1a171c34"
+    },
+    {
+      "id": "kice-exam-spread-31-figure-2",
+      "decision": "include",
+      "reason": "인물과 말풍선 문장이 잘리지 않은 독립된 대화 자료입니다.",
+      "kind": "image",
+      "sourceSha256": "7d2745e613a47cee7af7452489316d187ca06a27db0981411cbf42a0b4fa051c"
+    },
+    {
+      "id": "kice-exam-spread-31-figure-3",
+      "decision": "include",
+      "reason": "인물과 말풍선 문장이 잘리지 않은 독립된 대화 자료입니다.",
+      "kind": "image",
+      "sourceSha256": "80fcb7d3596a0fdb82b29ef252bf6964562662eee895e0002e2d9bae9d8d1f52"
+    },
+    {
+      "id": "kice-exam-spread-31-figure-4",
+      "decision": "include",
+      "reason": "인물과 말풍선 문장이 잘리지 않은 독립된 대화 자료입니다.",
+      "kind": "image",
+      "sourceSha256": "0bfee6e58091a4ae8a2ab0b388f226f5c0bc1c41150b0888bbae7b5eb5b6997d"
+    },
+    {
+      "id": "kice-exam-spread-31-figure-5",
+      "decision": "include",
+      "reason": "인물과 말풍선 문장이 잘리지 않은 독립된 대화 자료입니다.",
+      "kind": "image",
+      "sourceSha256": "f502e6f0faccf052e5f231b9bdc3ed3268c7f06e3e22c15ab467cf9aeed2f61f"
+    },
+    {
+      "id": "kice-exam-spread-35-figure-1",
+      "decision": "exclude",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다.",
+      "kind": "photo",
+      "sourceSha256": "2f75ca318d45d4efc0d22386ca641b066cf27e024b230cf8ca15986d1658f241"
+    },
+    {
+      "id": "kice-exam-spread-35-figure-2",
+      "decision": "exclude",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다.",
+      "kind": "photo",
+      "sourceSha256": "e3e58933fc82e65d6596e5e62dcb2828595b80213ee32523b54760cc219ddd52"
+    },
+    {
+      "id": "kice-exam-spread-35-figure-3",
+      "decision": "exclude",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다.",
+      "kind": "photo",
+      "sourceSha256": "9aac88b51099c69b3d85c73e6b5cffe1dd818930aa53ff9ae38ecfdad51238a3"
+    },
+    {
+      "id": "kice-exam-spread-35-figure-4",
+      "decision": "exclude",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다.",
+      "kind": "photo",
+      "sourceSha256": "6965e58998075180e87e8d2c1f567d9a07faaeb5ff86075effe37fd27a5f647d"
+    },
+    {
+      "id": "kice-exam-spread-35-figure-5",
+      "decision": "exclude",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다.",
+      "kind": "photo",
+      "sourceSha256": "de2ce5e15d6e49a0de9898355f9d3f593daf8d576d4c612d6e9990b0be650fa9"
+    },
+    {
+      "id": "kice-exam-spread-35-figure-6",
+      "decision": "exclude",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다.",
+      "kind": "photo",
+      "sourceSha256": "eaf99b3388fed80e62d4087d1641a8d7604d8eea78f22e9ebe4084e1f3ce72c5"
+    },
+    {
+      "id": "kice-exam-spread-35-figure-7",
+      "decision": "exclude",
+      "reason": "비석·제단 사진이 가로 띠로 분할되어 대상의 상단 또는 하단이 누락되었습니다.",
+      "kind": "photo",
+      "sourceSha256": "6ea6b7046e40123588fd2c94f310054df933b6386a89081809beb445d6fd240b"
+    },
+    {
+      "id": "kice-exam-spread-37-figure-1",
+      "decision": "exclude",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다.",
+      "kind": "image",
+      "sourceSha256": "fc1797efefc9dc33507a5ad2bafd1b6f72e426629544e0a6b197950b57497bfa"
+    },
+    {
+      "id": "kice-exam-spread-37-figure-2",
+      "decision": "exclude",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다.",
+      "kind": "image",
+      "sourceSha256": "17a5c2d660a64eeee6486df8365d6862ece7b7dc3f2d1105e26b787f3708b2b8"
+    },
+    {
+      "id": "kice-exam-spread-37-figure-3",
+      "decision": "exclude",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다.",
+      "kind": "image",
+      "sourceSha256": "1d88641955cb9c7b1a7d124acbd7f1bc78645d183e51fe263139ea73df1b21d5"
+    },
+    {
+      "id": "kice-exam-spread-37-figure-4",
+      "decision": "exclude",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다.",
+      "kind": "image",
+      "sourceSha256": "ece0842c8ac82b7fe309c29007bbb38fb2c3102ed5d29fce7b4d381f42f48abe"
+    },
+    {
+      "id": "kice-exam-spread-37-figure-5",
+      "decision": "exclude",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다.",
+      "kind": "image",
+      "sourceSha256": "a929f7026b6b709dd50a0129dfe663316d3b8133c83487ad08943896fc958cd7"
+    },
+    {
+      "id": "kice-exam-spread-37-figure-6",
+      "decision": "exclude",
+      "reason": "병사 또는 선박 삽화가 가로 띠로 분할되어 인물·배의 일부만 보입니다.",
+      "kind": "image",
+      "sourceSha256": "5176369b345c02ee6f10d6473dab46d0b4ef6c06c3903de40e692120131449fd"
+    },
+    {
+      "id": "kice-exam-spread-39-figure-1",
+      "decision": "exclude",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "b90f810577f824b23ee2c6254851d66c25d57ad1f897b6b748a9fc0d3ab5bd54"
+    },
+    {
+      "id": "kice-exam-spread-39-figure-2",
+      "decision": "exclude",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "c62508a5b1701d54704cfbcce53a479deac0f03f56cd2312c55de03b014b5103"
+    },
+    {
+      "id": "kice-exam-spread-39-figure-3",
+      "decision": "exclude",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "31305abb024a22a69f2a84d329a14a212f20225d0fdf9e587778d143dda381c8"
+    },
+    {
+      "id": "kice-exam-spread-39-figure-4",
+      "decision": "exclude",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "81f8ce8cd9eed815fc27d133314628f82c501adc40481833ba97d85458a215f2"
+    },
+    {
+      "id": "kice-exam-spread-39-figure-5",
+      "decision": "exclude",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "e9ff5c57584720604b6c824e5bed8290ed81ea52d38c3bbf191463199c014e02"
+    },
+    {
+      "id": "kice-exam-spread-39-figure-6",
+      "decision": "exclude",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "1cfa573632c7bf5b5613729a38dbad04cb6b180530a1ae58216ed282c07bef3d"
+    },
+    {
+      "id": "kice-exam-spread-39-figure-7",
+      "decision": "exclude",
+      "reason": "판화의 가로 띠 조각으로 인물과 장면의 위·아래 부분이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "2f1e792cb94ad31ffce9665b88b0331859bde6a8d95197ff27df7c24775a8ea1"
+    },
+    {
+      "id": "kice-exam-spread-52-figure-1",
+      "decision": "exclude",
+      "reason": "브리튼 제도 지도의 상·중·하단 중 일부만 있어 지도와 범례가 완전하지 않습니다.",
+      "kind": "map",
+      "sourceSha256": "8b14414cddb31e2b4fbe474562d7fcfc3e30a69c16ea7a36d36f3c71f372098d"
+    },
+    {
+      "id": "kice-exam-spread-52-figure-2",
+      "decision": "exclude",
+      "reason": "브리튼 제도 지도의 상·중·하단 중 일부만 있어 지도와 범례가 완전하지 않습니다.",
+      "kind": "map",
+      "sourceSha256": "77d7537706ed4d999b5d3b7f050b661c9fc755e20ad4f0620662a40ee0c1c9e1"
+    },
+    {
+      "id": "kice-exam-spread-52-figure-3",
+      "decision": "exclude",
+      "reason": "브리튼 제도 지도의 상·중·하단 중 일부만 있어 지도와 범례가 완전하지 않습니다.",
+      "kind": "map",
+      "sourceSha256": "0826e1feb62278c07561d9599c208c7ef9d1ee628a10abae8097dfae781b9cd7"
+    },
+    {
+      "id": "kice-exam-spread-54-figure-1",
+      "decision": "include",
+      "reason": "군함 장면을 담은 독립된 완전한 삽화입니다.",
+      "kind": "image",
+      "sourceSha256": "af1dd8ec161d5c8486f257983613a06e44087eea2538d0b130202d76af02e721"
+    },
+    {
+      "id": "kice-exam-spread-61-figure-1",
+      "decision": "include",
+      "reason": "공명첩 문서의 외곽과 표제가 모두 보이는 자료 사진입니다.",
+      "kind": "photo",
+      "sourceSha256": "94b570b20b05558c4f2e957430853c12a82ea0c0e39f4bb364194682d948a057"
+    },
+    {
+      "id": "kice-exam-spread-61-figure-2",
+      "decision": "include",
+      "reason": "공명첩과 관직명·이름란의 설명선이 완전한 주석 도해입니다.",
+      "kind": "diagram",
+      "sourceSha256": "96f51706a9a579d0cad512a2a8723b234a9500f6289c0917b7760b0b2b371a1b"
+    },
+    {
+      "id": "kice-exam-spread-64-figure-1",
+      "decision": "exclude",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "3a33f9a915584831ef34f2caf258c8d969790db523ffea08f49e5d71020b291e"
+    },
+    {
+      "id": "kice-exam-spread-64-figure-2",
+      "decision": "exclude",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "5b7b780906679db47167f3e43a7e259d876ed8fa7f476f8552fbae3910db070b"
+    },
+    {
+      "id": "kice-exam-spread-64-figure-3",
+      "decision": "exclude",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "f4d6a419f087442a185218a781e671101e8e22bbf48cf6dca6d09cd45788e3c8"
+    },
+    {
+      "id": "kice-exam-spread-64-figure-4",
+      "decision": "exclude",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "44acb6a34b2181240f7e7db70a65de11753ef28d715030c568b9cace261657a2"
+    },
+    {
+      "id": "kice-exam-spread-64-figure-5",
+      "decision": "exclude",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "9768578bc5a4a5db0c405cbbdd1dfcdf9ecbd9f88c3a484928cf628c67c1fd0d"
+    },
+    {
+      "id": "kice-exam-spread-64-figure-6",
+      "decision": "exclude",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "afca8840fae01d567d4d0615cf510413ce429c02c1b2efc0753bed5faef5ef45"
+    },
+    {
+      "id": "kice-exam-spread-64-figure-7",
+      "decision": "exclude",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "04189892282111655aae275cd9cee444819b8e4f023f2a57100b706b22f57635"
+    },
+    {
+      "id": "kice-exam-spread-64-figure-8",
+      "decision": "exclude",
+      "reason": "주석이 있는 교육과정 문서를 가로로 자른 띠로 문장·상자·설명선이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "a95feedfd69451d877cc2a3826e120b72eed86ea0a0f2f1f592b083a5f82feac"
+    },
+    {
+      "id": "kice-exam-spread-67-figure-1",
+      "decision": "exclude",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "598e39d096f9c7e94102dcc4d2dec73ba431b429a6e50bd34062d78d3ffb642c"
+    },
+    {
+      "id": "kice-exam-spread-67-figure-2",
+      "decision": "exclude",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "0ce2b4fef8a593a5d4e8d692f3593bb16d876c4dcbda8ac9a1154d0b011d8148"
+    },
+    {
+      "id": "kice-exam-spread-67-figure-3",
+      "decision": "exclude",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "eee3f9aa6137ddac38930f410c9b027349198c7ffe7f110996bdf8abb92a3806"
+    },
+    {
+      "id": "kice-exam-spread-67-figure-4",
+      "decision": "exclude",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "9f300cafc29a989824b53df1af406f3f65a4940e0276d35cbe6636a3224bd38f"
+    },
+    {
+      "id": "kice-exam-spread-67-figure-5",
+      "decision": "exclude",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "c5747013c2b610e1845ba6d76cb22f0157d3ee065ef07943844980124f1cf014"
+    },
+    {
+      "id": "kice-exam-spread-67-figure-6",
+      "decision": "exclude",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "a24846f4b51aa3dfbd799ad5d128ce98256461a0edf5e962bd5cce85b3203a16"
+    },
+    {
+      "id": "kice-exam-spread-67-figure-7",
+      "decision": "exclude",
+      "reason": "대화 자료의 말풍선과 인물이 가로로 분할되어 문장이 중간에서 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "094199b557d373ef9e62aaced6fe4ca718b4b9d6e789ed619599a8ffaac98948"
+    },
+    {
+      "id": "kice-exam-spread-68-figure-1",
+      "decision": "exclude",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다.",
+      "kind": "map",
+      "sourceSha256": "4cdefcf6b9a3bb02d110da4ded78b6e830d38cc2ef1dc081733bee919646e679"
+    },
+    {
+      "id": "kice-exam-spread-68-figure-2",
+      "decision": "exclude",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다.",
+      "kind": "map",
+      "sourceSha256": "7ecf03ea1be5f18cb6ab5d90e040b92a49aced188103d4c4c4534529e0fb8764"
+    },
+    {
+      "id": "kice-exam-spread-68-figure-3",
+      "decision": "exclude",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다.",
+      "kind": "map",
+      "sourceSha256": "17c16b3b97ea11dae40c4a55854bae87b9a559bf9e8bc6692362ad079cf153b9"
+    },
+    {
+      "id": "kice-exam-spread-68-figure-4",
+      "decision": "exclude",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다.",
+      "kind": "map",
+      "sourceSha256": "a63db3217515213c872d7acfe60840b270c9a5fb3244667d6d39c47a83154a26"
+    },
+    {
+      "id": "kice-exam-spread-68-figure-5",
+      "decision": "exclude",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다.",
+      "kind": "map",
+      "sourceSha256": "2363c47408c4ef01a72a66c7ed76fd070522c85adf143baf4a5b980eb47311d8"
+    },
+    {
+      "id": "kice-exam-spread-68-figure-6",
+      "decision": "exclude",
+      "reason": "유럽 지도의 일부 가로 띠만 있어 지형·국경·범례가 분리되었습니다.",
+      "kind": "map",
+      "sourceSha256": "286d499a94a91afd46a8f00795c30eb13d27653b969de1032e917ea7ae26bde9"
+    },
+    {
+      "id": "kice-exam-spread-78-figure-1",
+      "decision": "exclude",
+      "reason": "조계 지도가 위·아래로 분할되어 지리적 범위와 범례가 따로 잘렸습니다.",
+      "kind": "map",
+      "sourceSha256": "c28046f1dcbe7b029b9b8fca499f90b1c46f7694d1c03d612575b7c2faa66623"
+    },
+    {
+      "id": "kice-exam-spread-78-figure-2",
+      "decision": "exclude",
+      "reason": "조계 지도가 위·아래로 분할되어 지리적 범위와 범례가 따로 잘렸습니다.",
+      "kind": "map",
+      "sourceSha256": "49eb2d7714422768f21ce278c9781dfcf210ea9396549c1c82d2456659e5c28c"
+    },
+    {
+      "id": "kice-exam-spread-79-figure-1",
+      "decision": "include",
+      "reason": "탄광에서 수레를 끄는 인물과 작업 장면이 완전한 삽화입니다.",
+      "kind": "image",
+      "sourceSha256": "bdd8391b308c8133903c26f79bcb63b5770c15e1036e982acdbbded8531d4ef6"
+    },
+    {
+      "id": "kice-exam-spread-79-figure-2",
+      "decision": "include",
+      "reason": "방직공장의 어린이와 기계가 보이는 독립된 자료 사진입니다.",
+      "kind": "photo",
+      "sourceSha256": "c22d23a8f7469ce1c71e44f0bf621ca0ef954a76a156d74de6b5ede628541bc6"
+    },
+    {
+      "id": "kice-exam-spread-82-figure-1",
+      "decision": "include",
+      "reason": "벽화 파편 자체의 외곽이 완전히 보입니다. 유물의 파손 형태이지 추출 과정의 이미지 띠가 아닙니다.",
+      "kind": "photo",
+      "sourceSha256": "0530a9998153d1cbe8ebf1a723da29d5e6e7a2309ff4a5000a112873857c9eb1"
+    },
+    {
+      "id": "kice-exam-spread-85-figure-1",
+      "decision": "exclude",
+      "reason": "이베리아반도 지도의 삽입 지도 또는 하단 표제가 잘린 분할 이미지입니다.",
+      "kind": "map",
+      "sourceSha256": "d28a90fa726e326b14d9496da7989b6c4318abe8ea1de1550a9fada01096ad2d"
+    },
+    {
+      "id": "kice-exam-spread-85-figure-2",
+      "decision": "exclude",
+      "reason": "이베리아반도 지도의 삽입 지도 또는 하단 표제가 잘린 분할 이미지입니다.",
+      "kind": "map",
+      "sourceSha256": "35eebb63c2491ab4bb9dfb8814b37c12cb7ce43ec1132aa35f8fec4e0c107bf1"
+    },
+    {
+      "id": "kice-exam-spread-86-figure-1",
+      "decision": "exclude",
+      "reason": "대화 자료가 두 조각으로 나뉘어 경계 말풍선과 인물이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "36b3a92d99428f9a398d8c3e458e61dfa101c2b6914f7988cb414374370cff96"
+    },
+    {
+      "id": "kice-exam-spread-86-figure-2",
+      "decision": "exclude",
+      "reason": "대화 자료가 두 조각으로 나뉘어 경계 말풍선과 인물이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "ca350ea26db3cfd53e6c53389bede6b9b97c080c1cc784baf347bf19f128986a"
+    },
+    {
+      "id": "kice-exam-spread-90-figure-1",
+      "decision": "include",
+      "reason": "직조 작업 장면의 회화가 독립된 직사각형 이미지로 완전하게 보입니다.",
+      "kind": "image",
+      "sourceSha256": "dc1040a46c6202be073d226638374e1f96833fc2853b2f86971eb98e7d933b88"
+    },
+    {
+      "id": "kice-exam-spread-90-figure-2",
+      "decision": "include",
+      "reason": "말 탄 인물과 농민들의 장면이 온전히 보이는 회화 자료입니다.",
+      "kind": "image",
+      "sourceSha256": "8a7ce20fe1324707c1ea8b242023391e4732a5d94e491401472c1a958497200e"
+    },
+    {
+      "id": "kice-exam-spread-99-figure-1",
+      "decision": "exclude",
+      "reason": "지도 하단의 지명·해안선 일부만 남은 가로 띠입니다.",
+      "kind": "map",
+      "sourceSha256": "8103d7be34c8a78dcce77afcf9f70957c552d86ca7c94ae7cda20f9da31f36b9"
+    },
+    {
+      "id": "kice-exam-spread-101-figure-1",
+      "decision": "exclude",
+      "reason": "목차가 적힌 책 그림이 두 조각으로 분할되어 문장과 책 외곽이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "ed691b1af55112a10a4d97715896612346e97464607e0faf6324268f314ec2b5"
+    },
+    {
+      "id": "kice-exam-spread-101-figure-2",
+      "decision": "exclude",
+      "reason": "목차가 적힌 책 그림이 두 조각으로 분할되어 문장과 책 외곽이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "18ce7f8d436b850452ecfa13f057cadaebef7e90f06849d39e38c0ca11689178"
+    },
+    {
+      "id": "kice-exam-spread-103-figure-1",
+      "decision": "include",
+      "reason": "교사·말풍선·나치 정책 표를 포함한 수업 장면 자료가 완전합니다.",
+      "kind": "image",
+      "sourceSha256": "ce6fc8d56f8cf6efd1e21965b05b807107e435eeda2c41fc965c6697d704cd55"
+    },
+    {
+      "id": "kice-exam-spread-106-figure-1",
+      "decision": "exclude",
+      "reason": "학년별 시수 표가 두 조각으로 나뉘어 행 내용이 잘렸습니다.",
+      "kind": "table",
+      "sourceSha256": "21fbf018f7e6b45acddda309cfdc044caf8c90035a13c098083eade22fcdbf61"
+    },
+    {
+      "id": "kice-exam-spread-106-figure-2",
+      "decision": "exclude",
+      "reason": "학년별 시수 표가 두 조각으로 나뉘어 행 내용이 잘렸습니다.",
+      "kind": "table",
+      "sourceSha256": "74b2aa810b7e7478c983875529e807a56548a095d5fcba841bb107f1df9d6442"
+    },
+    {
+      "id": "kice-exam-spread-107-figure-1",
+      "decision": "include",
+      "reason": "교사·말풍선·굴하네 칙령 내용의 칠판이 완전한 수업 장면 자료입니다.",
+      "kind": "image",
+      "sourceSha256": "25b427fddbf443f439c0ae34fdbac7f7b9b1eb74b97ea61b3be09f5b8f8f5d8a"
+    },
+    {
+      "id": "kice-exam-spread-108-figure-1",
+      "decision": "exclude",
+      "reason": "백년전쟁 초기 지도에서 하단 해안선과 표제만 남은 띠입니다.",
+      "kind": "map",
+      "sourceSha256": "14f373c676f3ce662e00a2bae13b1de7a747cd6eaf037ab755dda7be89675951"
+    },
+    {
+      "id": "kice-exam-spread-110-figure-1",
+      "decision": "exclude",
+      "reason": "남아메리카 지도에서 남단과 범례 일부만 남은 띠입니다.",
+      "kind": "map",
+      "sourceSha256": "90dbfe81d4f35587927401bbe1387ce51e65de83c31119251247842f1cb036b7"
+    },
+    {
+      "id": "kice-exam-spread-113-figure-1",
+      "decision": "exclude",
+      "reason": "문항 자료의 문서·연표가 두 조각으로 분할되어 아래쪽 행과 외곽이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "8e3c9cf3fb3af2765b8e6370c2682e0d9304437f98162362c4b0e84a74546046"
+    },
+    {
+      "id": "kice-exam-spread-113-figure-2",
+      "decision": "exclude",
+      "reason": "문항 자료의 문서·연표가 두 조각으로 분할되어 아래쪽 행과 외곽이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "038e3518a1aa6d72a203e28058b95fdee3a8b29306c98afc642044f32b85c6c1"
+    },
+    {
+      "id": "kice-exam-spread-116-figure-1",
+      "decision": "exclude",
+      "reason": "교사와 두루마리 문서가 두 조각으로 분할되어 본문과 인물 하단이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "9ef4e3e061909712276ab3056abcfac8c696b633c23159ab55c1011286a33013"
+    },
+    {
+      "id": "kice-exam-spread-116-figure-2",
+      "decision": "exclude",
+      "reason": "교사와 두루마리 문서가 두 조각으로 분할되어 본문과 인물 하단이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "397c0425a9831d185eef30532e4846832ad354ee21d243abc56927e91cd5aac4"
+    },
+    {
+      "id": "kice-exam-spread-116-figure-3",
+      "decision": "include",
+      "reason": "아프리카 지도, 범례, 연도 표기가 외곽선 안에 온전히 표시됩니다.",
+      "kind": "map",
+      "sourceSha256": "12f5a6e7461bde0f8aad84bda2af20dbf65376a0fbbfd70b486043eba47de3d4"
+    },
+    {
+      "id": "kice-exam-spread-116-figure-4",
+      "decision": "exclude",
+      "reason": "교사들의 대화 자료가 두 조각으로 분할되어 마지막 말풍선과 인물이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "2c32024e6ed5cc05d8947ce054054f7006a0b831553a788a782e5543076af475"
+    },
+    {
+      "id": "kice-exam-spread-116-figure-5",
+      "decision": "exclude",
+      "reason": "교사들의 대화 자료가 두 조각으로 분할되어 마지막 말풍선과 인물이 잘렸습니다.",
+      "kind": "image",
+      "sourceSha256": "5b53f3420ef34348cdcd473eb457840d864459f7fbaeb3f05859dc43cd0d81e8"
+    },
+    {
+      "id": "kice-exam-spread-119-figure-1",
+      "decision": "include",
+      "reason": "표제와 채점 기준이 완전한 표입니다. 하단 물결선은 원자료의 의도적 생략 표시로 확인됩니다.",
+      "kind": "table",
+      "sourceSha256": "8a41b654183c695367ebecf681455f77915cec559c362db49ee0a19481e7075a"
+    },
+    {
+      "id": "kice-exam-spread-119-figure-2",
+      "decision": "include",
+      "reason": "대단원 마무리 과제의 점수별 채점 기준과 외곽선이 완전합니다.",
+      "kind": "table",
+      "sourceSha256": "faaa055d94753e7a1f37ca09ed9ba7c5febdccfe3a4c5485c68a258f21b8ac3a"
+    },
+    {
+      "id": "kice-exam-spread-120-figure-1",
+      "decision": "exclude",
+      "reason": "원정로 지도가 두 조각으로 분할되어 남쪽 해안선·경로·범례가 분리되었습니다.",
+      "kind": "map",
+      "sourceSha256": "8126a7cc29b9b311c307e5bef01ba867667c40cced55880086d60bbf2457ac7f"
+    },
+    {
+      "id": "kice-exam-spread-120-figure-2",
+      "decision": "exclude",
+      "reason": "원정로 지도가 두 조각으로 분할되어 남쪽 해안선·경로·범례가 분리되었습니다.",
+      "kind": "map",
+      "sourceSha256": "33cc0507d407ab84d4ed7075bc321169a97027d9b669605207eff560be21c296"
+    },
+    {
+      "id": "kice-exam-spread-120-figure-3",
+      "decision": "include",
+      "reason": "유럽 공동체·유럽 연합의 시기와 관계를 나타낸 도표가 완전합니다.",
+      "kind": "diagram",
+      "sourceSha256": "b8b65f16082c449b0d26181599da546b5eb61ac513ce138b009f59f8096a804c"
+    },
+    {
+      "id": "kice-exam-spread-127-figure-1",
+      "decision": "include",
+      "reason": "두 인물과 양쪽 말풍선이 외곽선 안에 온전히 표시된 문항 자료입니다.",
+      "kind": "image",
+      "sourceSha256": "608d979b4ed8df05a5c0bcbe5499f30ae3d4782a604c350d5d9bb906bd22919a"
+    },
+    {
+      "id": "kice-exam-spread-132-figure-1",
+      "decision": "include",
+      "reason": "대서양 삼각무역의 지도·화살표·표제가 온전히 표시됩니다.",
+      "kind": "map",
+      "sourceSha256": "0c1ec674f4a18c2b3625d3862817dbf51283e3c132d74ef891090d2eabe8d2fa"
+    },
+    {
+      "id": "kice-exam-spread-133-figure-1",
+      "decision": "include",
+      "reason": "교육과정→교과서→수업의 상자와 연결 화살표가 모두 보이는 도식입니다.",
+      "kind": "diagram",
+      "sourceSha256": "8c96f5dbc50193eb9ef598a06deb17a34e1eeca9a4679216f2691f16142c0b72"
+    },
+    {
+      "id": "kice-exam-spread-135-figure-1",
+      "decision": "include",
+      "reason": "북중국 지역의 지명·하천·범례를 포함한 지도 전체가 보입니다.",
+      "kind": "map",
+      "sourceSha256": "97a16cfa988adea89876875c064b6e8d29b26637a06486809c7a5378d3adfc97"
+    },
+    {
+      "id": "kice-exam-spread-143-figure-1",
+      "decision": "include",
+      "reason": "로마의 정치 기구 상자와 선출·거부 관계 화살표가 온전히 보이는 도식입니다.",
+      "kind": "diagram",
+      "sourceSha256": "d0f67e6d4908cf888aa6999242c3db4e8c814f0e2a579129e7504574b4a55620"
+    },
+    {
+      "id": "kice-exam-spread-145-figure-1",
+      "decision": "include",
+      "reason": "역사적 사고과정 적용 조건이 외곽선 안에 완전히 담긴 문항 자료 상자입니다.",
+      "kind": "image",
+      "sourceSha256": "562fd80e3c49076e38e9cc669ec28b3903ca591514faf36e20db6af1818fb613"
+    },
+    {
+      "id": "kice-exam-spread-153-figure-1",
+      "decision": "include",
+      "reason": "(가) 연표·선택지와 (나) 답지 반응 분포 표의 끝까지 원본 PNG에서 확인했습니다.",
+      "kind": "table",
+      "sourceSha256": "61ba36081a03a58f097d228b2b46cd19566957f9764f4140d0a2e28d73126bea"
+    },
+    {
+      "id": "kice-exam-spread-155-figure-1",
+      "decision": "include",
+      "reason": "한반도 남부의 지명·표식·외곽선이 온전히 보이는 지도입니다.",
+      "kind": "map",
+      "sourceSha256": "64aeacd31e9826e9e35692bfd28386674f0de5688d4332aeb2ef155a76cb5502"
+    },
+    {
+      "id": "kice-exam-spread-156-figure-1",
+      "decision": "include",
+      "reason": "수업주제·학습목표·도입·전개가 보이는 수업안 표이며 하단 물결선은 의도적 생략 표시입니다.",
+      "kind": "table",
+      "sourceSha256": "7b7c311ac422a74e71249196570867364e58065b4ab01f73486672f2c44fdbbf"
+    },
+    {
+      "id": "kice-exam-spread-160-figure-1",
+      "decision": "include",
+      "reason": "런던·파리와 A/B/C 지점을 표시한 서유럽 지도 전체가 보입니다.",
+      "kind": "map",
+      "sourceSha256": "5181a5b7b123ad68551ec3f6ea5045fb2ff28011380d48303c7be9989c5cb7bc"
+    },
+    {
+      "id": "kice-exam-spread-165-figure-1",
+      "decision": "exclude",
+      "reason": "대부분 검은 면과 흰 모서리뿐인 추출 마스크·잡음으로 학습 자료가 아닙니다.",
+      "kind": "image",
+      "sourceSha256": "bd7a979e65d902ad99b4ae7e64bf876b2abe5c2195f00828b253bd968a682389"
+    },
+    {
+      "id": "kice-exam-spread-165-figure-2",
+      "decision": "exclude",
+      "reason": "대부분 검은 면과 흰 모서리뿐인 추출 마스크·잡음으로 학습 자료가 아닙니다.",
+      "kind": "image",
+      "sourceSha256": "f0e3dab06aa53e9af5a2de89ae11be9867f525aa4f4d0e022c204699d6446cac"
+    },
+    {
+      "id": "kice-exam-spread-168-figure-1",
+      "decision": "exclude",
+      "reason": "대부분 검은 면과 흰 모서리뿐인 추출 마스크·잡음으로 학습 자료가 아닙니다.",
+      "kind": "image",
+      "sourceSha256": "bd7a979e65d902ad99b4ae7e64bf876b2abe5c2195f00828b253bd968a682389"
+    }
+  ]
+}

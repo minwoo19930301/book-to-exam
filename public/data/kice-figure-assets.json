@@ -1,0 +1,1659 @@
+{
+  "schemaVersion": 1,
+  "method": "source-html-inline-figure-reuse",
+  "figures": [
+    {
+      "id": "kice-exam-spread-3-figure-1",
+      "noteIds": [
+        "kice-exam-spread-3"
+      ],
+      "src": "/figures/kice/kice-exam-spread-3-figure-1.png",
+      "caption": "2026학년도 1차 전공A · 4면 · 자료 1",
+      "alt": "2026학년도 1차 전공A · 4면 · 자료 1",
+      "kind": "image",
+      "width": 945,
+      "height": 945,
+      "assetSha256": "006f4988c248ff747a3e2ea27845c0d796c6ecacaf3f7ceeb9ce5f64cacd767b",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2026_중등1차_역사_A/fig_003_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "006f4988c248ff747a3e2ea27845c0d796c6ecacaf3f7ceeb9ce5f64cacd767b",
+        "gitBlobId": "b5bbcc458e3df545f7546994f163e6f10938b7e7",
+        "rotation": 0,
+        "reviewNote": "인물 초상의 독립된 정방형 그림으로 얼굴·상반신이 온전히 표시됩니다.",
+        "imageSize": [
+          945,
+          945
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-3",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-3-figure-2",
+      "noteIds": [
+        "kice-exam-spread-3"
+      ],
+      "src": "/figures/kice/kice-exam-spread-3-figure-2.png",
+      "caption": "2026학년도 1차 전공A · 4면 · 자료 2",
+      "alt": "2026학년도 1차 전공A · 4면 · 자료 2",
+      "kind": "image",
+      "width": 945,
+      "height": 945,
+      "assetSha256": "46a2f09254c839739bc7f3b49774a52e253278e63c9a683b1fcc04d109d567b5",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2026_중등1차_역사_A/fig_003_3.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "46a2f09254c839739bc7f3b49774a52e253278e63c9a683b1fcc04d109d567b5",
+        "gitBlobId": "8ba32051bd4bb4fcb770fb6dc9f3a29791854634",
+        "rotation": 0,
+        "reviewNote": "인물 초상의 독립된 정방형 그림으로 얼굴·상반신이 온전히 표시됩니다.",
+        "imageSize": [
+          945,
+          945
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-3",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-3-figure-3",
+      "noteIds": [
+        "kice-exam-spread-3"
+      ],
+      "src": "/figures/kice/kice-exam-spread-3-figure-3.png",
+      "caption": "2026학년도 1차 전공A · 4면 · 자료 3",
+      "alt": "2026학년도 1차 전공A · 4면 · 자료 3",
+      "kind": "image",
+      "width": 945,
+      "height": 945,
+      "assetSha256": "9aa9424563306fc48d589c613499c2781d842848d41213a2ab28493cfa0c00cb",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2026_중등1차_역사_A/fig_003_4.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "9aa9424563306fc48d589c613499c2781d842848d41213a2ab28493cfa0c00cb",
+        "gitBlobId": "5c5567bf52d95f2b2e9c797debb0787b8542c291",
+        "rotation": 0,
+        "reviewNote": "인물 초상의 독립된 정방형 그림으로 얼굴·상반신이 온전히 표시됩니다.",
+        "imageSize": [
+          945,
+          945
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-3",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-13-figure-1",
+      "noteIds": [
+        "kice-exam-spread-13"
+      ],
+      "src": "/figures/kice/kice-exam-spread-13-figure-1.png",
+      "caption": "2026학년도 1차 전공B · 7면 · 자료 1",
+      "alt": "2026학년도 1차 전공B · 7면 · 자료 1",
+      "kind": "table",
+      "width": 2484,
+      "height": 1035,
+      "assetSha256": "081658358233a5cdf63ec56dd648c2a6f30ccffcd30acade56e5f99e12c1b111",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2026_중등1차_역사_B/fig_006_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "081658358233a5cdf63ec56dd648c2a6f30ccffcd30acade56e5f99e12c1b111",
+        "gitBlobId": "ee74bcb2e5058ba65e1d505d5e0b6698d2442a22",
+        "rotation": 0,
+        "reviewNote": "성취기준·학습단원·학습요소의 행과 외곽선이 완전한 문항 자료 표입니다.",
+        "imageSize": [
+          2484,
+          1035
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-13",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-31-figure-1",
+      "noteIds": [
+        "kice-exam-spread-31"
+      ],
+      "src": "/figures/kice/kice-exam-spread-31-figure-1.png",
+      "caption": "2024학년도 1차 전공A · 4면 · 자료 1",
+      "alt": "2024학년도 1차 전공A · 4면 · 자료 1",
+      "kind": "image",
+      "width": 2592,
+      "height": 380,
+      "assetSha256": "bc34c7d9b6638cd2e13e289a28c6b0858b16a056be037ad3868982be1a171c34",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_003_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "bc34c7d9b6638cd2e13e289a28c6b0858b16a056be037ad3868982be1a171c34",
+        "gitBlobId": "2309ee0e48f7d6b77f27fffd3e7f86974fdd7afa",
+        "rotation": 0,
+        "reviewNote": "인물과 말풍선 문장이 잘리지 않은 독립된 대화 자료입니다.",
+        "imageSize": [
+          2592,
+          380
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-31",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-31-figure-2",
+      "noteIds": [
+        "kice-exam-spread-31"
+      ],
+      "src": "/figures/kice/kice-exam-spread-31-figure-2.png",
+      "caption": "2024학년도 1차 전공A · 4면 · 자료 2",
+      "alt": "2024학년도 1차 전공A · 4면 · 자료 2",
+      "kind": "image",
+      "width": 2592,
+      "height": 380,
+      "assetSha256": "7d2745e613a47cee7af7452489316d187ca06a27db0981411cbf42a0b4fa051c",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_003_3.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "7d2745e613a47cee7af7452489316d187ca06a27db0981411cbf42a0b4fa051c",
+        "gitBlobId": "0e188c13f5ca90b14e5c5fb046ae3f9357a7a81c",
+        "rotation": 0,
+        "reviewNote": "인물과 말풍선 문장이 잘리지 않은 독립된 대화 자료입니다.",
+        "imageSize": [
+          2592,
+          380
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-31",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-31-figure-3",
+      "noteIds": [
+        "kice-exam-spread-31"
+      ],
+      "src": "/figures/kice/kice-exam-spread-31-figure-3.png",
+      "caption": "2024학년도 1차 전공A · 4면 · 자료 3",
+      "alt": "2024학년도 1차 전공A · 4면 · 자료 3",
+      "kind": "image",
+      "width": 2592,
+      "height": 380,
+      "assetSha256": "80fcb7d3596a0fdb82b29ef252bf6964562662eee895e0002e2d9bae9d8d1f52",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_003_4.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "80fcb7d3596a0fdb82b29ef252bf6964562662eee895e0002e2d9bae9d8d1f52",
+        "gitBlobId": "146b3f767e3e0b10c277dc6ecfa861ce86e693d9",
+        "rotation": 0,
+        "reviewNote": "인물과 말풍선 문장이 잘리지 않은 독립된 대화 자료입니다.",
+        "imageSize": [
+          2592,
+          380
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-31",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-31-figure-4",
+      "noteIds": [
+        "kice-exam-spread-31"
+      ],
+      "src": "/figures/kice/kice-exam-spread-31-figure-4.png",
+      "caption": "2024학년도 1차 전공A · 4면 · 자료 4",
+      "alt": "2024학년도 1차 전공A · 4면 · 자료 4",
+      "kind": "image",
+      "width": 2592,
+      "height": 380,
+      "assetSha256": "0bfee6e58091a4ae8a2ab0b388f226f5c0bc1c41150b0888bbae7b5eb5b6997d",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_003_5.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "0bfee6e58091a4ae8a2ab0b388f226f5c0bc1c41150b0888bbae7b5eb5b6997d",
+        "gitBlobId": "907c6ebec9fa17a230e24270da95ef72387098c8",
+        "rotation": 0,
+        "reviewNote": "인물과 말풍선 문장이 잘리지 않은 독립된 대화 자료입니다.",
+        "imageSize": [
+          2592,
+          380
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-31",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-31-figure-5",
+      "noteIds": [
+        "kice-exam-spread-31"
+      ],
+      "src": "/figures/kice/kice-exam-spread-31-figure-5.png",
+      "caption": "2024학년도 1차 전공A · 4면 · 자료 5",
+      "alt": "2024학년도 1차 전공A · 4면 · 자료 5",
+      "kind": "image",
+      "width": 2592,
+      "height": 377,
+      "assetSha256": "f502e6f0faccf052e5f231b9bdc3ed3268c7f06e3e22c15ab467cf9aeed2f61f",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_A/fig_003_6.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "f502e6f0faccf052e5f231b9bdc3ed3268c7f06e3e22c15ab467cf9aeed2f61f",
+        "gitBlobId": "20d07dcb6d635d5cd9a777b92f477f44e20be6d9",
+        "rotation": 0,
+        "reviewNote": "인물과 말풍선 문장이 잘리지 않은 독립된 대화 자료입니다.",
+        "imageSize": [
+          2592,
+          377
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-31",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-54-figure-1",
+      "noteIds": [
+        "kice-exam-spread-54"
+      ],
+      "src": "/figures/kice/kice-exam-spread-54-figure-1.png",
+      "caption": "2023학년도 1차 전공B · 6면 · 자료 1",
+      "alt": "2023학년도 1차 전공B · 6면 · 자료 1",
+      "kind": "image",
+      "width": 1063,
+      "height": 709,
+      "assetSha256": "af1dd8ec161d5c8486f257983613a06e44087eea2538d0b130202d76af02e721",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2023_중등1차_역사_B/fig_005_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "af1dd8ec161d5c8486f257983613a06e44087eea2538d0b130202d76af02e721",
+        "gitBlobId": "034e5649b27fe65baebbd5eea2c617e38eea3cf5",
+        "rotation": 0,
+        "reviewNote": "군함 장면을 담은 독립된 완전한 삽화입니다.",
+        "imageSize": [
+          1063,
+          709
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-54",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-61-figure-1",
+      "noteIds": [
+        "kice-exam-spread-61"
+      ],
+      "src": "/figures/kice/kice-exam-spread-61-figure-1.png",
+      "caption": "2022학년도 1차 전공A · 6면 · 자료 1",
+      "alt": "2022학년도 1차 전공A · 6면 · 자료 1",
+      "kind": "photo",
+      "width": 1157,
+      "height": 874,
+      "assetSha256": "94b570b20b05558c4f2e957430853c12a82ea0c0e39f4bb364194682d948a057",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2022_중등1차_역사_A/fig_005_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "94b570b20b05558c4f2e957430853c12a82ea0c0e39f4bb364194682d948a057",
+        "gitBlobId": "7bb71bab098f1851ae029a488a3819cb7a64060e",
+        "rotation": 0,
+        "reviewNote": "공명첩 문서의 외곽과 표제가 모두 보이는 자료 사진입니다.",
+        "imageSize": [
+          1157,
+          874
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-61",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-61-figure-2",
+      "noteIds": [
+        "kice-exam-spread-61"
+      ],
+      "src": "/figures/kice/kice-exam-spread-61-figure-2.png",
+      "caption": "2022학년도 1차 전공A · 6면 · 자료 2",
+      "alt": "2022학년도 1차 전공A · 6면 · 자료 2",
+      "kind": "diagram",
+      "width": 1107,
+      "height": 860,
+      "assetSha256": "96f51706a9a579d0cad512a2a8723b234a9500f6289c0917b7760b0b2b371a1b",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2022_중등1차_역사_A/fig_005_3.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "96f51706a9a579d0cad512a2a8723b234a9500f6289c0917b7760b0b2b371a1b",
+        "gitBlobId": "00cfe1c81319e77350729407bec6632f5dd41794",
+        "rotation": 0,
+        "reviewNote": "공명첩과 관직명·이름란의 설명선이 완전한 주석 도해입니다.",
+        "imageSize": [
+          1107,
+          860
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-61",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-79-figure-1",
+      "noteIds": [
+        "kice-exam-spread-79"
+      ],
+      "src": "/figures/kice/kice-exam-spread-79-figure-1.png",
+      "caption": "2021학년도 1차 전공B · 5면 · 자료 1",
+      "alt": "2021학년도 1차 전공B · 5면 · 자료 1",
+      "kind": "image",
+      "width": 527,
+      "height": 300,
+      "assetSha256": "bdd8391b308c8133903c26f79bcb63b5770c15e1036e982acdbbded8531d4ef6",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2021_중등1차_역사_B/fig_004_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "bdd8391b308c8133903c26f79bcb63b5770c15e1036e982acdbbded8531d4ef6",
+        "gitBlobId": "40675dfba18c30a2087d3b843d1d8a5a39ba8be7",
+        "rotation": 0,
+        "reviewNote": "탄광에서 수레를 끄는 인물과 작업 장면이 완전한 삽화입니다.",
+        "imageSize": [
+          527,
+          300
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-79",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-79-figure-2",
+      "noteIds": [
+        "kice-exam-spread-79"
+      ],
+      "src": "/figures/kice/kice-exam-spread-79-figure-2.png",
+      "caption": "2021학년도 1차 전공B · 5면 · 자료 2",
+      "alt": "2021학년도 1차 전공B · 5면 · 자료 2",
+      "kind": "photo",
+      "width": 640,
+      "height": 399,
+      "assetSha256": "c22d23a8f7469ce1c71e44f0bf621ca0ef954a76a156d74de6b5ede628541bc6",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2021_중등1차_역사_B/fig_004_3.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "c22d23a8f7469ce1c71e44f0bf621ca0ef954a76a156d74de6b5ede628541bc6",
+        "gitBlobId": "a12f5642ed299c65c995de1a459d899136d37f40",
+        "rotation": 0,
+        "reviewNote": "방직공장의 어린이와 기계가 보이는 독립된 자료 사진입니다.",
+        "imageSize": [
+          640,
+          399
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-79",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-82-figure-1",
+      "noteIds": [
+        "kice-exam-spread-82"
+      ],
+      "src": "/figures/kice/kice-exam-spread-82-figure-1.png",
+      "caption": "2020학년도 1차 전공A · 2면 · 자료 1",
+      "alt": "2020학년도 1차 전공A · 2면 · 자료 1",
+      "kind": "photo",
+      "width": 279,
+      "height": 417,
+      "assetSha256": "0530a9998153d1cbe8ebf1a723da29d5e6e7a2309ff4a5000a112873857c9eb1",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2020_중등1차_역사_A/fig_001_1.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "0530a9998153d1cbe8ebf1a723da29d5e6e7a2309ff4a5000a112873857c9eb1",
+        "gitBlobId": "132b7df39d5d923e928f8d73ee940531b103f3b2",
+        "rotation": 0,
+        "reviewNote": "벽화 파편 자체의 외곽이 완전히 보입니다. 유물의 파손 형태이지 추출 과정의 이미지 띠가 아닙니다.",
+        "imageSize": [
+          279,
+          417
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-82",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-90-figure-1",
+      "noteIds": [
+        "kice-exam-spread-90"
+      ],
+      "src": "/figures/kice/kice-exam-spread-90-figure-1.png",
+      "caption": "2020학년도 1차 전공B · 3면 · 자료 1",
+      "alt": "2020학년도 1차 전공B · 3면 · 자료 1",
+      "kind": "image",
+      "width": 384,
+      "height": 461,
+      "assetSha256": "dc1040a46c6202be073d226638374e1f96833fc2853b2f86971eb98e7d933b88",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2020_중등1차_역사_B/fig_002_1.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "dc1040a46c6202be073d226638374e1f96833fc2853b2f86971eb98e7d933b88",
+        "gitBlobId": "d747ac0d1c5ecf241bbca6c2bd5638b49b73f005",
+        "rotation": 0,
+        "reviewNote": "직조 작업 장면의 회화가 독립된 직사각형 이미지로 완전하게 보입니다.",
+        "imageSize": [
+          384,
+          461
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-90",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-90-figure-2",
+      "noteIds": [
+        "kice-exam-spread-90"
+      ],
+      "src": "/figures/kice/kice-exam-spread-90-figure-2.png",
+      "caption": "2020학년도 1차 전공B · 3면 · 자료 2",
+      "alt": "2020학년도 1차 전공B · 3면 · 자료 2",
+      "kind": "image",
+      "width": 286,
+      "height": 176,
+      "assetSha256": "8a7ce20fe1324707c1ea8b242023391e4732a5d94e491401472c1a958497200e",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2020_중등1차_역사_B/fig_002_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "8a7ce20fe1324707c1ea8b242023391e4732a5d94e491401472c1a958497200e",
+        "gitBlobId": "aabdba50797952af57f55b8138e1f3fcf90185c1",
+        "rotation": 0,
+        "reviewNote": "말 탄 인물과 농민들의 장면이 온전히 보이는 회화 자료입니다.",
+        "imageSize": [
+          286,
+          176
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-90",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-103-figure-1",
+      "noteIds": [
+        "kice-exam-spread-103"
+      ],
+      "src": "/figures/kice/kice-exam-spread-103-figure-1.png",
+      "caption": "2019학년도 1차 전공B · 3면 · 자료 1",
+      "alt": "2019학년도 1차 전공B · 3면 · 자료 1",
+      "kind": "image",
+      "width": 2600,
+      "height": 1599,
+      "assetSha256": "ce6fc8d56f8cf6efd1e21965b05b807107e435eeda2c41fc965c6697d704cd55",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2019_중등1차_역사_B/fig_002_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "ce6fc8d56f8cf6efd1e21965b05b807107e435eeda2c41fc965c6697d704cd55",
+        "gitBlobId": "313f44d14b42146937cda2e9510f8d58e5b738fd",
+        "rotation": 0,
+        "reviewNote": "교사·말풍선·나치 정책 표를 포함한 수업 장면 자료가 완전합니다.",
+        "imageSize": [
+          2600,
+          1599
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-103",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-107-figure-1",
+      "noteIds": [
+        "kice-exam-spread-107"
+      ],
+      "src": "/figures/kice/kice-exam-spread-107-figure-1.png",
+      "caption": "2018학년도 1차 전공A · 3면 · 자료 1",
+      "alt": "2018학년도 1차 전공A · 3면 · 자료 1",
+      "kind": "image",
+      "width": 2593,
+      "height": 1658,
+      "assetSha256": "25b427fddbf443f439c0ae34fdbac7f7b9b1eb74b97ea61b3be09f5b8f8f5d8a",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2018_중등1차_역사_A/fig_002_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "25b427fddbf443f439c0ae34fdbac7f7b9b1eb74b97ea61b3be09f5b8f8f5d8a",
+        "gitBlobId": "04cd5f3817815beea1ac284126070d1129a4d731",
+        "rotation": 0,
+        "reviewNote": "교사·말풍선·굴하네 칙령 내용의 칠판이 완전한 수업 장면 자료입니다.",
+        "imageSize": [
+          2593,
+          1658
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-107",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-116-figure-3",
+      "noteIds": [
+        "kice-exam-spread-116"
+      ],
+      "src": "/figures/kice/kice-exam-spread-116-figure-3.png",
+      "caption": "2017학년도 1차 전공A · 3면 · 자료 3",
+      "alt": "2017학년도 1차 전공A · 3면 · 자료 3",
+      "kind": "map",
+      "width": 1084,
+      "height": 1279,
+      "assetSha256": "12f5a6e7461bde0f8aad84bda2af20dbf65376a0fbbfd70b486043eba47de3d4",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2017_중등1차_역사_A/fig_002_4.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "12f5a6e7461bde0f8aad84bda2af20dbf65376a0fbbfd70b486043eba47de3d4",
+        "gitBlobId": "ebcbb2e8cfb2c9d490bddb859f3b02337e4f3321",
+        "rotation": 0,
+        "reviewNote": "아프리카 지도, 범례, 연도 표기가 외곽선 안에 온전히 표시됩니다.",
+        "imageSize": [
+          1084,
+          1279
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-116",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-119-figure-1",
+      "noteIds": [
+        "kice-exam-spread-119"
+      ],
+      "src": "/figures/kice/kice-exam-spread-119-figure-1.png",
+      "caption": "2017학년도 1차 전공B · 2면 · 자료 1",
+      "alt": "2017학년도 1차 전공B · 2면 · 자료 1",
+      "kind": "table",
+      "width": 2413,
+      "height": 703,
+      "assetSha256": "8a41b654183c695367ebecf681455f77915cec559c362db49ee0a19481e7075a",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2017_중등1차_역사_B/fig_001_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "8a41b654183c695367ebecf681455f77915cec559c362db49ee0a19481e7075a",
+        "gitBlobId": "5d39dbed3e5e7e5b58709102c576bb988626e750",
+        "rotation": 0,
+        "reviewNote": "표제와 채점 기준이 완전한 표입니다. 하단 물결선은 원자료의 의도적 생략 표시로 확인됩니다.",
+        "imageSize": [
+          2413,
+          703
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-119",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-119-figure-2",
+      "noteIds": [
+        "kice-exam-spread-119"
+      ],
+      "src": "/figures/kice/kice-exam-spread-119-figure-2.png",
+      "caption": "2017학년도 1차 전공B · 2면 · 자료 2",
+      "alt": "2017학년도 1차 전공B · 2면 · 자료 2",
+      "kind": "table",
+      "width": 2413,
+      "height": 577,
+      "assetSha256": "faaa055d94753e7a1f37ca09ed9ba7c5febdccfe3a4c5485c68a258f21b8ac3a",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2017_중등1차_역사_B/fig_001_3.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "faaa055d94753e7a1f37ca09ed9ba7c5febdccfe3a4c5485c68a258f21b8ac3a",
+        "gitBlobId": "12063ec162d671ab9cb42f61aa2b5dbcafb14846",
+        "rotation": 0,
+        "reviewNote": "대단원 마무리 과제의 점수별 채점 기준과 외곽선이 완전합니다.",
+        "imageSize": [
+          2413,
+          577
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-119",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-120-figure-3",
+      "noteIds": [
+        "kice-exam-spread-120"
+      ],
+      "src": "/figures/kice/kice-exam-spread-120-figure-3.png",
+      "caption": "2017학년도 1차 전공B · 3면 · 자료 3",
+      "alt": "2017학년도 1차 전공B · 3면 · 자료 3",
+      "kind": "diagram",
+      "width": 2407,
+      "height": 617,
+      "assetSha256": "b8b65f16082c449b0d26181599da546b5eb61ac513ce138b009f59f8096a804c",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2017_중등1차_역사_B/fig_002_4.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "b8b65f16082c449b0d26181599da546b5eb61ac513ce138b009f59f8096a804c",
+        "gitBlobId": "6f193751a59d6a2a695594a09f88de10f4a3fc71",
+        "rotation": 0,
+        "reviewNote": "유럽 공동체·유럽 연합의 시기와 관계를 나타낸 도표가 완전합니다.",
+        "imageSize": [
+          2407,
+          617
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-120",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-127-figure-1",
+      "noteIds": [
+        "kice-exam-spread-127"
+      ],
+      "src": "/figures/kice/kice-exam-spread-127-figure-1.png",
+      "caption": "2016학년도 1차 전공B · 2면 · 자료 1",
+      "alt": "2016학년도 1차 전공B · 2면 · 자료 1",
+      "kind": "image",
+      "width": 2535,
+      "height": 1838,
+      "assetSha256": "608d979b4ed8df05a5c0bcbe5499f30ae3d4782a604c350d5d9bb906bd22919a",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2016_중등1차_역사_B/fig_001_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "608d979b4ed8df05a5c0bcbe5499f30ae3d4782a604c350d5d9bb906bd22919a",
+        "gitBlobId": "ce06ed615c17e2b0913e86a07196635c19508c52",
+        "rotation": 0,
+        "reviewNote": "두 인물과 양쪽 말풍선이 외곽선 안에 온전히 표시된 문항 자료입니다.",
+        "imageSize": [
+          2535,
+          1838
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-127",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-132-figure-1",
+      "noteIds": [
+        "kice-exam-spread-132"
+      ],
+      "src": "/figures/kice/kice-exam-spread-132-figure-1.png",
+      "caption": "2015학년도 1차 전공A · 4면 · 자료 1",
+      "alt": "2015학년도 1차 전공A · 4면 · 자료 1",
+      "kind": "map",
+      "width": 1289,
+      "height": 890,
+      "assetSha256": "0c1ec674f4a18c2b3625d3862817dbf51283e3c132d74ef891090d2eabe8d2fa",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2015_중등1차_역사_A/fig_003_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "0c1ec674f4a18c2b3625d3862817dbf51283e3c132d74ef891090d2eabe8d2fa",
+        "gitBlobId": "383e414d0c7cef8ccd71b2f970fc52d0cbcd26b6",
+        "rotation": 0,
+        "reviewNote": "대서양 삼각무역의 지도·화살표·표제가 온전히 표시됩니다.",
+        "imageSize": [
+          1289,
+          890
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-132",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-133-figure-1",
+      "noteIds": [
+        "kice-exam-spread-133"
+      ],
+      "src": "/figures/kice/kice-exam-spread-133-figure-1.png",
+      "caption": "2015학년도 1차 전공A · 5면 · 자료 1",
+      "alt": "2015학년도 1차 전공A · 5면 · 자료 1",
+      "kind": "diagram",
+      "width": 1549,
+      "height": 1861,
+      "assetSha256": "8c96f5dbc50193eb9ef598a06deb17a34e1eeca9a4679216f2691f16142c0b72",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2015_중등1차_역사_A/fig_004_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "8c96f5dbc50193eb9ef598a06deb17a34e1eeca9a4679216f2691f16142c0b72",
+        "gitBlobId": "34db72a31eef5c1eba177483c1ab5767b474ad6f",
+        "rotation": 0,
+        "reviewNote": "교육과정→교과서→수업의 상자와 연결 화살표가 모두 보이는 도식입니다.",
+        "imageSize": [
+          1549,
+          1861
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-133",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-135-figure-1",
+      "noteIds": [
+        "kice-exam-spread-135"
+      ],
+      "src": "/figures/kice/kice-exam-spread-135-figure-1.png",
+      "caption": "2015학년도 1차 전공B · 2면 · 자료 1",
+      "alt": "2015학년도 1차 전공B · 2면 · 자료 1",
+      "kind": "map",
+      "width": 1512,
+      "height": 997,
+      "assetSha256": "97a16cfa988adea89876875c064b6e8d29b26637a06486809c7a5378d3adfc97",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2015_중등1차_역사_B/fig_001_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "97a16cfa988adea89876875c064b6e8d29b26637a06486809c7a5378d3adfc97",
+        "gitBlobId": "3dc9e7e6c5dcfdffc0a09af436bd0562de1a8f74",
+        "rotation": 0,
+        "reviewNote": "북중국 지역의 지명·하천·범례를 포함한 지도 전체가 보입니다.",
+        "imageSize": [
+          1512,
+          997
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-135",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-143-figure-1",
+      "noteIds": [
+        "kice-exam-spread-143"
+      ],
+      "src": "/figures/kice/kice-exam-spread-143-figure-1.png",
+      "caption": "2014학년도 1차 전공A · 5면 · 자료 1",
+      "alt": "2014학년도 1차 전공A · 5면 · 자료 1",
+      "kind": "diagram",
+      "width": 1048,
+      "height": 1109,
+      "assetSha256": "d0f67e6d4908cf888aa6999242c3db4e8c814f0e2a579129e7504574b4a55620",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2014_중등1차_역사_A/fig_004_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "d0f67e6d4908cf888aa6999242c3db4e8c814f0e2a579129e7504574b4a55620",
+        "gitBlobId": "4f815b64329515d8ef7e91e4ed559895824be5d1",
+        "rotation": 0,
+        "reviewNote": "로마의 정치 기구 상자와 선출·거부 관계 화살표가 온전히 보이는 도식입니다.",
+        "imageSize": [
+          1048,
+          1109
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-143",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-145-figure-1",
+      "noteIds": [
+        "kice-exam-spread-145"
+      ],
+      "src": "/figures/kice/kice-exam-spread-145-figure-1.png",
+      "caption": "2014학년도 1차 전공A · 7면 · 자료 1",
+      "alt": "2014학년도 1차 전공A · 7면 · 자료 1",
+      "kind": "image",
+      "width": 899,
+      "height": 424,
+      "assetSha256": "562fd80e3c49076e38e9cc669ec28b3903ca591514faf36e20db6af1818fb613",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2014_중등1차_역사_A/fig_006_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "562fd80e3c49076e38e9cc669ec28b3903ca591514faf36e20db6af1818fb613",
+        "gitBlobId": "f2d84f83d97289acc204ff9591a0db9b75b12c1b",
+        "rotation": 0,
+        "reviewNote": "역사적 사고과정 적용 조건이 외곽선 안에 완전히 담긴 문항 자료 상자입니다.",
+        "imageSize": [
+          899,
+          424
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-145",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-153-figure-1",
+      "noteIds": [
+        "kice-exam-spread-153"
+      ],
+      "src": "/figures/kice/kice-exam-spread-153-figure-1.png",
+      "caption": "2013학년도 1차 문제 · 4면 · 자료 1",
+      "alt": "2013학년도 1차 문제 · 4면 · 자료 1",
+      "kind": "table",
+      "width": 1238,
+      "height": 1541,
+      "assetSha256": "61ba36081a03a58f097d228b2b46cd19566957f9764f4140d0a2e28d73126bea",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2013_중등1차_역사/fig_004_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "61ba36081a03a58f097d228b2b46cd19566957f9764f4140d0a2e28d73126bea",
+        "gitBlobId": "fc79550d8e71e7c744536f395b2432116a5d12cd",
+        "rotation": 0,
+        "reviewNote": "(가) 연표·선택지와 (나) 답지 반응 분포 표의 끝까지 원본 PNG에서 확인했습니다.",
+        "imageSize": [
+          1238,
+          1541
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-153",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-155-figure-1",
+      "noteIds": [
+        "kice-exam-spread-155"
+      ],
+      "src": "/figures/kice/kice-exam-spread-155-figure-1.png",
+      "caption": "2013학년도 1차 문제 · 6면 · 자료 1",
+      "alt": "2013학년도 1차 문제 · 6면 · 자료 1",
+      "kind": "map",
+      "width": 751,
+      "height": 665,
+      "assetSha256": "64aeacd31e9826e9e35692bfd28386674f0de5688d4332aeb2ef155a76cb5502",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2013_중등1차_역사/fig_006_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "64aeacd31e9826e9e35692bfd28386674f0de5688d4332aeb2ef155a76cb5502",
+        "gitBlobId": "42dc3c429c26044ef8fa1e50f5317185c0295ed4",
+        "rotation": 0,
+        "reviewNote": "한반도 남부의 지명·표식·외곽선이 온전히 보이는 지도입니다.",
+        "imageSize": [
+          751,
+          665
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-155",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-156-figure-1",
+      "noteIds": [
+        "kice-exam-spread-156"
+      ],
+      "src": "/figures/kice/kice-exam-spread-156-figure-1.png",
+      "caption": "2013학년도 1차 문제 · 7면 · 자료 1",
+      "alt": "2013학년도 1차 문제 · 7면 · 자료 1",
+      "kind": "table",
+      "width": 1295,
+      "height": 1121,
+      "assetSha256": "7b7c311ac422a74e71249196570867364e58065b4ab01f73486672f2c44fdbbf",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2013_중등1차_역사/fig_007_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "7b7c311ac422a74e71249196570867364e58065b4ab01f73486672f2c44fdbbf",
+        "gitBlobId": "2994ef3e754038f6ac22d1fb1c604db02e5a5fe4",
+        "rotation": 0,
+        "reviewNote": "수업주제·학습목표·도입·전개가 보이는 수업안 표이며 하단 물결선은 의도적 생략 표시입니다.",
+        "imageSize": [
+          1295,
+          1121
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-156",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-160-figure-1",
+      "noteIds": [
+        "kice-exam-spread-160"
+      ],
+      "src": "/figures/kice/kice-exam-spread-160-figure-1.png",
+      "caption": "2013학년도 1차 문제 · 11면 · 자료 1",
+      "alt": "2013학년도 1차 문제 · 11면 · 자료 1",
+      "kind": "map",
+      "width": 902,
+      "height": 608,
+      "assetSha256": "5181a5b7b123ad68551ec3f6ea5045fb2ff28011380d48303c7be9989c5cb7bc",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2013_중등1차_역사/fig_011_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "5181a5b7b123ad68551ec3f6ea5045fb2ff28011380d48303c7be9989c5cb7bc",
+        "gitBlobId": "ab1c1bfc27ed8fe38613474bbeb355b7f60b7e66",
+        "rotation": 0,
+        "reviewNote": "런던·파리와 A/B/C 지점을 표시한 서유럽 지도 전체가 보입니다.",
+        "imageSize": [
+          902,
+          608
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-160",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-188-figure-1",
+      "noteIds": [
+        "kice-exam-spread-188"
+      ],
+      "src": "/figures/kice/kice-exam-spread-188-figure-1.png",
+      "caption": "2011학년도 1차 문제 · 1면 · 자료 1",
+      "alt": "2011학년도 1차 문제 · 1면 · 자료 1",
+      "kind": "diagram",
+      "width": 1276,
+      "height": 343,
+      "assetSha256": "c698a5bcecf79dfe4b08c62c6342b689eff3a37c367d2b609f3287436dd82a61",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2011_중등1차_역사/fig_001_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "c698a5bcecf79dfe4b08c62c6342b689eff3a37c367d2b609f3287436dd82a61",
+        "gitBlobId": "1c045f067d853c666d867179f0988bcd7de8cc0e",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          1276,
+          343
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-188",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-189-figure-3",
+      "noteIds": [
+        "kice-exam-spread-189"
+      ],
+      "src": "/figures/kice/kice-exam-spread-189-figure-3.png",
+      "caption": "2011학년도 1차 문제 · 2면 · 자료 3",
+      "alt": "2011학년도 1차 문제 · 2면 · 자료 3",
+      "kind": "table",
+      "width": 1191,
+      "height": 742,
+      "assetSha256": "c7f11e8dd783ac3489a6e9428a75f0fb5018b6b2e882e4ca9228787f160442cb",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2011_중등1차_역사/fig_002_4.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "c7f11e8dd783ac3489a6e9428a75f0fb5018b6b2e882e4ca9228787f160442cb",
+        "gitBlobId": "e61ef50bcc4dae727863745a7ab974bcec7f2d8a",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          1191,
+          742
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-189",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-191-figure-1",
+      "noteIds": [
+        "kice-exam-spread-191"
+      ],
+      "src": "/figures/kice/kice-exam-spread-191-figure-1.png",
+      "caption": "2011학년도 1차 문제 · 4면 · 자료 1",
+      "alt": "2011학년도 1차 문제 · 4면 · 자료 1",
+      "kind": "diagram",
+      "width": 1285,
+      "height": 290,
+      "assetSha256": "2b32dd90c7aeef9f6ea428e3db4b9a9b3833b336d920268cac05e22962d0ae83",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2011_중등1차_역사/fig_004_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "2b32dd90c7aeef9f6ea428e3db4b9a9b3833b336d920268cac05e22962d0ae83",
+        "gitBlobId": "24ceaf7c515e64a3996dec1accb496286b9b3a8e",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          1285,
+          290
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-191",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-193-figure-1",
+      "noteIds": [
+        "kice-exam-spread-193"
+      ],
+      "src": "/figures/kice/kice-exam-spread-193-figure-1.png",
+      "caption": "2011학년도 1차 문제 · 6면 · 자료 1",
+      "alt": "2011학년도 1차 문제 · 6면 · 자료 1",
+      "kind": "diagram",
+      "width": 1276,
+      "height": 324,
+      "assetSha256": "7af275f8873b10687aaa929d20eb0ce165e05130944dea1bf13306d0891451c3",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2011_중등1차_역사/fig_006_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "7af275f8873b10687aaa929d20eb0ce165e05130944dea1bf13306d0891451c3",
+        "gitBlobId": "23e6d868b39b9fad0bd4bcbb41426b435ed3f2f9",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          1276,
+          324
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-193",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-193-figure-2",
+      "noteIds": [
+        "kice-exam-spread-193"
+      ],
+      "src": "/figures/kice/kice-exam-spread-193-figure-2.png",
+      "caption": "2011학년도 1차 문제 · 6면 · 자료 2",
+      "alt": "2011학년도 1차 문제 · 6면 · 자료 2",
+      "kind": "map",
+      "width": 1167,
+      "height": 938,
+      "assetSha256": "f8048ace4ab02df293efb4e11ff3c26447effba20eb25d4a119df7185cfd54ac",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2011_중등1차_역사/fig_006_3.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "f8048ace4ab02df293efb4e11ff3c26447effba20eb25d4a119df7185cfd54ac",
+        "gitBlobId": "538df85ee8eef0ac3d296ff9cf33a84ec72299c4",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          1167,
+          938
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-193",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-196-figure-1",
+      "noteIds": [
+        "kice-exam-spread-196"
+      ],
+      "src": "/figures/kice/kice-exam-spread-196-figure-1.png",
+      "caption": "2011학년도 1차 문제 · 9면 · 자료 1",
+      "alt": "2011학년도 1차 문제 · 9면 · 자료 1",
+      "kind": "map",
+      "width": 1169,
+      "height": 922,
+      "assetSha256": "dfa50c2e33da461cd2b148576de7cc001b79f7df9f613b720c093369f857c1d2",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2011_중등1차_역사/fig_009_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "dfa50c2e33da461cd2b148576de7cc001b79f7df9f613b720c093369f857c1d2",
+        "gitBlobId": "fec7fc866863f391b52a78732b4e5f200bb2534a",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          1169,
+          922
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-196",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-197-figure-1",
+      "noteIds": [
+        "kice-exam-spread-197"
+      ],
+      "src": "/figures/kice/kice-exam-spread-197-figure-1.png",
+      "caption": "2011학년도 1차 문제 · 10면 · 자료 1",
+      "alt": "2011학년도 1차 문제 · 10면 · 자료 1",
+      "kind": "map",
+      "width": 1003,
+      "height": 689,
+      "assetSha256": "937109891f256089668759bb86bb5d4c2b330fdbb674aa3e363facec89868794",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2011_중등1차_역사/fig_010_1.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "937109891f256089668759bb86bb5d4c2b330fdbb674aa3e363facec89868794",
+        "gitBlobId": "64129d96eddaf4b48760e0244fd2424bcddba50b",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          1003,
+          689
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-197",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-208-figure-1",
+      "noteIds": [
+        "kice-exam-spread-208"
+      ],
+      "src": "/figures/kice/kice-exam-spread-208-figure-1.png",
+      "caption": "2010학년도 1차 문제 · 3면 · 자료 1",
+      "alt": "2010학년도 1차 문제 · 3면 · 자료 1",
+      "kind": "map",
+      "width": 990,
+      "height": 447,
+      "assetSha256": "6a236fed0626df3a410b1405ec8f535a5063ada12a6dbdb8f536780551602dd7",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2010_중등1차_역사/fig_003_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "6a236fed0626df3a410b1405ec8f535a5063ada12a6dbdb8f536780551602dd7",
+        "gitBlobId": "aa3427a4bb5b8d9c2ca658d6d28f7c2f663a60a5",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          990,
+          447
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-208",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-210-figure-1",
+      "noteIds": [
+        "kice-exam-spread-210"
+      ],
+      "src": "/figures/kice/kice-exam-spread-210-figure-1.png",
+      "caption": "2010학년도 1차 문제 · 5면 · 자료 1",
+      "alt": "2010학년도 1차 문제 · 5면 · 자료 1",
+      "kind": "diagram",
+      "width": 720,
+      "height": 382,
+      "assetSha256": "9e41c922c1849d6723a87d053930e7926b820f8428f18a9b2b3f95f5dfb9cb57",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2010_중등1차_역사/fig_005_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "9e41c922c1849d6723a87d053930e7926b820f8428f18a9b2b3f95f5dfb9cb57",
+        "gitBlobId": "946aa02c4728007b5cfd5ee318b74b462632166e",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          720,
+          382
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-210",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-212-figure-1",
+      "noteIds": [
+        "kice-exam-spread-212"
+      ],
+      "src": "/figures/kice/kice-exam-spread-212-figure-1.png",
+      "caption": "2010학년도 1차 문제 · 7면 · 자료 1",
+      "alt": "2010학년도 1차 문제 · 7면 · 자료 1",
+      "kind": "photo",
+      "width": 561,
+      "height": 432,
+      "assetSha256": "33f15acbe56906a9edc10d6ef87b8216da8ca1691e7ac10d1a2888250bb2125f",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2010_중등1차_역사/fig_007_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "33f15acbe56906a9edc10d6ef87b8216da8ca1691e7ac10d1a2888250bb2125f",
+        "gitBlobId": "36f7bfa666ba7d7a2d628215d5200c87475676a7",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          561,
+          432
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-212",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-212-figure-2",
+      "noteIds": [
+        "kice-exam-spread-212"
+      ],
+      "src": "/figures/kice/kice-exam-spread-212-figure-2.png",
+      "caption": "2010학년도 1차 문제 · 7면 · 자료 2",
+      "alt": "2010학년도 1차 문제 · 7면 · 자료 2",
+      "kind": "photo",
+      "width": 663,
+      "height": 418,
+      "assetSha256": "e2af289accba98d6de9014ba80702c3f2102a252a7ea481709287f98b262261e",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2010_중등1차_역사/fig_007_3.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "e2af289accba98d6de9014ba80702c3f2102a252a7ea481709287f98b262261e",
+        "gitBlobId": "8f746f9bcfe812220c8eaaf47b6d1cc6e9068bb7",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          663,
+          418
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-212",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-215-figure-1",
+      "noteIds": [
+        "kice-exam-spread-215"
+      ],
+      "src": "/figures/kice/kice-exam-spread-215-figure-1.png",
+      "caption": "2010학년도 1차 문제 · 10면 · 자료 1",
+      "alt": "2010학년도 1차 문제 · 10면 · 자료 1",
+      "kind": "map",
+      "width": 1335,
+      "height": 1122,
+      "assetSha256": "afc5d04e41af0c2809a14d6fa7d99f01bcd2463ba9b4c7fa4fb80845cb6100c3",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2010_중등1차_역사/fig_010_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "afc5d04e41af0c2809a14d6fa7d99f01bcd2463ba9b4c7fa4fb80845cb6100c3",
+        "gitBlobId": "82019f879bb5ff8b0c3f21f8809c5ab152a1787a",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          1335,
+          1122
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-215",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-216-figure-1",
+      "noteIds": [
+        "kice-exam-spread-216"
+      ],
+      "src": "/figures/kice/kice-exam-spread-216-figure-1.png",
+      "caption": "2010학년도 1차 문제 · 11면 · 자료 1",
+      "alt": "2010학년도 1차 문제 · 11면 · 자료 1",
+      "kind": "map",
+      "width": 1276,
+      "height": 1122,
+      "assetSha256": "0b83cf3bf3ffdffe0bb94b3e63a544ce37dc0b34d7cc96981e76a2469d3f55c6",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2010_중등1차_역사/fig_011_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "0b83cf3bf3ffdffe0bb94b3e63a544ce37dc0b34d7cc96981e76a2469d3f55c6",
+        "gitBlobId": "8f5a6f0f4798ca3710d1fe68509736b134785736",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          1276,
+          1122
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-216",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-217-figure-1",
+      "noteIds": [
+        "kice-exam-spread-217"
+      ],
+      "src": "/figures/kice/kice-exam-spread-217-figure-1.png",
+      "caption": "2010학년도 1차 문제 · 12면 · 자료 1",
+      "alt": "2010학년도 1차 문제 · 12면 · 자료 1",
+      "kind": "map",
+      "width": 1276,
+      "height": 768,
+      "assetSha256": "f4b8e87657d587a2f3a9fadbbc5899d5a4b8fa19da679a3b45ecfc7cfa627967",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2010_중등1차_역사/fig_012_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "f4b8e87657d587a2f3a9fadbbc5899d5a4b8fa19da679a3b45ecfc7cfa627967",
+        "gitBlobId": "394b9e3a59693892eeac3a40a37290a122fb30a7",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          1276,
+          768
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-217",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-252-figure-1",
+      "noteIds": [
+        "kice-exam-spread-252"
+      ],
+      "src": "/figures/kice/kice-exam-spread-252-figure-1.png",
+      "caption": "2008학년도 1차 문제 · 9면 · 자료 1",
+      "alt": "2008학년도 1차 문제 · 9면 · 자료 1",
+      "kind": "map",
+      "width": 2018,
+      "height": 1167,
+      "assetSha256": "d2fcc5dcbfefe6cf1bbac34d277b0eeb04673627fe15864dc8a740dbdb2259ac",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2008_중등_역사/fig_009_1.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "d2fcc5dcbfefe6cf1bbac34d277b0eeb04673627fe15864dc8a740dbdb2259ac",
+        "gitBlobId": "b07992b3876c7eb376dbbccb64ed1389a6c80779",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          2018,
+          1167
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-252",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-253-figure-1",
+      "noteIds": [
+        "kice-exam-spread-253"
+      ],
+      "src": "/figures/kice/kice-exam-spread-253-figure-1.png",
+      "caption": "2008학년도 1차 문제 · 10면 · 자료 1",
+      "alt": "2008학년도 1차 문제 · 10면 · 자료 1",
+      "kind": "diagram",
+      "width": 2447,
+      "height": 1307,
+      "assetSha256": "0ecf52fb6a8d3614dfa74164208b2d3a74b55547d19c1479446cd5af102bcf07",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2008_중등_역사/fig_010_1.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "0ecf52fb6a8d3614dfa74164208b2d3a74b55547d19c1479446cd5af102bcf07",
+        "gitBlobId": "3a00b122b8e607a2577727f153bcd22ff4ce875f",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          2447,
+          1307
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-253",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-261-figure-1",
+      "noteIds": [
+        "kice-exam-spread-261"
+      ],
+      "src": "/figures/kice/kice-exam-spread-261-figure-1.png",
+      "caption": "2007학년도 1차 문제 · 8면 · 자료 1",
+      "alt": "2007학년도 1차 문제 · 8면 · 자료 1",
+      "kind": "map",
+      "width": 976,
+      "height": 976,
+      "assetSha256": "f99766233c1398f416786817a40968dee6ed723ffe73564ddf31879e9b4c1a43",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2007_중등_역사/fig_008_1.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "f99766233c1398f416786817a40968dee6ed723ffe73564ddf31879e9b4c1a43",
+        "gitBlobId": "cd282af27921f4daf4d17881a4e57c44837076fc",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          976,
+          976
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-261",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-286-figure-1",
+      "noteIds": [
+        "kice-exam-spread-286"
+      ],
+      "src": "/figures/kice/kice-exam-spread-286-figure-1.png",
+      "caption": "2004학년도 1차 문제 · 6면 · 자료 1",
+      "alt": "2004학년도 1차 문제 · 6면 · 자료 1",
+      "kind": "map",
+      "width": 329,
+      "height": 264,
+      "assetSha256": "dd15a817b57b7ecf2251c98c4476199157fd72f6bd2ac0442cc9cb1761a0bba9",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2004_중등_역사/fig_006_1.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "ceb127ccb85806865514dd0293ebdd6e3aaeb523f44549b97bf18dd39f2c41bd",
+        "gitBlobId": "0da69e46d3750d9b29e3131647489dc4d9f74dc7",
+        "rotation": 180,
+        "reviewNote": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+        "imageSize": [
+          329,
+          264
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-286",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-296-figure-1",
+      "noteIds": [
+        "kice-exam-spread-296"
+      ],
+      "src": "/figures/kice/kice-exam-spread-296-figure-1.png",
+      "caption": "2003학년도 1차 문제 · 6면 · 자료 1",
+      "alt": "2003학년도 1차 문제 · 6면 · 자료 1",
+      "kind": "map",
+      "width": 453,
+      "height": 192,
+      "assetSha256": "0e0671112b9aca10c8c1a30647338ece0461e1d101072c46b2c7579ba2b3ac36",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2003_중등_역사/fig_006_1.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "36ef95bb43deeff34e76f1beee1bbb65eb335c0529eb4868c610b226e2f62a30",
+        "gitBlobId": "70d633838251059d803cd20b0e75d39c699b92ce",
+        "rotation": 180,
+        "reviewNote": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+        "imageSize": [
+          453,
+          192
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-296",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-296-figure-2",
+      "noteIds": [
+        "kice-exam-spread-296"
+      ],
+      "src": "/figures/kice/kice-exam-spread-296-figure-2.png",
+      "caption": "2003학년도 1차 문제 · 6면 · 자료 2",
+      "alt": "2003학년도 1차 문제 · 6면 · 자료 2",
+      "kind": "diagram",
+      "width": 205,
+      "height": 190,
+      "assetSha256": "be4d7410662bd1072d47eafe913690c9ca90c58a442dae22f0e0d81eaee266d1",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2003_중등_역사/fig_006_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "1deb4e3487ccb528c6a0d12b06982e9dfd2e97d1f2e350e2cdb78735bd783165",
+        "gitBlobId": "f926fbd3fe51a11713d8541357d17c54effe00b8",
+        "rotation": 180,
+        "reviewNote": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+        "imageSize": [
+          205,
+          190
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-296",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-298-figure-1",
+      "noteIds": [
+        "kice-exam-spread-298"
+      ],
+      "src": "/figures/kice/kice-exam-spread-298-figure-1.png",
+      "caption": "2003학년도 1차 문제 · 8면 · 자료 1",
+      "alt": "2003학년도 1차 문제 · 8면 · 자료 1",
+      "kind": "photo",
+      "width": 301,
+      "height": 181,
+      "assetSha256": "dc1ab20bec7bb3829f824b54acc4643dbbccdf572eb7cdfaec0c3908ca1c8b63",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2003_중등_역사/fig_008_1.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "8c62647128a423080b58052bfc56666bffa64097470a84b7e1f8965ab1915523",
+        "gitBlobId": "a32a6639d3a16252cd942dcf9804296aa918ed50",
+        "rotation": 180,
+        "reviewNote": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+        "imageSize": [
+          301,
+          181
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-298",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-298-figure-2",
+      "noteIds": [
+        "kice-exam-spread-298"
+      ],
+      "src": "/figures/kice/kice-exam-spread-298-figure-2.png",
+      "caption": "2003학년도 1차 문제 · 8면 · 자료 2",
+      "alt": "2003학년도 1차 문제 · 8면 · 자료 2",
+      "kind": "photo",
+      "width": 246,
+      "height": 179,
+      "assetSha256": "52069e2cd7a881e9eea918de6cfc44e19766c0e9354dd2e95ab89c7d916a86a1",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2003_중등_역사/fig_008_2.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "b44af42f3c4c67068be65ea03e4de6339ff33f753d1d52529860c832864f685d",
+        "gitBlobId": "cf76dbc55554237aeb33d8e7c021641cad03d025",
+        "rotation": 180,
+        "reviewNote": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+        "imageSize": [
+          246,
+          179
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-298",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-298-figure-3",
+      "noteIds": [
+        "kice-exam-spread-298"
+      ],
+      "src": "/figures/kice/kice-exam-spread-298-figure-3.png",
+      "caption": "2003학년도 1차 문제 · 8면 · 자료 3",
+      "alt": "2003학년도 1차 문제 · 8면 · 자료 3",
+      "kind": "photo",
+      "width": 238,
+      "height": 178,
+      "assetSha256": "fc65d38253df0cd1bdef93b497edb6ed4e6e28a08cc083c3198230c5520b6a30",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2003_중등_역사/fig_008_3.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "c06e95f10ce787b275a65d1189bbf7fd1f5fd283f4604bb506f1dfe901381647",
+        "gitBlobId": "b926b06eca209f703f3d13b24323768412a8aff5",
+        "rotation": 180,
+        "reviewNote": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+        "imageSize": [
+          238,
+          178
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-298",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    },
+    {
+      "id": "kice-exam-spread-299-figure-1",
+      "noteIds": [
+        "kice-exam-spread-299"
+      ],
+      "src": "/figures/kice/kice-exam-spread-299-figure-1.png",
+      "caption": "2003학년도 1차 문제 · 9면 · 자료 1",
+      "alt": "2003학년도 1차 문제 · 9면 · 자료 1",
+      "kind": "photo",
+      "width": 443,
+      "height": 189,
+      "assetSha256": "c8dacc26bafbe5ed3d50796362e3d215da9917ed7216ae05e4776f181e8fd76a",
+      "reviewStatus": "visually-reviewed-embedded-asset",
+      "source": {
+        "imagePath": "kice_gichul_pages/2003_중등_역사/fig_009_1.png",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+        "sha256": "c8dacc26bafbe5ed3d50796362e3d215da9917ed7216ae05e4776f181e8fd76a",
+        "gitBlobId": "4513c365fdc5d5fe3715ff49e1fed74d6aaa4456",
+        "rotation": 0,
+        "reviewNote": "원본에서 분리된 완전한 지도·도표·사진",
+        "imageSize": [
+          443,
+          189
+        ],
+        "extractionMethod": "existing-inline-figure",
+        "anchor": "spread-299",
+        "questionMappingStatus": "page-only-not-segmented"
+      }
+    }
+  ]
+}

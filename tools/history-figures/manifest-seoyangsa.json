@@ -1,0 +1,788 @@
+{
+  "schemaVersion": 1,
+  "subject": "seoyangsa",
+  "sourceCommit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+  "figures": [
+    {
+      "id": "seoyangsa-p314-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-314"
+      ],
+      "caption": "선상문자 A",
+      "kind": "diagram",
+      "alt": "선상문자 A — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_314_146s.jpg",
+        "rect": [
+          202,
+          374,
+          173,
+          125
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ed6bdb80640311d2da419df552562263af3d5aa3bfb74d0d0434802eb4328839"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p314-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-314"
+      ],
+      "caption": "선상문자 B",
+      "kind": "diagram",
+      "alt": "선상문자 B — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_314_146s.jpg",
+        "rect": [
+          373,
+          351,
+          168,
+          133
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ed6bdb80640311d2da419df552562263af3d5aa3bfb74d0d0434802eb4328839"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p303-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-303"
+      ],
+      "caption": "트로이 전쟁 진출도",
+      "kind": "map",
+      "alt": "트로이 전쟁 진출도 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_303_150s.jpg",
+        "rect": [
+          601,
+          283,
+          302,
+          211
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "02531401ffa92cdf0830debaef50f054266c147e739bd5e8bed2da6dadf8aeae"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p22-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-22"
+      ],
+      "caption": "폴리스의 구조",
+      "kind": "diagram",
+      "alt": "폴리스의 구조 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_022_165s.jpg",
+        "rect": [
+          156,
+          85,
+          366,
+          179
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "52a6530a0be1b10b08a57bc009722498513626e328d80d2b3bb6f2fa0348bff3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p22-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-22"
+      ],
+      "caption": "아크로폴리스",
+      "kind": "photo",
+      "alt": "아크로폴리스 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_022_165s.jpg",
+        "rect": [
+          173,
+          257,
+          173,
+          114
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "52a6530a0be1b10b08a57bc009722498513626e328d80d2b3bb6f2fa0348bff3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p22-figure-3",
+      "noteIds": [
+        "seoyangsa-textbook-page-22"
+      ],
+      "caption": "아고라",
+      "kind": "photo",
+      "alt": "아고라 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_022_165s.jpg",
+        "rect": [
+          344,
+          246,
+          181,
+          115
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "52a6530a0be1b10b08a57bc009722498513626e328d80d2b3bb6f2fa0348bff3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p23-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-23"
+      ],
+      "caption": "그리스인과 페니키아인의 식민활동",
+      "kind": "map",
+      "alt": "그리스인과 페니키아인의 식민활동 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_023_174s.jpg",
+        "rect": [
+          257,
+          213,
+          247,
+          179
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "5bb4ba30808d5c99c0b9bb1fd02ab5b6fc63bd7f2e318178467eee1cdb917529"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p331-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-331"
+      ],
+      "caption": "페리클레스 시대에 건설된 신전",
+      "kind": "photo",
+      "alt": "페리클레스 시대에 건설된 신전 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_331_254s.jpg",
+        "rect": [
+          646,
+          485,
+          165,
+          126
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "2cc1c53562fe8cdac69caebf5008629471544d11b25ebc9bafe1be1e9e8d17f3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p331-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-331"
+      ],
+      "caption": "철학자 아낙사고라스와 토론하는 페리클레스",
+      "kind": "photo",
+      "alt": "철학자 아낙사고라스와 토론하는 페리클레스 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_331_254s.jpg",
+        "rect": [
+          811,
+          480,
+          144,
+          128
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "2cc1c53562fe8cdac69caebf5008629471544d11b25ebc9bafe1be1e9e8d17f3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p31-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-31"
+      ],
+      "caption": "레욱트라 전투",
+      "kind": "map",
+      "alt": "레욱트라 전투 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_031_269s.jpg",
+        "rect": [
+          249,
+          503,
+          281,
+          165
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "25048778be1444e92b855acd80688d9015b418d08bc3b9b12358b59c07b8c6fc"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p266-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-266"
+      ],
+      "caption": "파르테논 신전",
+      "kind": "photo",
+      "alt": "파르테논 신전 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_266_288s.jpg",
+        "rect": [
+          416,
+          117,
+          155,
+          133
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1d78cdaf773ccd54849dc783695924cc86158bf9bb52876fd74b2c5f08a061ca"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p24-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-24"
+      ],
+      "caption": "파르테논 신전",
+      "kind": "photo",
+      "alt": "파르테논 신전 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_024_290s.jpg",
+        "rect": [
+          416,
+          117,
+          155,
+          133
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "bd8ef7c1fee1507c7adcb91448a8ef49919aa11fdf78a1b92e6b300baf37a2b3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p266-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-266"
+      ],
+      "caption": "고대 그리스 건축의 요소",
+      "kind": "diagram",
+      "alt": "고대 그리스 건축의 요소 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_266_288s.jpg",
+        "rect": [
+          202,
+          258,
+          372,
+          163
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1d78cdaf773ccd54849dc783695924cc86158bf9bb52876fd74b2c5f08a061ca"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p24-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-24"
+      ],
+      "caption": "고대 그리스 건축의 요소",
+      "kind": "diagram",
+      "alt": "고대 그리스 건축의 요소 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_024_290s.jpg",
+        "rect": [
+          202,
+          258,
+          372,
+          163
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "bd8ef7c1fee1507c7adcb91448a8ef49919aa11fdf78a1b92e6b300baf37a2b3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p266-figure-3",
+      "noteIds": [
+        "seoyangsa-textbook-page-266"
+      ],
+      "caption": "도리아·이오니아·코린트 양식 비교",
+      "kind": "diagram",
+      "alt": "도리아·이오니아·코린트 양식 비교 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_266_288s.jpg",
+        "rect": [
+          216,
+          420,
+          361,
+          246
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1d78cdaf773ccd54849dc783695924cc86158bf9bb52876fd74b2c5f08a061ca"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p24-figure-3",
+      "noteIds": [
+        "seoyangsa-textbook-page-24"
+      ],
+      "caption": "도리아·이오니아·코린트 양식 비교",
+      "kind": "diagram",
+      "alt": "도리아·이오니아·코린트 양식 비교 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_024_290s.jpg",
+        "rect": [
+          216,
+          420,
+          361,
+          246
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "bd8ef7c1fee1507c7adcb91448a8ef49919aa11fdf78a1b92e6b300baf37a2b3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p267-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-267"
+      ],
+      "caption": "알렉산드로스의 동방 원정",
+      "kind": "map",
+      "alt": "알렉산드로스의 동방 원정 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_267_318s.jpg",
+        "rect": [
+          578,
+          282,
+          328,
+          192
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "37aa0e55d8d0bce27b7ef989f6c66b3f4dfeb26730d52a7a912b15b844c26c82"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p52-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-52"
+      ],
+      "caption": "기독교의 전파",
+      "kind": "map",
+      "alt": "기독교의 전파 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_052_555s.jpg",
+        "rect": [
+          626,
+          318,
+          236,
+          186
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "49120fa96f24f79d466cfcddc7ce4b69e5c5b1d41c4c7e5b2cdd63024fd95049"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p63-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-63"
+      ],
+      "caption": "노르만족의 이동과 마자르족의 이동",
+      "kind": "map",
+      "alt": "노르만족의 이동과 마자르족의 이동 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_063_687s.jpg",
+        "rect": [
+          183,
+          282,
+          378,
+          165
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e11719bea65058c2afd03b63443e2c1bfc3457dfa9d547765069ad63e57fc6e6"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p63-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-63"
+      ],
+      "caption": "서유럽과 비잔틴 제국 비교",
+      "kind": "table",
+      "alt": "서유럽과 비잔틴 제국 비교 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_063_687s.jpg",
+        "rect": [
+          608,
+          388,
+          349,
+          116
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e11719bea65058c2afd03b63443e2c1bfc3457dfa9d547765069ad63e57fc6e6"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p64-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-64"
+      ],
+      "caption": "6세기 비잔틴 제국의 발전",
+      "kind": "map",
+      "alt": "6세기 비잔틴 제국의 발전 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_064_696s.jpg",
+        "rect": [
+          294,
+          470,
+          228,
+          151
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f49be2ab9f2a57c1fdfce31b6a5c0e136b996827f7d0d92df0d7385afc816032"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p64-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-64"
+      ],
+      "caption": "군관구제의 확산",
+      "kind": "map",
+      "alt": "군관구제의 확산 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_064_696s.jpg",
+        "rect": [
+          598,
+          348,
+          356,
+          136
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f49be2ab9f2a57c1fdfce31b6a5c0e136b996827f7d0d92df0d7385afc816032"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p70-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-70"
+      ],
+      "caption": "앵글로색슨 왕국과 데인로",
+      "kind": "map",
+      "alt": "앵글로색슨 왕국과 데인로 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_070_744s.jpg",
+        "rect": [
+          723,
+          330,
+          172,
+          231
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "20b5074cb1857baad63caaeedee7872510ff2f912dbac5136cd3c911d31c1c67"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p333-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-333",
+        "seoyangsa-textbook-page-74"
+      ],
+      "caption": "11세기 동유럽",
+      "kind": "map",
+      "alt": "11세기 동유럽 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_333_778s.jpg",
+        "rect": [
+          181,
+          334,
+          261,
+          244
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6bb06e3f176e9b9fc014d88a0aa22d868069c4abac4ecee71e638dee185e34f4",
+        "alternateSourceNoteId": "seoyangsa-textbook-page-333",
+        "alternateFor": [
+          {
+            "noteId": "seoyangsa-textbook-page-74",
+            "originalImagePath": "seoyangsa_pages/page_074_774s.jpg",
+            "matchedPrintedPages": [
+              178
+            ],
+            "reviewStatus": "visually-verified-same-printed-pages",
+            "figurePrintedPage": 178,
+            "verificationNote": "두 프레임의 왼쪽 인쇄178쪽 본문·11세기 동유럽 지도를 직접 대조함. 원래 카드의 손가림 없는 동일 펼침 프레임을 사용."
+          }
+        ]
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p333-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-333"
+      ],
+      "caption": "중세 교회의 발전 핵심 개념 구조도",
+      "kind": "diagram",
+      "alt": "중세 교회의 발전 핵심 개념 구조도 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_333_778s.jpg",
+        "rect": [
+          546,
+          199,
+          378,
+          287
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6bb06e3f176e9b9fc014d88a0aa22d868069c4abac4ecee71e638dee185e34f4"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p330-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-330"
+      ],
+      "caption": "포르투갈과 에스파냐의 항해 경로",
+      "kind": "map",
+      "alt": "포르투갈과 에스파냐의 항해 경로 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_330_1208s.jpg",
+        "rect": [
+          232,
+          249,
+          300,
+          211
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "30c0bf6de00e29ee95894918eaf433e611efc844c8d88142cdc8fb1a317a0065"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p330-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-330"
+      ],
+      "caption": "카라벨",
+      "kind": "photo",
+      "alt": "카라벨 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_330_1208s.jpg",
+        "rect": [
+          229,
+          463,
+          99,
+          90
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "30c0bf6de00e29ee95894918eaf433e611efc844c8d88142cdc8fb1a317a0065"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p330-figure-3",
+      "noteIds": [
+        "seoyangsa-textbook-page-330"
+      ],
+      "caption": "항해 기구 — 원문 표기: 아스트롤라베(육분의)",
+      "kind": "photo",
+      "alt": "항해 기구 — 원문 표기: 아스트롤라베(육분의) — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_330_1208s.jpg",
+        "rect": [
+          395,
+          464,
+          135,
+          96
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "30c0bf6de00e29ee95894918eaf433e611efc844c8d88142cdc8fb1a317a0065"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p330-figure-4",
+      "noteIds": [
+        "seoyangsa-textbook-page-330"
+      ],
+      "caption": "동남아시아 해역과 말라카 해협",
+      "kind": "map",
+      "alt": "동남아시아 해역과 말라카 해협 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_330_1208s.jpg",
+        "rect": [
+          580,
+          545,
+          358,
+          155
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "30c0bf6de00e29ee95894918eaf433e611efc844c8d88142cdc8fb1a317a0065"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "seoyangsa-p3-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-3",
+        "seoyangsa-textbook-page-77"
+      ],
+      "caption": "이탈리아의 통일",
+      "kind": "map",
+      "alt": "이탈리아의 통일 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_003_1909s.jpg",
+        "rect": [
+          790,
+          241,
+          143,
+          177
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d5415e89de0b5f7f10ed98e0de1b2b30dce44cc8dc66545979f9e7be17e298fe",
+        "alternateSourceNoteId": "seoyangsa-textbook-page-3",
+        "alternateFor": [
+          {
+            "noteId": "seoyangsa-textbook-page-77",
+            "originalImagePath": "seoyangsa_pages/page_077_1918s.jpg",
+            "matchedPrintedPages": [
+              443
+            ],
+            "verifiedOriginalPrintedPages": [442, 443],
+            "sourceLabelCorrection": "원문 배지는 442쪽이나 원본 사진의 펼침은 442–443쪽이며 지도는 오른쪽 443쪽",
+            "reviewStatus": "visually-verified-same-printed-pages",
+            "figurePrintedPage": 443,
+            "verificationNote": "page_077_1918s.jpg와 page_003_1909s.jpg의 왼쪽 인쇄442쪽 본문 및 오른쪽 이탈리아 통일 지도를 직접 대조함. 원래 프레임에서는 지도 북부가 손에 가려지지만 하단의 국경·색상·범례가 일치함. 선명한 대체 프레임의 오른쪽 인쇄443쪽도 직접 확인함. 원래 카드의 '442쪽' 배지는 보존하고 실제 그림의443쪽 대응만 별도로 기록함."
+          }
+        ]
+      },
+      "reviewStatus": "visually-verified"
+    }
+  ],
+  "reviewedNotes": [
+    "seoyangsa-textbook-page-314",
+    "seoyangsa-textbook-page-303",
+    "seoyangsa-textbook-page-22",
+    "seoyangsa-textbook-page-23",
+    "seoyangsa-textbook-page-331",
+    "seoyangsa-textbook-page-31",
+    "seoyangsa-textbook-page-266",
+    "seoyangsa-textbook-page-24",
+    "seoyangsa-textbook-page-267",
+    "seoyangsa-textbook-page-52",
+    "seoyangsa-textbook-page-63",
+    "seoyangsa-textbook-page-64",
+    "seoyangsa-textbook-page-70",
+    "seoyangsa-textbook-page-333",
+    "seoyangsa-textbook-page-74",
+    "seoyangsa-textbook-page-330",
+    "seoyangsa-textbook-page-13",
+    "seoyangsa-textbook-page-77",
+    "seoyangsa-textbook-page-3"
+  ],
+  "unresolved": [
+    {
+      "noteId": "seoyangsa-textbook-page-23",
+      "reason": "같은 펼침의 오른쪽 중무장보병 대형 그림은 오른쪽 일부가 손에 가려져 있어 완전한 그림 crop은 만들지 않음. 왼쪽 식민활동 지도는 분리함."
+    },
+    {
+      "noteId": "seoyangsa-textbook-page-13",
+      "reason": "HTML의 '[지도] <예수회의 전파>' 표식에 대응하는 지도가 연결된 300–301쪽 원본 프레임에서 보이지 않음. 오른쪽 페이지 넘김과 손 가림도 있어 임의의 crop이나 다른 지도로 대체하지 않음."
+    }
+  ]
+}

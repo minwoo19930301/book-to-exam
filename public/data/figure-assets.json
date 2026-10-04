@@ -1,0 +1,5724 @@
+{
+  "schemaVersion": 1,
+  "method": "visually-reviewed-source-pixel-crops",
+  "figures": [
+    {
+      "id": "dongyangsa-page-12-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-12"
+      ],
+      "caption": "60간지",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 60간지.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_012_67s.jpg",
+        "rect": [
+          391,
+          226,
+          321,
+          155
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "28b809d9cc8e9570be31088666b89aeb5976a96cfb4819b9f87d039bbe6a286f",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-12-figure-1.png",
+      "width": 321,
+      "height": 155,
+      "assetSha256": "1ef55594258b49b5d9d4985c46e6f5db270a6efcf9f6283a00e234b7ec2c501d"
+    },
+    {
+      "id": "dongyangsa-page-12-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-12"
+      ],
+      "caption": "상 문화의 시기별 구분",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 상 문화의 시기별 구분.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_012_67s.jpg",
+        "rect": [
+          377,
+          378,
+          317,
+          164
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "28b809d9cc8e9570be31088666b89aeb5976a96cfb4819b9f87d039bbe6a286f",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-12-figure-2.png",
+      "width": 317,
+      "height": 164,
+      "assetSha256": "7bd4615c323e0b0330241d6d6baaf885d8a2af467fe1aaf7fad9156c15c02864"
+    },
+    {
+      "id": "dongyangsa-page-12-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-12"
+      ],
+      "caption": "주의 세력 범위",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 주의 세력 범위.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_012_67s.jpg",
+        "rect": [
+          904,
+          313,
+          166,
+          161
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "28b809d9cc8e9570be31088666b89aeb5976a96cfb4819b9f87d039bbe6a286f",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-12-figure-3.png",
+      "width": 166,
+      "height": 161,
+      "assetSha256": "e4dd1c97a05af15a1b3454dae6730399058e16b924e9b58c44d52220178b10c6"
+    },
+    {
+      "id": "dongyangsa-page-14-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-14"
+      ],
+      "caption": "전차의 모습",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 전차의 모습.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_014_79s.jpg",
+        "rect": [
+          548,
+          354,
+          145,
+          132
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f51b1a9defd81a85afe7f27540f84030939627377ad72d1204db9fc9daf4d4f7",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-14-figure-1.png",
+      "width": 145,
+      "height": 132,
+      "assetSha256": "718f75b7b9b2401ed493b94dceadc4d215f408519d0252efc3a879160f4089a4"
+    },
+    {
+      "id": "dongyangsa-page-15-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-15"
+      ],
+      "caption": "춘추 전국 시대",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 춘추 전국 시대.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_016_86s.jpg",
+        "rect": [
+          582,
+          417,
+          118,
+          146
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6c1388388422e3c5d163841a4274bbd9ec09cda0804ef6ab406835a8285e8f3e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-15-figure-1.png",
+      "width": 118,
+      "height": 146,
+      "assetSha256": "0d1e3e643daf98c2ba730ba378de7fbcaac6a275785a46d816834d34ac9ee940"
+    },
+    {
+      "id": "dongyangsa-page-15-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-15"
+      ],
+      "caption": "춘추 전국 시대의 시대 흐름",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 춘추 전국 시대의 시대 흐름.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_016_86s.jpg",
+        "rect": [
+          402,
+          186,
+          301,
+          61
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6c1388388422e3c5d163841a4274bbd9ec09cda0804ef6ab406835a8285e8f3e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-15-figure-2.png",
+      "width": 301,
+      "height": 61,
+      "assetSha256": "e9d5ed49e094db7425a0378658d6958c64c87c38a5360b4a6ee8325710c35d59"
+    },
+    {
+      "id": "dongyangsa-page-20-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-20"
+      ],
+      "caption": "전국 시대 각국의 변법 실시",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 전국 시대 각국의 변법 실시.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_020_106s.jpg",
+        "rect": [
+          784,
+          402,
+          164,
+          194
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d80f48684ff06235a206963525a873d3590e9f9457e467e3053ca9ad85e2d63a",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-20-figure-1.png",
+      "width": 164,
+      "height": 194,
+      "assetSha256": "a9a298dc06356a5dbb5a4f4e302bf7ff27e705174b0bf95cafd1bc9ca92e91fe"
+    },
+    {
+      "id": "dongyangsa-page-32-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-32"
+      ],
+      "caption": "진의 통일",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 진의 통일.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_032_155s.jpg",
+        "rect": [
+          498,
+          235,
+          156,
+          143
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "aadaa811e7f4882431d9ef8acb8658afc5ef4824ded86414062d4b5e100a3448",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-32-figure-1.png",
+      "width": 156,
+      "height": 143,
+      "assetSha256": "106e447a10de3e82557b6b5bfd7b7df34ff0c0b01a86f46cc742d7f54abdc9b1"
+    },
+    {
+      "id": "dongyangsa-page-36-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-36"
+      ],
+      "caption": "초한의 형세도",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 초한의 형세도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_036_177s.jpg",
+        "rect": [
+          430,
+          155,
+          160,
+          195
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "df8acb47790a09726a79035de53e8e32f06ce552d69144c8cb92d13e67d897d9",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-36-figure-1.png",
+      "width": 160,
+      "height": 195,
+      "assetSha256": "448c900f046d5c08fb17b1642e3351ad0feba4317dbe82deaae6b591dbc4a304"
+    },
+    {
+      "id": "dongyangsa-page-36-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-36"
+      ],
+      "caption": "기원전 3세기경 동아시아의 모습",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 기원전 3세기경 동아시아의 모습.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_036_177s.jpg",
+        "rect": [
+          758,
+          170,
+          189,
+          178
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "df8acb47790a09726a79035de53e8e32f06ce552d69144c8cb92d13e67d897d9",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-36-figure-2.png",
+      "width": 189,
+      "height": 178,
+      "assetSha256": "86760ab9c79385ab1cca54173b3492e774c11478563b51e072b7e82c1e9938d5"
+    },
+    {
+      "id": "dongyangsa-page-36-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-36"
+      ],
+      "caption": "군국제의 실시",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 군국제의 실시.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_036_177s.jpg",
+        "rect": [
+          817,
+          426,
+          181,
+          203
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "df8acb47790a09726a79035de53e8e32f06ce552d69144c8cb92d13e67d897d9",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-36-figure-3.png",
+      "width": 181,
+      "height": 203,
+      "assetSha256": "7cbe14f0790dd3434e376d0d51eb459c2110f762226c007e5be44aca5ed68aab"
+    },
+    {
+      "id": "dongyangsa-page-36-figure-4",
+      "noteIds": [
+        "dongyangsa-textbook-page-36"
+      ],
+      "caption": "한 제국 황제의 재위 연표",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 한 제국 황제의 재위 연표.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_036_177s.jpg",
+        "rect": [
+          302,
+          449,
+          324,
+          191
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "df8acb47790a09726a79035de53e8e32f06ce552d69144c8cb92d13e67d897d9",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-36-figure-4.png",
+      "width": 324,
+      "height": 191,
+      "assetSha256": "109c9559da6e17fe9b03fbf639d72d7c4ccea830a54b439d939d9ee50e0a9a3a"
+    },
+    {
+      "id": "dongyangsa-page-43-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-43"
+      ],
+      "caption": "장건의 여행로와 비단길의 성립",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 장건의 여행로와 비단길의 성립.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_042_206s.jpg",
+        "rect": [
+          677,
+          337,
+          287,
+          207
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "55775319159f150c7a1b2ad8499bef374c0b2233a6f2bc6f1e7f37c7ca6b34b3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-43-figure-1.png",
+      "width": 287,
+      "height": 207,
+      "assetSha256": "a1cda43d03e7709b539d9bfd34e913994afb227ebd528b8a78361aaf623087dc"
+    },
+    {
+      "id": "dongyangsa-page-59-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-59"
+      ],
+      "caption": "동서 교역로의 확립",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 동서 교역로의 확립.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_060_290s.jpg",
+        "rect": [
+          563,
+          274,
+          359,
+          260
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "db51ea864d4d30506ea8f04a4c315bbf8858af28d88865f351bd2421cd28fad1",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-59-figure-1.png",
+      "width": 359,
+      "height": 260,
+      "assetSha256": "6c70c55a3c1d69a721dc1dea8960809076d10fe6d348c4f6206821f25bca4e6a"
+    },
+    {
+      "id": "dongyangsa-page-63-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-63"
+      ],
+      "caption": "삼국 시대 정세도",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 삼국 시대 정세도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_001_315s.jpg",
+        "rect": [
+          266,
+          98,
+          249,
+          209
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d7c44a07e095311407518e5b154de1185326ad105e7ab11e15d76fada5fe630e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-63-figure-1.png",
+      "width": 249,
+      "height": 209,
+      "assetSha256": "02d5f9792d8b3b305a44bf2880d23976b889abc4eba6c61eafd26019c1d68681"
+    },
+    {
+      "id": "dongyangsa-page-64-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-64"
+      ],
+      "caption": "8왕의 난",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 8왕의 난.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_002_318s.jpg",
+        "rect": [
+          768,
+          160,
+          173,
+          127
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "2c4028491f3005b82c48605416b4bb32566b7c8fbc0e95a53dabddbe1a67677c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-64-figure-1.png",
+      "width": 173,
+      "height": 127,
+      "assetSha256": "a12249322e2cb06a64df5329c647ea3a130cf0b7fbba92694997992f864921c4"
+    },
+    {
+      "id": "dongyangsa-page-64-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-64"
+      ],
+      "caption": "중국의 기온 변동",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 중국의 기온 변동.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_002_318s.jpg",
+        "rect": [
+          578,
+          369,
+          344,
+          195
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "2c4028491f3005b82c48605416b4bb32566b7c8fbc0e95a53dabddbe1a67677c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-64-figure-2.png",
+      "width": 344,
+      "height": 195,
+      "assetSha256": "239c87ff5373db5cb55cbb355b9c7e54474dd2ecb0ae521b7a3786261f12e89b"
+    },
+    {
+      "id": "dongyangsa-page-103-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-103"
+      ],
+      "caption": "황소의 난",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 황소의 난.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_040_514s.jpg",
+        "rect": [
+          283,
+          207,
+          275,
+          304
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1a4046b8869cb1dd5abe9e45dfe80ef550f0e91df0470c1038fe6d1b8a89ec56",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-103-figure-1.png",
+      "width": 275,
+      "height": 304,
+      "assetSha256": "a9f55cd5b7ac8da84223b438487b17d45ca9555137adcd3d05ddda72b66c41ff"
+    },
+    {
+      "id": "dongyangsa-page-107-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-107"
+      ],
+      "caption": "후주와 10국의 대치도",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 후주와 10국의 대치도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_045_560s.jpg",
+        "rect": [
+          693,
+          96,
+          283,
+          256
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f51173f98f5df94976bfc7f5d8ce1a7072161c71b8f82d917b874fb2d1e4bfb4",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-107-figure-1.png",
+      "width": 283,
+      "height": 256,
+      "assetSha256": "1d336ca372925ecfbe4221c6a4ca108b8b90b9101f887b360e9dcfad6477241f"
+    },
+    {
+      "id": "dongyangsa-page-108-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-108"
+      ],
+      "caption": "송의 통일 과정",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 송의 통일 과정.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_046_570s.jpg",
+        "rect": [
+          185,
+          235,
+          349,
+          279
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6635af37b42ae4343eece80c6e4887549513cb93b9ad98020ddaddb59fce48ad",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-108-figure-1.png",
+      "width": 349,
+      "height": 279,
+      "assetSha256": "99e88a939b1d41fbde24eba42c1727c4358cbe8127890d82f4d553c7a35d0b48"
+    },
+    {
+      "id": "dongyangsa-page-108-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-108"
+      ],
+      "caption": "송·요·고려 등 동아시아의 세력 분포",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 송·요·고려 등 동아시아의 세력 분포.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_046_570s.jpg",
+        "rect": [
+          790,
+          435,
+          172,
+          188
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6635af37b42ae4343eece80c6e4887549513cb93b9ad98020ddaddb59fce48ad",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-108-figure-2.png",
+      "width": 172,
+      "height": 188,
+      "assetSha256": "e17c9b654033015193923cfa9d650e56cf68a08e49ebfbec49d02f26350c3d96"
+    },
+    {
+      "id": "dongyangsa-page-108-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-108"
+      ],
+      "caption": "북송 황제 계보와 재위 연도",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 북송 황제 계보와 재위 연도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_046_570s.jpg",
+        "rect": [
+          190,
+          512,
+          204,
+          166
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6635af37b42ae4343eece80c6e4887549513cb93b9ad98020ddaddb59fce48ad",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-108-figure-3.png",
+      "width": 204,
+      "height": 166,
+      "assetSha256": "c2ce5ea0f013d2569d64e8ee3135368c3fe6a4bf2d2d0087bbdf49774302cf22"
+    },
+    {
+      "id": "dongyangsa-page-108-figure-4",
+      "noteIds": [
+        "dongyangsa-textbook-page-108"
+      ],
+      "caption": "남송 황제 계보와 재위 연도",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 남송 황제 계보와 재위 연도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part2_page_046_570s.jpg",
+        "rect": [
+          394,
+          484,
+          165,
+          163
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6635af37b42ae4343eece80c6e4887549513cb93b9ad98020ddaddb59fce48ad",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-108-figure-4.png",
+      "width": 165,
+      "height": 163,
+      "assetSha256": "3efa98575623404c12d32eed4c623cbec24eb5449a438c03a40709956aa6309e"
+    },
+    {
+      "id": "dongyangsa-page-135-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-135"
+      ],
+      "caption": "몽골의 영토 팽창",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 몽골의 영토 팽창.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_020_717s.jpg",
+        "rect": [
+          600,
+          97,
+          300,
+          193
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "b459ef412182054cb4f5f6689e6b9d59f9b49e489e47707427d92e078b41b289",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-135-figure-1.png",
+      "width": 300,
+      "height": 193,
+      "assetSha256": "749df8ee6e24dd935fb73b24d3196e13148140ca00d621f1057c7ed403480b8b"
+    },
+    {
+      "id": "dongyangsa-page-135-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-135"
+      ],
+      "caption": "몽골·원 황제 계보와 재위 연도",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 몽골·원 황제 계보와 재위 연도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_020_717s.jpg",
+        "rect": [
+          572,
+          296,
+          355,
+          126
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "b459ef412182054cb4f5f6689e6b9d59f9b49e489e47707427d92e078b41b289",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-135-figure-2.png",
+      "width": 355,
+      "height": 126,
+      "assetSha256": "c90b780559277351a8dbf4600fbe66fe146a32db92930524712f95b528283d83"
+    },
+    {
+      "id": "dongyangsa-page-140-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-140"
+      ],
+      "caption": "동서 교통로와 주요 여행자의 경로",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 동서 교통로와 주요 여행자의 경로.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_025_738s.jpg",
+        "rect": [
+          209,
+          245,
+          330,
+          281
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "eea9d39d9e2ee08a78333715bf2d76aea3c07838eef7b6f97f8c2d7d4450b113",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-140-figure-1.png",
+      "width": 330,
+      "height": 281,
+      "assetSha256": "85769e1a63076767d64d1ff76894a3f10b4eeac19fb5085ff71dad25028d13bb"
+    },
+    {
+      "id": "dongyangsa-page-141-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-141"
+      ],
+      "caption": "명의 최대 영역과 정화의 대항해",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 명의 최대 영역과 정화의 대항해.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_027_752s.jpg",
+        "rect": [
+          235,
+          142,
+          243,
+          186
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d5e38927b48efbc4f921fda32e21bfe5245e1a137eb594391fccbd36e15af8ae",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-141-figure-1.png",
+      "width": 243,
+      "height": 186,
+      "assetSha256": "5fc10fc32f5986e3c0eb7b6d8042f69b01117bd3426f28d215126906d4f83f89"
+    },
+    {
+      "id": "dongyangsa-page-141-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-141"
+      ],
+      "caption": "명 황제 계보와 재위 연도",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 명 황제 계보와 재위 연도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_027_752s.jpg",
+        "rect": [
+          180,
+          326,
+          342,
+          141
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d5e38927b48efbc4f921fda32e21bfe5245e1a137eb594391fccbd36e15af8ae",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-141-figure-2.png",
+      "width": 342,
+      "height": 141,
+      "assetSha256": "a741f3bfba321515bb7edfdb90128e0c815b7c9a0b23011b9084a07963a8bfff"
+    },
+    {
+      "id": "dongyangsa-page-151-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-151"
+      ],
+      "caption": "명 말기의 세력 분포",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 명 말기의 세력 분포.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_037_788s.jpg",
+        "rect": [
+          366,
+          113,
+          166,
+          140
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f917907590590f6225294d686ee70627703748a0972009b63163fc2a7f9ebd51",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-151-figure-1.png",
+      "width": 166,
+      "height": 140,
+      "assetSha256": "a74097b88e268aec8d500ec0305a0a59a1743db0c8675e220ca7227e288f67ca"
+    },
+    {
+      "id": "dongyangsa-page-151-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-151"
+      ],
+      "caption": "청의 최대 영역",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 청의 최대 영역.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_037_788s.jpg",
+        "rect": [
+          207,
+          428,
+          293,
+          224
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f917907590590f6225294d686ee70627703748a0972009b63163fc2a7f9ebd51",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-151-figure-2.png",
+      "width": 293,
+      "height": 224,
+      "assetSha256": "7882d301deb5c1ae9408014d9667a97030c63b809baa6fa4daffef36898ab867"
+    },
+    {
+      "id": "dongyangsa-page-151-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-151"
+      ],
+      "caption": "청 황제 계보와 재위 연도",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 청 황제 계보와 재위 연도.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_037_788s.jpg",
+        "rect": [
+          562,
+          97,
+          342,
+          120
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f917907590590f6225294d686ee70627703748a0972009b63163fc2a7f9ebd51",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-151-figure-3.png",
+      "width": 342,
+      "height": 120,
+      "assetSha256": "9ffb8daae64dd97de744ccde8c414ac3182119031a5b0ccf653ccd4a7f085b9d"
+    },
+    {
+      "id": "dongyangsa-page-158-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-158"
+      ],
+      "caption": "이갑제의 운영 방식",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 이갑제의 운영 방식.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_043_818s.jpg",
+        "rect": [
+          645,
+          451,
+          256,
+          216
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ee7a1455894820cc87c49a5d74646864fdc6805949b27748f3e3d9b38a11e83e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-158-figure-1.png",
+      "width": 256,
+      "height": 216,
+      "assetSha256": "1c954bf724be443adc9bff042fea546d29239e1b3ae4a25b3fd9f0cf3487d0ba"
+    },
+    {
+      "id": "dongyangsa-page-160-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-160"
+      ],
+      "caption": "명·청 시대 경지 면적과 인구 수의 증가",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대 경지 면적과 인구 수의 증가.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_044_821s.jpg",
+        "rect": [
+          762,
+          306,
+          223,
+          126
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "c7dcd6f0081ff4e90e1dfd34bdfbc82944f1636acfdf44f9de112428e25824a3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-160-figure-1.png",
+      "width": 223,
+      "height": 126,
+      "assetSha256": "46b609d6c7699fabab6e99688b130bfb864d32c0174414578249ac8bc3ea7de9"
+    },
+    {
+      "id": "dongyangsa-page-160-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-160"
+      ],
+      "caption": "과거 제도와 신사층의 성장",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 과거 제도와 신사층의 성장.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_044_821s.jpg",
+        "rect": [
+          286,
+          319,
+          335,
+          111
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "c7dcd6f0081ff4e90e1dfd34bdfbc82944f1636acfdf44f9de112428e25824a3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-160-figure-2.png",
+      "width": 335,
+      "height": 111,
+      "assetSha256": "6210cd614d99839cb1c34744b930c443672a1daf961222c06cdbc1baa5338f35"
+    },
+    {
+      "id": "dongyangsa-page-161-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-161"
+      ],
+      "caption": "명·청 시대 상업의 발달",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대 상업의 발달.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_047_832s.jpg",
+        "rect": [
+          519,
+          134,
+          129,
+          129
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ab4b1f46cf66ea885325f4051c294839f55f537240b709dd167cf0efd070fdcb",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-161-figure-1.png",
+      "width": 129,
+      "height": 129,
+      "assetSha256": "54e919ad10843939fba796948ba394f2200b76514f79473aed461c47ac408534"
+    },
+    {
+      "id": "dongyangsa-page-161-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-161"
+      ],
+      "caption": "명·청 시대 염법의 변화",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대 염법의 변화.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_047_832s.jpg",
+        "rect": [
+          299,
+          349,
+          326,
+          89
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ab4b1f46cf66ea885325f4051c294839f55f537240b709dd167cf0efd070fdcb",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-161-figure-2.png",
+      "width": 326,
+      "height": 89,
+      "assetSha256": "67c95c194958d908d14a1fe5b3049e0f3e58f7e0eab42a5056986c9adb0b70a9"
+    },
+    {
+      "id": "dongyangsa-page-161-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-161"
+      ],
+      "caption": "명·청 시대 수공업 제도의 변화",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대 수공업 제도의 변화.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_047_832s.jpg",
+        "rect": [
+          670,
+          248,
+          339,
+          67
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ab4b1f46cf66ea885325f4051c294839f55f537240b709dd167cf0efd070fdcb",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-161-figure-3.png",
+      "width": 339,
+      "height": 67,
+      "assetSha256": "1946b5afd0ae0d30a70756872a43978b01acb6edbb37d6536ef04a4f98f8bad1"
+    },
+    {
+      "id": "dongyangsa-page-163-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-163"
+      ],
+      "caption": "명·청 시대의 대운하",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대의 대운하.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_048_840s.jpg",
+        "rect": [
+          454,
+          403,
+          138,
+          216
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "bdc6998f4fd309c640795c97d1577fc663f9fdb62d9f4c03a664d5b56c4381d7",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-163-figure-1.png",
+      "width": 138,
+      "height": 216,
+      "assetSha256": "a05dea606308c96ee1c38a8960470fb0f527ca96d5e2d7c9936a61924ce78cb7"
+    },
+    {
+      "id": "dongyangsa-page-165-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-165"
+      ],
+      "caption": "아메리카 은의 유통과 그 영향",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 아메리카 은의 유통과 그 영향.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_049_851s.jpg",
+        "rect": [
+          663,
+          107,
+          298,
+          208
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "2396d67ead4c8e4bbd44713cace19ac1dd1014951260933c15832613043d3a62",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-165-figure-1.png",
+      "width": 298,
+      "height": 208,
+      "assetSha256": "9a37edd922b799b3cdb27449e6e4b8b47d217c238fa284e30d45b79a9db571cb"
+    },
+    {
+      "id": "dongyangsa-page-166-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-166"
+      ],
+      "caption": "16세기 무역의 흐름",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 16세기 무역의 흐름.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_050_857s.jpg",
+        "rect": [
+          288,
+          124,
+          329,
+          147
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1c9831aec9a8816d206ad69b26851cc1301759eeae03844bacc993d648dddfc4",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-166-figure-1.png",
+      "width": 329,
+      "height": 147,
+      "assetSha256": "cf124f47bf403e8982a7df4015bba659b5ec99e396ad8f9b487366002777f376"
+    },
+    {
+      "id": "dongyangsa-page-166-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-166"
+      ],
+      "caption": "명·청 시대 무역의 발달",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 명·청 시대 무역의 발달.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part3_page_050_857s.jpg",
+        "rect": [
+          260,
+          265,
+          341,
+          191
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1c9831aec9a8816d206ad69b26851cc1301759eeae03844bacc993d648dddfc4",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-166-figure-2.png",
+      "width": 341,
+      "height": 191,
+      "assetSha256": "828d2748166cf81214e1785b713704cdaeafac717b1f6c93788b93fb62d38c3c"
+    },
+    {
+      "id": "dongyangsa-page-207-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-207"
+      ],
+      "caption": "국민정부와 정강산 근거지의 수립(1928)",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 국민정부와 정강산 근거지의 수립(1928).",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_025_1078s.jpg",
+        "rect": [
+          731,
+          429,
+          180,
+          165
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "db022e62c903ef995d4073bf3bd5eb9b96a31bee95be0e837f357b3a1b65cf90",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-207-figure-1.png",
+      "width": 180,
+      "height": 165,
+      "assetSha256": "f842798f50ac6b304b627fa074e5ad04957d9a595ca4469aabbc063153846edb"
+    },
+    {
+      "id": "dongyangsa-page-208-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-208"
+      ],
+      "caption": "중국 공산당의 대장정",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 중국 공산당의 대장정.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_026_1083s.jpg",
+        "rect": [
+          376,
+          480,
+          181,
+          161
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ae4110da2d6307a44577bf7a353528439d1274f1ce235cf96fce53f1ee9e8bb0",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-208-figure-1.png",
+      "width": 181,
+      "height": 161,
+      "assetSha256": "9ac3f2ce988ca5b16a4ba7b8c9f2a20147efd45bb3a5154a54fdd3fc5523e163"
+    },
+    {
+      "id": "dongyangsa-page-208-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-208"
+      ],
+      "caption": "만주사변의 발생",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 만주사변의 발생.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_026_1083s.jpg",
+        "rect": [
+          754,
+          227,
+          164,
+          195
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ae4110da2d6307a44577bf7a353528439d1274f1ce235cf96fce53f1ee9e8bb0",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-208-figure-2.png",
+      "width": 164,
+      "height": 195,
+      "assetSha256": "e05ef7725f3af036cbc8f0454ab092ca202d004f3b7c8f92a8f87ab6ef20b2eb"
+    },
+    {
+      "id": "dongyangsa-page-210-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-210"
+      ],
+      "caption": "당고(탕구) 정전 협정의 결과",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 당고(탕구) 정전 협정의 결과.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_029_1090s.jpg",
+        "rect": [
+          273,
+          155,
+          254,
+          148
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ead7907cd91d30d0c3a99bd75443f21801ae9b5dd7507f1466b2620b42059898",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-210-figure-1.png",
+      "width": 254,
+      "height": 148,
+      "assetSha256": "86e28b2af587bcb3472877c0852a07903088045ba065be871f176769a4949092"
+    },
+    {
+      "id": "dongyangsa-page-233-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-233"
+      ],
+      "caption": "일본 고대의 천도 과정",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 일본 고대의 천도 과정.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_055_1208s.jpg",
+        "rect": [
+          548,
+          293,
+          287,
+          204
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "5f64d3630b1fcc2fc58b8e69454eb0523cc835bf4667a90632a5c9b69d2d3e0f",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-233-figure-1.png",
+      "width": 287,
+      "height": 204,
+      "assetSha256": "ac438bbdbe7734cf15462e9fdc854ada9a429f37d50ec7395958e3c6d92a31d1"
+    },
+    {
+      "id": "dongyangsa-page-280-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-280"
+      ],
+      "caption": "쿠샨 왕조의 영역",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 쿠샨 왕조의 영역.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_036_1434s.jpg",
+        "rect": [
+          455,
+          95,
+          144,
+          160
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d1b7e603301b0cde926600f6ab487c74b70056499aa2c52641091b70e03278c7",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-280-figure-1.png",
+      "width": 144,
+      "height": 160,
+      "assetSha256": "596925cb6364c00663c86f7828ced222d0938dccf34fc0d15f6fea9236b43105"
+    },
+    {
+      "id": "dongyangsa-page-280-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-280"
+      ],
+      "caption": "굽타 왕조의 영역",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 굽타 왕조의 영역.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_036_1434s.jpg",
+        "rect": [
+          817,
+          289,
+          171,
+          186
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d1b7e603301b0cde926600f6ab487c74b70056499aa2c52641091b70e03278c7",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-280-figure-2.png",
+      "width": 171,
+      "height": 186,
+      "assetSha256": "9a0aba56140327244f22d2419d585331dea4cc4f45420b2afbe3bc9a2a9d552c"
+    },
+    {
+      "id": "dongyangsa-page-280-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-280"
+      ],
+      "caption": "소승 불교와 대승 불교의 비교",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 소승 불교와 대승 불교의 비교.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_036_1434s.jpg",
+        "rect": [
+          278,
+          430,
+          323,
+          91
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d1b7e603301b0cde926600f6ab487c74b70056499aa2c52641091b70e03278c7",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-280-figure-3.png",
+      "width": 323,
+      "height": 91,
+      "assetSha256": "738a510072c2e4d4367acf663c364ad99d7b1b70822a2e6b4ff976b1051143cb"
+    },
+    {
+      "id": "dongyangsa-page-282-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-282"
+      ],
+      "caption": "무굴 제국의 영역",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 무굴 제국의 영역.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_038_1447s.jpg",
+        "rect": [
+          477,
+          350,
+          121,
+          136
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "67d69561a7668d3452be46c561ecaf4e83f1305238480e18c9cc0385c4fe3430",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-282-figure-1.png",
+      "width": 121,
+      "height": 136,
+      "assetSha256": "5f8bf4a6e09a71c8447672a30d33ca94eb4a1de7c7f08cf9540c825848303a31"
+    },
+    {
+      "id": "dongyangsa-page-282-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-282"
+      ],
+      "caption": "타지마할",
+      "kind": "photo",
+      "alt": "동양사 교재 원본에서 잘라낸 타지마할.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_038_1447s.jpg",
+        "rect": [
+          625,
+          455,
+          143,
+          146
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "67d69561a7668d3452be46c561ecaf4e83f1305238480e18c9cc0385c4fe3430",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-282-figure-2.png",
+      "width": 143,
+      "height": 146,
+      "assetSha256": "c0cec778c4f89d6fd8d5f2aa2d55fd8145caef233656192c31bb6807a74dd492"
+    },
+    {
+      "id": "dongyangsa-page-282-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-282"
+      ],
+      "caption": "무굴 회화",
+      "kind": "photo",
+      "alt": "동양사 교재 원본에서 잘라낸 무굴 회화.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_038_1447s.jpg",
+        "rect": [
+          774,
+          498,
+          143,
+          139
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "67d69561a7668d3452be46c561ecaf4e83f1305238480e18c9cc0385c4fe3430",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-282-figure-3.png",
+      "width": 143,
+      "height": 139,
+      "assetSha256": "3c06b90318019d72fb82e3d696c8bb8fa5327968062d9ca27d687a815e3c381d"
+    },
+    {
+      "id": "dongyangsa-page-7-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-7"
+      ],
+      "caption": "동아시아의 지형",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 동아시아의 지형.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_005_31s.jpg",
+        "rect": [
+          739,
+          386,
+          251,
+          209
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "b0397a285637c7a4b43b749af86a456caaed2060584bee388959c2b269092cd4",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-7-figure-1.png",
+      "width": 251,
+      "height": 209,
+      "assetSha256": "7236f88a010a0873326a714f3e7badcd8c54032039a4971741c904ccdbb74dc8"
+    },
+    {
+      "id": "dongyangsa-page-7-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-7"
+      ],
+      "caption": "중국 문명 성립의 시대 흐름",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 중국 문명 성립의 시대 흐름.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part1_page_005_31s.jpg",
+        "rect": [
+          708,
+          197,
+          390,
+          91
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "b0397a285637c7a4b43b749af86a456caaed2060584bee388959c2b269092cd4",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-7-figure-2.png",
+      "width": 390,
+      "height": 91,
+      "assetSha256": "30a0b1fcca9596f76628145c2ebdd0e3036cc7c6226bc905d3bd6bfd1b15024d"
+    },
+    {
+      "id": "dongyangsa-page-224-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-224"
+      ],
+      "caption": "동아시아 국가들의 영토 분쟁",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 동아시아 국가들의 영토 분쟁.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_043_1161s.jpg",
+        "rect": [
+          184,
+          436,
+          328,
+          251
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d6a796e323c6c5ef177505f79e23086f2f907d99537f42d163ff5f2ee51ca0b0",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-224-figure-1.png",
+      "width": 328,
+      "height": 251,
+      "assetSha256": "9356ef7d956500a4c68333849e6e66f378b881df2da37aae77b0bd36febec60b"
+    },
+    {
+      "id": "dongyangsa-page-224-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-224"
+      ],
+      "caption": "양안 무역 통계",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 양안 무역 통계.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_043_1161s.jpg",
+        "rect": [
+          149,
+          264,
+          371,
+          173
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d6a796e323c6c5ef177505f79e23086f2f907d99537f42d163ff5f2ee51ca0b0",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-224-figure-2.png",
+      "width": 371,
+      "height": 173,
+      "assetSha256": "cf899fcaf54686c665125703dc67cfb1f5031478374baa5ba32ff2104ab4b75b"
+    },
+    {
+      "id": "dongyangsa-page-225-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-225"
+      ],
+      "caption": "한반도 남부에서 금속·벼농사 기술 전래 경로",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 한반도 남부에서 금속·벼농사 기술 전래 경로.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_046_1182s.jpg",
+        "rect": [
+          570,
+          95,
+          223,
+          154
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "85a35b880ac2cfd155b5714beea662076dc1044fed9c9be5602ef377b427449a",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-225-figure-1.png",
+      "width": 223,
+      "height": 154,
+      "assetSha256": "b194dd15282448486ef39103ae0b05208582ecdde2587938ebacf43f8e5fc9f8"
+    },
+    {
+      "id": "dongyangsa-page-225-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-225"
+      ],
+      "caption": "일본 고대사의 시대 흐름",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 일본 고대사의 시대 흐름.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_046_1182s.jpg",
+        "rect": [
+          157,
+          245,
+          329,
+          67
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "85a35b880ac2cfd155b5714beea662076dc1044fed9c9be5602ef377b427449a",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-225-figure-2.png",
+      "width": 329,
+      "height": 67,
+      "assetSha256": "aa9c4d7bcfa21b6ef92e1ad7bb628e3acacee9f2a10e871fdfc2bfa5a2e7c710"
+    },
+    {
+      "id": "dongyangsa-page-227-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-227",
+        "dongyangsa-textbook-page-228"
+      ],
+      "caption": "야마타이국 사신들의 이동 추정 경로",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 야마타이국 사신들의 이동 추정 경로.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_047_1184s.jpg",
+        "rect": [
+          349,
+          464,
+          159,
+          142
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f29c56517119f5b7498ff44d70ae9350850309373de0549e3ba271ee4b851978",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-227-figure-1.png",
+      "width": 159,
+      "height": 142,
+      "assetSha256": "d71f9226effca6b2a85017447b0334bf7b48c98a830ced0c2fe67e94ceacad09"
+    },
+    {
+      "id": "dongyangsa-page-230-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-230"
+      ],
+      "caption": "백제 부흥 운동을 지원한 사이메이 천황",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 백제 부흥 운동을 지원한 사이메이 천황.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_049_1190s.jpg",
+        "rect": [
+          579,
+          95,
+          240,
+          173
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "41471cacc235e1ff6a7b7207ce46367687c8f172f8b53b73889bc0480922e1bd",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-230-figure-1.png",
+      "width": 240,
+      "height": 173,
+      "assetSha256": "38b3e090861daea8d308b98a277c9217f4080a9738f698a2e701fb19f2b3509b"
+    },
+    {
+      "id": "dongyangsa-page-230-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-230"
+      ],
+      "caption": "일본 국호와 천황 칭호의 변화",
+      "kind": "table",
+      "alt": "동양사 교재 원본에서 잘라낸 일본 국호와 천황 칭호의 변화.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_049_1190s.jpg",
+        "rect": [
+          540,
+          519,
+          309,
+          73
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "41471cacc235e1ff6a7b7207ce46367687c8f172f8b53b73889bc0480922e1bd",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-230-figure-2.png",
+      "width": 309,
+      "height": 73,
+      "assetSha256": "b463b683fd07eb5a1cc100a269ae12243bee2f9e5c161033668adb14ecb24873"
+    },
+    {
+      "id": "dongyangsa-page-238-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-238"
+      ],
+      "caption": "막부와 조정의 이원적 지배 체제",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 막부와 조정의 이원적 지배 체제.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_058_1223s.jpg",
+        "rect": [
+          574,
+          317,
+          239,
+          171
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1f48b895b7d8e5da3ba6657ad52821c645d391119f42b40e289f187cc7fd0b1d",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-238-figure-1.png",
+      "width": 239,
+      "height": 171,
+      "assetSha256": "f64585cc7eaf5b426323714596b05ce29a8c805b5e2073f8aa5480c65dadd11c"
+    },
+    {
+      "id": "dongyangsa-page-238-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-238"
+      ],
+      "caption": "쇼군과 고케닌의 봉건적 주종 관계",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 쇼군과 고케닌의 봉건적 주종 관계.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part4_page_058_1223s.jpg",
+        "rect": [
+          559,
+          492,
+          267,
+          153
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1f48b895b7d8e5da3ba6657ad52821c645d391119f42b40e289f187cc7fd0b1d",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-238-figure-2.png",
+      "width": 267,
+      "height": 153,
+      "assetSha256": "5d1f79391d608689ab649734d3649480b734c47be61141f1db8f41df7e109020"
+    },
+    {
+      "id": "dongyangsa-page-278-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-278"
+      ],
+      "caption": "인더스 문명과 아리아인의 이동",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 인더스 문명과 아리아인의 이동.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_034_1424s.jpg",
+        "rect": [
+          821,
+          119,
+          204,
+          220
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "65502e4b53b99dd0485ba4715acdc9a452844b1e0df0b46986398ac1c2618cd1",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-278-figure-1.png",
+      "width": 204,
+      "height": 220,
+      "assetSha256": "bb15e594274577c55e0a02d73c2e92162a54b27064fa2234eceb25ab932ff450"
+    },
+    {
+      "id": "dongyangsa-page-278-figure-2",
+      "noteIds": [
+        "dongyangsa-textbook-page-278"
+      ],
+      "caption": "카스트제에서의 신분 계급",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 카스트제에서의 신분 계급.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_034_1424s.jpg",
+        "rect": [
+          832,
+          364,
+          118,
+          130
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "65502e4b53b99dd0485ba4715acdc9a452844b1e0df0b46986398ac1c2618cd1",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-278-figure-2.png",
+      "width": 118,
+      "height": 130,
+      "assetSha256": "0a2aca94130b5fe07721b8347d25db11962b6dd2a4def12fb924567616f17fca"
+    },
+    {
+      "id": "dongyangsa-page-278-figure-3",
+      "noteIds": [
+        "dongyangsa-textbook-page-278"
+      ],
+      "caption": "인도사의 시대 흐름",
+      "kind": "diagram",
+      "alt": "동양사 교재 원본에서 잘라낸 인도사의 시대 흐름.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_034_1424s.jpg",
+        "rect": [
+          275,
+          239,
+          325,
+          101
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "65502e4b53b99dd0485ba4715acdc9a452844b1e0df0b46986398ac1c2618cd1",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-278-figure-3.png",
+      "width": 325,
+      "height": 101,
+      "assetSha256": "01b8169a22c1582b5423960b1a1b7b2817131329b82e96ab356af1e976310d05"
+    },
+    {
+      "id": "dongyangsa-page-283-figure-1",
+      "noteIds": [
+        "dongyangsa-textbook-page-283"
+      ],
+      "caption": "영국의 인도 침략",
+      "kind": "map",
+      "alt": "동양사 교재 원본에서 잘라낸 영국의 인도 침략.",
+      "source": {
+        "imagePath": "dongyangsa_pages/part5_page_039_1451s.jpg",
+        "rect": [
+          472,
+          317,
+          126,
+          158
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "98b0d1f82b37fd70ef3d58d58d4b34bbc46449d96c705c05b18b83d2b0a588d0",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/dongyangsa/dongyangsa-page-283-figure-1.png",
+      "width": 126,
+      "height": 158,
+      "assetSha256": "a78f30e680aa45058d820eeea4659e914098309d4ef4675d0bfd1609d0b913e0"
+    },
+    {
+      "id": "gyoyukron-textbook-page-82-figure-1",
+      "noteIds": [
+        "gyoyukron-textbook-page-82"
+      ],
+      "caption": "역사지도 활용의 세 가지 예시",
+      "kind": "map",
+      "alt": "역사적 사실의 공간 분포, 시간에 따른 변화, 대동세 납부와 운송 경로를 보여주는 세 지도",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_082_248s.jpg",
+        "rect": [
+          327,
+          207,
+          323,
+          127
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "24248baa90e03fc129c3930f7636b4c20c98a887b0c1cca2deff2f4cac577a4b",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-82-figure-1.png",
+      "width": 323,
+      "height": 127,
+      "assetSha256": "a493f9f58f718401abaeae9f80107dfa513db12f0b862a6f6d0369761e4bdba4"
+    },
+    {
+      "id": "gyoyukron-textbook-page-31-figure-1",
+      "noteIds": [
+        "gyoyukron-textbook-page-31"
+      ],
+      "caption": "구석기 시대 유물·유적 카드",
+      "kind": "photo",
+      "alt": "주먹도끼, 찍개, 슴베찌르개, 동굴벽화, 여성상, 막집을 배열한 구석기 시대 유물·유적 카드",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_031_538s.jpg",
+        "rect": [
+          257,
+          345,
+          158,
+          242
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "80d56523510820f9fae709741fb820ae4fca6102a51540ffa1e99a158429006f",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-31-figure-1.png",
+      "width": 158,
+      "height": 242,
+      "assetSha256": "a90c81549287dd8ad8ba398f6b61a0aef976b95ac319739f941790236369f282"
+    },
+    {
+      "id": "gyoyukron-textbook-page-31-figure-2",
+      "noteIds": [
+        "gyoyukron-textbook-page-31"
+      ],
+      "caption": "신석기 시대 유물·유적 카드",
+      "kind": "photo",
+      "alt": "토기와 석기, 가락바퀴, 낚싯바늘, 주거 모형 등 여섯 사진을 배열한 신석기 시대 유물·유적 카드",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_031_538s.jpg",
+        "rect": [
+          416,
+          336,
+          165,
+          249
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "80d56523510820f9fae709741fb820ae4fca6102a51540ffa1e99a158429006f",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-31-figure-2.png",
+      "width": 165,
+      "height": 249,
+      "assetSha256": "f4b8602ab466c3fe61df4ba265ebe4ba9ecf63c7950387eff566554332a90fc2"
+    },
+    {
+      "id": "gyoyukron-textbook-page-31-figure-3",
+      "noteIds": [
+        "gyoyukron-textbook-page-31"
+      ],
+      "caption": "창문열기 양식: 구석기 시대의 생활",
+      "kind": "diagram",
+      "alt": "가운데에 구석기 시대 생활 모습의 주제를 적고 네 가장자리에 유물·유적을 붙이도록 나눈 창문열기 활동 양식",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_031_538s.jpg",
+        "rect": [
+          682,
+          174,
+          275,
+          199
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "80d56523510820f9fae709741fb820ae4fca6102a51540ffa1e99a158429006f",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-31-figure-3.png",
+      "width": 275,
+      "height": 199,
+      "assetSha256": "af4037b1b526d25634a3d910e3297e011af7d84a7024c17727a8d844b5932e7a"
+    },
+    {
+      "id": "gyoyukron-textbook-page-31-figure-4",
+      "noteIds": [
+        "gyoyukron-textbook-page-31"
+      ],
+      "caption": "창문열기 양식: 신석기 시대의 생활",
+      "kind": "diagram",
+      "alt": "가운데에 신석기 시대 생활 모습의 주제를 적고 네 가장자리에 유물·유적을 붙이도록 나눈 창문열기 활동 양식",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_031_538s.jpg",
+        "rect": [
+          686,
+          376,
+          282,
+          205
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "80d56523510820f9fae709741fb820ae4fca6102a51540ffa1e99a158429006f",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-31-figure-4.png",
+      "width": 282,
+      "height": 205,
+      "assetSha256": "62534cf9a14c389e7245a1aa2ff8be816015f73b90def6dc50c8a610e519ae1e"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-1",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "피라미드토론 활동지",
+      "kind": "table",
+      "alt": "개별 모둠원, 짝 토론, 모둠 토론의 선택과 근거를 단계적으로 기록하고 모둠의 발표문을 작성하는 표",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          251,
+          224,
+          368,
+          347
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-32-figure-1.png",
+      "width": 368,
+      "height": 347,
+      "assetSha256": "ddf4ec24244e624446266f44dbdad2c1ac21c5ad1309e1325231efb556cd7795"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-2",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "주먹도끼",
+      "kind": "photo",
+      "alt": "구석기 시대 유물 카드에 실린 주먹도끼 사진",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          672,
+          268,
+          48,
+          64
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-32-figure-2.png",
+      "width": 48,
+      "height": 64,
+      "assetSha256": "523cf6d55ad667f7e7260cd58244bda1711f62f78e4dd4b9c785698c4168fc8d"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-3",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "찍개",
+      "kind": "photo",
+      "alt": "구석기 시대 유물 카드에 실린 찍개 사진",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          831,
+          273,
+          49,
+          56
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-32-figure-3.png",
+      "width": 49,
+      "height": 56,
+      "assetSha256": "792f65253d2a862128980106061bc16b5eece01602561acdd13514d02d204d90"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-4",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "슴베찌르개",
+      "kind": "photo",
+      "alt": "구석기 시대 유물 카드에 실린 슴베찌르개 사진",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          677,
+          339,
+          41,
+          63
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-32-figure-4.png",
+      "width": 41,
+      "height": 63,
+      "assetSha256": "0bb60c6c47f6b43c8b33812ac7c6db6cbd8763403a1e1327ee6e028e0d085d24"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-5",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "알타미라 동굴벽화",
+      "kind": "photo",
+      "alt": "구석기 시대 유물·유적 카드에 실린 알타미라 동굴벽화 사진",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          827,
+          351,
+          60,
+          45
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-32-figure-5.png",
+      "width": 60,
+      "height": 45,
+      "assetSha256": "002ad0e8d8455ca712c8e95bd623f75c3e375c515576e09f33e46b6e3bec277a"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-6",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "빌렌도르프의 비너스",
+      "kind": "photo",
+      "alt": "구석기 시대 유물 카드에 실린 빌렌도르프의 비너스 사진",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          676,
+          411,
+          45,
+          72
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-32-figure-6.png",
+      "width": 45,
+      "height": 72,
+      "assetSha256": "a85fe3eaaaac6b87d99ff99d3e3f21e9c3c013d68c10567f21acb99cee5cdf01"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-7",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "막집",
+      "kind": "photo",
+      "alt": "구석기 시대 유물·유적 카드에 실린 막집 복원 모습",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          827,
+          418,
+          61,
+          61
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-32-figure-7.png",
+      "width": 61,
+      "height": 61,
+      "assetSha256": "d2b512c41e0060ed8b1ba9c920886628d94bf09c704bf3a40631da6cf7dfc14e"
+    },
+    {
+      "id": "gyoyukron-textbook-page-56-figure-1",
+      "noteIds": [
+        "gyoyukron-textbook-page-56"
+      ],
+      "caption": "백윤문, 「분노」",
+      "kind": "photo",
+      "alt": "교재에 실린 백윤문의 회화 「분노」",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_056_929s.jpg",
+        "rect": [
+          732,
+          423,
+          164,
+          141
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "97e8804e664a05b4f9c1cfb7548814523edfe0419d621d177cc5df5323c70bde",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/gyoyukron/gyoyukron-textbook-page-56-figure-1.png",
+      "width": 164,
+      "height": 141,
+      "assetSha256": "000d58e56fc18dc886307acd5d2eb42822976818565c70e082edb8d3fca4f5d4"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "만주와 한반도의 구석기 유적",
+      "alt": "만주와 한반도의 구석기 유적",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          722,
+          392,
+          163,
+          137
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-307-figure-1.png",
+      "width": 163,
+      "height": 137,
+      "assetSha256": "dbbd4bdb56913ed8b98d81117ea671051bf9874f349247a0ec7229cf4ecbb75f"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "빙하기의 종결과 신석기 시대",
+      "alt": "빙하기의 종결과 신석기 시대",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          897,
+          436,
+          157,
+          94
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-307-figure-2.png",
+      "width": 157,
+      "height": 94,
+      "assetSha256": "5979798d63214da967a52d030ddafbceaa5657116e2a1cd57897ea1be376f0ab"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-3",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "찍개",
+      "alt": "찍개",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          705,
+          537,
+          94,
+          87
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-307-figure-3.png",
+      "width": 94,
+      "height": 87,
+      "assetSha256": "38d505a7fb3374f731b1bdf7c05e76168d2189ed979584473b4d812f242a61e6"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-4",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "긁개",
+      "alt": "긁개",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          799,
+          537,
+          75,
+          98
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-307-figure-4.png",
+      "width": 75,
+      "height": 98,
+      "assetSha256": "9a87edca3ed93090410e38e3478870ed1c2a73c65aef1c788ff55dd61d66fbcf"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-5",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "슴베찌르개",
+      "alt": "슴베찌르개",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          873,
+          537,
+          71,
+          99
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-307-figure-5.png",
+      "width": 71,
+      "height": 99,
+      "assetSha256": "186962fbb3ca9aac9421b8589c72079fc528054917ec946c57f9140706d20ea7"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-6",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "막집",
+      "alt": "막집",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          949,
+          535,
+          97,
+          100
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-307-figure-6.png",
+      "width": 97,
+      "height": 100,
+      "assetSha256": "7fbc49acce9f617573a198ba92934c4094cc6e988481ea2c6c8a36c3ef181037"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "연천 전곡리 주먹도끼",
+      "alt": "연천 전곡리 주먹도끼",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          554,
+          115,
+          62,
+          93
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-3-figure-1.png",
+      "width": 62,
+      "height": 93,
+      "assetSha256": "3809acd6ee1a43d92cc30d1132b92215fe2f651d0f838b7be8ea98b6bd794d76"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "만주와 한반도의 신석기 유적",
+      "alt": "만주와 한반도의 신석기 유적",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          735,
+          175,
+          141,
+          219
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-3-figure-2.png",
+      "width": 141,
+      "height": 219,
+      "assetSha256": "2a787e661bd49ba3df77a7c5237b6894e5c1caedaea983ce2a1e88728b046f97"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-3",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "움집 복원도",
+      "alt": "움집 복원도",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          891,
+          196,
+          165,
+          104
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-3-figure-3.png",
+      "width": 165,
+      "height": 104,
+      "assetSha256": "41f1373024bd0d1511a646040f2eeba292068b7a46fcf355634286936f3ce79b"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-4",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "암사동 선사 유적지",
+      "alt": "암사동 선사 유적지",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          866,
+          303,
+          81,
+          91
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-3-figure-4.png",
+      "width": 81,
+      "height": 91,
+      "assetSha256": "0cb8e7a72f40f63ac21c95b5275ff0742b5df4eac25ee2feb12389a2f05bc930"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-5",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "양양 오산리 집터 유적",
+      "alt": "양양 오산리 집터 유적",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          945,
+          307,
+          117,
+          94
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-3-figure-5.png",
+      "width": 117,
+      "height": 94,
+      "assetSha256": "db0821ad5a0d1ce69dfc7a8c0bb6eedbdedb5c2ffee0183cdfdf6b8acb381402"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-6",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "가락바퀴",
+      "alt": "가락바퀴",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          732,
+          400,
+          78,
+          85
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-3-figure-6.png",
+      "width": 78,
+      "height": 85,
+      "assetSha256": "b543cd09400ee217de5f945855c2fd3b6e3897c4e1364831cc204102b4c1a203"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-7",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "조개 껍데기 가면",
+      "alt": "조개 껍데기 가면",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          818,
+          400,
+          80,
+          86
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-3-figure-7.png",
+      "width": 80,
+      "height": 86,
+      "assetSha256": "9012eaf064244d32b88580dfab43c69c2449f749e46d42f2a77ed113efb28df0"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-8",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "빗살무늬 토기",
+      "alt": "빗살무늬 토기",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          903,
+          400,
+          67,
+          89
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-3-figure-8.png",
+      "width": 67,
+      "height": 89,
+      "assetSha256": "37bec60795ac70d5a4892e17f58d90509436f6356bffcfab06a48be5fd7c1cbd"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-9",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "갈돌과 갈판",
+      "alt": "갈돌과 갈판",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          969,
+          422,
+          85,
+          69
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-3-figure-9.png",
+      "width": 85,
+      "height": 69,
+      "assetSha256": "121e7a21cd9df0afa77a844bb6660b4e32062b17cf7c1ab2c1422a28cc81932b"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-10",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "울주 대곡리 반구대 암각화",
+      "alt": "울주 대곡리 반구대 암각화",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          897,
+          539,
+          151,
+          78
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-3-figure-10.png",
+      "width": 151,
+      "height": 78,
+      "assetSha256": "0e04ab9d304cd6f09317136742801ca9eb98951f14f7997b0a4c4586fc4d32e2"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "반달돌칼",
+      "alt": "반달돌칼",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          325,
+          456,
+          72,
+          41
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-1.png",
+      "width": 72,
+      "height": 41,
+      "assetSha256": "93431dac718f9d8672edaa757b01348071bbcad750dbdd0982df9a0e72f395dd"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "비파형 동검",
+      "alt": "비파형 동검",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          324,
+          497,
+          73,
+          31
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-2.png",
+      "width": 73,
+      "height": 31,
+      "assetSha256": "6c9383eb189114a58f9917c45c7f42a1c167be68a60c670e87d6e363debff8c4"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-3",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "청동 거울",
+      "alt": "청동 거울",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          399,
+          461,
+          69,
+          74
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-3.png",
+      "width": 69,
+      "height": 74,
+      "assetSha256": "9ee32d22c82f36b3f735e9547fa1198da1b156119e8c68fcdeab664f7dbb3380"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-4",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "팔주령",
+      "alt": "팔주령",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          469,
+          466,
+          67,
+          71
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-4.png",
+      "width": 67,
+      "height": 71,
+      "assetSha256": "fb65574a26cfdc2b29fd9c858ebe696786227f48a48da0631bec399fa4d2545f"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-5",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "민무늬 토기",
+      "alt": "민무늬 토기",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          549,
+          469,
+          67,
+          79
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-5.png",
+      "width": 67,
+      "height": 79,
+      "assetSha256": "6bdc82f52f398aa17a9e1c49990cecdb4f156d611c5128964d1862774f7075e9"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-6",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "송국리형 집자리",
+      "alt": "송국리형 집자리",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          325,
+          528,
+          70,
+          69
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-6.png",
+      "width": 70,
+      "height": 69,
+      "assetSha256": "26bad10b820507775793907dc21c4ce663aaccbc7ca51f6ba3294c998738f44a"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-7",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "청동기 후기 화덕 흔적",
+      "alt": "청동기 후기 화덕 흔적",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          397,
+          532,
+          70,
+          69
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-7.png",
+      "width": 70,
+      "height": 69,
+      "assetSha256": "917df4eb911dc42f709ddf93ee5d1b5d67a5cecd8e05896ca5e1e76c32f06b8d"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-8",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "북방식 고인돌",
+      "alt": "북방식 고인돌",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          466,
+          539,
+          73,
+          67
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-8.png",
+      "width": 73,
+      "height": 67,
+      "assetSha256": "7c3ee7daa30037b1edf520bbba9177db8ee30f4adeecb051b6167644c3aea24d"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-9",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "남방식 고인돌",
+      "alt": "남방식 고인돌",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          542,
+          548,
+          77,
+          63
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-9.png",
+      "width": 77,
+      "height": 63,
+      "assetSha256": "59d10091ac0a8c9840e4524b35d30481ce3c9e4daf7a3465642be2e037bbe25f"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-10",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "동예의 철(凸)자형 집터",
+      "alt": "동예의 철(凸)자형 집터",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          739,
+          266,
+          164,
+          123
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-10.png",
+      "width": 164,
+      "height": 123,
+      "assetSha256": "de297392433a86f89eec30f6b3bbfa3a818345e3016aa1ea34fe2fcecad34670"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-11",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "동예의 여(呂)자형 집터",
+      "alt": "동예의 여(呂)자형 집터",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          912,
+          272,
+          159,
+          125
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-11.png",
+      "width": 159,
+      "height": 125,
+      "assetSha256": "12521452a0bd944282a1796e7be85d6bd7084361a0eae084bf4a0cda78af637b"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-12",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "마한의 토실",
+      "alt": "마한의 토실",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          732,
+          391,
+          166,
+          126
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-12.png",
+      "width": 166,
+      "height": 126,
+      "assetSha256": "0e53c11003fbc802e045c5b71d8085f067d7ec8f7a5da760e038559fd61fb8d1"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-13",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "마한의 주구묘",
+      "alt": "마한의 주구묘",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          906,
+          397,
+          157,
+          126
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-4-figure-13.png",
+      "width": 157,
+      "height": 126,
+      "assetSha256": "61029c449163661e86f548ca9724af43233ce1ae463976228ec515db54e95a79"
+    },
+    {
+      "id": "hanguksa-textbook-page-6-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-6"
+      ],
+      "caption": "고조선의 중심지 변화",
+      "alt": "고조선의 중심지 변화",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_006_37s.jpg",
+        "rect": [
+          481,
+          305,
+          151,
+          169
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9c48f574dd7cb2646ba2c024951b8756c9d195cc880cb97eb50b4f6a50ac4616",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-6-figure-1.png",
+      "width": 151,
+      "height": 169,
+      "assetSha256": "caa94d15f42b7935781b461e7e511aa596fcec090f4542005528997b8bdfe6c4"
+    },
+    {
+      "id": "hanguksa-textbook-page-6-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-6"
+      ],
+      "caption": "고조선의 발전 단계",
+      "alt": "고조선의 발전 단계",
+      "kind": "table",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_006_37s.jpg",
+        "rect": [
+          324,
+          195,
+          310,
+          100
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9c48f574dd7cb2646ba2c024951b8756c9d195cc880cb97eb50b4f6a50ac4616",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-6-figure-2.png",
+      "width": 310,
+      "height": 100,
+      "assetSha256": "e18eacae2a6da884807bb76c44f10c3898052752015dea7debbef03f0c8452ff"
+    },
+    {
+      "id": "hanguksa-textbook-page-7-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-7"
+      ],
+      "caption": "한4군",
+      "alt": "한4군",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_007_41s.jpg",
+        "rect": [
+          909,
+          299,
+          162,
+          195
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6a0723b5ff3c9ba8fb93c839d0bb4c0ebe066851b80c16a4ce27a109751ad9e0",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-7-figure-1.png",
+      "width": 162,
+      "height": 195,
+      "assetSha256": "45a3f25e04bf012d670c826fde632eb979f60c13ccc3b6a9c79dc9c6a617acf6"
+    },
+    {
+      "id": "hanguksa-textbook-page-21-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-21"
+      ],
+      "caption": "장수왕 시기 국제 정세",
+      "alt": "장수왕 시기 국제 정세",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_021_112s.jpg",
+        "rect": [
+          350,
+          253,
+          257,
+          166
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4b2a6eeb966b7bd3e269bd60df8ea539868a0bdbeee035a5a3c17152cf352877",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-21-figure-1.png",
+      "width": 257,
+      "height": 166,
+      "assetSha256": "dba1dd1e1bff49c14b2e54146d2a208881cf73907ab0b2f83612b2f4f8132628"
+    },
+    {
+      "id": "hanguksa-textbook-page-25-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-25"
+      ],
+      "caption": "근초고왕 시기의 팽창",
+      "alt": "근초고왕 시기의 팽창",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_025_133s.jpg",
+        "rect": [
+          718,
+          306,
+          152,
+          211
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "3750eaaf966da8e90d794cf6fb67d7f33f2a67497a8e747117ec123772845547",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-25-figure-1.png",
+      "width": 152,
+      "height": 211,
+      "assetSha256": "14051abd44d2ee26f1bef54ddbbaf6bdb94f4fd1a2f53cea22bfe1ab29b1ef4d"
+    },
+    {
+      "id": "hanguksa-textbook-page-25-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-25"
+      ],
+      "caption": "개로왕 시기 신라와의 관계 강화",
+      "alt": "개로왕 시기 신라와의 관계 강화",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_025_133s.jpg",
+        "rect": [
+          870,
+          308,
+          187,
+          210
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "3750eaaf966da8e90d794cf6fb67d7f33f2a67497a8e747117ec123772845547",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-25-figure-2.png",
+      "width": 187,
+      "height": 210,
+      "assetSha256": "c1966202bc795875c9be17d9cc1ca4cfa5986e39409232bc442021e14f4aa93f"
+    },
+    {
+      "id": "hanguksa-textbook-page-28-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-28"
+      ],
+      "caption": "백제의 수도 변천",
+      "alt": "백제의 수도 변천",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_028_151s.jpg",
+        "rect": [
+          417,
+          94,
+          140,
+          154
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "bbfe9c27557f5a4eba7b52cd41a4a420db8b1fd93010f82319f409614188bf03",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-28-figure-1.png",
+      "width": 140,
+      "height": 154,
+      "assetSha256": "9aa9f501adb60a8ee190e2049cf05a50923f29340ee34ae2d0f2d4208e6978a2"
+    },
+    {
+      "id": "hanguksa-textbook-page-29-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-29"
+      ],
+      "caption": "신라 왕호의 변화",
+      "alt": "신라 왕호의 변화",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_029_156s.jpg",
+        "rect": [
+          334,
+          304,
+          317,
+          67
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "48c7a0280a4570bff3663db140cfd69af4ccf67a7f6f5b695203b72915d8057b",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-29-figure-1.png",
+      "width": 317,
+      "height": 67,
+      "assetSha256": "8222430b727c9f233fa73e07978806636b1676e7280ae045c8f31a4291aef7f5"
+    },
+    {
+      "id": "hanguksa-textbook-page-31-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-31"
+      ],
+      "caption": "6세기 신라의 영토 팽창",
+      "alt": "6세기 신라의 영토 팽창",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_031_168s.jpg",
+        "rect": [
+          903,
+          400,
+          157,
+          180
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ce2ee7387b9747b288b62038dbd9fe3e8080e19157f60bf9e9cf94183b9b7761",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-31-figure-1.png",
+      "width": 157,
+      "height": 180,
+      "assetSha256": "75d7b5b7cda34d2a3b01fe4fe7d1c7fe00081df2e7410f7ee243e121c05d876a"
+    },
+    {
+      "id": "hanguksa-textbook-page-40-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-40"
+      ],
+      "caption": "나·당 전쟁",
+      "alt": "나·당 전쟁",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_040_214s.jpg",
+        "rect": [
+          338,
+          374,
+          145,
+          228
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9f5b6dea0853c12602748c08ad522075592821c82a1c29057482b9b0b7d94f8b",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-40-figure-1.png",
+      "width": 145,
+      "height": 228,
+      "assetSha256": "6a7d03b37393113bb7114817a676451866201ccc8a141613a8c10499438bd72b"
+    },
+    {
+      "id": "hanguksa-textbook-page-40-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-40"
+      ],
+      "caption": "고구려·백제의 부흥 운동",
+      "alt": "고구려·백제의 부흥 운동",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_040_214s.jpg",
+        "rect": [
+          489,
+          376,
+          170,
+          232
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9f5b6dea0853c12602748c08ad522075592821c82a1c29057482b9b0b7d94f8b",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-40-figure-2.png",
+      "width": 170,
+      "height": 232,
+      "assetSha256": "29c2cf47e5807fcdb6ae3c31abde3f269ed99bea21cc087621a07beb7eb878dc"
+    },
+    {
+      "id": "hanguksa-textbook-page-41-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-41"
+      ],
+      "caption": "성산산성 목간에 나오는 물자 이동 흐름",
+      "alt": "성산산성 목간에 나오는 물자 이동 흐름",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_041_220s.jpg",
+        "rect": [
+          919,
+          256,
+          143,
+          233
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "a675aec045fd858eea1c47c65d4f28031e85a3e989afb1a1ed7f32f0eba17da2",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-41-figure-1.png",
+      "width": 143,
+      "height": 233,
+      "assetSha256": "56d2b87240510ff619d3c58e25943c104cc496c32da412be69df60e4b9cff3b3"
+    },
+    {
+      "id": "hanguksa-textbook-page-42-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-42"
+      ],
+      "caption": "돌보습·반달 돌칼·쇠살포와 쇠삽날·쇠보습",
+      "alt": "돌보습·반달 돌칼·쇠살포와 쇠삽날·쇠보습",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_042_226s.jpg",
+        "rect": [
+          724,
+          111,
+          338,
+          96
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "02d8b4cc49daf23792fd6573c8331e3db959375ffde7aeb7b1f1ae53292ad539",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-42-figure-1.png",
+      "width": 338,
+      "height": 96,
+      "assetSha256": "ed88e230a198cfe1bbedda4f3cbe64664d065443db34d67465175b39490101e8"
+    },
+    {
+      "id": "hanguksa-textbook-page-46-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-46"
+      ],
+      "caption": "삼국 시대의 무덤: 굴식돌방무덤·벽돌무덤·돌무지덧널무덤",
+      "alt": "삼국 시대의 무덤: 굴식돌방무덤·벽돌무덤·돌무지덧널무덤",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_046_250s.jpg",
+        "rect": [
+          353,
+          181,
+          302,
+          101
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "0e23505570212924567ff3b88c422d81b724c7f8b07c3ac919cf80bb02e771a4",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-46-figure-1.png",
+      "width": 302,
+      "height": 101,
+      "assetSha256": "61c6146df6a95385f2d103f45787da3d971a40732ccdbd3b1d893b4c3199f8ff"
+    },
+    {
+      "id": "hanguksa-textbook-page-53-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-53"
+      ],
+      "caption": "신라 하대의 반란",
+      "alt": "신라 하대의 반란",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_053_296s.jpg",
+        "rect": [
+          925,
+          253,
+          127,
+          155
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4cacd5d7a942e1047c27882a75a0f9a21eecf28535a26d63e6179bfc38c6461e",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-53-figure-1.png",
+      "width": 127,
+      "height": 155,
+      "assetSha256": "8220820c36c0e880dcf5aed09300302e762f14b911feafcf09411789e7266fe1"
+    },
+    {
+      "id": "hanguksa-textbook-page-61-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-61"
+      ],
+      "caption": "무인상",
+      "alt": "무인상",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_061_345s.jpg",
+        "rect": [
+          358,
+          239,
+          51,
+          83
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f5675d40606ad005d8cd936fe63db5fa9ec458c632c8b9f34b97f43cd13aa97c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-61-figure-1.png",
+      "width": 51,
+      "height": 83,
+      "assetSha256": "b8abce6c913564ee27efbb0492e8a317a0ae33445379c30317e73d7151398eb4"
+    },
+    {
+      "id": "hanguksa-textbook-page-61-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-61"
+      ],
+      "caption": "12지신상",
+      "alt": "12지신상",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_061_345s.jpg",
+        "rect": [
+          430,
+          230,
+          151,
+          96
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f5675d40606ad005d8cd936fe63db5fa9ec458c632c8b9f34b97f43cd13aa97c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-61-figure-2.png",
+      "width": 151,
+      "height": 96,
+      "assetSha256": "9d656a1bae49bee9c6aa8d5b964800e5d990cf90bf8e6ef57c352fea8e94b867"
+    },
+    {
+      "id": "hanguksa-textbook-page-61-figure-3",
+      "noteIds": [
+        "hanguksa-textbook-page-61"
+      ],
+      "caption": "발해의 건국과 주변 정세",
+      "alt": "발해의 건국과 주변 정세",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_061_345s.jpg",
+        "rect": [
+          860,
+          390,
+          177,
+          172
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f5675d40606ad005d8cd936fe63db5fa9ec458c632c8b9f34b97f43cd13aa97c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-61-figure-3.png",
+      "width": 177,
+      "height": 172,
+      "assetSha256": "c0901ce4bca8677aa12ba7b2ee3edbf703d5719d78989fc70f698ad8e1aa1229"
+    },
+    {
+      "id": "hanguksa-textbook-page-64-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-64"
+      ],
+      "caption": "발해의 영역 팽창",
+      "alt": "발해의 영역 팽창",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_064_360s.jpg",
+        "rect": [
+          762,
+          92,
+          227,
+          229
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4406a8ff3ec970fcccdf1a919bc698e4cbf0c20cf210d9864ec8ecf9118ec1dc",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-64-figure-1.png",
+      "width": 227,
+      "height": 229,
+      "assetSha256": "2b526ff35f60a58106ed8d22486ee91f21b840ee8d25b5991ffd62316b6661b5"
+    },
+    {
+      "id": "hanguksa-textbook-page-66-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-66"
+      ],
+      "caption": "발해의 대외 교류",
+      "alt": "발해의 대외 교류",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_066_371s.jpg",
+        "rect": [
+          464,
+          397,
+          167,
+          186
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d71186363495f703f8dc4f5a1c85fef307d56d20f8477d2c974e020c16fc111c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-66-figure-1.png",
+      "width": 167,
+      "height": 186,
+      "assetSha256": "b7faca1ecc0dfc5789045798482aa08c486f80647ddb41ab29f0056151fd8db6"
+    },
+    {
+      "id": "hanguksa-textbook-page-66-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-66"
+      ],
+      "caption": "발해 이불병좌상",
+      "alt": "발해 이불병좌상",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_066_371s.jpg",
+        "rect": [
+          719,
+          250,
+          95,
+          149
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d71186363495f703f8dc4f5a1c85fef307d56d20f8477d2c974e020c16fc111c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-66-figure-2.png",
+      "width": 95,
+      "height": 149,
+      "assetSha256": "8dacbf272d219becc9bfc268f73f51bb8ef9254d128adf0cd91b0298941782e4"
+    },
+    {
+      "id": "hanguksa-textbook-page-66-figure-3",
+      "noteIds": [
+        "hanguksa-textbook-page-66"
+      ],
+      "caption": "발해 영광탑",
+      "alt": "발해 영광탑",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_066_371s.jpg",
+        "rect": [
+          833,
+          250,
+          103,
+          150
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d71186363495f703f8dc4f5a1c85fef307d56d20f8477d2c974e020c16fc111c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-66-figure-3.png",
+      "width": 103,
+      "height": 150,
+      "assetSha256": "de5c88ea12894ed11c993a922bc09d5d5f32da7ec075b24a886ca1e60cb4ea81"
+    },
+    {
+      "id": "hanguksa-textbook-page-66-figure-4",
+      "noteIds": [
+        "hanguksa-textbook-page-66"
+      ],
+      "caption": "발해 석등",
+      "alt": "발해 석등",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_066_371s.jpg",
+        "rect": [
+          946,
+          254,
+          59,
+          147
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d71186363495f703f8dc4f5a1c85fef307d56d20f8477d2c974e020c16fc111c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-66-figure-4.png",
+      "width": 59,
+      "height": 147,
+      "assetSha256": "71c76c76e4925b74107755e470fd68fd6a753b29eede7a211b4b50fa5b4e9ef8"
+    },
+    {
+      "id": "hanguksa-textbook-page-66-figure-5",
+      "noteIds": [
+        "hanguksa-textbook-page-66"
+      ],
+      "caption": "발해 상경성",
+      "alt": "발해 상경성",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_066_371s.jpg",
+        "rect": [
+          757,
+          410,
+          209,
+          165
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d71186363495f703f8dc4f5a1c85fef307d56d20f8477d2c974e020c16fc111c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-66-figure-5.png",
+      "width": 209,
+      "height": 165,
+      "assetSha256": "87987658b8736d13693ea821ece0901ab4ea64ae2dfefb102c4a6b593fe9d134"
+    },
+    {
+      "id": "hanguksa-textbook-page-68-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-68"
+      ],
+      "caption": "중국의 만리장성 확대 시도",
+      "alt": "중국의 만리장성 확대 시도",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_068_380s.jpg",
+        "rect": [
+          735,
+          388,
+          246,
+          166
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "5beb94c3cabd1db369bbef155bbff50196290f7f05ec5e1abfa4ccdb87977722",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-68-figure-1.png",
+      "width": 246,
+      "height": 166,
+      "assetSha256": "589db0344457e7b1ea1ca7d90eed8598690dd8e4f0bd8504b392c78847200425"
+    },
+    {
+      "id": "hanguksa-textbook-page-73-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-73"
+      ],
+      "caption": "고려의 영토 확장",
+      "alt": "고려의 영토 확장",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_073_408s.jpg",
+        "rect": [
+          501,
+          121,
+          133,
+          195
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "eac820db77c2b32f16c42a68cc7316683eaba40d509b5a133da1f49f23fdb937",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-73-figure-1.png",
+      "width": 133,
+      "height": 195,
+      "assetSha256": "d804d8ba403391b037c5ebb36f13ceb5c5060dbbb7e25c71119524bf23ac85d8"
+    },
+    {
+      "id": "hanguksa-textbook-page-80-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-80"
+      ],
+      "caption": "고려의 영토 수복",
+      "alt": "고려의 영토 수복",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_080_455s.jpg",
+        "rect": [
+          495,
+          180,
+          117,
+          160
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "686368f2ff6c6f126147c3ae18ca96e08d7f59919ad1291649d4dba4add302a2",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-80-figure-1.png",
+      "width": 117,
+      "height": 160,
+      "assetSha256": "984dd6f6703cd49abd4ddb074d702c634c4a864bf44a02e0146be32628f4166d"
+    },
+    {
+      "id": "hanguksa-textbook-page-91-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-91"
+      ],
+      "caption": "몽골의 침입과 항쟁",
+      "alt": "몽골의 침입과 항쟁",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_091_511s.jpg",
+        "rect": [
+          485,
+          296,
+          138,
+          190
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "cea6d5c811cf1e822ab9c7daa05ec6dab5f4da8696189d17495f46e8556782ef",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-91-figure-1.png",
+      "width": 138,
+      "height": 190,
+      "assetSha256": "2d05bd6b0712c0eb88613c5d0a5e4b64dc42f62d11b393df8dfb0de1d3da8e95"
+    },
+    {
+      "id": "hanguksa-textbook-page-124-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-124"
+      ],
+      "caption": "북방 영토의 개척",
+      "alt": "북방 영토의 개척",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_124_694s.jpg",
+        "rect": [
+          475,
+          435,
+          151,
+          161
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "19983606d2b9a1d46a54fdc062c7ab12c380e0cd1c816462acddd452af2220c0",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-124-figure-1.png",
+      "width": 151,
+      "height": 161,
+      "assetSha256": "d583244818e11fd25bb2981b3d5d910375625b3c0ba9aeb32781c65e50e9e32c"
+    },
+    {
+      "id": "hanguksa-textbook-page-144-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-144"
+      ],
+      "caption": "정묘호란과 병자호란",
+      "alt": "정묘호란과 병자호란",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_144_808s.jpg",
+        "rect": [
+          485,
+          265,
+          139,
+          214
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "42c346a8703852a8864fc98cb4d728830b46d444ad6d56bd339eccf292fbff9b",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-144-figure-1.png",
+      "width": 139,
+      "height": 214,
+      "assetSha256": "cf414cd56d3f80a8de3ae0deaf63afc238167853b282a5c0ffb5898eb8297f10"
+    },
+    {
+      "id": "hanguksa-textbook-page-177-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-177"
+      ],
+      "caption": "천하도",
+      "alt": "천하도",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_177_1003s.jpg",
+        "rect": [
+          288,
+          101,
+          122,
+          117
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9cf1b3bbf741eeab2943a5d47b0171000447a4a08e661099ba3c92e0c9cdd40d",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-177-figure-1.png",
+      "width": 122,
+      "height": 117,
+      "assetSha256": "c460f0d4a1abdfd048d57950b1709c5dd1269726775cf8b0950ebd858b020a0a"
+    },
+    {
+      "id": "hanguksa-textbook-page-177-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-177"
+      ],
+      "caption": "김정호의 지구전후도",
+      "alt": "김정호의 지구전후도",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_177_1003s.jpg",
+        "rect": [
+          414,
+          94,
+          201,
+          127
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9cf1b3bbf741eeab2943a5d47b0171000447a4a08e661099ba3c92e0c9cdd40d",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-177-figure-2.png",
+      "width": 201,
+      "height": 127,
+      "assetSha256": "67f167357f091205abba754caf31866c6c03e0d4dce834afdfc3c77ceb99c02b"
+    },
+    {
+      "id": "hanguksa-textbook-page-188-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-188"
+      ],
+      "caption": "동학의 확산과 교조 신원 운동",
+      "alt": "동학의 확산과 교조 신원 운동",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_188_1063s.jpg",
+        "rect": [
+          839,
+          248,
+          153,
+          176
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6ecf9776bb29466b07a382a75cbcdb3791ad7686b6d162dd354fb5f5e16e3827",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-188-figure-1.png",
+      "width": 153,
+      "height": 176,
+      "assetSha256": "512ee8f30c28644a078ae266023ed1cf7d8ec6975bfb4f12eb6bdcf01ab440d7"
+    },
+    {
+      "id": "hanguksa-textbook-page-227-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-227"
+      ],
+      "caption": "철도 건설",
+      "alt": "철도 건설",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_227_1255s.jpg",
+        "rect": [
+          868,
+          445,
+          121,
+          176
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "61fc6233d00118a37f8bc7d0a5ee8ebbfd9d17fda43543e647bd03a56d401126",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-227-figure-1.png",
+      "width": 121,
+      "height": 176,
+      "assetSha256": "2a977a5168bc6ca9839df9b72f45e6be22af8175379f8af812306483bab6c337"
+    },
+    {
+      "id": "hanguksa-textbook-page-228-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-228"
+      ],
+      "caption": "토지 조사 사업 이후 일제의 토지 약탈",
+      "alt": "토지 조사 사업 이후 일제의 토지 약탈",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_228_1261s.jpg",
+        "rect": [
+          849,
+          101,
+          153,
+          225
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "a5b3328140d3e1d65888e90b0ed53cd87d37a7cec89edb92ab2b6931efe7ae28",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-textbook-page-228-figure-1.png",
+      "width": 153,
+      "height": 225,
+      "assetSha256": "d8e2517c3f3c73938dda2a665a83a62f3eb71d7a45ebc68af307c191ef453843"
+    },
+    {
+      "id": "hanguksa-gichul-page-10-figure-1",
+      "noteIds": [
+        "hanguksa-gichul-page-10"
+      ],
+      "caption": "5세기 무렵 동아시아 정세",
+      "alt": "5세기 무렵 동아시아 정세",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_pages/page_010_123s.jpg",
+        "rect": [
+          620,
+          351,
+          302,
+          166
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1480f99d838787c90607ce1c7f253a0d33c636925c2ea51c75bb8066f7fad9f2",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-gichul-page-10-figure-1.png",
+      "width": 302,
+      "height": 166,
+      "assetSha256": "dee75d130a525d6880958020e8ba029b88b45366184f69a7d7e3581a99535993"
+    },
+    {
+      "id": "hanguksa-gichul-page-16-figure-1",
+      "noteIds": [
+        "hanguksa-gichul-page-16"
+      ],
+      "caption": "(가) 삼국 시대 외국으로 파견된 사신",
+      "alt": "(가) 삼국 시대 외국으로 파견된 사신",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_pages/page_016_229s.jpg",
+        "rect": [
+          345,
+          122,
+          116,
+          183
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e9aedffba8e003d688d85a7511e42311b3da2c835628a4bd61f438fe2574f3af",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-gichul-page-16-figure-1.png",
+      "width": 116,
+      "height": 183,
+      "assetSha256": "197d3319dae18c5f42d882ebd195de7f165d6eab942c332b427b94ba1de8247f"
+    },
+    {
+      "id": "hanguksa-gichul-page-16-figure-2",
+      "noteIds": [
+        "hanguksa-gichul-page-16"
+      ],
+      "caption": "(나) 삼국 시대 외국으로 파견된 사신",
+      "alt": "(나) 삼국 시대 외국으로 파견된 사신",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_pages/page_016_229s.jpg",
+        "rect": [
+          465,
+          124,
+          82,
+          180
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e9aedffba8e003d688d85a7511e42311b3da2c835628a4bd61f438fe2574f3af",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-gichul-page-16-figure-2.png",
+      "width": 82,
+      "height": 180,
+      "assetSha256": "9398203f1774335e563d5d537d59f6569fdfae7aa38e196dba3da66ccfc7680c"
+    },
+    {
+      "id": "hanguksa-gichul-page-16-figure-3",
+      "noteIds": [
+        "hanguksa-gichul-page-16"
+      ],
+      "caption": "백제·고구려 부흥 운동",
+      "alt": "백제·고구려 부흥 운동",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_pages/page_016_229s.jpg",
+        "rect": [
+          627,
+          316,
+          178,
+          231
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e9aedffba8e003d688d85a7511e42311b3da2c835628a4bd61f438fe2574f3af",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-gichul-page-16-figure-3.png",
+      "width": 178,
+      "height": 231,
+      "assetSha256": "9095d9b2be8fa31c6396411101c0e2cdfd82aa13810055f91698cae469ab793c"
+    },
+    {
+      "id": "hanguksa-gichul-page-16-figure-4",
+      "noteIds": [
+        "hanguksa-gichul-page-16"
+      ],
+      "caption": "나·당 전쟁",
+      "alt": "나·당 전쟁",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_pages/page_016_229s.jpg",
+        "rect": [
+          811,
+          329,
+          178,
+          227
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e9aedffba8e003d688d85a7511e42311b3da2c835628a4bd61f438fe2574f3af",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-gichul-page-16-figure-4.png",
+      "width": 178,
+      "height": 227,
+      "assetSha256": "da10aac1c6793640e790f40495da6739bffb9fec9d843ef80862dad39455d043"
+    },
+    {
+      "id": "hanguksa-gichul-page-41-figure-1",
+      "noteIds": [
+        "hanguksa-gichul-page-41"
+      ],
+      "caption": "문과 급제자·당상관·비변사 당상의 성관별 비중",
+      "alt": "문과 급제자·당상관·비변사 당상의 성관별 비중",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_pages/page_041_762s.jpg",
+        "rect": [
+          299,
+          125,
+          265,
+          150
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e7085d64a8b8791042411acdbdb8fd604030274117ed786cedc020049443c9f8",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-gichul-page-41-figure-1.png",
+      "width": 265,
+      "height": 150,
+      "assetSha256": "cfc4efb89264bbca839dafed7633341c93c3362d09da25bad929a89e20a76532"
+    },
+    {
+      "id": "hanguksa-gichul-page-60-figure-1",
+      "noteIds": [
+        "hanguksa-gichul-page-60"
+      ],
+      "caption": "기출 문항의 거점 지도",
+      "alt": "기출 문항의 거점 지도",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_pages/page_060_1125s.jpg",
+        "rect": [
+          398,
+          119,
+          272,
+          219
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "357352c5ff7dcc23b90fe4fd31ee4469150926b0904caa4044e31b41fa240273",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/hanguksa/hanguksa-gichul-page-60-figure-1.png",
+      "width": 272,
+      "height": 219,
+      "assetSha256": "e21d5e991e92db7056826621449e3881a7fb3d78d27f69c4795707e1058004db"
+    },
+    {
+      "id": "kice-exam-spread-25-crop-1",
+      "noteIds": [
+        "kice-exam-spread-25"
+      ],
+      "caption": "2025학년도 1차 전공B · 5면 · 문항 5 · 콜럼버스의 날을 둘러싼 뉴스 화면",
+      "kind": "diagram",
+      "alt": "2025학년도 1차 전공B · 5면 · 문항 5 · 콜럼버스의 날을 둘러싼 뉴스 화면",
+      "source": {
+        "imagePath": "kice_gichul_pages/2025_중등1차_역사_B/page_004.jpg",
+        "rect": [
+          949,
+          327,
+          501,
+          345
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "b8c0d29f50b13e1f1e5bd696e75cf434a7846702408814e49a8ae2d903a099f9",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-25-crop-1.png",
+      "width": 501,
+      "height": 345,
+      "assetSha256": "db7fa8eddc1199c37f425d762890031f172cb79c82e24edd2de658a15bd24b8d"
+    },
+    {
+      "id": "kice-exam-spread-35-crop-1",
+      "noteIds": [
+        "kice-exam-spread-35"
+      ],
+      "caption": "2024학년도 1차 전공A · 8면 · 문항 12 · 추념비 (B-1)",
+      "kind": "photo",
+      "alt": "2024학년도 1차 전공A · 8면 · 문항 12 · 추념비 (B-1)",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_A/page_007.jpg",
+        "rect": [
+          579,
+          1475,
+          209,
+          258
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "58771fef165ae109c40a9843293a08e04bb532feb9e6bd9d83a5d87abd164299",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-35-crop-1.png",
+      "width": 209,
+      "height": 258,
+      "assetSha256": "4fd7c39ac7c650ae25d043043cbf9c54809c57c505b0d113a32fb798e75e3e90"
+    },
+    {
+      "id": "kice-exam-spread-35-crop-2",
+      "noteIds": [
+        "kice-exam-spread-35"
+      ],
+      "caption": "2024학년도 1차 전공A · 8면 · 문항 12 · 추념비 (B-2)",
+      "kind": "photo",
+      "alt": "2024학년도 1차 전공A · 8면 · 문항 12 · 추념비 (B-2)",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_A/page_007.jpg",
+        "rect": [
+          572,
+          1805,
+          222,
+          177
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "58771fef165ae109c40a9843293a08e04bb532feb9e6bd9d83a5d87abd164299",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-35-crop-2.png",
+      "width": 222,
+      "height": 177,
+      "assetSha256": "9c46b4520f3a6b76879f09ce4f20574e2da0cdca2eb4a53dc2a8e52b69512867"
+    },
+    {
+      "id": "kice-exam-spread-37-crop-1",
+      "noteIds": [
+        "kice-exam-spread-37"
+      ],
+      "caption": "2024학년도 1차 전공B · 3면 · 문항 4 · 중갑보병 그림 (가)",
+      "kind": "diagram",
+      "alt": "2024학년도 1차 전공B · 3면 · 문항 4 · 중갑보병 그림 (가)",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_B/page_002.jpg",
+        "rect": [
+          900,
+          388,
+          594,
+          167
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "add8f8a5c7f79457d5252fa893fd9d59c2163e474ef84c908545338cb7d01e67",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-37-crop-1.png",
+      "width": 594,
+      "height": 167,
+      "assetSha256": "c467deaa952066484bbca018cd40951d02c2f0f38c8487c4e7ab5146c6de80c6"
+    },
+    {
+      "id": "kice-exam-spread-37-crop-2",
+      "noteIds": [
+        "kice-exam-spread-37"
+      ],
+      "caption": "2024학년도 1차 전공B · 3면 · 문항 4 · 삼단 노선 그림 (나)",
+      "kind": "diagram",
+      "alt": "2024학년도 1차 전공B · 3면 · 문항 4 · 삼단 노선 그림 (나)",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_B/page_002.jpg",
+        "rect": [
+          903,
+          888,
+          591,
+          315
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "add8f8a5c7f79457d5252fa893fd9d59c2163e474ef84c908545338cb7d01e67",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-37-crop-2.png",
+      "width": 591,
+      "height": 315,
+      "assetSha256": "0e8e435151d061d991910f42202e6da51466849cc215d330bd009899064a7545"
+    },
+    {
+      "id": "kice-exam-spread-39-crop-1",
+      "noteIds": [
+        "kice-exam-spread-39"
+      ],
+      "caption": "2024학년도 1차 전공B · 5면 · 문항 7 · 백신 접종 판화",
+      "kind": "diagram",
+      "alt": "2024학년도 1차 전공B · 5면 · 문항 7 · 백신 접종 판화",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_B/page_004.jpg",
+        "rect": [
+          324,
+          1286,
+          333,
+          264
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "cc7b815312ab4d866eae257a7fcd40bb8d3460fca39cbc6d6ab8463f3f7ea0d1",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-39-crop-1.png",
+      "width": 333,
+      "height": 264,
+      "assetSha256": "314e60f9de641995dce14aeb3e933112faa44d9ed64ed6e2dc9c18a18f3f846c"
+    },
+    {
+      "id": "kice-exam-spread-52-crop-1",
+      "noteIds": [
+        "kice-exam-spread-52"
+      ],
+      "caption": "2023학년도 1차 전공B · 4면 · 문항 4 · 9세기 후반 브리튼 제도",
+      "kind": "map",
+      "alt": "2023학년도 1차 전공B · 4면 · 문항 4 · 9세기 후반 브리튼 제도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2023_중등1차_역사_B/page_003.jpg",
+        "rect": [
+          385,
+          550,
+          290,
+          450
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "e2747965e80fe7e0afda4cea7c27b082e93f305e686cdbd8cbeeda9227aefc0f",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-52-crop-1.png",
+      "width": 290,
+      "height": 450,
+      "assetSha256": "9a0edd597a4c71746671a6cde65b3ccbaf3df05168705197ea4f9a273e337934"
+    },
+    {
+      "id": "kice-exam-spread-68-crop-1",
+      "noteIds": [
+        "kice-exam-spread-68"
+      ],
+      "caption": "2022학년도 1차 전공B · 7면 · 문항 11 · 전쟁을 종결지은 조약에 따른 유럽 지도",
+      "kind": "map",
+      "alt": "2022학년도 1차 전공B · 7면 · 문항 11 · 전쟁을 종결지은 조약에 따른 유럽 지도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2022_중등1차_역사_B/page_006.jpg",
+        "rect": [
+          896,
+          345,
+          602,
+          715
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "e663a5d5ddc1861f6f8a067f9e21fb3fc050ccbf85f47bf2e81444bfb1dc735b",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-68-crop-1.png",
+      "width": 602,
+      "height": 715,
+      "assetSha256": "ac6f94d263bc78d98e84608c25b30f4758da6b358f0500237fb11521d333494e"
+    },
+    {
+      "id": "kice-exam-spread-78-crop-1",
+      "noteIds": [
+        "kice-exam-spread-78"
+      ],
+      "caption": "2021학년도 1차 전공B · 4면 · 문항 6 · 20세기 초 상하이 조계도",
+      "kind": "map",
+      "alt": "2021학년도 1차 전공B · 4면 · 문항 6 · 20세기 초 상하이 조계도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2021_중등1차_역사_B/page_003.jpg",
+        "rect": [
+          1021,
+          1231,
+          359,
+          282
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "2f0d1a08af2528310de4a1b6bedaea3c249cd98629b9b3449b6c34960af31fe1",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-78-crop-1.png",
+      "width": 359,
+      "height": 282,
+      "assetSha256": "632931f383b995f28171a473734f8b9743eadccb32c76ddedbee7c467132b439"
+    },
+    {
+      "id": "kice-exam-spread-85-crop-1",
+      "noteIds": [
+        "kice-exam-spread-85"
+      ],
+      "caption": "2020학년도 1차 전공A · 5면 · 문항 8 · 12세기 중엽 이베리아 반도",
+      "kind": "map",
+      "alt": "2020학년도 1차 전공A · 5면 · 문항 8 · 12세기 중엽 이베리아 반도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2020_중등1차_역사_A/page_004.jpg",
+        "rect": [
+          949,
+          1324,
+          547,
+          460
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "7559c8f13272161fc674236de945adcc4d91b638bc85e1532e6e924743c76727",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-85-crop-1.png",
+      "width": 547,
+      "height": 460,
+      "assetSha256": "f6a94e134679387119ed0f67b8dc517cd66febe999b8b623a9eb9b25af099f3a"
+    },
+    {
+      "id": "kice-exam-spread-99-crop-1",
+      "noteIds": [
+        "kice-exam-spread-99"
+      ],
+      "caption": "2019학년도 1차 전공A · 5면 · 문항 11 · 조약의 결과로 재편된 유럽 지도",
+      "kind": "map",
+      "alt": "2019학년도 1차 전공A · 5면 · 문항 11 · 조약의 결과로 재편된 유럽 지도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2019_중등1차_역사_A/page_004.jpg",
+        "rect": [
+          905,
+          393,
+          587,
+          622
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "c15e7161bc55c8a819c632ae8846ab9f713460df1e191f4ad752517727ad627d",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-99-crop-1.png",
+      "width": 587,
+      "height": 622,
+      "assetSha256": "d480562fc97827c1e4839a9194f33f7e9d4d533a9eb21f17314f04627c0c7607"
+    },
+    {
+      "id": "kice-exam-spread-108-crop-1",
+      "noteIds": [
+        "kice-exam-spread-108"
+      ],
+      "caption": "2018학년도 1차 전공A · 4면 · 문항 8 · 백년전쟁 초기의 지도",
+      "kind": "map",
+      "alt": "2018학년도 1차 전공A · 4면 · 문항 8 · 백년전쟁 초기의 지도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2018_중등1차_역사_A/page_003.jpg",
+        "rect": [
+          225,
+          695,
+          562,
+          581
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "f4fe574233874ef9c2ee6ae31ec44610337126f1e6e7507d7a1e0b5d26de0cae",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-108-crop-1.png",
+      "width": 562,
+      "height": 581,
+      "assetSha256": "a0e9ece983eea99ae0d9036718cb1269f35bbe78ecc1af0d54bfb817bfcd78d8"
+    },
+    {
+      "id": "kice-exam-spread-110-crop-1",
+      "noteIds": [
+        "kice-exam-spread-110"
+      ],
+      "caption": "2018학년도 1차 전공A · 6면 · 문항 14 · 1600년경 에스파냐령 아메리카",
+      "kind": "map",
+      "alt": "2018학년도 1차 전공A · 6면 · 문항 14 · 1600년경 에스파냐령 아메리카",
+      "source": {
+        "imagePath": "kice_gichul_pages/2018_중등1차_역사_A/page_005.jpg",
+        "rect": [
+          999,
+          1020,
+          420,
+          562
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "6ee112d12e5f1f80841bc703b44b82ed2e9e79dc655bf6fc0fb40b158671f480",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-110-crop-1.png",
+      "width": 420,
+      "height": 562,
+      "assetSha256": "dbd16058f56c8f3c47ec4008517c2c66b1ec27c484b6134e05f9de25ed222877"
+    },
+    {
+      "id": "kice-exam-spread-120-crop-1",
+      "noteIds": [
+        "kice-exam-spread-120"
+      ],
+      "caption": "2017학년도 1차 전공B · 3면 · 문항 4 · 원정군의 진격로",
+      "kind": "map",
+      "alt": "2017학년도 1차 전공B · 3면 · 문항 4 · 원정군의 진격로",
+      "source": {
+        "imagePath": "kice_gichul_pages/2017_중등1차_역사_B/page_002.jpg",
+        "rect": [
+          903,
+          509,
+          591,
+          382
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "c00ba541e322d91bec2c346049fabcc57c968531e118e517f40df69084d1a0cf",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-120-crop-1.png",
+      "width": 591,
+      "height": 382,
+      "assetSha256": "93a948962e582e335fc46e780aec6de2cddb062592c07f0b1c10ec6b6f793401"
+    },
+    {
+      "id": "kice-exam-spread-189-crop-1",
+      "noteIds": [
+        "kice-exam-spread-189"
+      ],
+      "caption": "2011학년도 1차 문제 · 2면 · 문항 4 · 조선총독부 건물",
+      "kind": "photo",
+      "alt": "2011학년도 1차 문제 · 2면 · 문항 4 · 조선총독부 건물",
+      "source": {
+        "imagePath": "kice_gichul_pages/2011_중등1차_역사/page_002.jpg",
+        "rect": [
+          502,
+          489,
+          223,
+          137
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "1a983c4fdd25c0668ac06f294388ea47e56e443d7182b935280cd390d21ea99c",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/kice/kice-exam-spread-189-crop-1.png",
+      "width": 223,
+      "height": 137,
+      "assetSha256": "123ef692831ed9c45df356367f89d2994abd8fbbce035cfe1480b7d85e953a6b"
+    },
+    {
+      "id": "seoyangsa-p314-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-314"
+      ],
+      "caption": "선상문자 A",
+      "kind": "diagram",
+      "alt": "선상문자 A — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_314_146s.jpg",
+        "rect": [
+          202,
+          374,
+          173,
+          125
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ed6bdb80640311d2da419df552562263af3d5aa3bfb74d0d0434802eb4328839",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p314-figure-1.png",
+      "width": 173,
+      "height": 125,
+      "assetSha256": "89fbf10cf92dc772055f9fe0aa32c9d7d7ee0cb29e38c90faa60116a89bd316c"
+    },
+    {
+      "id": "seoyangsa-p314-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-314"
+      ],
+      "caption": "선상문자 B",
+      "kind": "diagram",
+      "alt": "선상문자 B — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_314_146s.jpg",
+        "rect": [
+          373,
+          351,
+          168,
+          133
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ed6bdb80640311d2da419df552562263af3d5aa3bfb74d0d0434802eb4328839",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p314-figure-2.png",
+      "width": 168,
+      "height": 133,
+      "assetSha256": "2fdcc134b928f4a68ac749aaf6a42f9e07c29daefd5f97854d4a733465ca686e"
+    },
+    {
+      "id": "seoyangsa-p303-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-303"
+      ],
+      "caption": "트로이 전쟁 진출도",
+      "kind": "map",
+      "alt": "트로이 전쟁 진출도 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_303_150s.jpg",
+        "rect": [
+          601,
+          283,
+          302,
+          211
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "02531401ffa92cdf0830debaef50f054266c147e739bd5e8bed2da6dadf8aeae",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p303-figure-1.png",
+      "width": 302,
+      "height": 211,
+      "assetSha256": "97ddf25e4cb88d0d37dc5f33410a9324e6d792501985422a32504a29128be5d5"
+    },
+    {
+      "id": "seoyangsa-p22-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-22"
+      ],
+      "caption": "폴리스의 구조",
+      "kind": "diagram",
+      "alt": "폴리스의 구조 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_022_165s.jpg",
+        "rect": [
+          156,
+          85,
+          366,
+          179
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "52a6530a0be1b10b08a57bc009722498513626e328d80d2b3bb6f2fa0348bff3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p22-figure-1.png",
+      "width": 366,
+      "height": 179,
+      "assetSha256": "0365d8f0199cd75dddc17dae119cb851f4f39ba9f7839626d89385f04c8950e6"
+    },
+    {
+      "id": "seoyangsa-p22-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-22"
+      ],
+      "caption": "아크로폴리스",
+      "kind": "photo",
+      "alt": "아크로폴리스 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_022_165s.jpg",
+        "rect": [
+          173,
+          257,
+          173,
+          114
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "52a6530a0be1b10b08a57bc009722498513626e328d80d2b3bb6f2fa0348bff3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p22-figure-2.png",
+      "width": 173,
+      "height": 114,
+      "assetSha256": "991403dcf634554c2a428324f36f11dac7bcfd0c1527fb5fdeafee272f190c25"
+    },
+    {
+      "id": "seoyangsa-p22-figure-3",
+      "noteIds": [
+        "seoyangsa-textbook-page-22"
+      ],
+      "caption": "아고라",
+      "kind": "photo",
+      "alt": "아고라 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_022_165s.jpg",
+        "rect": [
+          344,
+          246,
+          181,
+          115
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "52a6530a0be1b10b08a57bc009722498513626e328d80d2b3bb6f2fa0348bff3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p22-figure-3.png",
+      "width": 181,
+      "height": 115,
+      "assetSha256": "f19e73a7db4a595688830e7673b39d785f237420ea07af5b9107b9ad7143eab7"
+    },
+    {
+      "id": "seoyangsa-p23-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-23"
+      ],
+      "caption": "그리스인과 페니키아인의 식민활동",
+      "kind": "map",
+      "alt": "그리스인과 페니키아인의 식민활동 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_023_174s.jpg",
+        "rect": [
+          257,
+          213,
+          247,
+          179
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "5bb4ba30808d5c99c0b9bb1fd02ab5b6fc63bd7f2e318178467eee1cdb917529",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p23-figure-1.png",
+      "width": 247,
+      "height": 179,
+      "assetSha256": "5583a352b8a3348c5bb800186959e94c451b952096c65e574418ad844d40ef22"
+    },
+    {
+      "id": "seoyangsa-p331-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-331"
+      ],
+      "caption": "페리클레스 시대에 건설된 신전",
+      "kind": "photo",
+      "alt": "페리클레스 시대에 건설된 신전 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_331_254s.jpg",
+        "rect": [
+          646,
+          485,
+          165,
+          126
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "2cc1c53562fe8cdac69caebf5008629471544d11b25ebc9bafe1be1e9e8d17f3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p331-figure-1.png",
+      "width": 165,
+      "height": 126,
+      "assetSha256": "1517fe5f290dabe2d6e802d962b9d15e0d4b21e97c8c6868ecac4885c6578099"
+    },
+    {
+      "id": "seoyangsa-p331-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-331"
+      ],
+      "caption": "철학자 아낙사고라스와 토론하는 페리클레스",
+      "kind": "photo",
+      "alt": "철학자 아낙사고라스와 토론하는 페리클레스 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_331_254s.jpg",
+        "rect": [
+          811,
+          480,
+          144,
+          128
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "2cc1c53562fe8cdac69caebf5008629471544d11b25ebc9bafe1be1e9e8d17f3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p331-figure-2.png",
+      "width": 144,
+      "height": 128,
+      "assetSha256": "021e87811c6eb7bb5ca2317de80c996d40a45b294bde80dc1bfab47de848bc4d"
+    },
+    {
+      "id": "seoyangsa-p31-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-31"
+      ],
+      "caption": "레욱트라 전투",
+      "kind": "map",
+      "alt": "레욱트라 전투 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_031_269s.jpg",
+        "rect": [
+          249,
+          503,
+          281,
+          165
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "25048778be1444e92b855acd80688d9015b418d08bc3b9b12358b59c07b8c6fc",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p31-figure-1.png",
+      "width": 281,
+      "height": 165,
+      "assetSha256": "6df66e83cd7b8eefdc0f236912ca511b31c8dede77ce9a35f58ef4f3f20bb0fb"
+    },
+    {
+      "id": "seoyangsa-p266-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-266"
+      ],
+      "caption": "파르테논 신전",
+      "kind": "photo",
+      "alt": "파르테논 신전 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_266_288s.jpg",
+        "rect": [
+          416,
+          117,
+          155,
+          133
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1d78cdaf773ccd54849dc783695924cc86158bf9bb52876fd74b2c5f08a061ca",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p266-figure-1.png",
+      "width": 155,
+      "height": 133,
+      "assetSha256": "392feced29b64b66e8175fd631fc2906858b41abb63f4f4b8d1371fc49134d84"
+    },
+    {
+      "id": "seoyangsa-p24-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-24"
+      ],
+      "caption": "파르테논 신전",
+      "kind": "photo",
+      "alt": "파르테논 신전 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_024_290s.jpg",
+        "rect": [
+          416,
+          117,
+          155,
+          133
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "bd8ef7c1fee1507c7adcb91448a8ef49919aa11fdf78a1b92e6b300baf37a2b3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p24-figure-1.png",
+      "width": 155,
+      "height": 133,
+      "assetSha256": "e0e50a491c886387db0712043b3764f0d6cc22dbcc681fadc5ce1f7a077deef6"
+    },
+    {
+      "id": "seoyangsa-p266-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-266"
+      ],
+      "caption": "고대 그리스 건축의 요소",
+      "kind": "diagram",
+      "alt": "고대 그리스 건축의 요소 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_266_288s.jpg",
+        "rect": [
+          202,
+          258,
+          372,
+          163
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1d78cdaf773ccd54849dc783695924cc86158bf9bb52876fd74b2c5f08a061ca",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p266-figure-2.png",
+      "width": 372,
+      "height": 163,
+      "assetSha256": "6371cb163b248f947d783e9410c03d4ac188d8fc5a9cd154b085715f69549ba4"
+    },
+    {
+      "id": "seoyangsa-p24-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-24"
+      ],
+      "caption": "고대 그리스 건축의 요소",
+      "kind": "diagram",
+      "alt": "고대 그리스 건축의 요소 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_024_290s.jpg",
+        "rect": [
+          202,
+          258,
+          372,
+          163
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "bd8ef7c1fee1507c7adcb91448a8ef49919aa11fdf78a1b92e6b300baf37a2b3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p24-figure-2.png",
+      "width": 372,
+      "height": 163,
+      "assetSha256": "8d87b0bb9e81dd72f98c64db0c57fcf568a188d7e555ba8d8d6745db444f0a2c"
+    },
+    {
+      "id": "seoyangsa-p266-figure-3",
+      "noteIds": [
+        "seoyangsa-textbook-page-266"
+      ],
+      "caption": "도리아·이오니아·코린트 양식 비교",
+      "kind": "diagram",
+      "alt": "도리아·이오니아·코린트 양식 비교 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_266_288s.jpg",
+        "rect": [
+          216,
+          420,
+          361,
+          246
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1d78cdaf773ccd54849dc783695924cc86158bf9bb52876fd74b2c5f08a061ca",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p266-figure-3.png",
+      "width": 361,
+      "height": 246,
+      "assetSha256": "c67e67aa8667e25cdb91693394a463456bf23a5a2e39ad1c7c2461a3b30097aa"
+    },
+    {
+      "id": "seoyangsa-p24-figure-3",
+      "noteIds": [
+        "seoyangsa-textbook-page-24"
+      ],
+      "caption": "도리아·이오니아·코린트 양식 비교",
+      "kind": "diagram",
+      "alt": "도리아·이오니아·코린트 양식 비교 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_024_290s.jpg",
+        "rect": [
+          216,
+          420,
+          361,
+          246
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "bd8ef7c1fee1507c7adcb91448a8ef49919aa11fdf78a1b92e6b300baf37a2b3",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p24-figure-3.png",
+      "width": 361,
+      "height": 246,
+      "assetSha256": "12081f17a3c3eb72a0c03cd19821a5ba3f7345572188059d0563fd125e034fbc"
+    },
+    {
+      "id": "seoyangsa-p267-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-267"
+      ],
+      "caption": "알렉산드로스의 동방 원정",
+      "kind": "map",
+      "alt": "알렉산드로스의 동방 원정 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_267_318s.jpg",
+        "rect": [
+          578,
+          282,
+          328,
+          192
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "37aa0e55d8d0bce27b7ef989f6c66b3f4dfeb26730d52a7a912b15b844c26c82",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p267-figure-1.png",
+      "width": 328,
+      "height": 192,
+      "assetSha256": "cf09d25983567593d6cbda4eab9a595395032a849dce7e81b857c5e12c9fa3cc"
+    },
+    {
+      "id": "seoyangsa-p52-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-52"
+      ],
+      "caption": "기독교의 전파",
+      "kind": "map",
+      "alt": "기독교의 전파 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_052_555s.jpg",
+        "rect": [
+          626,
+          318,
+          236,
+          186
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "49120fa96f24f79d466cfcddc7ce4b69e5c5b1d41c4c7e5b2cdd63024fd95049",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p52-figure-1.png",
+      "width": 236,
+      "height": 186,
+      "assetSha256": "8c5d7e5ec79850a2d83c8d7f39998f34ef144ace39117a424ab979e40fb51ada"
+    },
+    {
+      "id": "seoyangsa-p63-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-63"
+      ],
+      "caption": "노르만족의 이동과 마자르족의 이동",
+      "kind": "map",
+      "alt": "노르만족의 이동과 마자르족의 이동 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_063_687s.jpg",
+        "rect": [
+          183,
+          282,
+          378,
+          165
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e11719bea65058c2afd03b63443e2c1bfc3457dfa9d547765069ad63e57fc6e6",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p63-figure-1.png",
+      "width": 378,
+      "height": 165,
+      "assetSha256": "4fc3fbce27855e7e9019ecaf5fea8362ea5df6135e010006ca2b8c6a3cee3bb5"
+    },
+    {
+      "id": "seoyangsa-p63-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-63"
+      ],
+      "caption": "서유럽과 비잔틴 제국 비교",
+      "kind": "table",
+      "alt": "서유럽과 비잔틴 제국 비교 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_063_687s.jpg",
+        "rect": [
+          608,
+          388,
+          349,
+          116
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e11719bea65058c2afd03b63443e2c1bfc3457dfa9d547765069ad63e57fc6e6",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p63-figure-2.png",
+      "width": 349,
+      "height": 116,
+      "assetSha256": "96cafeebe28aee1dbc961bef6a56c23912a4429167b4f021665872268a0d0ae6"
+    },
+    {
+      "id": "seoyangsa-p64-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-64"
+      ],
+      "caption": "6세기 비잔틴 제국의 발전",
+      "kind": "map",
+      "alt": "6세기 비잔틴 제국의 발전 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_064_696s.jpg",
+        "rect": [
+          294,
+          470,
+          228,
+          151
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f49be2ab9f2a57c1fdfce31b6a5c0e136b996827f7d0d92df0d7385afc816032",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p64-figure-1.png",
+      "width": 228,
+      "height": 151,
+      "assetSha256": "4978786abaccfaa37f65984c7e241ea50c3c731f2188072836acaa053060bc67"
+    },
+    {
+      "id": "seoyangsa-p64-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-64"
+      ],
+      "caption": "군관구제의 확산",
+      "kind": "map",
+      "alt": "군관구제의 확산 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_064_696s.jpg",
+        "rect": [
+          598,
+          348,
+          356,
+          136
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f49be2ab9f2a57c1fdfce31b6a5c0e136b996827f7d0d92df0d7385afc816032",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p64-figure-2.png",
+      "width": 356,
+      "height": 136,
+      "assetSha256": "82d76e8e7f098f7dcc04f30535e073bbd8c3e448f4362781fe79c369306be8f5"
+    },
+    {
+      "id": "seoyangsa-p70-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-70"
+      ],
+      "caption": "앵글로색슨 왕국과 데인로",
+      "kind": "map",
+      "alt": "앵글로색슨 왕국과 데인로 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_070_744s.jpg",
+        "rect": [
+          723,
+          330,
+          172,
+          231
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "20b5074cb1857baad63caaeedee7872510ff2f912dbac5136cd3c911d31c1c67",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p70-figure-1.png",
+      "width": 172,
+      "height": 231,
+      "assetSha256": "58cbaa6655bb267148191eb76ca36875015ebcf3e735d69f1c7ce53dd40438d6"
+    },
+    {
+      "id": "seoyangsa-p333-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-333",
+        "seoyangsa-textbook-page-74"
+      ],
+      "caption": "11세기 동유럽",
+      "kind": "map",
+      "alt": "11세기 동유럽 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_333_778s.jpg",
+        "rect": [
+          181,
+          334,
+          261,
+          244
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6bb06e3f176e9b9fc014d88a0aa22d868069c4abac4ecee71e638dee185e34f4",
+        "alternateSourceNoteId": "seoyangsa-textbook-page-333",
+        "alternateFor": [
+          {
+            "noteId": "seoyangsa-textbook-page-74",
+            "originalImagePath": "seoyangsa_pages/page_074_774s.jpg",
+            "matchedPrintedPages": [
+              178
+            ],
+            "reviewStatus": "visually-verified-same-printed-pages",
+            "figurePrintedPage": 178,
+            "verificationNote": "두 프레임의 왼쪽 인쇄178쪽 본문·11세기 동유럽 지도를 직접 대조함. 원래 카드의 손가림 없는 동일 펼침 프레임을 사용."
+          }
+        ],
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p333-figure-1.png",
+      "width": 261,
+      "height": 244,
+      "assetSha256": "3631241ca028ad7459c444ea731a24802e871ca4bded4660d1c7d2837984328b"
+    },
+    {
+      "id": "seoyangsa-p333-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-333"
+      ],
+      "caption": "중세 교회의 발전 핵심 개념 구조도",
+      "kind": "diagram",
+      "alt": "중세 교회의 발전 핵심 개념 구조도 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_333_778s.jpg",
+        "rect": [
+          546,
+          199,
+          378,
+          287
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6bb06e3f176e9b9fc014d88a0aa22d868069c4abac4ecee71e638dee185e34f4",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p333-figure-2.png",
+      "width": 378,
+      "height": 287,
+      "assetSha256": "6da22c861125d97ed00f2e1d067525ec7247d6dd447249c9944eabe6e6352cd5"
+    },
+    {
+      "id": "seoyangsa-p330-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-330"
+      ],
+      "caption": "포르투갈과 에스파냐의 항해 경로",
+      "kind": "map",
+      "alt": "포르투갈과 에스파냐의 항해 경로 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_330_1208s.jpg",
+        "rect": [
+          232,
+          249,
+          300,
+          211
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "30c0bf6de00e29ee95894918eaf433e611efc844c8d88142cdc8fb1a317a0065",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p330-figure-1.png",
+      "width": 300,
+      "height": 211,
+      "assetSha256": "2b12e462645ea9b5632a0617dfadf551bc2f70754bdf38b6b2e9e74f3f46830e"
+    },
+    {
+      "id": "seoyangsa-p330-figure-2",
+      "noteIds": [
+        "seoyangsa-textbook-page-330"
+      ],
+      "caption": "카라벨",
+      "kind": "photo",
+      "alt": "카라벨 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_330_1208s.jpg",
+        "rect": [
+          229,
+          463,
+          99,
+          90
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "30c0bf6de00e29ee95894918eaf433e611efc844c8d88142cdc8fb1a317a0065",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p330-figure-2.png",
+      "width": 99,
+      "height": 90,
+      "assetSha256": "ea28573bb349b7ca447f94048aa07d67e3cb4acf8c6159c4eab1267508dc79d7"
+    },
+    {
+      "id": "seoyangsa-p330-figure-3",
+      "noteIds": [
+        "seoyangsa-textbook-page-330"
+      ],
+      "caption": "항해 기구 — 원문 표기: 아스트롤라베(육분의)",
+      "kind": "photo",
+      "alt": "항해 기구 — 원문 표기: 아스트롤라베(육분의) — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_330_1208s.jpg",
+        "rect": [
+          395,
+          464,
+          135,
+          96
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "30c0bf6de00e29ee95894918eaf433e611efc844c8d88142cdc8fb1a317a0065",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p330-figure-3.png",
+      "width": 135,
+      "height": 96,
+      "assetSha256": "f96686a51940b084fe463e5007f22edc52f6c57eea322e03ffd485698722b677"
+    },
+    {
+      "id": "seoyangsa-p330-figure-4",
+      "noteIds": [
+        "seoyangsa-textbook-page-330"
+      ],
+      "caption": "동남아시아 해역과 말라카 해협",
+      "kind": "map",
+      "alt": "동남아시아 해역과 말라카 해협 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_330_1208s.jpg",
+        "rect": [
+          580,
+          545,
+          358,
+          155
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "30c0bf6de00e29ee95894918eaf433e611efc844c8d88142cdc8fb1a317a0065",
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p330-figure-4.png",
+      "width": 358,
+      "height": 155,
+      "assetSha256": "4b27164c8f899e85a6605a6e0c2835e408df4dd95588b9e39d605008946c7b31"
+    },
+    {
+      "id": "seoyangsa-p3-figure-1",
+      "noteIds": [
+        "seoyangsa-textbook-page-3",
+        "seoyangsa-textbook-page-77"
+      ],
+      "caption": "이탈리아의 통일",
+      "kind": "map",
+      "alt": "이탈리아의 통일 — 교재 원본에서 잘라낸 그림 영역",
+      "source": {
+        "imagePath": "seoyangsa_pages/page_003_1909s.jpg",
+        "rect": [
+          790,
+          241,
+          143,
+          177
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d5415e89de0b5f7f10ed98e0de1b2b30dce44cc8dc66545979f9e7be17e298fe",
+        "alternateSourceNoteId": "seoyangsa-textbook-page-3",
+        "alternateFor": [
+          {
+            "noteId": "seoyangsa-textbook-page-77",
+            "originalImagePath": "seoyangsa_pages/page_077_1918s.jpg",
+            "matchedPrintedPages": [
+              443
+            ],
+            "verifiedOriginalPrintedPages": [
+              442,
+              443
+            ],
+            "sourceLabelCorrection": "원문 배지는 442쪽이나 원본 사진의 펼침은 442–443쪽이며 지도는 오른쪽 443쪽",
+            "reviewStatus": "visually-verified-same-printed-pages",
+            "figurePrintedPage": 443,
+            "verificationNote": "page_077_1918s.jpg와 page_003_1909s.jpg의 왼쪽 인쇄442쪽 본문 및 오른쪽 이탈리아 통일 지도를 직접 대조함. 원래 프레임에서는 지도 북부가 손에 가려지지만 하단의 국경·색상·범례가 일치함. 선명한 대체 프레임의 오른쪽 인쇄443쪽도 직접 확인함. 원래 카드의 '442쪽' 배지는 보존하고 실제 그림의443쪽 대응만 별도로 기록함."
+          }
+        ],
+        "commit": "c27126b8b11008d96bdca159e534fbb6ec564f2b"
+      },
+      "reviewStatus": "visually-verified",
+      "src": "/figures/seoyangsa/seoyangsa-p3-figure-1.png",
+      "width": 143,
+      "height": 177,
+      "assetSha256": "11a75383058359fac3ff5635a0f37640baa31116e63cdbfce9542b7f08adb51f"
+    }
+  ]
+}

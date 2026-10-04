@@ -2,69 +2,89 @@ import { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import Chrome from "./Chrome.jsx";
 import { formatNote } from "./noteFormat.jsx";
+import { sourceUrl, useJsonArray, useSubject } from "./subjects.jsx";
+import { useGuide } from "./guide-mode.jsx";
+import SourceIssues from "./SourceIssues.jsx";
+import FigureGallery from "./FigureGallery.jsx";
 
 export default function Viewer() {
-  const [search] = useSearchParams();
-  const [notes, setNotes] = useState([]);
-  const [i, setI] = useState(0);
+  const [search, setSearch] = useSearchParams();
+  const { dataFile } = useSubject();
+  const { data: notes, loading, error } = useJsonArray(dataFile("notes"));
+  const guide = useGuide();
   const [zoom, setZoom] = useState(false);
-
-  useEffect(() => {
-    fetch("/data/notes.json").then((r) => r.json()).then(setNotes);
-  }, []);
-
-  useEffect(() => {
-    const found = notes.findIndex(n => n.id === search.get("page"));
-    if (found >= 0) setI(found);
-  }, [notes, search]);
+  const [failedImage, setFailedImage] = useState("");
+  const selectedPage = guide ? null : search.get("page");
+  const found = notes.findIndex(note => note.id === selectedPage);
+  const idx = found < 0 ? 0 : found;
+  const n = notes[idx];
+  function show(index) {
+    if (!notes.length) return;
+    const next = notes[((index % notes.length) + notes.length) % notes.length];
+    setSearch(current => { const params = new URLSearchParams(current); params.set("page", next.id); return params; });
+    setZoom(false);
+  }
 
   useEffect(() => {
     const onKey = (e) => {
-      if (e.defaultPrevented || e.target.closest("input, textarea, [role=dialog]")) return;
       if (e.key === "Escape") setZoom(false);
-      if (e.key === "ArrowRight") setI((n) => n + 1);
-      if (e.key === "ArrowLeft") setI((n) => n - 1);
+      if (e.defaultPrevented || e.target.closest?.("input, textarea, select, dialog, [role=dialog]")) return;
+      if (e.key === "ArrowRight") show(idx + 1);
+      if (e.key === "ArrowLeft") show(idx - 1);
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, []);
+  }, [idx, notes, setSearch]);
 
-  if (!notes.length) return <Chrome title="뷰어">불러오는 중</Chrome>;
-  const idx = ((i % notes.length) + notes.length) % notes.length;
-  const n = notes[idx];
+  useEffect(() => setZoom(false), [n?.id]);
+
+  if (loading) return <Chrome title="뷰어"><p role="status">자료를 불러오는 중…</p></Chrome>;
+  if (error) return <Chrome title="뷰어"><p role="alert">{error}</p></Chrome>;
+  if (!n) return <Chrome title="뷰어"><p>표시할 자료가 없습니다.</p></Chrome>;
+  const imageUrl = n.img ? sourceUrl(n.img) || `/pages/${encodeURIComponent(n.img)}` : null;
+  const original = sourceUrl(n.sourceUrl || n.source?.url);
 
   return (
     <Chrome title="뷰어">
+      {selectedPage && found < 0 && <p role="status">선택한 페이지를 찾을 수 없어 첫 자료를 표시합니다.</p>}
       <div className="viewer">
         <aside className="side">
           {notes.map((item, k) => (
-            <button key={item.id} className={k === idx ? "on" : ""} type="button" onClick={() => setI(k)}>
+            <button key={item.id} className={k === idx ? "on" : ""} aria-current={k === idx ? "page" : undefined} type="button" onClick={() => show(k)}>
               {item.title}
             </button>
           ))}
         </aside>
         <section className="spread" data-guide="spread">
           <div className="row">
-            <button className="ghost" type="button" onClick={() => setI(idx - 1)}>이전</button>
-            <button className="ghost" type="button" onClick={() => setI(idx + 1)}>다음</button>
+            <button className="ghost" type="button" onClick={() => show(idx - 1)}>이전</button>
+            <button className="ghost" type="button" onClick={() => show(idx + 1)}>다음</button>
             <span className="mono muted">{idx + 1} / {notes.length}</span>
           </div>
           <h1>{n.title}</h1>
+          <SourceIssues item={n} />
+          {!guide && <div className="source-actions">
+            {n.figures?.length > 0 && <a className="source-link" href="#figures">사진·지도·도표 {n.figures.length}개 보기 ↓</a>}
+            {original && <a className="source-link" href={original} target="_blank" rel="noreferrer">원문 출처 열기 ↗</a>}
+          </div>}
           <div className="page-grid">
             <div data-guide="note-text" className="hand" dangerouslySetInnerHTML={{ __html: formatNote(n.text) }} />
-            <img
+            <FigureGallery key={n.id} figures={n.figures} id="figures" />
+            {imageUrl && failedImage !== imageUrl ? <img
               data-guide="page-img"
               className="page-img"
-              src={`/pages/${n.img}`}
+              src={imageUrl}
               alt={n.title}
               onClick={() => setZoom(true)}
-            />
+              onError={() => setFailedImage(imageUrl)}
+            /> : imageUrl && <p className="muted source-hint">이미지를 불러오지 못했습니다.{original && <> <a href={original} target="_blank" rel="noreferrer">원문 출처 보기 ↗</a></>}</p>}
           </div>
         </section>
       </div>
-      {zoom && (
-        <div className="lightbox" onClick={() => setZoom(false)}>
-          <img src={`/pages/${n.img}`} alt={n.title} />
+      {zoom && imageUrl && (
+        <div className="lightbox" role="dialog" aria-label="원문 이미지 확대" aria-modal="true" onClick={() => setZoom(false)}>
+          <button type="button" className="lightbox-close" onClick={() => setZoom(false)}>닫기</button>
+          <img src={imageUrl} alt={n.title} />
         </div>
       )}
     </Chrome>

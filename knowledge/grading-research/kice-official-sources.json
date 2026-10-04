@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "scope": "평가원 1차 시험 공식 안내와 문제지 표지 응시자 유의사항",
+  "accessedDate": "2026-10-03",
+  "summary": {
+    "attemptedSources": 2,
+    "primaryContentUsed": 2,
+    "officialExamRubricsFound": 0
+  },
+  "sources": [
+    {
+      "id": "kice-secondary-exam-guide",
+      "title": "중등교사 임용시험 안내(시험 과목·출제·채점)",
+      "url": "https://kice.re.kr/sub/info.do?m=010602&s=kice",
+      "publisher": "한국교육과정평가원",
+      "author": "한국교육과정평가원",
+      "publishedDate": null,
+      "dateEvidence": "상시 안내 페이지. 교육과정 출제 범위에 2026-01-21 고시가 반영되어 있음.",
+      "accessedDate": "2026-10-03",
+      "sourceType": "official-exam-guide",
+      "officialExamRubric": false,
+      "accessStatus": "primary-page-read",
+      "reviewedScope": "시험 과목·문항 유형·배점표, 출제 원칙, 출제위원 자격, 채점 절차, 모범답안·채점기준 비공개 항목.",
+      "evidence": [
+        {
+          "locator": "1차 시험 과목별 배점",
+          "finding": "전공A 단답형 4문항 8점·서술형 8문항 32점, 전공B 단답형 2문항 4점·서술형 9문항 36점. 교과교육학 25~35%.",
+          "principle": "예상 문항은 단답형 칸별 채점과 4점 서술형으로 만든다."
+        },
+        {
+          "locator": "채점 방법",
+          "finding": "채점위원 워크숍, 가채점·협의, 채점 기준 수정·보완, 3인 독립 채점 평균.",
+          "principle": "실제 점수는 비공개 기준과 채점위원 판단에 따르므로 앱 점수는 연습용이다."
+        },
+        {
+          "locator": "모범답안 및 채점기준 비공개",
+          "finding": "정보공개법 제9조 제1항 제5호에 따른 비공개 원칙.",
+          "principle": "학원 가답안을 공식 기준으로 표시하지 않는다."
+        },
+        {
+          "locator": "출제인력공모 대상 및 자격",
+          "finding": "최근 3년 이내 상업용 수험서 집필·임용학원 강의 경험자는 대상에서 제외.",
+          "principle": "학원 해설은 출제·채점과 독립된 외부 해석으로 기록한다."
+        }
+      ],
+      "caveats": [
+        "서술형 부분점수 단위·동의어 인정 범위는 공개하지 않는다.",
+        "채점 절차 표의 세부 운영은 연도·과목별 차이를 확인하지 않았다."
+      ],
+      "implementationUse": "배점 구조와 연습용 점수의 한계 표시.",
+      "prohibitedUse": "앱 점수를 실제 임용 점수나 합격 가능성으로 해석하지 않는다.",
+      "directQuotes": []
+    },
+    {
+      "id": "kice-2026-cover-notice",
+      "title": "2026학년도 중등학교교사 임용후보자 선정경쟁시험 제1차 시험 문제지 표지(응시자 유의사항) 예시",
+      "url": "https://www.dge.go.kr/upload/main/na/bbs_3913/ntt_2163672/doc_c9d7v732a=acv57=47vf4=bbvab=c18fv2b21vfb87_v6793.pdf",
+      "publisher": "대구광역시교육청 공고 첨부(평가원 표지 예시)",
+      "author": "한국교육과정평가원",
+      "publishedDate": null,
+      "dateEvidence": "2026학년도 시행 공고 첨부 PDF. 정확한 게시일은 확인하지 않음.",
+      "accessedDate": "2026-10-03",
+      "sourceType": "official-exam-rules",
+      "officialExamRubric": false,
+      "accessStatus": "primary-pdf-text-read",
+      "reviewedScope": "3쪽 전체(교육학, 국어 전공A, 국어 전공B 표지 예시). 응시자 유의사항 1~14 문구 대조.",
+      "evidence": [
+        {
+          "locator": "응시자 유의사항 9 (교육학·전공A·전공B 공통)",
+          "finding": "가짓수가 제한된 문항은 첫 번째로 작성한 내용부터 요구한 가짓수까지만 순서대로 채점한다.",
+          "principle": "가짓수를 정한 기준은 앞에서부터 요구한 수까지만 평가하고 초과분은 채점 대상에서 뺀다."
+        },
+        {
+          "locator": "응시자 유의사항 10",
+          "finding": "다른 문항의 답안란, 답안란 밖에 작성한 부분 등은 채점하지 않는다.",
+          "principle": "지필 답안지 운영 규칙이므로 앱 채점에는 적용하지 않는다."
+        }
+      ],
+      "caveats": [
+        "표지 예시는 국어 과목으로 제시되었으나 유의사항 문구는 전 과목 공통 서식이다. 역사 표지 원본과 별도로 대조하지는 않았다."
+      ],
+      "implementationUse": "grading-policy의 count-order 규칙과 예상 서술형 checkpoints.",
+      "prohibitedUse": "지필 형식 규칙(필기구, 수정 방법)을 앱 감점 사유로 쓰지 않는다.",
+      "directQuotes": [
+        "문항에서 요구하는 내용의 가짓수가 제한되어 있는 경우, 요구한 가짓수까지의 내용만 답안으로 작성하시오.",
+        "첫 번째로 작성한 내용부터 문항에서 요구한 가짓수에 해당하는 내용까지만 순서대로 채점합니다."
+      ]
+    }
+  ]
+}

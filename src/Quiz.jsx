@@ -4,11 +4,14 @@ import ExamBar, { ExamFrame } from "./ExamBar.jsx";
 import { After, Mark } from "./noteMark.jsx";
 import { clean, usable, scoreLocal } from "./text.js";
 import { useExamPlay } from "./guide-mode.jsx";
+import { useSubject } from "./subjects.jsx";
+import BankStatus from "./BankStatus.jsx";
 
 const mcQuestions = list => list.filter(x => x.type === "mc" && usable(x));
 
 export default function Quiz() {
-  const bank = useQuestionBank("/data/questions.json", mcQuestions);
+  const { dataFile } = useSubject();
+  const bank = useQuestionBank(dataFile("questions"), mcQuestions);
   const { q, value: choice, setValue: setChoice, result, setResult } = bank;
   useExamPlay({ q, setVal: setChoice, setResult, kind: "mc" });
   function grade() {
@@ -26,7 +29,7 @@ export default function Quiz() {
   return (
     <Chrome title="객관식">
       <ExamFrame>
-        {bank.error && <p role="alert">{bank.error}</p>}
+        <BankStatus bank={bank} />
         {q && (
           <div className="card q" data-guide="result" tabIndex={0} onKeyDown={onKey}>
             <h3>{clean(q.prompt)}</h3>

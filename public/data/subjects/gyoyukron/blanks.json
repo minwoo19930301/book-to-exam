@@ -1,0 +1,2014 @@
+[
+  {
+    "id": "gyoyukron-pck-passage",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-74",
+    "prompt": "교과내용 전문가와 교과를 가르치는 사람을 구별해 주는 요소이자 교사에게 있어서 _____의 상징",
+    "before": "교과내용 전문가와 교과를 가르치는 사람을 구별해 주는 요소이자 교사에게 있어서 ",
+    "after": "의 상징",
+    "answer": "전문성",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "슐만의 연구 내용 및 결과 / 03 역사교육 담론에 대한 반성 — 교과내용 전문가와 교과를 가르치는 사람을 구별해 주는 요소이자 교사에게 있어서 전문성의 상징",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "교과내용 전문가와 교과를 가르치는 사람을 구별해 주는 요소이자 교사에게 있어서 전문성의 상징"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "gyoyukron-curriculum-passage",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-74",
+    "prompt": "당 교과 및 관련 교과의 _____에 대한 이해와 연계한 지식",
+    "before": "당 교과 및 관련 교과의 ",
+    "after": "에 대한 이해와 연계한 지식",
+    "answer": "교육과정",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "슐만의 연구 내용 및 결과 / 03 역사교육 담론에 대한 반성 — 당 교과 및 관련 교과의 교육과정에 대한 이해와 연계한 지식",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "당 교과 및 관련 교과의 교육과정에 대한 이해와 연계한 지식"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "gyoyukron-external-criticism-passage",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-81",
+    "prompt": "사료의 _____ 여부를 가리는 작업",
+    "before": "사료의 ",
+    "after": " 여부를 가리는 작업",
+    "answer": "진위",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "사료의 개념·종류·비판 / 사료의 특성과 학습 — 사료의 진위 여부를 가리는 작업",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "사료의 진위 여부를 가리는 작업"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "gyoyukron-internal-criticism-passage",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-81",
+    "prompt": "사료의 내용을 분석하여 그 _____을 결정하는 작업",
+    "before": "사료의 내용을 분석하여 그 ",
+    "after": "을 결정하는 작업",
+    "answer": "신뢰성",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "사료의 개념·종류·비판 / 사료의 특성과 학습 — 사료의 내용을 분석하여 그 신뢰성을 결정하는 작업",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "사료의 내용을 분석하여 그 신뢰성을 결정하는 작업"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "gyoyukron-chronological-passage",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-12",
+    "prompt": "역사의 개념인 _____을 파악하는 데 도움을 줌",
+    "before": "역사의 개념인 ",
+    "after": "을 파악하는 데 도움을 줌",
+    "answer": "변화와 계속성",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "내용 조직의 사례 / 역사교육 내용 조직의 방법 / 연대기적·역연대기적·주제 중심적 방법 — 역사의 개념인 변화와 계속성을 파악하는 데 도움을 줌",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "역사의 개념인 변화와 계속성을 파악하는 데 도움을 줌"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "gyoyukron-reverse-chronological-passage",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-12",
+    "prompt": "지나치게 _____의 역사관에 빠질 위험이 있음",
+    "before": "지나치게 ",
+    "after": "의 역사관에 빠질 위험이 있음",
+    "answer": "현재 중심",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "내용 조직의 사례 / 역사교육 내용 조직의 방법 / 연대기적·역연대기적·주제 중심적 방법 — 지나치게 현재 중심의 역사관에 빠질 위험이 있음",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "지나치게 현재 중심의 역사관에 빠질 위험이 있음"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "gyoyukron-empathy-passage",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-106",
+    "prompt": "자료와 _____을 바탕으로 한 인지적 성격의 사고활동",
+    "before": "자료와 ",
+    "after": "을 바탕으로 한 인지적 성격의 사고활동",
+    "answer": "맥락적 지식",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "구조적 상상 / 감정이입적 이해 — 자료와 맥락적 지식을 바탕으로 한 인지적 성격의 사고활동",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-106",
+        "quote": "자료와 맥락적 지식을 바탕으로 한 인지적 성격의 사고활동"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "gyoyukron-performance-passage",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-29",
+    "prompt": "교수·학습의 결과뿐만 아니라 교수·학습의 _____도 함께 중시하는 평가 방식",
+    "before": "교수·학습의 결과뿐만 아니라 교수·학습의 ",
+    "after": "도 함께 중시하는 평가 방식",
+    "answer": "과정",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "서술형 문항의 제작 절차와 평가결과 처리 / 07 역사과 수행평가 — 교수·학습의 결과뿐만 아니라 교수·학습의 과정도 함께 중시하는 평가 방식",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-29",
+        "quote": "교수·학습의 결과뿐만 아니라 교수·학습의 과정도 함께 중시하는 평가 방식"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "gyoyukron-ext-001-passage",
+    "page": "gyoyukron-textbook-page-74",
+    "explain": "내용지식의 핵심: 교과의 개념·원리뿐 아니라 학문이 지식을 구성하는 방법까지 이해하는 교사지식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "• 교과의 기본 개념과 원리 및 방법론적 지식"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "2298ee581ac0886944d44d2a21f8506796bb1d0bdbcb41f9b18e7aec9e1d62d7"
+    },
+    "type": "blank",
+    "prompt": "• 교과의 기본 개념과 원리 및 _____ 지식",
+    "before": "• 교과의 기본 개념과 원리 및 ",
+    "after": " 지식",
+    "answer": "방법론적",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-002-passage",
+    "page": "gyoyukron-textbook-page-74",
+    "explain": "교수내용지식의 핵심: 교과 내용을 학습자가 이해할 수 있는 표현과 조직으로 바꾸는 가르치기 위한 지식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "• 가르치기 위한 내용지식"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "7e90d4bd9dae0a6fc51239ce4e105ed9fa9f1968956c64a8217d9b9c682c24f9"
+    },
+    "type": "blank",
+    "prompt": "• 가르치기 위한 _____",
+    "before": "• 가르치기 위한 ",
+    "after": "",
+    "answer": "내용지식",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-003-passage",
+    "page": "gyoyukron-textbook-page-74",
+    "explain": "교육과정지식의 핵심: 주제에 맞는 교육 프로그램·자료와 관련 교과의 교육과정을 활용하는 교사지식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "• 일정한 단계에서 어떤 주제나 교과를 가르치기 위하여 고안된 일련의 프로그램과 그와 관련된 교육과정 자료를 이용할 수 있는 지식"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "ad360347456574594ea0c4663558835d5ebdf19f0c86a411df896f3b8a1a248b"
+    },
+    "type": "blank",
+    "prompt": "• 일정한 단계에서 어떤 주제나 교과를 가르치기 위하여 고안된 일련의 프로그램과 그와 관련된 _____ 자료를 이용할 수 있는 지식",
+    "before": "• 일정한 단계에서 어떤 주제나 교과를 가르치기 위하여 고안된 일련의 프로그램과 그와 관련된 ",
+    "after": " 자료를 이용할 수 있는 지식",
+    "answer": "교육과정",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-004-passage",
+    "page": "gyoyukron-textbook-page-74",
+    "explain": "유추의 핵심: 낯선 대상을 설명하기 위해 다른 대상을 설명의 매개로 활용하는 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "• 어떤 대상을 설명하기 위해 다른 대상을 설명의 매개물로 가져오는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "a5e24241eda86fe459056bbc917ad218fc3684e08e5970c065e1bac3a12a9f2a"
+    },
+    "type": "blank",
+    "prompt": "• 어떤 대상을 설명하기 위해 다른 대상을 설명의 _____로 가져오는 것",
+    "before": "• 어떤 대상을 설명하기 위해 다른 대상을 설명의 ",
+    "after": "로 가져오는 것",
+    "answer": "매개물",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-005-passage",
+    "page": "gyoyukron-textbook-page-74",
+    "explain": "비교의 핵심: 두 대상을 대등하게 다루며 공통점과 차이점을 발견하도록 하는 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "• 두 대상을 대등하게 다루거나 취급"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "822464a2402d085491e33c570955ba7b84ea88dfa0d882a0e350a580c5de715c"
+    },
+    "type": "blank",
+    "prompt": "• 두 대상을 _____하게 다루거나 취급",
+    "before": "• 두 대상을 ",
+    "after": "하게 다루거나 취급",
+    "answer": "대등",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-006-passage",
+    "page": "gyoyukron-textbook-page-75",
+    "explain": "역사의식의 핵심: 과거를 해석하여 현재를 이해하고 미래의 방향을 전망하는 사유 작용이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-75",
+        "quote": "- 미래를 전망하는 동시에 현재를 이해하기 위해 과거를 해석하는 인간 사유의 작용"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c161c1fd790a57104bb0b7e858487cb2dcafc95332182bcb6f8fd44701bbd0f5"
+    },
+    "type": "blank",
+    "prompt": "- _____를 전망하는 동시에 현재를 이해하기 위해 과거를 해석하는 인간 사유의 작용",
+    "before": "- ",
+    "after": "를 전망하는 동시에 현재를 이해하기 위해 과거를 해석하는 인간 사유의 작용",
+    "answer": "미래",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-007-passage",
+    "page": "gyoyukron-textbook-page-75",
+    "explain": "전통적 유형의 핵심: 공동의 기원과 이어받은 전통을 유지하면서 집단의 연대감을 형성하는 역사의식 유형이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-75",
+        "quote": "사회구성원들이 공통의 기원을 갖고 있다는 생각을 유지시킴으로 연대감을 이끌어내는 역사의식"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f16debebbc2f2857ee5e374e51ec8eb8ab51a2b88fa6a2f111557bad9694dc0a"
+    },
+    "type": "blank",
+    "prompt": "사회구성원들이 공통의 _____을 갖고 있다는 생각을 유지시킴으로 연대감을 이끌어내는 역사의식",
+    "before": "사회구성원들이 공통의 ",
+    "after": "을 갖고 있다는 생각을 유지시킴으로 연대감을 이끌어내는 역사의식",
+    "answer": "기원",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-008-passage",
+    "page": "gyoyukron-textbook-page-75",
+    "explain": "전형적 유형의 핵심: 과거의 사례를 현재에 적용할 보편적 교훈으로 받아들이는 역사의식 유형이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-75",
+        "quote": "과거를 현재를 위한 교훈으로 활용하는 유형"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "9094f0c4b5afba40b079d0bf8c586a33887e5e516b62e5d07c3ce2a6c615590a"
+    },
+    "type": "blank",
+    "prompt": "과거를 현재를 위한 _____으로 활용하는 유형",
+    "before": "과거를 현재를 위한 ",
+    "after": "으로 활용하는 유형",
+    "answer": "교훈",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-009-passage",
+    "page": "gyoyukron-textbook-page-75",
+    "explain": "비판적 유형의 핵심: 기존 가치체계를 문제 삼으며 과거와의 단절을 강조하는 역사의식 유형이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-75",
+        "quote": "현재의 가치체계를 문제화함으로 과거를 단절적인 것으로 파악하는 유형"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "91530151ba9e2a4d5ba5297e5774d5367068952dba2bb6d354275ca251294333"
+    },
+    "type": "blank",
+    "prompt": "현재의 _____를 문제화함으로 과거를 단절적인 것으로 파악하는 유형",
+    "before": "현재의 ",
+    "after": "를 문제화함으로 과거를 단절적인 것으로 파악하는 유형",
+    "answer": "가치체계",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-010-passage",
+    "page": "gyoyukron-textbook-page-75",
+    "explain": "발생적 유형의 핵심: 변화와 발전을 고려하여 과거의 의미를 현재의 조건에 맞게 재구성하는 역사의식 유형이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-75",
+        "quote": "변화와 발전 개념 속에서 역사에 의미를 부여하는 유형"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "ca0d7ad10a4aee6224b8cdb39f7aa4fd9a642cb124353120dc44af2da27b6b54"
+    },
+    "type": "blank",
+    "prompt": "변화와 _____ 개념 속에서 역사에 의미를 부여하는 유형",
+    "before": "변화와 ",
+    "after": " 개념 속에서 역사에 의미를 부여하는 유형",
+    "answer": "발전",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-011-passage",
+    "page": "gyoyukron-textbook-page-9",
+    "explain": "행동목표의 핵심: 학습 결과를 관찰 가능한 학생의 행동으로 명료하게 제시하는 목표이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-9",
+        "quote": "- 학습의 결과를 제3자가 분명하게 알 수 있도록 교육목표를 명시적인 행동용어로 제시한 것을 강조"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "55fa4f557d46eec2739272dfa4e37151c3b1a7ab6db65714fa4729b9e9ad85d0"
+    },
+    "type": "blank",
+    "prompt": "- 학습의 결과를 제3자가 분명하게 알 수 있도록 교육목표를 명시적인 _____로 제시한 것을 강조",
+    "before": "- 학습의 결과를 제3자가 분명하게 알 수 있도록 교육목표를 명시적인 ",
+    "after": "로 제시한 것을 강조",
+    "answer": "행동용어",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-012-passage",
+    "page": "gyoyukron-textbook-page-9",
+    "explain": "교육목표의 상세화의 핵심: 달성할 수준을 행위동사로 구체화하여 목표가 뜻하는 바를 분명하게 하는 작업이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-9",
+        "quote": "- 행위동사를 이용하여 달성해야 할 목표의 수준을 보다 구체적으로 나타낸 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "ee74aede8524812e355a46411c3f07fd681e49efab77756945e206234e86893a"
+    },
+    "type": "blank",
+    "prompt": "- _____를 이용하여 달성해야 할 목표의 수준을 보다 구체적으로 나타낸 것",
+    "before": "- ",
+    "after": "를 이용하여 달성해야 할 목표의 수준을 보다 구체적으로 나타낸 것",
+    "answer": "행위동사",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-013-passage",
+    "page": "gyoyukron-textbook-page-9",
+    "explain": "구현목표의 핵심: 최종 도달 행동을 미리 고정하기보다 탐구할 수업의 범주와 과정을 제시하는 목표이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-9",
+        "quote": "#### ③ 수업에서 도달할 목표를 분명히 규정하지 않은 채 수업의 범주만을 규정한 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "77946549deb5a1a4448868c4700c53cad1eea360458ed789453881fc56539579"
+    },
+    "type": "blank",
+    "prompt": "#### ③ 수업에서 도달할 목표를 분명히 규정하지 않은 채 수업의 _____만을 규정한 것",
+    "before": "#### ③ 수업에서 도달할 목표를 분명히 규정하지 않은 채 수업의 ",
+    "after": "만을 규정한 것",
+    "answer": "범주",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-014-passage",
+    "page": "gyoyukron-textbook-page-78",
+    "explain": "역사담론의 핵심: 과거 사실 사이에 질서를 부여하고 논리적으로 일관된 설명을 구성하는 것이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-78",
+        "quote": "• 역사담론이란 과거의 수많은 사실들 사이에 어떤 질서를 상정하여 논리적으로 일관되게 설명하는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "f8dfca2d3837dfaa8d394ecbf97172c02c58b1ed579b26b7b20043865c86a3be"
+    },
+    "type": "blank",
+    "prompt": "• 역사담론이란 과거의 수많은 사실들 사이에 어떤 _____를 상정하여 논리적으로 일관되게 설명하는 것",
+    "before": "• 역사담론이란 과거의 수많은 사실들 사이에 어떤 ",
+    "after": "를 상정하여 논리적으로 일관되게 설명하는 것",
+    "answer": "질서",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-015-passage",
+    "page": "gyoyukron-textbook-page-78",
+    "explain": "플롯화의 핵심: 여러 사실을 엮어 개연성 있는 이야기로 구성하며 의미를 부여하는 작업이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-78",
+        "quote": "• 사실과 사실을 엮어 가장 그럴듯한 이야기를 만들어내는 것(emplotment)으로 역사담론은 역사적 사실에 의미를 부여하는 행위를 의미"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "8fa15e3b816afa0b2b9b4b5c0c916da0b77373516507df5fc7df63d0d28b34a7"
+    },
+    "type": "blank",
+    "prompt": "• 사실과 사실을 엮어 가장 그럴듯한 _____를 만들어내는 것(emplotment)으로 역사담론은 역사적 사실에 의미를 부여하는 행위를 의미",
+    "before": "• 사실과 사실을 엮어 가장 그럴듯한 ",
+    "after": "를 만들어내는 것(emplotment)으로 역사담론은 역사적 사실에 의미를 부여하는 행위를 의미",
+    "answer": "이야기",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-017-passage",
+    "page": "gyoyukron-textbook-page-78",
+    "explain": "외연적 정의의 핵심: 어떤 개념에 속하는 구체적인 사례를 들어 정의하는 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-78",
+        "quote": "• 개념을 규정짓는 방법은 내포적 정의(속성: 금속의 필수적인 제반 공유한 속성과 한계를 밝혀)와 외연적 정의(사례: 금, 은, 구리, 철 등이 있음)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "39a864126390c343f574ffba183343380a9d11282a47d358ca4db3ba023d2d5f"
+    },
+    "type": "blank",
+    "prompt": "• 개념을 규정짓는 방법은 내포적 정의(속성: 금속의 필수적인 제반 공유한 속성과 한계를 밝혀)와 외연적 정의(_____: 금, 은, 구리, 철 등이 있음)",
+    "before": "• 개념을 규정짓는 방법은 내포적 정의(속성: 금속의 필수적인 제반 공유한 속성과 한계를 밝혀)와 외연적 정의(",
+    "after": ": 금, 은, 구리, 철 등이 있음)",
+    "answer": "사례",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-019-passage",
+    "page": "gyoyukron-textbook-page-78",
+    "explain": "제한된 일반화의 핵심: 특정 사건이나 범위에 한정하여 성격과 관계를 진술하는 일반화이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-78",
+        "quote": "- 제한된 일반화(동학농민운동은 반제국주의적 반봉건적 농민운동이었다)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "edf085a45e31a5c8727bcede13604690b99efdd971d7a979647051d72a0238ca"
+    },
+    "type": "blank",
+    "prompt": "- 제한된 일반화(동학농민운동은 _____ 반봉건적 농민운동이었다)",
+    "before": "- 제한된 일반화(동학농민운동은 ",
+    "after": " 반봉건적 농민운동이었다)",
+    "answer": "반제국주의적",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-020-passage",
+    "page": "gyoyukron-textbook-page-78",
+    "explain": "보편적 일반화의 핵심: 개별 사건을 넘어 폭넓은 역사 인식의 관계를 진술하는 일반화이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-78",
+        "quote": "- 보편적 일반화(과거의 사실에 대한 역사가의 견해는 자신이 살고 있는 시대 환경에 따라 영향을 받는다)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "11c11fe963d5fd67432f51cc3fa1d4133d5d65c301b6152270ceaea05027b471"
+    },
+    "type": "blank",
+    "prompt": "- 보편적 일반화(과거의 사실에 대한 역사가의 견해는 자신이 살고 있는 _____에 따라 영향을 받는다)",
+    "before": "- 보편적 일반화(과거의 사실에 대한 역사가의 견해는 자신이 살고 있는 ",
+    "after": "에 따라 영향을 받는다)",
+    "answer": "시대 환경",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-021-passage",
+    "page": "gyoyukron-textbook-page-12",
+    "explain": "통사의 핵심: 시대나 지역을 좁게 한정하지 않고 역사의 전체 줄거리를 서술하는 양식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "✍ 통사: 시대를 한정하지 아니하고 전 시대와 전 지역의 전체 역사의 줄거리를 서술하는 역사 기술의 양식"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "1536fcb11f115d085d33ef36333ac4a5401378d728ee0fe7ce1386d51e139654"
+    },
+    "type": "blank",
+    "prompt": "✍ 통사: 시대를 한정하지 아니하고 전 시대와 전 지역의 전체 역사의 _____를 서술하는 역사 기술의 양식",
+    "before": "✍ 통사: 시대를 한정하지 아니하고 전 시대와 전 지역의 전체 역사의 ",
+    "after": "를 서술하는 역사 기술의 양식",
+    "answer": "줄거리",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-022-passage",
+    "page": "gyoyukron-textbook-page-12",
+    "explain": "연대기적 방법의 핵심: 역사적 사실을 발생한 시간 순서에 따라 조직하는 내용 구성 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "• 역사적 사실을 일어난 순서에 따라 조직하는 것으로"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "59dadfad3503cd8791ae5768e4ca663188ddd8815906e2406a98e6e135a6d927"
+    },
+    "type": "blank",
+    "prompt": "• 역사적 사실을 일어난 _____에 따라 조직하는 것으로",
+    "before": "• 역사적 사실을 일어난 ",
+    "after": "에 따라 조직하는 것으로",
+    "answer": "순서",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-023-passage",
+    "page": "gyoyukron-textbook-page-12",
+    "explain": "역연대기적 방법의 핵심: 현재의 문제에서 출발하여 과거로 거슬러 올라가도록 내용을 구성하는 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "현재를 기점으로 과거로 거슬러 올라가면서 역사를 역순으로 조직하는 방법"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "66ede9b245bec276fb60bc96be0e64e40312e38d8a8cff66f9468f783353ee99"
+    },
+    "type": "blank",
+    "prompt": "_____를 기점으로 과거로 거슬러 올라가면서 역사를 역순으로 조직하는 방법",
+    "before": "",
+    "after": "를 기점으로 과거로 거슬러 올라가면서 역사를 역순으로 조직하는 방법",
+    "answer": "현재",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-024-passage",
+    "page": "gyoyukron-textbook-page-12",
+    "explain": "주제 중심적 방법의 핵심: 서로 다른 역사적 사건을 공통 주제로 묶어 내용을 조직하는 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "• 연대기적 내용 구성과 달리 유사한 역사적 사건들을 하나의 주제로 묶어 서술"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "374a03c7e83db23572764db6013f5f92dd05baf9dd577cf916e1d010d400edc6"
+    },
+    "type": "blank",
+    "prompt": "• 연대기적 내용 구성과 달리 유사한 역사적 사건들을 하나의 _____로 묶어 서술",
+    "before": "• 연대기적 내용 구성과 달리 유사한 역사적 사건들을 하나의 ",
+    "after": "로 묶어 서술",
+    "answer": "주제",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-025-passage",
+    "page": "gyoyukron-textbook-page-12",
+    "explain": "종적 관점의 주제 조직의 핵심: 동일 주제가 여러 시대에 걸쳐 어떻게 변화하는지 추적하는 내용 조직 관점이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "• 종적 관점에서 조직: 동일한 주제도 시대에 따라 다르게 작용한다는 점을 보여줌"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "06880d1c5f6c024d0b44f947a64970f67d5f6ee2d12559c0843c074d9823eec4"
+    },
+    "type": "blank",
+    "prompt": "• 종적 관점에서 조직: 동일한 주제도 _____에 따라 다르게 작용한다는 점을 보여줌",
+    "before": "• 종적 관점에서 조직: 동일한 주제도 ",
+    "after": "에 따라 다르게 작용한다는 점을 보여줌",
+    "answer": "시대",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-026-passage",
+    "page": "gyoyukron-textbook-page-12",
+    "explain": "횡적 관점의 주제 조직의 핵심: 하나의 시대에서 특정 주제를 여러 측면으로 살피는 내용 조직 관점이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "• 횡적 관점에서 조직: 한 시대의 주요 주제를 다방면에 걸쳐 고찰"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "b53a48b5db4630bb0d77051c9595b872b84957ba544196c203eb5d0e3019e296"
+    },
+    "type": "blank",
+    "prompt": "• 횡적 관점에서 조직: 한 시대의 주요 주제를 _____에 걸쳐 고찰",
+    "before": "• 횡적 관점에서 조직: 한 시대의 주요 주제를 ",
+    "after": "에 걸쳐 고찰",
+    "answer": "다방면",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-027-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "사료의 핵심: 역사 연구의 근거로 이용하는 문헌이나 유물을 가리킨다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "• 역사 연구에 필요한 문헌이나 유물"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "0a7428b684a37fbb61c6cd0f09db7799226bf081b8502bf42faa152b76bc3998"
+    },
+    "type": "blank",
+    "prompt": "• 역사 연구에 필요한 문헌이나 _____",
+    "before": "• 역사 연구에 필요한 문헌이나 ",
+    "after": "",
+    "answer": "유물",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-028-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "1차 사료의 핵심: 역사적 사건이 일어난 시기와 거의 같은 때에 만들어진 유물이나 저작물이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "• 역사적 사실이 일어난 것과 거의 같은 시기에 제작된 유물이나 저작물"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "7d28a01959b27ca6a9b1d7a8cb18cde913577e23025d6a4dcb34d0bf22df14c5"
+    },
+    "type": "blank",
+    "prompt": "• 역사적 사실이 일어난 것과 거의 _____에 제작된 유물이나 저작물",
+    "before": "• 역사적 사실이 일어난 것과 거의 ",
+    "after": "에 제작된 유물이나 저작물",
+    "answer": "같은 시기",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-029-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "2차 사료의 핵심: 사건이 일어난 뒤에 만들어진 해석·해설 등 후대의 자료이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "• 역사적 사실이 일어났던 시기보다 나중에 만들어진 자료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "e20d4c9f8826089356fd733ee90110aa02c39629ab288212092c0a93da7be5fa"
+    },
+    "type": "blank",
+    "prompt": "• 역사적 사실이 일어났던 시기보다 _____에 만들어진 자료",
+    "before": "• 역사적 사실이 일어났던 시기보다 ",
+    "after": "에 만들어진 자료",
+    "answer": "나중",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-031-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "사료의 주관성의 핵심: 사료의 내용에는 제작자의 선택이 개입된다는 성격이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "② 주관성, 의도성: 사료의 내용은 의식적이건 아니건 그것을 만든 사람에 의해 선택된 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "0385b17314f03f288b029fbdd8c25404e4237ba2f9d2eaf86b133cd57f4f05ea"
+    },
+    "type": "blank",
+    "prompt": "② 주관성, 의도성: 사료의 내용은 의식적이건 아니건 그것을 만든 사람에 의해 _____된 것",
+    "before": "② 주관성, 의도성: 사료의 내용은 의식적이건 아니건 그것을 만든 사람에 의해 ",
+    "after": "된 것",
+    "answer": "선택",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-032-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "해석의 다양성의 핵심: 같은 사료도 이용하는 사람에 따라 의미와 해석이 달라질 수 있다는 특성이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "③ 해석의 다양성: 사료의 내용은 사료를 이용하는 사람에 따라 달리 해석"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "215e721855ec71ac268b253ec91c3df46278a0c01881c5c48008f1610a112c70"
+    },
+    "type": "blank",
+    "prompt": "③ _____: 사료의 내용은 사료를 이용하는 사람에 따라 달리 해석",
+    "before": "③ ",
+    "after": ": 사료의 내용은 사료를 이용하는 사람에 따라 달리 해석",
+    "answer": "해석의 다양성",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-035-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "텍스트 비판의 핵심: 사료 안의 거짓·잘못·앞뒤 모순을 검토하여 내용의 신뢰도를 판단하는 작업이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "- 텍스트 비판: 사료의 신뢰도를 결정하는 작업으로, 사료에 거짓이나 잘못된 내용이나 앞뒤가 맞지 않는가가 있는가를 검토"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "fe784452b575773ac4bdeac512363e6b8f9f662db52f9bdc61871527fe9fbb60"
+    },
+    "type": "blank",
+    "prompt": "- _____: 사료의 신뢰도를 결정하는 작업으로, 사료에 거짓이나 잘못된 내용이나 앞뒤가 맞지 않는가가 있는가를 검토",
+    "before": "- ",
+    "after": ": 사료의 신뢰도를 결정하는 작업으로, 사료에 거짓이나 잘못된 내용이나 앞뒤가 맞지 않는가가 있는가를 검토",
+    "answer": "텍스트 비판",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-037-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "사료 선정의 목표성의 핵심: 학습을 통해 기르려는 역사적 태도·사고력에 도움이 되는지를 기준으로 사료를 고르는 원리이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "① 목표성: 역사적 사실을 객관적으로 인식시키고 역사적 태도와 능력을 기를 수 있는 사료로서, 특히 역사적 사고력과 역사의식을 기를 수 있는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "b775355dbdc16e7a5c9cbe43839ee628e3d46e6b15f16f30be4245588b37d734"
+    },
+    "type": "blank",
+    "prompt": "① 목표성: 역사적 사실을 객관적으로 인식시키고 역사적 태도와 능력을 기를 수 있는 사료로서, 특히 역사적 사고력과 _____을 기를 수 있는 것",
+    "before": "① 목표성: 역사적 사실을 객관적으로 인식시키고 역사적 태도와 능력을 기를 수 있는 사료로서, 특히 역사적 사고력과 ",
+    "after": "을 기를 수 있는 것",
+    "answer": "역사의식",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-038-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "사료 선정의 내용성의 핵심: 수업에서 다루는 학습 내용·과제와 직접 연결되는지를 따져 자료를 선정하는 원리이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "② 내용성: 학습내용에 직결되며, 학습과제나 문제해결에 알맞은 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "fee12eedee8fab52bab7560564d8226e8e516d6277632d9d8acc19a376124355"
+    },
+    "type": "blank",
+    "prompt": "② 내용성: 학습내용에 직결되며, 학습과제나 _____에 알맞은 사료",
+    "before": "② 내용성: 학습내용에 직결되며, 학습과제나 ",
+    "after": "에 알맞은 사료",
+    "answer": "문제해결",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-039-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "사료 선정의 발달 적합성의 핵심: 학습자의 능력과 발달 단계에 맞는지를 따져 자료를 선정하는 원리이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "③ 능력과 발달성: 학습자의 능력과 발달 단계에 알맞은 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "b7cec5ad843244b5dbe0f1383cc0cb241a140d5ed3f315d0f83c8f4c2e39b44f"
+    },
+    "type": "blank",
+    "prompt": "③ 능력과 발달성: 학습자의 능력과 _____에 알맞은 사료",
+    "before": "③ 능력과 발달성: 학습자의 능력과 ",
+    "after": "에 알맞은 사료",
+    "answer": "발달 단계",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-040-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "사료 선정의 근원성의 핵심: 자료의 작성 시기·작자·출처가 분명한지를 확인하는 선정 원리이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "⑤ 근원성: 시기, 작자, 출처가 분명한 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "43627db9c393f4c4b58261e3d7b2208d24d717232da9a69fd311e72a3d180b66"
+    },
+    "type": "blank",
+    "prompt": "⑤ 근원성: 시기, 작자, _____가 분명한 사료",
+    "before": "⑤ 근원성: 시기, 작자, ",
+    "after": "가 분명한 사료",
+    "answer": "출처",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-042-passage",
+    "page": "gyoyukron-textbook-page-81",
+    "explain": "사료 선정의 다양성의 핵심: 문헌에 국한하지 않고 비문헌 자료도 학습 근거로 함께 활용하는 선정 원리이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "⑦ 다양성: 문헌자료 이외에 비문헌, 보조과학적 자료도 사료로 취급"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c0bd24a92be4b5ca94a9aa661201ed480028d433eed84ce87473643383e2f2fd"
+    },
+    "type": "blank",
+    "prompt": "⑦ 다양성: 문헌자료 이외에 _____, 보조과학적 자료도 사료로 취급",
+    "before": "⑦ 다양성: 문헌자료 이외에 ",
+    "after": ", 보조과학적 자료도 사료로 취급",
+    "answer": "비문헌",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-043-passage",
+    "page": "gyoyukron-textbook-page-83",
+    "explain": "역사소설의 허구성의 핵심: 역사적 사건을 소재로 해도 작가의 상상과 허구가 들어가므로 사실과 그대로 동일시할 수 없다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-83",
+        "quote": "① 역사소설이나 역사드라마는 역사적 사건이나 현상을 소재로 한 것이지만 기본적으로 작가의 상상력이 들어간 허구의 성격이 강함"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "1875b3539140c7e1934443feef19153fece4c733b04b350898aeff8f8b96933d"
+    },
+    "type": "blank",
+    "prompt": "① 역사소설이나 역사드라마는 역사적 사건이나 현상을 소재로 한 것이지만 기본적으로 작가의 _____이 들어간 허구의 성격이 강함",
+    "before": "① 역사소설이나 역사드라마는 역사적 사건이나 현상을 소재로 한 것이지만 기본적으로 작가의 ",
+    "after": "이 들어간 허구의 성격이 강함",
+    "answer": "상상력",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-044-passage",
+    "page": "gyoyukron-textbook-page-83",
+    "explain": "영상자료의 비판적 활용의 핵심: 영화나 드라마를 즐기는 데 그치지 않고 자료로서의 타당성과 다른 해석의 가능성을 토론한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-83",
+        "quote": "⑤ 지나치게 재미에만 치우쳐서 보고 즐기는 것으로 끝나지 않도록 하기 위해 영화·드라마의 내용이 역사적 자료로 객관적인지 평가하고, 토론(debate)을 통해 상반된 역사해석의 가능성을 검토하는 것이 좋음"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "46e65f6ddb042dd10db3c8a2f310a0c0ec4a039093f0f6010ace87c464eb92b1"
+    },
+    "type": "blank",
+    "prompt": "⑤ 지나치게 재미에만 치우쳐서 보고 즐기는 것으로 끝나지 않도록 하기 위해 영화·드라마의 내용이 역사적 자료로 객관적인지 평가하고, 토론(debate)을 통해 상반된 _____의 가능성을 검토하는 것이 좋음",
+    "before": "⑤ 지나치게 재미에만 치우쳐서 보고 즐기는 것으로 끝나지 않도록 하기 위해 영화·드라마의 내용이 역사적 자료로 객관적인지 평가하고, 토론(debate)을 통해 상반된 ",
+    "after": "의 가능성을 검토하는 것이 좋음",
+    "answer": "역사해석",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-047-passage",
+    "page": "gyoyukron-textbook-page-89",
+    "explain": "사건학습의 핵심: 하나의 사건을 단위로 전개·인과·의미를 살펴 당시 사회를 이해하는 학습 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-89",
+        "quote": "- 하나의 사건을 완결된 역사이해의 단위로 제시하는 것으로, 사건 자체를 아는 데만 그 의의가 있는 것이 아니라 사건을 통해 당시 사회를 이해하고, 역사를 탐구할 수 있는 능력을 신장하는 데 그 의의가 있음"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "6203cfd8ba11052dace64801568cb0b2caa7d2ddd054eae5699656998f756aa3"
+    },
+    "type": "blank",
+    "prompt": "- 하나의 사건을 완결된 역사이해의 _____로 제시하는 것으로, 사건 자체를 아는 데만 그 의의가 있는 것이 아니라 사건을 통해 당시 사회를 이해하고, 역사를 탐구할 수 있는 능력을 신장하는 데 그 의의가 있음",
+    "before": "- 하나의 사건을 완결된 역사이해의 ",
+    "after": "로 제시하는 것으로, 사건 자체를 아는 데만 그 의의가 있는 것이 아니라 사건을 통해 당시 사회를 이해하고, 역사를 탐구할 수 있는 능력을 신장하는 데 그 의의가 있음",
+    "answer": "단위",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-048-passage",
+    "page": "gyoyukron-textbook-page-89",
+    "explain": "인물학습의 핵심: 역사적 인물의 생애나 행위를 중심으로 역사를 이해하는 학습 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-89",
+        "quote": "#### ① 개념 : 인물을 중심으로 역사를 이해하는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "845b142fbe8e30550ae46a0c1215c4502880814e5530b1cd18e6465a188f08cd"
+    },
+    "type": "blank",
+    "prompt": "#### ① 개념 : _____을 중심으로 역사를 이해하는 것",
+    "before": "#### ① 개념 : ",
+    "after": "을 중심으로 역사를 이해하는 것",
+    "answer": "인물",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-049-passage",
+    "page": "gyoyukron-textbook-page-89",
+    "explain": "행위결정 분석모형의 핵심: 인물이 특정 행동을 선택한 과정을 추론하여 그 역사적 의미를 이해하는 모형이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-89",
+        "quote": "① 개념 : 그 인물이 특정한 행위를 하게 되는 과정을 분석적으로 추론하는 것을 통해 인물의 역사적 행위의 의미를 이해하는 방법"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "79989e0ede89c4b03a21384cc67b698826593e8fed85ff5860c1c4a7bef82167"
+    },
+    "type": "blank",
+    "prompt": "① 개념 : 그 인물이 특정한 행위를 하게 되는 과정을 분석적으로 _____하는 것을 통해 인물의 역사적 행위의 의미를 이해하는 방법",
+    "before": "① 개념 : 그 인물이 특정한 행위를 하게 되는 과정을 분석적으로 ",
+    "after": "하는 것을 통해 인물의 역사적 행위의 의미를 이해하는 방법",
+    "answer": "추론",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-050-passage",
+    "page": "gyoyukron-textbook-page-90",
+    "explain": "시기학습의 핵심: 왕조나 시대처럼 일정한 시간 단위의 종합적 특징을 이해하는 학습 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-90",
+        "quote": "#### ① 개념 : 하나의 왕조나 시대 등 일정한 시간 단위를 중심으로 한 역사이해 방법"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "a6454737c587c43ee476c361e0848c63eac2fe740f58a1d58377c8dce5a40aed"
+    },
+    "type": "blank",
+    "prompt": "#### ① 개념 : 하나의 왕조나 시대 등 일정한 _____ 단위를 중심으로 한 역사이해 방법",
+    "before": "#### ① 개념 : 하나의 왕조나 시대 등 일정한 ",
+    "after": " 단위를 중심으로 한 역사이해 방법",
+    "answer": "시간",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-051-passage",
+    "page": "gyoyukron-textbook-page-90",
+    "explain": "비교학습의 핵심: 서로 다른 사회의 역사적 경험을 같은 기준에서 대조하고 그 차이의 이유를 이해하는 학습이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-90",
+        "quote": "#### ① 개념 : 서로 다른 사회, 그 역사적 경험을 특정한 국면이나 기준에서 공통점과 차이점을 밝히고, 그 이유에 대해 이해하는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c5b78ae933d591891b697c69e651edb46f1d0a9304bfeec410d5b930657c21cd"
+    },
+    "type": "blank",
+    "prompt": "#### ① 개념 : 서로 다른 사회, 그 역사적 경험을 특정한 국면이나 기준에서 _____과 차이점을 밝히고, 그 이유에 대해 이해하는 것",
+    "before": "#### ① 개념 : 서로 다른 사회, 그 역사적 경험을 특정한 국면이나 기준에서 ",
+    "after": "과 차이점을 밝히고, 그 이유에 대해 이해하는 것",
+    "answer": "공통점",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-052-passage",
+    "page": "gyoyukron-textbook-page-92",
+    "explain": "평가의 핵심: 교육의 성과와 변화를 확인하고 그 변화의 가치까지 판단하는 활동이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-92",
+        "quote": "① 평가란 실제 교육 성과가 무엇인지를 결정하고 그것을 예상 성과와 비교하는 과정을 포함할 뿐만 아니라, 제시된 변화의 본질과 그것이 바람직한 것인가에 대한 판단을 포함"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "e43134551fe6fcf42d12c205f555ab8ffe6100bff897dc256e65911bb7656dad"
+    },
+    "type": "blank",
+    "prompt": "① 평가란 실제 교육 성과가 무엇인지를 결정하고 그것을 _____와 비교하는 과정을 포함할 뿐만 아니라, 제시된 변화의 본질과 그것이 바람직한 것인가에 대한 판단을 포함",
+    "before": "① 평가란 실제 교육 성과가 무엇인지를 결정하고 그것을 ",
+    "after": "와 비교하는 과정을 포함할 뿐만 아니라, 제시된 변화의 본질과 그것이 바람직한 것인가에 대한 판단을 포함",
+    "answer": "예상 성과",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-053-passage",
+    "page": "gyoyukron-textbook-page-92",
+    "explain": "측정의 핵심: 정해진 법칙에 따라 대상에 수치를 부여하는 활동이며 평가의 수단으로 활용된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-92",
+        "quote": "② 측정이란 일정한 법칙에 따라 대상이나 사태에 수치를 매기는 행위이며, 측정이 평가와 구별되는 것은 판단이 개입되지 않는다는 점이며 평가를 위한 수단으로 이용된다는 점"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "54418ff8192c6874e717ed33f68ab2828f917426c391bf36b86b12d967d570b5"
+    },
+    "type": "blank",
+    "prompt": "② 측정이란 일정한 법칙에 따라 대상이나 사태에 _____를 매기는 행위이며, 측정이 평가와 구별되는 것은 판단이 개입되지 않는다는 점이며 평가를 위한 수단으로 이용된다는 점",
+    "before": "② 측정이란 일정한 법칙에 따라 대상이나 사태에 ",
+    "after": "를 매기는 행위이며, 측정이 평가와 구별되는 것은 판단이 개입되지 않는다는 점이며 평가를 위한 수단으로 이용된다는 점",
+    "answer": "수치",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-054-passage",
+    "page": "gyoyukron-textbook-page-92",
+    "explain": "검사의 핵심: 학습자에게 일어난 변화와 그 정도를 파악할 증거를 체계적으로 수집하는 과정이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-92",
+        "quote": "③ 측정이나 평가를 위해서 필요한 검사는 학습자에게 어떤 변화가 일어났는지, 또 일어났다면 어느 정도인지를 확인하기 위한 증거를 체계적으로 수집하는 과정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "d041e1ac8d8d12a5ee4b2f00b79b312328eed692013e926c298519c0dc02963a"
+    },
+    "type": "blank",
+    "prompt": "③ 측정이나 평가를 위해서 필요한 검사는 학습자에게 어떤 변화가 일어났는지, 또 일어났다면 어느 정도인지를 확인하기 위한 _____를 체계적으로 수집하는 과정",
+    "before": "③ 측정이나 평가를 위해서 필요한 검사는 학습자에게 어떤 변화가 일어났는지, 또 일어났다면 어느 정도인지를 확인하기 위한 ",
+    "after": "를 체계적으로 수집하는 과정",
+    "answer": "증거",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-055-passage",
+    "page": "gyoyukron-textbook-page-92",
+    "explain": "규범지향평가의 핵심: 집단 안에서 다른 학습자와 비교한 상대적 위치를 중요하게 보는 평가 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-92",
+        "quote": "① 규범지향평가(norm-referenced evaluation): 상대평가, 상대적 서열·비교 중시, 학생이 얼마나 성취했느냐에 관심"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "24e3ee6f4b9e06a1bff61a44b013d3556b7cefdc995e0403b75c7f275f91c553"
+    },
+    "type": "blank",
+    "prompt": "① 규범지향평가(norm-referenced evaluation): 상대평가, 상대적 _____·비교 중시, 학생이 얼마나 성취했느냐에 관심",
+    "before": "① 규범지향평가(norm-referenced evaluation): 상대평가, 상대적 ",
+    "after": "·비교 중시, 학생이 얼마나 성취했느냐에 관심",
+    "answer": "서열",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-056-passage",
+    "page": "gyoyukron-textbook-page-92",
+    "explain": "목표지향평가의 핵심: 다른 학생과의 순위보다 교육목표를 달성했는지에 관심을 두는 평가 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-92",
+        "quote": "② 목표지향평가(criterion-referenced evaluation): 절대평가, 교수목표의 달성 여부 중시, 학생이 무엇을 성취했느냐에 관심"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "bfc92c4bb0758208054283f8e1eff37283b87be57e46998e22512e31de1df68c"
+    },
+    "type": "blank",
+    "prompt": "② 목표지향평가(criterion-referenced evaluation): 절대평가, _____의 달성 여부 중시, 학생이 무엇을 성취했느냐에 관심",
+    "before": "② 목표지향평가(criterion-referenced evaluation): 절대평가, ",
+    "after": "의 달성 여부 중시, 학생이 무엇을 성취했느냐에 관심",
+    "answer": "교수목표",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-057-passage",
+    "page": "gyoyukron-textbook-page-93",
+    "explain": "진단평가의 핵심: 수업 전에 학습자의 사전지식·흥미·태도·오개념을 확인하는 평가이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-93",
+        "quote": "㉠ 앞으로 배울 내용에 대한 학생들의 흥미도와 사전지식, 학습태도 및 오개념에 대한 정보를 얻을 수 있음"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "42c62064a14fe61632bd724b00055adde9588268cff00cd723f79c09d6c14fde"
+    },
+    "type": "blank",
+    "prompt": "㉠ 앞으로 배울 내용에 대한 학생들의 흥미도와 _____, 학습태도 및 오개념에 대한 정보를 얻을 수 있음",
+    "before": "㉠ 앞으로 배울 내용에 대한 학생들의 흥미도와 ",
+    "after": ", 학습태도 및 오개념에 대한 정보를 얻을 수 있음",
+    "answer": "사전지식",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-058-passage",
+    "page": "gyoyukron-textbook-page-28",
+    "explain": "변별도의 핵심: 문항이 성취가 높은 집단과 낮은 집단을 얼마나 잘 구별하는지를 나타내는 지표이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-28",
+        "quote": "① 평가 문항이, 총점이 높은 학생들과 낮은 학생들을 변별해 내는 정도를 의미하는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "19e6d7ed4e70aac5d760327d0aadb98f4fbfd02b990b8e797f7647e5e2bf7d14"
+    },
+    "type": "blank",
+    "prompt": "① 평가 문항이, 총점이 높은 학생들과 낮은 학생들을 _____해 내는 정도를 의미하는 것",
+    "before": "① 평가 문항이, 총점이 높은 학생들과 낮은 학생들을 ",
+    "after": "해 내는 정도를 의미하는 것",
+    "answer": "변별",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-059-passage",
+    "page": "gyoyukron-textbook-page-30",
+    "explain": "총괄적 채점의 핵심: 답안의 영역을 따로 나누지 않고 전체 인상과 질을 종합적으로 판단하는 채점 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-30",
+        "quote": "• 별도의 영역 구분이 필요 없음"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "1b183be6ca42f0cfacab4ba75f31fb430ff61a3df63708f5d6f1548774a78c6a"
+    },
+    "type": "blank",
+    "prompt": "• 별도의 _____ 구분이 필요 없음",
+    "before": "• 별도의 ",
+    "after": " 구분이 필요 없음",
+    "answer": "영역",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-060-passage",
+    "page": "gyoyukron-textbook-page-30",
+    "explain": "분석적 채점의 핵심: 영역과 평가 요소를 구분하고 각 요소에 점수를 부여하는 채점 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-30",
+        "quote": "• 영역마다 점수 부여"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "95b97958474fb9f754a512edf806f5341a6baa1303af81f93221b86fd44e9b47"
+    },
+    "type": "blank",
+    "prompt": "• 영역마다 _____ 부여",
+    "before": "• 영역마다 ",
+    "after": " 부여",
+    "answer": "점수",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-061-passage",
+    "page": "gyoyukron-textbook-page-30",
+    "explain": "연구보고서법의 핵심: 선택한 주제에 관한 자료를 수집·분석·종합하여 작성한 보고서를 평가하는 방법이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-30",
+        "quote": "㉠ 개념 : 개별 과목과 관련되거나 범교과적인 연구 주제 중에서 학생의 능력이나 흥미에 적합한 주제를 선택하고, 그 주제에 대해서 자기 나름대로 자료를 수집·분석·종합하여 연구 보고서를 작성·제출한 것을 평가하는 방법"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "1db9b8df71a02125f215ba4fcb92aff908d4f7854762d32e45c01216ca086d6b"
+    },
+    "type": "blank",
+    "prompt": "㉠ 개념 : 개별 과목과 관련되거나 범교과적인 연구 주제 중에서 학생의 능력이나 흥미에 적합한 주제를 선택하고, 그 주제에 대해서 자기 나름대로 자료를 수집·분석·_____하여 연구 보고서를 작성·제출한 것을 평가하는 방법",
+    "before": "㉠ 개념 : 개별 과목과 관련되거나 범교과적인 연구 주제 중에서 학생의 능력이나 흥미에 적합한 주제를 선택하고, 그 주제에 대해서 자기 나름대로 자료를 수집·분석·",
+    "after": "하여 연구 보고서를 작성·제출한 것을 평가하는 방법",
+    "answer": "종합",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-064-passage",
+    "page": "gyoyukron-textbook-page-100",
+    "explain": "민족지학적 연구의 핵심: 특정 공동체의 현장을 관찰하여 그 구성원들의 문화를 기술하고 해석하는 연구이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-100",
+        "quote": "① 개념: 민족지란 인류학자가 현지 조사를 바탕으로 하여 특정한 문화에 대해 기술해 놓은 글을 의미하며, 민족지학적 연구란 문화인류학에서 행해지는 현장관찰에 의한 연구방법을 의미"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "760c390fa83b9d852924f566d8cbf4d271adceb4ce4b1a4a2eac4a7018a9389b"
+    },
+    "type": "blank",
+    "prompt": "① 개념: 민족지란 인류학자가 현지 조사를 바탕으로 하여 특정한 문화에 대해 기술해 놓은 글을 의미하며, 민족지학적 연구란 문화인류학에서 행해지는 _____에 의한 연구방법을 의미",
+    "before": "① 개념: 민족지란 인류학자가 현지 조사를 바탕으로 하여 특정한 문화에 대해 기술해 놓은 글을 의미하며, 민족지학적 연구란 문화인류학에서 행해지는 ",
+    "after": "에 의한 연구방법을 의미",
+    "answer": "현장관찰",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-065-passage",
+    "page": "gyoyukron-textbook-page-103",
+    "explain": "담론의 핵심: 푸코의 논의에서 의미를 생산하고 조직하는 방식이나 규칙의 체계를 가리킨다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-103",
+        "quote": "- 미셸 푸코는 이러한 의미를 생산하고 조직하는 방식 내지는 일련의 규칙을 ‘담론’이라고 명명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "2b3a494bfca8f77f9f9bf0a38242c33d1c49d622624b3f4382bfea6b60ec8f2b"
+    },
+    "type": "blank",
+    "prompt": "- 미셸 푸코는 이러한 의미를 생산하고 조직하는 방식 내지는 일련의 _____을 ‘담론’이라고 명명",
+    "before": "- 미셸 푸코는 이러한 의미를 생산하고 조직하는 방식 내지는 일련의 ",
+    "after": "을 ‘담론’이라고 명명",
+    "answer": "규칙",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-066-passage",
+    "page": "gyoyukron-textbook-page-103",
+    "explain": "신문화사의 핵심: 인간의 삶을 둘러싼 의미체계를 해석하여 역사적 경험을 이해하려는 역사 연구 경향이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-103",
+        "quote": "ⓑ 인류학자 기어츠(C. Geertz)와 살린스(M. Sahlins)의 연구는 문화인류학 분야에서 나타난 성과로, 발리 섬의 수탉 싸움과 1779년 하와이 섬에 도착한 영국인 쿡 선장의 죽음에서 각각 원주민들의 삶을 지배하는 ‘의미의 그물망’을 발견, 인과적 설명보다는 의미의 이해와 해석을 지향하는 새로운 역사 서술 패러다임을 제시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "5be9624968cca628915b433d287b3160c8c5d8a885d0eaba9134616fdc244e02"
+    },
+    "type": "blank",
+    "prompt": "ⓑ 인류학자 기어츠(C. Geertz)와 살린스(M. Sahlins)의 연구는 문화인류학 분야에서 나타난 성과로, 발리 섬의 수탉 싸움과 1779년 하와이 섬에 도착한 영국인 쿡 선장의 죽음에서 각각 원주민들의 삶을 지배하는 ‘의미의 그물망’을 발견, 인과적 설명보다는 의미의 이해와 _____을 지향하는 새로운 역사 서술 패러다임을 제시",
+    "before": "ⓑ 인류학자 기어츠(C. Geertz)와 살린스(M. Sahlins)의 연구는 문화인류학 분야에서 나타난 성과로, 발리 섬의 수탉 싸움과 1779년 하와이 섬에 도착한 영국인 쿡 선장의 죽음에서 각각 원주민들의 삶을 지배하는 ‘의미의 그물망’을 발견, 인과적 설명보다는 의미의 이해와 ",
+    "after": "을 지향하는 새로운 역사 서술 패러다임을 제시",
+    "answer": "해석",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-067-passage",
+    "page": "gyoyukron-textbook-page-103",
+    "explain": "심성의 핵심: 한 사회집단에 널리 공유된 믿음·가치관·사고방식을 가리키며 개인 심리와 구별된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-103",
+        "quote": "ⓑ 우리 학계에서도 논란이 많은 이 ‘심성(心性, mentalité, 망탈리테)’이라는 개념은 ‘집단정신 자세’라는 사전적인 의미를 지님"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "95fa3cf176b3f4b4881b2d9397249ed6d3f540dc0a34a3cfa251ce0fdeb4a722"
+    },
+    "type": "blank",
+    "prompt": "ⓑ 우리 학계에서도 논란이 많은 이 ‘심성(心性, mentalité, 망탈리테)’이라는 개념은 ‘_____ 자세’라는 사전적인 의미를 지님",
+    "before": "ⓑ 우리 학계에서도 논란이 많은 이 ‘심성(心性, mentalité, 망탈리테)’이라는 개념은 ‘",
+    "after": " 자세’라는 사전적인 의미를 지님",
+    "answer": "집단정신",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-068-passage",
+    "page": "gyoyukron-textbook-page-104",
+    "explain": "역사문화의 핵심: 개인적 역사의식과 상보적으로 사회의 기억과 역사 재현을 다루는 집단적 영역이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-104",
+        "quote": "ⓒ 역사문화는 역사이론과 역사교육적 범주로 정의된 개념으로서 역사의식의 사회적 확장으로 이해"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "23edefbc10ffe6d7a848c30d734cb7993bb4473bac632237a3fcb9c03bc88605"
+    },
+    "type": "blank",
+    "prompt": "ⓒ 역사문화는 역사이론과 역사교육적 범주로 정의된 개념으로서 역사의식의 _____ 확장으로 이해",
+    "before": "ⓒ 역사문화는 역사이론과 역사교육적 범주로 정의된 개념으로서 역사의식의 ",
+    "after": " 확장으로 이해",
+    "answer": "사회적",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-069-passage",
+    "page": "gyoyukron-textbook-page-104",
+    "explain": "공공역사의 핵심: 전문가와 대중이 제도권 안팎에서 역사 지식을 만들고 나누며 실천하는 영역이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-104",
+        "quote": "ⓑ 공공역사는 대학, 연구소 등 제도권 안의 기관들뿐만 아니라 제도권 밖의 영역을 포함한 공간에서 역사전문가들과 대중들이 함께 역사 지식을 생성하고 소비하며 공유(소통)하는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "bc9671c844e16bf3cdba43d6a0049f86b248c855acb04779a403a327257ccbea"
+    },
+    "type": "blank",
+    "prompt": "ⓑ 공공역사는 대학, 연구소 등 제도권 안의 기관들뿐만 아니라 제도권 밖의 영역을 포함한 공간에서 역사전문가들과 _____들이 함께 역사 지식을 생성하고 소비하며 공유(소통)하는 것",
+    "before": "ⓑ 공공역사는 대학, 연구소 등 제도권 안의 기관들뿐만 아니라 제도권 밖의 영역을 포함한 공간에서 역사전문가들과 ",
+    "after": "들이 함께 역사 지식을 생성하고 소비하며 공유(소통)하는 것",
+    "answer": "대중",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-070-passage",
+    "page": "gyoyukron-textbook-page-105",
+    "explain": "추체험의 핵심: 타인의 삶의 체험을 상상적으로 다시 겪거나 재구성하여 이해하는 방식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-105",
+        "quote": "• 추체험이란 다른 사람의 체험을 상상적으로 다시 체험하거나 재구성하는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "bfeb975badef48d2f781d973a40121a6382deb936f883254d9616fd39733999e"
+    },
+    "type": "blank",
+    "prompt": "• 추체험이란 다른 사람의 체험을 상상적으로 다시 체험하거나 _____하는 것",
+    "before": "• 추체험이란 다른 사람의 체험을 상상적으로 다시 체험하거나 ",
+    "after": "하는 것",
+    "answer": "재구성",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-071-passage",
+    "page": "gyoyukron-textbook-page-106",
+    "explain": "구조적 상상의 핵심: 자료에 명시되지 않은 사건 요소의 관계를 추론하여 사건의 구조를 이해하는 활동이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-106",
+        "quote": "① 자료에 직접 나타나 있지 않은 역사적 사건을 구성하는 요소들 간의 관계를 상상으로 이해하여 역사적 사건의 구조를 파악하는 것(예 실학의 개념과 성격, 계파의 분류)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "5519ba6b3d05be34affbb12142c6deea74d106a5d8dcf5a57716fe6c561d772a"
+    },
+    "type": "blank",
+    "prompt": "① 자료에 직접 나타나 있지 않은 역사적 사건을 구성하는 요소들 간의 _____를 상상으로 이해하여 역사적 사건의 구조를 파악하는 것(예 실학의 개념과 성격, 계파의 분류)",
+    "before": "① 자료에 직접 나타나 있지 않은 역사적 사건을 구성하는 요소들 간의 ",
+    "after": "를 상상으로 이해하여 역사적 사건의 구조를 파악하는 것(예 실학의 개념과 성격, 계파의 분류)",
+    "answer": "관계",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-072-passage",
+    "page": "gyoyukron-textbook-page-106",
+    "explain": "보간의 핵심: 사료가 빠진 중간 과정을 앞뒤 증거에 근거하여 추론하는 활동이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-106",
+        "quote": "- ㉠ 보간은 사료가 없는 중간 과정을 추론하는 것이며, 삽입은 역사적 사실의 전개과정에서 앞이나 뒷부분이 빠져 있을 때 이를 추론하여 역사적 사실을 만들어 내는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "c78ab3da68eab3194b6251c38de15d75051ec94db58db0f2111c18b78ece7bdc"
+    },
+    "type": "blank",
+    "prompt": "- ㉠ 보간은 사료가 없는 _____을 추론하는 것이며, 삽입은 역사적 사실의 전개과정에서 앞이나 뒷부분이 빠져 있을 때 이를 추론하여 역사적 사실을 만들어 내는 것",
+    "before": "- ㉠ 보간은 사료가 없는 ",
+    "after": "을 추론하는 것이며, 삽입은 역사적 사실의 전개과정에서 앞이나 뒷부분이 빠져 있을 때 이를 추론하여 역사적 사실을 만들어 내는 것",
+    "answer": "중간 과정",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-073-passage",
+    "page": "gyoyukron-textbook-page-106",
+    "explain": "삽입의 핵심: 역사적 사실의 전개에서 빠진 앞이나 뒤 부분을 근거에 따라 추론하는 활동이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-106",
+        "quote": "- ㉠ 보간은 사료가 없는 중간 과정을 추론하는 것이며, 삽입은 역사적 사실의 전개과정에서 앞이나 뒷부분이 빠져 있을 때 이를 추론하여 역사적 사실을 만들어 내는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "28050277c9176b00d53027d10b2f3dc0f3da5c06c9b37520060af938347b92c9"
+    },
+    "type": "blank",
+    "prompt": "- ㉠ 보간은 사료가 없는 중간 과정을 추론하는 것이며, _____은 역사적 사실의 전개과정에서 앞이나 뒷부분이 빠져 있을 때 이를 추론하여 역사적 사실을 만들어 내는 것",
+    "before": "- ㉠ 보간은 사료가 없는 중간 과정을 추론하는 것이며, ",
+    "after": "은 역사적 사실의 전개과정에서 앞이나 뒷부분이 빠져 있을 때 이를 추론하여 역사적 사실을 만들어 내는 것",
+    "answer": "삽입",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-075-passage",
+    "page": "gyoyukron-textbook-page-106",
+    "explain": "공감의 핵심: 타인의 감정이나 정서를 공유하거나 그 감정이 적절하다고 느끼는 작용이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-106",
+        "quote": "② 공감은 어떤 사람의 감정이나 정서를 공유하는 것, 또는 감정이 적절하다고 느끼는 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "d1097ec044229675f2c00c24c00d6f7fa9fa2ccf556309d0584105ca836fa27a"
+    },
+    "type": "blank",
+    "prompt": "② 공감은 어떤 사람의 감정이나 _____를 공유하는 것, 또는 감정이 적절하다고 느끼는 것",
+    "before": "② 공감은 어떤 사람의 감정이나 ",
+    "after": "를 공유하는 것, 또는 감정이 적절하다고 느끼는 것",
+    "answer": "정서",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-076-passage",
+    "page": "gyoyukron-textbook-page-107",
+    "explain": "완전한 설명의 핵심: 일반법칙과 초기 조건을 모두 갖추고 설명할 사건이 그 전제에서 연역되는 설명이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-107",
+        "quote": "① 완전한 설명: 일반법칙과 초기 조건이 설명항에 내포되어 있고, 설명항으로부터 피설명항이 자동적으로 연역되는 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "aac8bdcdf1940ef999aa1e53539f6f09c82b021abc980250ccbba6c01e3925fc"
+    },
+    "type": "blank",
+    "prompt": "① 완전한 설명: 일반법칙과 초기 조건이 설명항에 내포되어 있고, 설명항으로부터 피설명항이 자동적으로 _____되는 설명",
+    "before": "① 완전한 설명: 일반법칙과 초기 조건이 설명항에 내포되어 있고, 설명항으로부터 피설명항이 자동적으로 ",
+    "after": "되는 설명",
+    "answer": "연역",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-077-passage",
+    "page": "gyoyukron-textbook-page-107",
+    "explain": "불완전한 설명의 핵심: 설명에 법칙이 빠져 있으며 주어진 설명항만으로 결론이 자동 연역되지 않는 경우이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-107",
+        "quote": "② 불완전한 설명: 설명항에 법칙 자체가 생략되어 있고, 설명항으로부터 피설명항이 자동적으로 연역되지 않는 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "76c1bb1b02d7811093d75409baadc41336508708d8c9ecc10e8a4770e4cd5d5d"
+    },
+    "type": "blank",
+    "prompt": "② 불완전한 설명: 설명항에 _____ 자체가 생략되어 있고, 설명항으로부터 피설명항이 자동적으로 연역되지 않는 설명",
+    "before": "② 불완전한 설명: 설명항에 ",
+    "after": " 자체가 생략되어 있고, 설명항으로부터 피설명항이 자동적으로 연역되지 않는 설명",
+    "answer": "법칙",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-078-passage",
+    "page": "gyoyukron-textbook-page-107",
+    "explain": "부분적 설명의 핵심: 법칙을 보충해도 사건이 완전히 연역되지 않아 설명력이 일부에 머무는 경우이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-107",
+        "quote": "① 부분적 설명: 일반법칙이 보충되었음에도 불구하고 설명항으로부터 피설명항이 자동적으로 연역되지 않고, 부분적으로만 설명력을 갖는 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "e25e20afd68bb1485ef55acde4f334713df9083b194abf2baa5f62ea64f5c693"
+    },
+    "type": "blank",
+    "prompt": "① 부분적 설명: _____이 보충되었음에도 불구하고 설명항으로부터 피설명항이 자동적으로 연역되지 않고, 부분적으로만 설명력을 갖는 설명",
+    "before": "① 부분적 설명: ",
+    "after": "이 보충되었음에도 불구하고 설명항으로부터 피설명항이 자동적으로 연역되지 않고, 부분적으로만 설명력을 갖는 설명",
+    "answer": "일반법칙",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-079-passage",
+    "page": "gyoyukron-textbook-page-107",
+    "explain": "생략적 설명의 핵심: 초기 조건은 제시되어 있으나 적용한 일반법칙이 명시되지 않은 설명이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-107",
+        "quote": "② 생략적 설명: 초기 조건만 제시되어 있고, 일반법칙이 생략된 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "67d0b9108e7cfdf5ac5b02d881781de51e850d36906e806caa03b993ac5e64f1"
+    },
+    "type": "blank",
+    "prompt": "② 생략적 설명: _____만 제시되어 있고, 일반법칙이 생략된 설명",
+    "before": "② 생략적 설명: ",
+    "after": "만 제시되어 있고, 일반법칙이 생략된 설명",
+    "answer": "초기 조건",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-080-passage",
+    "page": "gyoyukron-textbook-page-109",
+    "explain": "출처 확인의 핵심: 사료를 누가 어떤 의도로 썼는지 확인하여 작성자의 관점과 자신의 관점을 구별하는 읽기 절차이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-109",
+        "quote": "- ㉠ 출처 확인: 사료를 지은 사람의 의도를 파악하고 우리의 관점과 과거 사람들의 관점을 구분하는 것으로, 내용의 이해를 위한 읽기에 앞서 역사가들이 수행하는 절차"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "9d8381bd53c80d629124f94fad5714749e2699d6711cfe45b7c855edbcf72f6a"
+    },
+    "type": "blank",
+    "prompt": "- ㉠ 출처 확인: 사료를 지은 사람의 _____를 파악하고 우리의 관점과 과거 사람들의 관점을 구분하는 것으로, 내용의 이해를 위한 읽기에 앞서 역사가들이 수행하는 절차",
+    "before": "- ㉠ 출처 확인: 사료를 지은 사람의 ",
+    "after": "를 파악하고 우리의 관점과 과거 사람들의 관점을 구분하는 것으로, 내용의 이해를 위한 읽기에 앞서 역사가들이 수행하는 절차",
+    "answer": "의도",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-081-passage",
+    "page": "gyoyukron-textbook-page-109",
+    "explain": "확증의 핵심: 여러 사료의 정보를 서로 대조하여 신뢰성을 검토하는 읽기 절차이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-109",
+        "quote": "- ㉡ 확증: 몇 개의 문서들에서 얻은 정보를 비교하여 문서의 신뢰성을 판단하는 과정으로 확증 단계에서 역사가들은 한 사료를 다른 사료와 연관시켜 검토"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "6dc3a0ec0795c883dc51b464ac9edccbfc300c8decf45a86015074973c86cf45"
+    },
+    "type": "blank",
+    "prompt": "- ㉡ 확증: 몇 개의 문서들에서 얻은 정보를 _____하여 문서의 신뢰성을 판단하는 과정으로 확증 단계에서 역사가들은 한 사료를 다른 사료와 연관시켜 검토",
+    "before": "- ㉡ 확증: 몇 개의 문서들에서 얻은 정보를 ",
+    "after": "하여 문서의 신뢰성을 판단하는 과정으로 확증 단계에서 역사가들은 한 사료를 다른 사료와 연관시켜 검토",
+    "answer": "비교",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-ext-082-passage",
+    "page": "gyoyukron-textbook-page-109",
+    "explain": "맥락화의 핵심: 자료를 해당 시대의 조건과 인식 속에 놓고 의미를 파악하는 읽기 절차이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-109",
+        "quote": "- ㉢ 맥락화: 지역·국가·세계 차원에서 시대의 분위기나 조건을 기술하는 절차로 맥락화를 통해 오늘날과는 다른 해당 시대의 인식이나 생각습관을 알 수 있음"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "fact",
+      "inputSha256": "334d141bd69019690f534be351f96e41fad28484e8d7bc510a2f6002fa322603"
+    },
+    "type": "blank",
+    "prompt": "- ㉢ 맥락화: 지역·국가·세계 차원에서 시대의 분위기나 _____을 기술하는 절차로 맥락화를 통해 오늘날과는 다른 해당 시대의 인식이나 생각습관을 알 수 있음",
+    "before": "- ㉢ 맥락화: 지역·국가·세계 차원에서 시대의 분위기나 ",
+    "after": "을 기술하는 절차로 맥락화를 통해 오늘날과는 다른 해당 시대의 인식이나 생각습관을 알 수 있음",
+    "answer": "조건",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  }
+]

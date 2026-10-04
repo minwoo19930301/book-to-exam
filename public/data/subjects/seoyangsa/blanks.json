@@ -1,0 +1,2038 @@
+[
+  {
+    "id": "seoyangsa-solon-passage",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-295",
+    "prompt": "참정권·병역의 기준을 출생에서 _____으로 바꿈",
+    "before": "참정권·병역의 기준을 출생에서 ",
+    "after": "으로 바꿈",
+    "answer": "재산",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "드라콘 법전 / 솔론 개혁의 배경 / 솔론 개혁 표 / 플루타르코스 — 참정권·병역의 기준을 출생에서 재산으로 바꿈",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-295",
+        "quote": "참정권·병역의 기준을 출생에서 재산으로 바꿈"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "seoyangsa-cleisthenes-passage",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-28",
+    "prompt": "시민은 _____에 의해 평의회 의원으로 선발(30세 이상, 부족별 50명)",
+    "before": "시민은 ",
+    "after": "에 의해 평의회 의원으로 선발(30세 이상, 부족별 50명)",
+    "answer": "추첨",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "클레이스테네스의 개혁 / 500인회 / 민회 / 도편추방제 — 시민은 추첨에 의해 평의회 의원으로 선발(30세 이상, 부족별 50명)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-28",
+        "quote": "시민은 추첨에 의해 평의회 의원으로 선발(30세 이상, 부족별 50명)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "seoyangsa-worms-passage",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-76",
+    "prompt": "종교적 권위를 상징하는 _____는 수여될 수 없게 됨",
+    "before": "종교적 권위를 상징하는 ",
+    "after": "는 수여될 수 없게 됨",
+    "answer": "반지나 지팡이",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "카노사의 굴욕(1077) / 카노사의 굴욕 이후 / 서임권 문제의 해결 — 종교적 권위를 상징하는 반지나 지팡이는 수여될 수 없게 됨",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-76",
+        "quote": "종교적 권위를 상징하는 반지나 지팡이는 수여될 수 없게 됨"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "seoyangsa-westphalia-passage",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-142",
+    "prompt": "_____가 루터파 및 가톨릭과 동등한 권리를 획득.",
+    "before": "",
+    "after": "가 루터파 및 가톨릭과 동등한 권리를 획득.",
+    "answer": "칼뱅파",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "30년 전쟁의 전개 / 베스트팔렌 조약과 전쟁의 성격 — 칼뱅파가 루터파 및 가톨릭과 동등한 권리를 획득.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-142",
+        "quote": "칼뱅파가 루터파 및 가톨릭과 동등한 권리를 획득."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "seoyangsa-bill-rights-passage",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-163",
+    "prompt": "_____의 동의 없이 왕권에 의해 법률이나 법의 집행을 정지시키는 사이비 권한은 불법이다.",
+    "before": "",
+    "after": "의 동의 없이 왕권에 의해 법률이나 법의 집행을 정지시키는 사이비 권한은 불법이다.",
+    "answer": "의회",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "심사령 / 인신보호령 / 제임스 2세 / 명예혁명 / 권리장전 — 의회의 동의 없이 왕권에 의해 법률이나 법의 집행을 정지시키는 사이비 권한은 불법이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-163",
+        "quote": "의회의 동의 없이 왕권에 의해 법률이나 법의 집행을 정지시키는 사이비 권한은 불법이다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "seoyangsa-tennis-court-passage",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-169",
+    "prompt": "새로운 _____이 제정될 때까지 해산하지 않겠다",
+    "before": "새로운 ",
+    "after": "이 제정될 때까지 해산하지 않겠다",
+    "answer": "헌법",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "귀족의 반항 / 고등법원 / 삼부회 소집 / 부르주아 혁명 연표 1789~1792 — 새로운 헌법이 제정될 때까지 해산하지 않겠다",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-169",
+        "quote": "새로운 헌법이 제정될 때까지 해산하지 않겠다"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "seoyangsa-vienna-passage",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-183",
+    "prompt": "원칙 : 정통주의(정치체제), _____, 현상유지",
+    "before": "원칙 : 정통주의(정치체제), ",
+    "after": ", 현상유지",
+    "answer": "세력균형",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "자유주의 / 빈 회의 / 정통주의·세력균형 / 신성동맹·4국동맹 — 원칙 : 정통주의(정치체제), 세력균형, 현상유지",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-183",
+        "quote": "원칙 : 정통주의(정치체제), 세력균형, 현상유지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "seoyangsa-nep-passage",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-132",
+    "prompt": "소규모 상업·농업의 _____ 요소를 허용",
+    "before": "소규모 상업·농업의 ",
+    "after": " 요소를 허용",
+    "answer": "시장",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "전시공산주의의 농업·상공업 / 스탈린의 집권과 1국 사회주의 — 소규모 상업·농업의 시장 요소를 허용",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-132",
+        "quote": "소규모 상업·농업의 시장 요소를 허용"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "seoyangsa-new-deal-passage",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-234",
+    "prompt": "고전적 자유방임에서 _____로. 복지국가 추세, 부의 분배에 국가 개입",
+    "before": "고전적 자유방임에서 ",
+    "after": "로. 복지국가 추세, 부의 분배에 국가 개입",
+    "answer": "수정 자본주의",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": [],
+    "explain": "대공황 / 뉴딜 / 영국 거국내각 / 프랑스 인민전선 — 고전적 자유방임에서 수정 자본주의로. 복지국가 추세, 부의 분배에 국가 개입",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-234",
+        "quote": "고전적 자유방임에서 수정 자본주의로. 복지국가 추세, 부의 분배에 국가 개입"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "2026-10-03.starter.1"
+    }
+  },
+  {
+    "id": "seoyangsa-ext-ancient-201",
+    "page": "seoyangsa-textbook-page-312",
+    "explain": "이집트에 침입한 외래 세력과 군사 기술 전파를 연결한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-312",
+        "quote": "④ 중왕국 때는 수도가 테베로 옮겨졌지만, 힉소스인의 침략을 받으며 쇠퇴"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "1a78f93bb9ffb56ec8b2d6d36d6cbff4bc6060892e0e31905d258aebafbbd7db"
+    },
+    "type": "blank",
+    "prompt": "④ 중왕국 때는 수도가 테베로 옮겨졌지만, _____인의 침략을 받으며 쇠퇴",
+    "before": "④ 중왕국 때는 수도가 테베로 옮겨졌지만, ",
+    "after": "인의 침략을 받으며 쇠퇴",
+    "answer": "힉소스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-ancient-202",
+    "page": "seoyangsa-textbook-page-312",
+    "explain": "이집트 통치자의 칭호와 어원을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-312",
+        "quote": "• 왕은 파라오(pharaoh)라 불리며, ‘큰 집’ 또는 왕궁에서 유래"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "4a61b0fa41b014debd6d71d859c7e2d3471e7f1bedaa1e87725322e8cf1d9daa"
+    },
+    "type": "blank",
+    "prompt": "• 왕은 _____(pharaoh)라 불리며, ‘큰 집’ 또는 왕궁에서 유래",
+    "before": "• 왕은 ",
+    "after": "(pharaoh)라 불리며, ‘큰 집’ 또는 왕궁에서 유래",
+    "answer": "파라오",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-ancient-203",
+    "page": "seoyangsa-textbook-page-313",
+    "explain": "이집트와 히타이트의 대립 및 조약을 연결하는 전투이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-313",
+        "quote": "• 히타이트와 카데시 전투\n• 히타이트–이집트 조약 체결\n• 유프라테스강~나일강 상류까지 광대한 지역 장악"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "0d2d5b18fe2da0e1cc63ba6a28e5a4f96950c680b003d2bd4089ab866e99a383"
+    },
+    "type": "blank",
+    "prompt": "• 히타이트와 _____ 전투\n• 히타이트–이집트 조약 체결\n• 유프라테스강~나일강 상류까지 광대한 지역 장악",
+    "before": "• 히타이트와 ",
+    "after": " 전투\n• 히타이트–이집트 조약 체결\n• 유프라테스강~나일강 상류까지 광대한 지역 장악",
+    "answer": "카데시",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-ancient-204",
+    "page": "seoyangsa-textbook-page-10",
+    "explain": "메소포타미아의 계산·천문 지식을 보여 준다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-10",
+        "quote": "⑦ 과학 : 60진법, 태음력, 점성술, 청동제 무기와 전차 사용"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "69aed8fd5764bf9fb87eea3d9fc261f1d8bdc869181db49b455f8fd8b969c2fb"
+    },
+    "type": "blank",
+    "prompt": "⑦ 과학 : _____, 태음력, 점성술, 청동제 무기와 전차 사용",
+    "before": "⑦ 과학 : ",
+    "after": ", 태음력, 점성술, 청동제 무기와 전차 사용",
+    "answer": "60진법",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-ancient-205",
+    "page": "seoyangsa-textbook-page-293",
+    "explain": "동부 지중해 해상 활동과 문자 전파의 주체를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-293",
+        "quote": "② 페니키아는 도시국가들의 느슨한 연합체로, 상업을 통해 영향력 행사"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "740fb12a4635a2d7ec438ae870a2e3e558d8a86e83c435c61d489758f5b5990d"
+    },
+    "type": "blank",
+    "prompt": "② _____는 도시국가들의 느슨한 연합체로, 상업을 통해 영향력 행사",
+    "before": "② ",
+    "after": "는 도시국가들의 느슨한 연합체로, 상업을 통해 영향력 행사",
+    "answer": "페니키아",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-ancient-206",
+    "page": "seoyangsa-textbook-page-16",
+    "explain": "조로아스터교의 이원론에서 선의 신을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-16",
+        "quote": "② 특징 : 이원론(아후라 마즈다 vs 아리만), 종말론, 사후의 심판, 구세주, 천국과 지옥, 죽은 자의 부활을 믿음"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "2b9fb68aaf7783bb9ed1cebb01b373c219257c49d8d4d8e051d3f9776384c7d4"
+    },
+    "type": "blank",
+    "prompt": "② 특징 : 이원론(_____ vs 아리만), 종말론, 사후의 심판, 구세주, 천국과 지옥, 죽은 자의 부활을 믿음",
+    "before": "② 특징 : 이원론(",
+    "after": " vs 아리만), 종말론, 사후의 심판, 구세주, 천국과 지옥, 죽은 자의 부활을 믿음",
+    "answer": "아후라 마즈다",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-ancient-207",
+    "page": "seoyangsa-textbook-page-25",
+    "explain": "스파르타의 예속 농민과 시민 전사단의 관계를 파악한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-25",
+        "quote": "③ 헤일로타이(Heilotai) : 생산의 기능과 공납 납부 의무, 통제·감시·탄압의 대상, 농경과 가사에 종사"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "600850b907efcc8d17bf8fad80cada334daa6a7342516fa4886158a73c723d41"
+    },
+    "type": "blank",
+    "prompt": "③ _____(Heilotai) : 생산의 기능과 공납 납부 의무, 통제·감시·탄압의 대상, 농경과 가사에 종사",
+    "before": "③ ",
+    "after": "(Heilotai) : 생산의 기능과 공납 납부 의무, 통제·감시·탄압의 대상, 농경과 가사에 종사",
+    "answer": "헤일로타이",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-rome-208",
+    "page": "seoyangsa-textbook-page-315",
+    "explain": "시민 재산 조사와 신분 질서 관리의 관직을 구분한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-315",
+        "quote": "㉦ 감찰관(censor) [기출 2002-4월12]\n• 선거, 조세, 그리고 배정 목적으로 작성하는 로마 시민들의 공식 명부, 인구조사 기록 편찬"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "81e66393004213644eb2acd091576a5afdcd729c748e1109c611a7f6acfc7d06"
+    },
+    "type": "blank",
+    "prompt": "㉦ _____(censor) [기출 2002-4월12]\n• 선거, 조세, 그리고 배정 목적으로 작성하는 로마 시민들의 공식 명부, 인구조사 기록 편찬",
+    "before": "㉦ ",
+    "after": "(censor) [기출 2002-4월12]\n• 선거, 조세, 그리고 배정 목적으로 작성하는 로마 시민들의 공식 명부, 인구조사 기록 편찬",
+    "answer": "감찰관",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-rome-209",
+    "page": "seoyangsa-textbook-page-315",
+    "explain": "평민회 결의의 효력과 신분투쟁의 법적 성과를 연결한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-315",
+        "quote": "- 평민회의 다양한 결의안은 켄투리아회에 의해 재가되어야 했으며, 국가 전체에 대한 구속력이 없었으나, 평민 세력의 신장과 더불어 정식으로 국법으로 인정됨으로써(BCE 287 호르텐시우스법 통과) 그 중요성이 커짐"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "8cff20c4da637654086a56c06208f89ea151c0b69ad3f5da70c5ceae02a3736d"
+    },
+    "type": "blank",
+    "prompt": "- 평민회의 다양한 결의안은 켄투리아회에 의해 재가되어야 했으며, 국가 전체에 대한 구속력이 없었으나, 평민 세력의 신장과 더불어 정식으로 국법으로 인정됨으로써(BCE 287 _____법 통과) 그 중요성이 커짐",
+    "before": "- 평민회의 다양한 결의안은 켄투리아회에 의해 재가되어야 했으며, 국가 전체에 대한 구속력이 없었으나, 평민 세력의 신장과 더불어 정식으로 국법으로 인정됨으로써(BCE 287 ",
+    "after": "법 통과) 그 중요성이 커짐",
+    "answer": "호르텐시우스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-rome-210",
+    "page": "seoyangsa-textbook-page-42",
+    "explain": "로마 공화정의 토지·채무 및 관직 문제를 다룬 개혁을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-42",
+        "quote": "막대한 빚으로 인해 개혁의 시기가 도래한 듯했다. 그 불행한 빚의 경감을 위해 트리부스(평민)들은 평민 출신을 최고의 관직에 앉히지 않는 한 바랄 수도 없게 되었다. 가이우스-리키니우스와 루키우스-섹스티우스가 호민관에 뽑혀서 법안을 공포했는데, 그것은 소수 귀족의 힘에 대항하여 트리부스를 이롭게 하는 것이었다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "974dd186aafac6e701b6a3ebc19b5953be8462a2a6bbcb18b12ca08fa8710044"
+    },
+    "type": "blank",
+    "prompt": "막대한 빚으로 인해 개혁의 시기가 도래한 듯했다. 그 불행한 빚의 경감을 위해 트리부스(평민)들은 평민 출신을 최고의 관직에 앉히지 않는 한 바랄 수도 없게 되었다. 가이우스-_____와 루키우스-섹스티우스가 호민관에 뽑혀서 법안을 공포했는데, 그것은 소수 귀족의 힘에 대항하여 트리부스를 이롭게 하는 것이었다.",
+    "before": "막대한 빚으로 인해 개혁의 시기가 도래한 듯했다. 그 불행한 빚의 경감을 위해 트리부스(평민)들은 평민 출신을 최고의 관직에 앉히지 않는 한 바랄 수도 없게 되었다. 가이우스-",
+    "after": "와 루키우스-섹스티우스가 호민관에 뽑혀서 법안을 공포했는데, 그것은 소수 귀족의 힘에 대항하여 트리부스를 이롭게 하는 것이었다.",
+    "answer": "리키니우스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-rome-211",
+    "page": "seoyangsa-textbook-page-48",
+    "explain": "토지에 결박되는 소작 관계와 로마 후기 사회 변화를 연결한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-48",
+        "quote": "㉡ 가혹한 세금 전가로 소작인·소농민이 토지를 포기하고 콜로누스의 지위로 전락"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "420de275d08eda3eb64926d558633e20b80025c6c2e15cb2c4c9e3348d0d488e"
+    },
+    "type": "blank",
+    "prompt": "㉡ 가혹한 세금 전가로 소작인·소농민이 토지를 포기하고 _____의 지위로 전락",
+    "before": "㉡ 가혹한 세금 전가로 소작인·소농민이 토지를 포기하고 ",
+    "after": "의 지위로 전락",
+    "answer": "콜로누스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-rome-212",
+    "page": "seoyangsa-textbook-page-48",
+    "explain": "콘스탄티누스의 통화 개량과 금화 발행을 구분한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-48",
+        "quote": "• 솔리두스(solidus) 주조 : 순도가 높은 금화를 발행하여 통화개량 시도."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "25e5918ad0ff179cbe88adfde72de77f87758f17b4139715cf07d14885469ca7"
+    },
+    "type": "blank",
+    "prompt": "• _____(solidus) 주조 : 순도가 높은 금화를 발행하여 통화개량 시도.",
+    "before": "• ",
+    "after": "(solidus) 주조 : 순도가 높은 금화를 발행하여 통화개량 시도.",
+    "answer": "솔리두스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-rome-213",
+    "page": "seoyangsa-textbook-page-64",
+    "explain": "유스티니아누스의 서방 영토 회복을 지휘한 장군이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-64",
+        "quote": "ⓑ 옛 로마의 영토 회복(반달 왕국, 동고트 왕국 정벌) : 장군 벨리사리우스(505~565)와 나르세스(478~573) 등 파견"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "f0b6b12f0dd7fbd2560f1fad4949dc0da933b71f0774b929ff1c99247df10b2c"
+    },
+    "type": "blank",
+    "prompt": "ⓑ 옛 로마의 영토 회복(반달 왕국, 동고트 왕국 정벌) : 장군 _____(505~565)와 나르세스(478~573) 등 파견",
+    "before": "ⓑ 옛 로마의 영토 회복(반달 왕국, 동고트 왕국 정벌) : 장군 ",
+    "after": "(505~565)와 나르세스(478~573) 등 파견",
+    "answer": "벨리사리우스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-rome-214",
+    "page": "seoyangsa-textbook-page-64",
+    "explain": "군역과 토지 보유를 연결한 비잔티움의 방위 체계이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-64",
+        "quote": "⑥ 둔전병제\n㉠ 군관구제에서 군역에 종사하는 농민에게 그 대가로 토지를 주고, 아들이 계속 군역에 종사한다는 조건에서 토지를 상속할 수 있도록 한 제도"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "94746dd51c243b807aed35e43598af2f3c6dc66eede96f51b86f786030d88789"
+    },
+    "type": "blank",
+    "prompt": "⑥ _____\n㉠ 군관구제에서 군역에 종사하는 농민에게 그 대가로 토지를 주고, 아들이 계속 군역에 종사한다는 조건에서 토지를 상속할 수 있도록 한 제도",
+    "before": "⑥ ",
+    "after": "\n㉠ 군관구제에서 군역에 종사하는 농민에게 그 대가로 토지를 주고, 아들이 계속 군역에 종사한다는 조건에서 토지를 상속할 수 있도록 한 제도",
+    "answer": "둔전병제",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-medieval-215",
+    "page": "seoyangsa-textbook-page-60",
+    "explain": "주군과 가신 사이 군사적 봉사와 물적 기반의 관계를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-60",
+        "quote": "㉡ 기사의 병역을 부담하는 가신에게 교회령을 몰수하여 봉토로 줌"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "98a0368e5751c3457e3fd8fdb5cf7f01f954f31cff1638018a619fdb910a1e7b"
+    },
+    "type": "blank",
+    "prompt": "㉡ 기사의 병역을 부담하는 가신에게 교회령을 몰수하여 _____로 줌",
+    "before": "㉡ 기사의 병역을 부담하는 가신에게 교회령을 몰수하여 ",
+    "after": "로 줌",
+    "answer": "봉토",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-medieval-216",
+    "page": "seoyangsa-textbook-page-70",
+    "explain": "장원 농민이 부담한 노동 의무를 지대의 다른 형태와 구분한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-70",
+        "quote": "㉡ 부역\n• 노동 지대 : 영주 직영지 경작(매주 2~3일). 가옥·성벽 수리 등에 노동력 제공, 공납으로 현물을 바침"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "ec5a07bfb9c301624884f3d26197c341213a214ac92fd5745a602f71ecb6386f"
+    },
+    "type": "blank",
+    "prompt": "㉡ _____\n• 노동 지대 : 영주 직영지 경작(매주 2~3일). 가옥·성벽 수리 등에 노동력 제공, 공납으로 현물을 바침",
+    "before": "㉡ ",
+    "after": "\n• 노동 지대 : 영주 직영지 경작(매주 2~3일). 가옥·성벽 수리 등에 노동력 제공, 공납으로 현물을 바침",
+    "answer": "부역",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-medieval-217",
+    "page": "seoyangsa-textbook-page-80",
+    "explain": "클뤼니 이후 전개된 수도원 개혁의 한 흐름을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-80",
+        "quote": "(1) 시토 교단\n① 클레르보의 베르나르(1090~1153)에 의해 발전의 계기가 마련됨\n② 베네딕트 규칙을 엄수, 단순하고 검소한 수도원 생활\n③ 기부를 비롯한 농경지 기증을 거부하고 직접 황무지를 개간하여 교단 수입원으로 삼음"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "6ba224598c124712111fc796fe1a8062b1f805a02fb4ac4c68c173e50d0bf72b"
+    },
+    "type": "blank",
+    "prompt": "(1) _____ 교단\n① 클레르보의 베르나르(1090~1153)에 의해 발전의 계기가 마련됨\n② 베네딕트 규칙을 엄수, 단순하고 검소한 수도원 생활\n③ 기부를 비롯한 농경지 기증을 거부하고 직접 황무지를 개간하여 교단 수입원으로 삼음",
+    "before": "(1) ",
+    "after": " 교단\n① 클레르보의 베르나르(1090~1153)에 의해 발전의 계기가 마련됨\n② 베네딕트 규칙을 엄수, 단순하고 검소한 수도원 생활\n③ 기부를 비롯한 농경지 기증을 거부하고 직접 황무지를 개간하여 교단 수입원으로 삼음",
+    "answer": "시토",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-medieval-218",
+    "page": "seoyangsa-textbook-page-80",
+    "explain": "도시에서 청빈과 설교를 강조한 수도회 활동을 파악한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-80",
+        "quote": "(2) 탁발 교단\n① 등장 배경 : 도시의 발달, 이단의 발생, 복음지향 생활에 대한 갈망\n② 프란치스코 교단(1210) : 도시민에게 단순하고 자연스러운 복음을 전파"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "c81a7d63facd2f08a4b64dc25e75bb514e56911a048291252e3c54145cb9b659"
+    },
+    "type": "blank",
+    "prompt": "(2) _____ 교단\n① 등장 배경 : 도시의 발달, 이단의 발생, 복음지향 생활에 대한 갈망\n② 프란치스코 교단(1210) : 도시민에게 단순하고 자연스러운 복음을 전파",
+    "before": "(2) ",
+    "after": " 교단\n① 등장 배경 : 도시의 발달, 이단의 발생, 복음지향 생활에 대한 갈망\n② 프란치스코 교단(1210) : 도시민에게 단순하고 자연스러운 복음을 전파",
+    "answer": "탁발",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-medieval-219",
+    "page": "seoyangsa-textbook-page-277",
+    "explain": "교회 세속화 비판의 핵심 대상이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-277",
+        "quote": "㉢ 교회를 세속화하고, 성직자의 혼인이나 성직매매가 일상화되어 성직자의 기강이 문란"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "786b547a44c03723c4bf11e034d47cda7b8ca4061e956e48ebf55a2120af1f26"
+    },
+    "type": "blank",
+    "prompt": "㉢ 교회를 세속화하고, 성직자의 혼인이나 _____가 일상화되어 성직자의 기강이 문란",
+    "before": "㉢ 교회를 세속화하고, 성직자의 혼인이나 ",
+    "after": "가 일상화되어 성직자의 기강이 문란",
+    "answer": "성직매매",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-medieval-220",
+    "page": "seoyangsa-textbook-page-91",
+    "explain": "현물적 군사 봉사를 화폐 수입으로 전환하여 용병군을 마련한 방식을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-91",
+        "quote": "㉠ 직속봉신들로부터 군역대납금(scutage)을 받아 용병군 편성"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "6645e0c2cc8cf00737552196350a110bdba411153c782a5150d1568e6fb252b0"
+    },
+    "type": "blank",
+    "prompt": "㉠ 직속봉신들로부터 _____(scutage)을 받아 용병군 편성",
+    "before": "㉠ 직속봉신들로부터 ",
+    "after": "(scutage)을 받아 용병군 편성",
+    "answer": "군역대납금",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-medieval-221",
+    "page": "seoyangsa-textbook-page-98",
+    "explain": "아리스토텔레스 철학과 신학의 조화를 모색한 인물이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-98",
+        "quote": "③ 토마스 아퀴나스(Thomas Aquinas, 1225~1274) [기출 2020-A8 / 2003-14]\n㉠ 아리스토텔레스의 철학 체계를 수용하면서, 그것이 제기한 도전을 극복하고 스콜라철학을 종합\n㉡ 아베로에스 학파와는 달리 신앙과 이성은 서로 대립·모순되지 않음\n㉢ 『이교도대전』 : 인간 이성에 의해 확증될 수 있는 종교 교의에 대한 논문"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "167ecaa8a2e42eacbd6d1d41d8993981b1fbb3e990062399abe18fe2e40fc34d"
+    },
+    "type": "blank",
+    "prompt": "③ _____(Thomas Aquinas, 1225~1274) [기출 2020-A8 / 2003-14]\n㉠ 아리스토텔레스의 철학 체계를 수용하면서, 그것이 제기한 도전을 극복하고 스콜라철학을 종합\n㉡ 아베로에스 학파와는 달리 신앙과 이성은 서로 대립·모순되지 않음\n㉢ 『이교도대전』 : 인간 이성에 의해 확증될 수 있는 종교 교의에 대한 논문",
+    "before": "③ ",
+    "after": "(Thomas Aquinas, 1225~1274) [기출 2020-A8 / 2003-14]\n㉠ 아리스토텔레스의 철학 체계를 수용하면서, 그것이 제기한 도전을 극복하고 스콜라철학을 종합\n㉡ 아베로에스 학파와는 달리 신앙과 이성은 서로 대립·모순되지 않음\n㉢ 『이교도대전』 : 인간 이성에 의해 확증될 수 있는 종교 교의에 대한 논문",
+    "answer": "토마스 아퀴나스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-early-modern-222",
+    "page": "seoyangsa-textbook-page-118",
+    "explain": "고전 연구와 초기 인문주의의 관계를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-118",
+        "quote": "① 페트라르카(Petrarca, 1304~1374)\n㉠ 평가 : 최초의 ‘근대인’. 이탈리아의 과거와 고대 세계에 대한 동경, 라틴 작가의 작품을 수집·연구"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "914f944943e7c0aed87a2dd8d9df12d42939f98a6cb3ff46db90124730926e50"
+    },
+    "type": "blank",
+    "prompt": "① _____(Petrarca, 1304~1374)\n㉠ 평가 : 최초의 ‘근대인’. 이탈리아의 과거와 고대 세계에 대한 동경, 라틴 작가의 작품을 수집·연구",
+    "before": "① ",
+    "after": "(Petrarca, 1304~1374)\n㉠ 평가 : 최초의 ‘근대인’. 이탈리아의 과거와 고대 세계에 대한 동경, 라틴 작가의 작품을 수집·연구",
+    "answer": "페트라르카",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-early-modern-223",
+    "page": "seoyangsa-textbook-page-118",
+    "explain": "인간의 존엄과 자유의지에 대한 르네상스적 관심을 보여 준다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-118",
+        "quote": "⑤ 피코는 『인간의 존엄성』(1486)에서 인간의 본성과 자유의지에 의한 르네상스적 인간관을 제시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "c65e398a2cde0ef27f9d48f72f15227da468c5bd93d6fa9d29d8120e6df5a36e"
+    },
+    "type": "blank",
+    "prompt": "⑤ _____는 『인간의 존엄성』(1486)에서 인간의 본성과 자유의지에 의한 르네상스적 인간관을 제시",
+    "before": "⑤ ",
+    "after": "는 『인간의 존엄성』(1486)에서 인간의 본성과 자유의지에 의한 르네상스적 인간관을 제시",
+    "answer": "피코",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-early-modern-224",
+    "page": "seoyangsa-textbook-page-123",
+    "explain": "아메리카와 유럽의 지속적 연결이 시작되는 계기를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-123",
+        "quote": "① 크리스토퍼 콜럼버스(1451~1506)\n㉠ 이탈리아 출신으로 에스파냐 이사벨 여왕의 후원을 받음"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "c4bdfa3692a65b4d9956495664599b1f783abcd69806a64216a07474d16f8505"
+    },
+    "type": "blank",
+    "prompt": "① 크리스토퍼 _____(1451~1506)\n㉠ 이탈리아 출신으로 에스파냐 이사벨 여왕의 후원을 받음",
+    "before": "① 크리스토퍼 ",
+    "after": "(1451~1506)\n㉠ 이탈리아 출신으로 에스파냐 이사벨 여왕의 후원을 받음",
+    "answer": "콜럼버스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-early-modern-225",
+    "page": "seoyangsa-textbook-page-124",
+    "explain": "아메리카 은 생산과 세계 교역망의 연결을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-124",
+        "quote": "㉡ 포토시 은광 등에서 대량의 은이 채굴되어 에스파냐로 유입"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "4cdbe33f7aaaf57a2811cf58950d5fcc8f6d24027717c3625b98473dc163e7d8"
+    },
+    "type": "blank",
+    "prompt": "㉡ _____ 은광 등에서 대량의 은이 채굴되어 에스파냐로 유입",
+    "before": "㉡ ",
+    "after": " 은광 등에서 대량의 은이 채굴되어 에스파냐로 유입",
+    "answer": "포토시",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-early-modern-226",
+    "page": "seoyangsa-textbook-page-326",
+    "explain": "칼뱅파의 교회 조직과 생활 규율을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-326",
+        "quote": "④ 교회 조직화(장로제) : 신자들의 일상생활 통제, 엄격한 윤리적·금욕적 생활 강요"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "68cfdee1111f89706996439ab0792d17100732dee9e2da90c1186459101c5a5b"
+    },
+    "type": "blank",
+    "prompt": "④ 교회 조직화(_____) : 신자들의 일상생활 통제, 엄격한 윤리적·금욕적 생활 강요",
+    "before": "④ 교회 조직화(",
+    "after": ") : 신자들의 일상생활 통제, 엄격한 윤리적·금욕적 생활 강요",
+    "answer": "장로제",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-early-modern-227",
+    "page": "seoyangsa-textbook-page-136",
+    "explain": "중상주의의 수출 확대·수입 억제 논리를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-136",
+        "quote": "③ 무역차액설 : 수출을 늘리고 수입을 억제하여 무역흑자를 확보"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "0fec839aa459efd1a7fce08008bd4029b428c7e2a2874d52466b6e6a0bf79e6f"
+    },
+    "type": "blank",
+    "prompt": "③ _____ : 수출을 늘리고 수입을 억제하여 무역흑자를 확보",
+    "before": "③ ",
+    "after": " : 수출을 늘리고 수입을 억제하여 무역흑자를 확보",
+    "answer": "무역차액설",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-early-modern-228",
+    "page": "seoyangsa-textbook-page-143",
+    "explain": "프로이센의 지주 귀족과 국가의 군사·관료적 성격을 연결한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-143",
+        "quote": "㉢ 영지 내에서 프로이센 귀족들의 권한을 증대시켜 주고, 그들을 장교·관료에 기용. 이로 인해 융커와 왕권은 상호하는 유대관계가 됨"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "28c8cdc44c6acae4c7b570c8337ed1a2f83d7e92192b2e52b99c393347f0faa8"
+    },
+    "type": "blank",
+    "prompt": "㉢ 영지 내에서 프로이센 귀족들의 권한을 증대시켜 주고, 그들을 장교·관료에 기용. 이로 인해 _____와 왕권은 상호하는 유대관계가 됨",
+    "before": "㉢ 영지 내에서 프로이센 귀족들의 권한을 증대시켜 주고, 그들을 장교·관료에 기용. 이로 인해 ",
+    "after": "와 왕권은 상호하는 유대관계가 됨",
+    "answer": "융커",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-revolutions-229",
+    "page": "seoyangsa-textbook-page-160",
+    "explain": "명예혁명 이전 왕권 제한을 요구한 문서를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-160",
+        "quote": "㉡ 권리청원(1628)\n• 국왕에 대한 의회의 우위 확인\n• 의회 동의 없이 어떠한 조세·공채·어용금도 부과할 수 없음"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "aefdd028bc84cb61f85fc614296869eaf4cb1a22a73a0fbf445ab22e07f0e673"
+    },
+    "type": "blank",
+    "prompt": "㉡ _____(1628)\n• 국왕에 대한 의회의 우위 확인\n• 의회 동의 없이 어떠한 조세·공채·어용금도 부과할 수 없음",
+    "before": "㉡ ",
+    "after": "(1628)\n• 국왕에 대한 의회의 우위 확인\n• 의회 동의 없이 어떠한 조세·공채·어용금도 부과할 수 없음",
+    "answer": "권리청원",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-revolutions-230",
+    "page": "seoyangsa-textbook-page-162",
+    "explain": "크롬웰 시기 해상무역과 국가 정책을 연결한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-162",
+        "quote": "항해법(항해조례, Navigation Act, 1651)\n① 영국에 수입되는 상품은 영국 선박이나 생산국의 선박만이 수송할 수 있음. 아시아·아메리카 등지의 식민지에서 수입되는 상품은 영국 선박만이 수송할 수 있다고 규정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "ef3072ac02f1e7b248118084c984ddde7290f656bb724e07c39c9668210f43d6"
+    },
+    "type": "blank",
+    "prompt": "_____(항해조례, Navigation Act, 1651)\n① 영국에 수입되는 상품은 영국 선박이나 생산국의 선박만이 수송할 수 있음. 아시아·아메리카 등지의 식민지에서 수입되는 상품은 영국 선박만이 수송할 수 있다고 규정",
+    "before": "",
+    "after": "(항해조례, Navigation Act, 1651)\n① 영국에 수입되는 상품은 영국 선박이나 생산국의 선박만이 수송할 수 있음. 아시아·아메리카 등지의 식민지에서 수입되는 상품은 영국 선박만이 수송할 수 있다고 규정",
+    "answer": "항해법",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-revolutions-231",
+    "page": "seoyangsa-textbook-page-163",
+    "explain": "자의적 구금에 대한 절차적 제한을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-163",
+        "quote": "② 인신보호령(1679) : 휘그당이 제정. 피고를 무한정 구금할 수 없고, 일정한 기간 내에 재판하여 그 죄명을 명시할 것을 규정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "06ede973f4cd366c07f9af960961040d2edb9293d2b94cd62e4eabf734fccdfd"
+    },
+    "type": "blank",
+    "prompt": "② _____(1679) : 휘그당이 제정. 피고를 무한정 구금할 수 없고, 일정한 기간 내에 재판하여 그 죄명을 명시할 것을 규정",
+    "before": "② ",
+    "after": "(1679) : 휘그당이 제정. 피고를 무한정 구금할 수 없고, 일정한 기간 내에 재판하여 그 죄명을 명시할 것을 규정",
+    "answer": "인신보호령",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-revolutions-232",
+    "page": "seoyangsa-textbook-page-165",
+    "explain": "영국의 과세와 북아메리카 식민지의 저항을 연결한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-165",
+        "quote": "① 뉴욕 인지세법 회의(1765. 10.) : 9개 식민지 대표들은 버지니아 의회가 채택한 원칙, “대표 없이 과세할 수 없다(No taxation without representation)”를 확인"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "eed2a7c4d7b014a2ab17ed987c5de7c03e5f154753541d41fcad882c800d6f2f"
+    },
+    "type": "blank",
+    "prompt": "① 뉴욕 _____법 회의(1765. 10.) : 9개 식민지 대표들은 버지니아 의회가 채택한 원칙, “대표 없이 과세할 수 없다(No taxation without representation)”를 확인",
+    "before": "① 뉴욕 ",
+    "after": "법 회의(1765. 10.) : 9개 식민지 대표들은 버지니아 의회가 채택한 원칙, “대표 없이 과세할 수 없다(No taxation without representation)”를 확인",
+    "answer": "인지세",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-revolutions-233",
+    "page": "seoyangsa-textbook-page-177",
+    "explain": "프랑스 혁명기의 통화와 물가 문제를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-177",
+        "quote": "② 아시냐 지폐를 강제 유통시킴\n③ 인플레이션을 해결하지 못해 하층민의 지지 상실"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "5fcd6086fb69893d4d7af680fa57a66bafbe2604cee9767afe17ee67e11c3a82"
+    },
+    "type": "blank",
+    "prompt": "② _____ 지폐를 강제 유통시킴\n③ 인플레이션을 해결하지 못해 하층민의 지지 상실",
+    "before": "② ",
+    "after": " 지폐를 강제 유통시킴\n③ 인플레이션을 해결하지 못해 하층민의 지지 상실",
+    "answer": "아시냐",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-revolutions-234",
+    "page": "seoyangsa-textbook-page-180",
+    "explain": "시민적 평등과 소유권을 법질서로 정비한 정책을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-180",
+        "quote": "② 나폴레옹 법전 : 시민적 평등, 소유권 보장, 세속 국가의 법질서"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "e6b2c1145c4c9bfeb4b5e856b1e73a2608aa1b5beea1139f73118083681b1330"
+    },
+    "type": "blank",
+    "prompt": "② _____ : 시민적 평등, 소유권 보장, 세속 국가의 법질서",
+    "before": "② ",
+    "after": " : 시민적 평등, 소유권 보장, 세속 국가의 법질서",
+    "answer": "나폴레옹 법전",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-revolutions-235",
+    "page": "seoyangsa-textbook-page-46",
+    "explain": "영국과의 경쟁에서 대륙 경제를 동원한 정책을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-46",
+        "quote": "대륙봉쇄령으로 각국의 불안 고조. 프로이센·러시아·영국 등. 1807년 틸지트 조약"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "b9f8ceb6894b27209a62c66cec4da5c9f1d542e2cf98eeefeedbf513dec6034b"
+    },
+    "type": "blank",
+    "prompt": "_____령으로 각국의 불안 고조. 프로이센·러시아·영국 등. 1807년 틸지트 조약",
+    "before": "",
+    "after": "령으로 각국의 불안 고조. 프로이센·러시아·영국 등. 1807년 틸지트 조약",
+    "answer": "대륙봉쇄",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-nation-industry-236",
+    "page": "seoyangsa-textbook-page-184",
+    "explain": "빈 체제의 자유주의·민족주의 억압을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-184",
+        "quote": "㉢ 카를스바트(Carlsbad) 결의(1819) [기출 2022]\n• 메테르니히 주도로 학생 조합 해산\n• 대학에 감독관 파견, 출판물 검열\n• 이로 인해 독일의 자유주의 운동은 질식 상태에 도달"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "14b141860708be4ace1dff4bdafa16daa4cb40deb784a0adce6a9ca3d5f8bf97"
+    },
+    "type": "blank",
+    "prompt": "㉢ _____(Carlsbad) 결의(1819) [기출 2022]\n• 메테르니히 주도로 학생 조합 해산\n• 대학에 감독관 파견, 출판물 검열\n• 이로 인해 독일의 자유주의 운동은 질식 상태에 도달",
+    "before": "㉢ ",
+    "after": "(Carlsbad) 결의(1819) [기출 2022]\n• 메테르니히 주도로 학생 조합 해산\n• 대학에 감독관 파견, 출판물 검열\n• 이로 인해 독일의 자유주의 운동은 질식 상태에 도달",
+    "answer": "카를스바트",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-nation-industry-237",
+    "page": "seoyangsa-textbook-page-185",
+    "explain": "라틴아메리카 독립운동의 지도자를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-185",
+        "quote": "[사료탐구] 볼리바르의 독립\n나는 에스파냐 총독들을 뼛속까지 경멸하였습니다. 우리가 해방을 성취하기만 한다면, 나는 왕이라는 칭호보다는 해방자로서 사람들에게 알려지고 기억되기를 바랄 뿐입니다. 해방자라는 칭호야말로 인간이 받을 수 있는 가장 숭고한 칭송이기 때문입니다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "484072e040b7e16b886c9009e836b491e9ef7d59f7e007569ab5e5dcf509ffab"
+    },
+    "type": "blank",
+    "prompt": "[사료탐구] _____의 독립\n나는 에스파냐 총독들을 뼛속까지 경멸하였습니다. 우리가 해방을 성취하기만 한다면, 나는 왕이라는 칭호보다는 해방자로서 사람들에게 알려지고 기억되기를 바랄 뿐입니다. 해방자라는 칭호야말로 인간이 받을 수 있는 가장 숭고한 칭송이기 때문입니다.",
+    "before": "[사료탐구] ",
+    "after": "의 독립\n나는 에스파냐 총독들을 뼛속까지 경멸하였습니다. 우리가 해방을 성취하기만 한다면, 나는 왕이라는 칭호보다는 해방자로서 사람들에게 알려지고 기억되기를 바랄 뿐입니다. 해방자라는 칭호야말로 인간이 받을 수 있는 가장 숭고한 칭송이기 때문입니다.",
+    "answer": "볼리바르",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-nation-industry-238",
+    "page": "seoyangsa-textbook-page-193",
+    "explain": "협동 공동체와 노동 조건 개선을 모색한 초기 사회주의자이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-193",
+        "quote": "③ 오언 : 뉴라나크 공장 개혁, 협동조합, 뉴하모니 실험"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "b4d145118ecf6c7b346d35ff44b4eba149dc2ddc5488d6016b2123f0bf7fdc7b"
+    },
+    "type": "blank",
+    "prompt": "③ _____ : 뉴라나크 공장 개혁, 협동조합, 뉴하모니 실험",
+    "before": "③ ",
+    "after": " : 뉴라나크 공장 개혁, 협동조합, 뉴하모니 실험",
+    "answer": "오언",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-nation-industry-239",
+    "page": "seoyangsa-textbook-page-193",
+    "explain": "초기 사회주의의 공동체 구상을 비교한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-193",
+        "quote": "② 푸리에 : 팔랑스테르. 노동의 매력화\n③ 오언 : 뉴라나크 공장 개혁, 협동조합, 뉴하모니 실험"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "337a9abc4ca26f14a01a71a3aefa373fba7a3545b504de32ede492d8ad6cdea9"
+    },
+    "type": "blank",
+    "prompt": "② _____ : 팔랑스테르. 노동의 매력화\n③ 오언 : 뉴라나크 공장 개혁, 협동조합, 뉴하모니 실험",
+    "before": "② ",
+    "after": " : 팔랑스테르. 노동의 매력화\n③ 오언 : 뉴라나크 공장 개혁, 협동조합, 뉴하모니 실험",
+    "answer": "푸리에",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-nation-industry-240",
+    "page": "seoyangsa-textbook-page-204",
+    "explain": "서부 준주의 노예제 문제와 남북 갈등을 연결한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-204",
+        "quote": "㉠ 네브래스카와 캔자스가 연방 가입을 신청했을 때 주민 주권으로 노예제 여부를 결정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "7b4431a2d954e8c1753c4bfb09a02d93f1a257d9d7e9072618d8f3e55ff84380"
+    },
+    "type": "blank",
+    "prompt": "㉠ 네브래스카와 _____가 연방 가입을 신청했을 때 주민 주권으로 노예제 여부를 결정",
+    "before": "㉠ 네브래스카와 ",
+    "after": "가 연방 가입을 신청했을 때 주민 주권으로 노예제 여부를 결정",
+    "answer": "캔자스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-nation-industry-241",
+    "page": "seoyangsa-textbook-page-206",
+    "explain": "러시아 농촌 공동체와 농노 해방 이후 토지 관계를 파악한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-206",
+        "quote": "㉡ 해방된 토지는 농촌공동체 미르에 소속되어 정기적으로 재분배"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "26153af16731440586adb89cc85df39eea8ead0ad8c759ea611be350cf88643d"
+    },
+    "type": "blank",
+    "prompt": "㉡ 해방된 토지는 농촌공동체 _____에 소속되어 정기적으로 재분배",
+    "before": "㉡ 해방된 토지는 농촌공동체 ",
+    "after": "에 소속되어 정기적으로 재분배",
+    "answer": "미르",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-nation-industry-242",
+    "page": "seoyangsa-textbook-page-206",
+    "explain": "러시아 개혁기의 지방 자치와 행정 업무를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-206",
+        "quote": "③ 젬스트보(지방의회) 설치(1864) : 지방의 재정, 교육, 의료, 도로 보존 등 관장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "18183e439b9b84a2cd4b57f91630e06a1772e47f9c50a94386cc5b54d09c226f"
+    },
+    "type": "blank",
+    "prompt": "③ _____(지방의회) 설치(1864) : 지방의 재정, 교육, 의료, 도로 보존 등 관장",
+    "before": "③ ",
+    "after": "(지방의회) 설치(1864) : 지방의 재정, 교육, 의료, 도로 보존 등 관장",
+    "answer": "젬스트보",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-war-revolution-243",
+    "page": "seoyangsa-textbook-page-216",
+    "explain": "레닌의 제국주의론에서 자본의 조직 변화에 주목한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-216",
+        "quote": "② 레닌 : 독점·금융자본의 필연적 단계. 세계 재분할 전쟁으로 귀결"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "1943771450c76f724bb738868006c9c868ea56f91cb05995b97238484ce291ce"
+    },
+    "type": "blank",
+    "prompt": "② 레닌 : 독점·_____의 필연적 단계. 세계 재분할 전쟁으로 귀결",
+    "before": "② 레닌 : 독점·",
+    "after": "의 필연적 단계. 세계 재분할 전쟁으로 귀결",
+    "answer": "금융자본",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-war-revolution-244",
+    "page": "seoyangsa-textbook-page-218",
+    "explain": "콩고 식민 지배와 벨기에 왕의 관계를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-218",
+        "quote": "벨기에 : 레오폴드 2세의 콩고 자유국 — 고무 수탈\n이탈리아 : 에리트레아, 리비아. 아도와에서 에티오피아에 패배(1896)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "415b5136ab0f7db41a265234029269a41084ef1716f95d83291d8014f3ca48b7"
+    },
+    "type": "blank",
+    "prompt": "벨기에 : _____ 2세의 콩고 자유국 — 고무 수탈\n이탈리아 : 에리트레아, 리비아. 아도와에서 에티오피아에 패배(1896)",
+    "before": "벨기에 : ",
+    "after": " 2세의 콩고 자유국 — 고무 수탈\n이탈리아 : 에리트레아, 리비아. 아도와에서 에티오피아에 패배(1896)",
+    "answer": "레오폴드",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-war-revolution-245",
+    "page": "seoyangsa-textbook-page-219",
+    "explain": "비스마르크 외교에서 러시아와의 관계 조정을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-219",
+        "quote": "재보장 조약(1887)\n① 독일-러시아. 상대방이 공격받을 때 중립"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "a2bcce4ea7d24b7a4f4d0610bae7b68809ecfbabd95850b19bd67a09f83f720e"
+    },
+    "type": "blank",
+    "prompt": "_____ 조약(1887)\n① 독일-러시아. 상대방이 공격받을 때 중립",
+    "before": "",
+    "after": " 조약(1887)\n① 독일-러시아. 상대방이 공격받을 때 중립",
+    "answer": "재보장",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-war-revolution-246",
+    "page": "seoyangsa-textbook-page-301",
+    "explain": "삼국동맹과 대립한 전쟁 전 외교 결합을 구분한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-301",
+        "quote": "㉡ 영·프·러 삼국 협상 완성. 삼국 동맹과 대립하는 양대 진영 형성"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "490650369baea5c620a93c13b2918b48269e945fadfeed5b9fd812a55388f495"
+    },
+    "type": "blank",
+    "prompt": "㉡ 영·프·러 _____ 완성. 삼국 동맹과 대립하는 양대 진영 형성",
+    "before": "㉡ 영·프·러 ",
+    "after": " 완성. 삼국 동맹과 대립하는 양대 진영 형성",
+    "answer": "삼국 협상",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-war-revolution-247",
+    "page": "seoyangsa-textbook-page-224",
+    "explain": "1905년 혁명 이후 러시아 농업 개혁의 주도자를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-224",
+        "quote": "③ 총리 스톨리핀의 개혁 [기출 2018]\n㉠ 목표 : 점진적인 개혁으로 입헌정치를 구현하고 혁명을 저지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "3c702067eb83d8b861c5762ede06ac46fae64df04521b9e0d5bbb248ba0994ff"
+    },
+    "type": "blank",
+    "prompt": "③ 총리 _____의 개혁 [기출 2018]\n㉠ 목표 : 점진적인 개혁으로 입헌정치를 구현하고 혁명을 저지",
+    "before": "③ 총리 ",
+    "after": "의 개혁 [기출 2018]\n㉠ 목표 : 점진적인 개혁으로 입헌정치를 구현하고 혁명을 저지",
+    "answer": "스톨리핀",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-war-revolution-248",
+    "page": "seoyangsa-textbook-page-225",
+    "explain": "혁명 이후 대표 제도와 볼셰비키 권력의 충돌을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-225",
+        "quote": "제헌의회\n① 헌법제정회의 선거(1917. 11. 12.) : 사회혁명당(우파)이 과반, 볼셰비키는 24%"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "cb0f5943211ef31fab0609d0b489200294f29d415370a2a426e408c276def14f"
+    },
+    "type": "blank",
+    "prompt": "_____\n① 헌법제정회의 선거(1917. 11. 12.) : 사회혁명당(우파)이 과반, 볼셰비키는 24%",
+    "before": "",
+    "after": "\n① 헌법제정회의 선거(1917. 11. 12.) : 사회혁명당(우파)이 과반, 볼셰비키는 24%",
+    "answer": "제헌의회",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-war-revolution-249",
+    "page": "seoyangsa-textbook-page-231",
+    "explain": "전쟁을 국제분쟁 해결 수단에서 배제하려는 전후 외교를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-231",
+        "quote": "[사료탐구] 켈로그-브리앙 조약(부전 조약, 1928)\n제1조 참가국은 국제 분쟁 해결을 위해 전쟁에 호소하지 않으며 전쟁을 국가 정책 수단으로 포기한다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "0e98642ed7b8a486197a699af17dc809ec8e0b689788d94c649500a8ac87b031"
+    },
+    "type": "blank",
+    "prompt": "[사료탐구] _____-브리앙 조약(부전 조약, 1928)\n제1조 참가국은 국제 분쟁 해결을 위해 전쟁에 호소하지 않으며 전쟁을 국가 정책 수단으로 포기한다.",
+    "before": "[사료탐구] ",
+    "after": "-브리앙 조약(부전 조약, 1928)\n제1조 참가국은 국제 분쟁 해결을 위해 전쟁에 호소하지 않으며 전쟁을 국가 정책 수단으로 포기한다.",
+    "answer": "켈로그",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-interwar-250",
+    "page": "seoyangsa-textbook-page-234",
+    "explain": "뉴딜의 은행 정상화 정책을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-234",
+        "quote": "긴급은행법\n회생 가능 은행에 지원, 업무 정상화\n금본위제 폐지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "95fcddf58707edf75151c8a4bb1534a5daa1f7f8b586b0617fd5259134fc7f73"
+    },
+    "type": "blank",
+    "prompt": "_____\n회생 가능 은행에 지원, 업무 정상화\n금본위제 폐지",
+    "before": "",
+    "after": "\n회생 가능 은행에 지원, 업무 정상화\n금본위제 폐지",
+    "answer": "긴급은행법",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-interwar-251",
+    "page": "seoyangsa-textbook-page-234",
+    "explain": "실업 구제와 지역 개발을 결합한 정책을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-234",
+        "quote": "TVA(1933)\n실업 구제와 지역 개발\n전국산업부흥법\n생산 조절, 최저가격"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "330464ed9298d6782fcf38b533970d164d61857780d4fe35664ba59421a6b74b"
+    },
+    "type": "blank",
+    "prompt": "_____(1933)\n실업 구제와 지역 개발\n전국산업부흥법\n생산 조절, 최저가격",
+    "before": "",
+    "after": "(1933)\n실업 구제와 지역 개발\n전국산업부흥법\n생산 조절, 최저가격",
+    "answer": "TVA",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-interwar-252",
+    "page": "seoyangsa-textbook-page-234",
+    "explain": "대공황기 영연방의 블록경제 형성을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-234",
+        "quote": "② 금본위제 폐지, 보호관세(1932), 오타와 회의로 영연방 블록경제"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "211440d399966b4de6e1460e38e0044cbbb975ea40d68411c83b401b247ac648"
+    },
+    "type": "blank",
+    "prompt": "② 금본위제 폐지, 보호관세(1932), _____ 회의로 영연방 블록경제",
+    "before": "② 금본위제 폐지, 보호관세(1932), ",
+    "after": " 회의로 영연방 블록경제",
+    "answer": "오타와",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-interwar-253",
+    "page": "seoyangsa-textbook-page-236",
+    "explain": "라테란 조약에서 승인한 교황청의 독립 국가를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-236",
+        "quote": "① 바티칸 도시국가의 독립 승인. 가톨릭을 국교로 인정\n② 교황은 이탈리아 왕국을 승인하고 과거 교회령을 포기"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "7c203fd508e6e0cbcd0d4075aa2f7f386318bd00117562367537e6fa1b44c45f"
+    },
+    "type": "blank",
+    "prompt": "① _____ 도시국가의 독립 승인. 가톨릭을 국교로 인정\n② 교황은 이탈리아 왕국을 승인하고 과거 교회령을 포기",
+    "before": "① ",
+    "after": " 도시국가의 독립 승인. 가톨릭을 국교로 인정\n② 교황은 이탈리아 왕국을 승인하고 과거 교회령을 포기",
+    "answer": "바티칸",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-interwar-254",
+    "page": "seoyangsa-textbook-page-237",
+    "explain": "나치의 반유대 폭력 확대를 보여 주는 사건이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-237",
+        "quote": "③ 수정의 밤(1938. 11.) : 상점·예배당 약탈, 3만 명 강제수용소 이송"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "d6fad1795baf19c16d24aee74006bf2a15a0d6f07642ca0bce20cd53c20c34ea"
+    },
+    "type": "blank",
+    "prompt": "③ _____(1938. 11.) : 상점·예배당 약탈, 3만 명 강제수용소 이송",
+    "before": "③ ",
+    "after": "(1938. 11.) : 상점·예배당 약탈, 3만 명 강제수용소 이송",
+    "answer": "수정의 밤",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-interwar-255",
+    "page": "seoyangsa-textbook-page-239",
+    "explain": "나치 지배에 대한 저항 운동을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-239",
+        "quote": "③ 비시 프랑스(페탱). 드골의 자유 프랑스와 레지스탕스\n④ 삼국 동맹(1940. 9.). 롬멜의 북아프리카"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "e9cd5c6a4bb54c95d01c851049edfc1986465614989229eb80a2d5b68a5f7701"
+    },
+    "type": "blank",
+    "prompt": "③ 비시 프랑스(페탱). 드골의 자유 프랑스와 _____\n④ 삼국 동맹(1940. 9.). 롬멜의 북아프리카",
+    "before": "③ 비시 프랑스(페탱). 드골의 자유 프랑스와 ",
+    "after": "\n④ 삼국 동맹(1940. 9.). 롬멜의 북아프리카",
+    "answer": "레지스탕스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-interwar-256",
+    "page": "seoyangsa-textbook-page-240",
+    "explain": "미국이 참전 전에 영국 등 연합국을 지원한 정책이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-240",
+        "quote": "② 영국 적극 지원(1940. 6.~). 무기대여법(Lend-Lease Act, 1941. 3.)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "e66ae690d8890f4a290f1d8941d032c9b089f831f23948c2c388c8c77388780e"
+    },
+    "type": "blank",
+    "prompt": "② 영국 적극 지원(1940. 6.~). _____(Lend-Lease Act, 1941. 3.)",
+    "before": "② 영국 적극 지원(1940. 6.~). ",
+    "after": "(Lend-Lease Act, 1941. 3.)",
+    "answer": "무기대여법",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-coldwar-257",
+    "page": "seoyangsa-textbook-page-246",
+    "explain": "소련권 공산당의 정보 공유와 결합 기구를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-246",
+        "quote": "② 코민포름(1947) : 동유럽 공산국가의 단합·정보 공유"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "91f0b118457400a3a31e8a7b3d1c7fe3bc98443384f268ddd92ee7d2acb2595c"
+    },
+    "type": "blank",
+    "prompt": "② _____(1947) : 동유럽 공산국가의 단합·정보 공유",
+    "before": "② ",
+    "after": "(1947) : 동유럽 공산국가의 단합·정보 공유",
+    "answer": "코민포름",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-coldwar-258",
+    "page": "seoyangsa-textbook-page-246",
+    "explain": "소련권 경제 협력 기구와 서유럽 재건 체제의 대립을 파악한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-246",
+        "quote": "③ 코메콘(COMECON, 1949) : OEEC에 맞대응"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "db5e6ff1c5b39638b5e318d2abff170984964ea69d7572c9e6940cc80df5bee6"
+    },
+    "type": "blank",
+    "prompt": "③ _____(COMECON, 1949) : OEEC에 맞대응",
+    "before": "③ ",
+    "after": "(COMECON, 1949) : OEEC에 맞대응",
+    "answer": "코메콘",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-coldwar-259",
+    "page": "seoyangsa-textbook-page-248",
+    "explain": "제1차 세계대전 중 팔레스타인에 관한 영국의 약속을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-248",
+        "quote": "[사료탐구] 밸푸어 선언(1917. 11. 2.)\n국왕의 정부는 팔레스타인에 유대인 민족의 고향이 건설되는 것을 호의적으로 보며, 이 목표를 달성하는 데 최선을 다할 것입니다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "1b95f7612c5b031c228bee5cd7676fb2cc67e7385bcaf7573d5168a0a3244dad"
+    },
+    "type": "blank",
+    "prompt": "[사료탐구] _____ 선언(1917. 11. 2.)\n국왕의 정부는 팔레스타인에 유대인 민족의 고향이 건설되는 것을 호의적으로 보며, 이 목표를 달성하는 데 최선을 다할 것입니다.",
+    "before": "[사료탐구] ",
+    "after": " 선언(1917. 11. 2.)\n국왕의 정부는 팔레스타인에 유대인 민족의 고향이 건설되는 것을 호의적으로 보며, 이 목표를 달성하는 데 최선을 다할 것입니다.",
+    "answer": "밸푸어",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-coldwar-260",
+    "page": "seoyangsa-textbook-page-249",
+    "explain": "팔레스타인 민족운동의 조직을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-249",
+        "quote": "팔레스타인 해방기구(PLO, 1964). 인티파다(1987). 오슬로 협정(1993, 아라파트·라빈)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "cc967932e4b210a78be1528741e77fe92c779dc698dd48b23cfd94ca55600f09"
+    },
+    "type": "blank",
+    "prompt": "팔레스타인 해방기구(_____, 1964). 인티파다(1987). 오슬로 협정(1993, 아라파트·라빈)",
+    "before": "팔레스타인 해방기구(",
+    "after": ", 1964). 인티파다(1987). 오슬로 협정(1993, 아라파트·라빈)",
+    "answer": "PLO",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-coldwar-261",
+    "page": "seoyangsa-textbook-page-250",
+    "explain": "전략 무기 제한 협상과 냉전의 긴장 완화를 연결한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-250",
+        "quote": "SALT I\nABM 제한, 탄도미사일 발사대 동결\n1987"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "9b6d136668a6d191cb443449c487553cd292d1cb5a00a4ea9a7761c6cb87d155"
+    },
+    "type": "blank",
+    "prompt": "_____\nABM 제한, 탄도미사일 발사대 동결\n1987",
+    "before": "",
+    "after": "\nABM 제한, 탄도미사일 발사대 동결\n1987",
+    "answer": "SALT I",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-coldwar-262",
+    "page": "seoyangsa-textbook-page-250",
+    "explain": "지역의 공산화가 주변으로 번질 것이라는 미국의 개입 논리를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-250",
+        "quote": "냉전 속의 열전 : 베트남 전쟁(미국 개입의 배경은 도미노 이론)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "7cf4de056c69243d7cf3b8e5ee499eb2fecbcd2d86442bd2b4ed864b255a0bdf"
+    },
+    "type": "blank",
+    "prompt": "냉전 속의 열전 : 베트남 전쟁(미국 개입의 배경은 _____)",
+    "before": "냉전 속의 열전 : 베트남 전쟁(미국 개입의 배경은 ",
+    "after": ")",
+    "answer": "도미노 이론",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-coldwar-263",
+    "page": "seoyangsa-textbook-page-252",
+    "explain": "독립 이후 아프리카 국가들의 협력 기구를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-252",
+        "quote": "아프리카 통일기구(OAU, 1963). 앙골라·모잠비크(1975) 뒤늦은 독립"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "55380523d82b1c41441f5e2ee0173dd807973ba5ad33d0bb51507bedb908ad05"
+    },
+    "type": "blank",
+    "prompt": "아프리카 통일기구(_____, 1963). 앙골라·모잠비크(1975) 뒤늦은 독립",
+    "before": "아프리카 통일기구(",
+    "after": ", 1963). 앙골라·모잠비크(1975) 뒤늦은 독립",
+    "answer": "OAU",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-postwar-change-264",
+    "page": "seoyangsa-textbook-page-253",
+    "explain": "유럽 부흥 원조를 둘러싼 서유럽 경제 협력을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-253",
+        "quote": "① OEEC(1948) : 마셜 원조 배분 → 1961 OECD로 개편"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "a9b71ade8453e6be6ebcf7cda9855619b7dfca291031210fe0159809b9cd357c"
+    },
+    "type": "blank",
+    "prompt": "① _____(1948) : 마셜 원조 배분 → 1961 OECD로 개편",
+    "before": "① ",
+    "after": "(1948) : 마셜 원조 배분 → 1961 OECD로 개편",
+    "answer": "OEEC",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-postwar-change-265",
+    "page": "seoyangsa-textbook-page-298",
+    "explain": "유럽 경제 통합에서 채택한 공동 통화를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-298",
+        "quote": "⑤ 공동·단일 통화(유로화, euro) 채택\n㉠ 1999년을 기해 각국의 통화는 점차 단일통화로 바뀌고, 단일통화 사용으로 물가와 시장을 안정시킴"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "5da03cba37fd7ffeb31d51190fb718439c629e5c69a47d2f574dc13ec9dafbe6"
+    },
+    "type": "blank",
+    "prompt": "⑤ 공동·단일 통화(_____, euro) 채택\n㉠ 1999년을 기해 각국의 통화는 점차 단일통화로 바뀌고, 단일통화 사용으로 물가와 시장을 안정시킴",
+    "before": "⑤ 공동·단일 통화(",
+    "after": ", euro) 채택\n㉠ 1999년을 기해 각국의 통화는 점차 단일통화로 바뀌고, 단일통화 사용으로 물가와 시장을 안정시킴",
+    "answer": "유로화",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-postwar-change-266",
+    "page": "seoyangsa-textbook-page-262",
+    "explain": "주요국의 환율 조정을 통해 달러 가치 문제에 대응한 합의이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-262",
+        "quote": "플라자 합의(1985)\n① G5가 달러를 엔·마르크에 대해 절하. 엔고는 일본 ‘잃어버린 10년’의 한 원인"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "a829052c3ae2f911dc1b7633cec8b2a85733aab2d3514c6611c403ff5a4d2866"
+    },
+    "type": "blank",
+    "prompt": "_____ 합의(1985)\n① G5가 달러를 엔·마르크에 대해 절하. 엔고는 일본 ‘잃어버린 10년’의 한 원인",
+    "before": "",
+    "after": " 합의(1985)\n① G5가 달러를 엔·마르크에 대해 절하. 엔고는 일본 ‘잃어버린 10년’의 한 원인",
+    "answer": "플라자",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-postwar-change-267",
+    "page": "seoyangsa-textbook-page-260",
+    "explain": "환경 문제가 시민운동과 국제적 의제로 성장한 사례이다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-260",
+        "quote": "② 그린피스(1971), 로마클럽(1972), 스리마일(1979)·체르노빌(1986) 이후 녹색당"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "0627ce26df4e8552e22a51d0f636084c36a8b166ac170aa242ebde6780572c38"
+    },
+    "type": "blank",
+    "prompt": "② _____(1971), 로마클럽(1972), 스리마일(1979)·체르노빌(1986) 이후 녹색당",
+    "before": "② ",
+    "after": "(1971), 로마클럽(1972), 스리마일(1979)·체르노빌(1986) 이후 녹색당",
+    "answer": "그린피스",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-postwar-change-268",
+    "page": "seoyangsa-textbook-page-260",
+    "explain": "유엔의 인간 환경 선언과 환경권 논의를 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-260",
+        "quote": "[사료탐구] 유엔 인간 환경 선언(스톡홀름, 1972)\n인간은 그 생활의 존엄과 복지를 보유할 수 있는 환경에서 자유, 평등, 적절한 수준의 생활을 영위할 기본적 권리를 가진다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "0c0f6fa57822670911387c2370dd624f79de4a32497d9babc6708ef652198dd0"
+    },
+    "type": "blank",
+    "prompt": "[사료탐구] 유엔 인간 환경 선언(_____, 1972)\n인간은 그 생활의 존엄과 복지를 보유할 수 있는 환경에서 자유, 평등, 적절한 수준의 생활을 영위할 기본적 권리를 가진다.",
+    "before": "[사료탐구] 유엔 인간 환경 선언(",
+    "after": ", 1972)\n인간은 그 생활의 존엄과 복지를 보유할 수 있는 환경에서 자유, 평등, 적절한 수준의 생활을 영위할 기본적 권리를 가진다.",
+    "answer": "스톡홀름",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-postwar-change-269",
+    "page": "seoyangsa-textbook-page-264",
+    "explain": "소련 말기 강경파 쿠데타의 실패와 러시아 지도자의 부상을 연결한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-264",
+        "quote": "① 리투아니아 독립(1990). 1991. 8. 강경파 쿠데타 실패(옐친)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "d367f3b2a491036e6de59190f3065677098c7f4886477e945efdbb25ded97311"
+    },
+    "type": "blank",
+    "prompt": "① 리투아니아 독립(1990). 1991. 8. 강경파 쿠데타 실패(_____)",
+    "before": "① 리투아니아 독립(1990). 1991. 8. 강경파 쿠데타 실패(",
+    "after": ")",
+    "answer": "옐친",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  },
+  {
+    "id": "seoyangsa-ext-postwar-change-270",
+    "page": "seoyangsa-textbook-page-265",
+    "explain": "전후 GATT 체제에서 세계무역기구 체제로의 전환을 확인한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-265",
+        "quote": "(1) GATT → WTO : 불공정 무역 규제, 자유무역 감시"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-practice",
+      "sourceStatus": "transcription-unverified",
+      "version": "history-expansion.1",
+      "skill": "source-analysis",
+      "inputSha256": "aec1301dc1b6fa7c26fd9bbefa537561405144bf8a85c6f3db2ca1f7c97565c0"
+    },
+    "type": "blank",
+    "prompt": "(1) GATT → _____ : 불공정 무역 규제, 자유무역 감시",
+    "before": "(1) GATT → ",
+    "after": " : 불공정 무역 규제, 자유무역 감시",
+    "answer": "WTO",
+    "match": "exact",
+    "keywordGroups": [],
+    "rejectPatterns": []
+  }
+]

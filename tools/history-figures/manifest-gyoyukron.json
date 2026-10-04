@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 1,
+  "subject": "gyoyukron",
+  "sourceCommit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+  "figures": [
+    {
+      "id": "gyoyukron-textbook-page-82-figure-1",
+      "noteIds": [
+        "gyoyukron-textbook-page-82"
+      ],
+      "caption": "역사지도 활용의 세 가지 예시",
+      "kind": "map",
+      "alt": "역사적 사실의 공간 분포, 시간에 따른 변화, 대동세 납부와 운송 경로를 보여주는 세 지도",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_082_248s.jpg",
+        "rect": [
+          327,
+          207,
+          323,
+          127
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "24248baa90e03fc129c3930f7636b4c20c98a887b0c1cca2deff2f4cac577a4b"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-31-figure-1",
+      "noteIds": [
+        "gyoyukron-textbook-page-31"
+      ],
+      "caption": "구석기 시대 유물·유적 카드",
+      "kind": "photo",
+      "alt": "주먹도끼, 찍개, 슴베찌르개, 동굴벽화, 여성상, 막집을 배열한 구석기 시대 유물·유적 카드",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_031_538s.jpg",
+        "rect": [
+          257,
+          345,
+          158,
+          242
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "80d56523510820f9fae709741fb820ae4fca6102a51540ffa1e99a158429006f"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-31-figure-2",
+      "noteIds": [
+        "gyoyukron-textbook-page-31"
+      ],
+      "caption": "신석기 시대 유물·유적 카드",
+      "kind": "photo",
+      "alt": "토기와 석기, 가락바퀴, 낚싯바늘, 주거 모형 등 여섯 사진을 배열한 신석기 시대 유물·유적 카드",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_031_538s.jpg",
+        "rect": [
+          416,
+          336,
+          165,
+          249
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "80d56523510820f9fae709741fb820ae4fca6102a51540ffa1e99a158429006f"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-31-figure-3",
+      "noteIds": [
+        "gyoyukron-textbook-page-31"
+      ],
+      "caption": "창문열기 양식: 구석기 시대의 생활",
+      "kind": "diagram",
+      "alt": "가운데에 구석기 시대 생활 모습의 주제를 적고 네 가장자리에 유물·유적을 붙이도록 나눈 창문열기 활동 양식",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_031_538s.jpg",
+        "rect": [
+          682,
+          174,
+          275,
+          199
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "80d56523510820f9fae709741fb820ae4fca6102a51540ffa1e99a158429006f"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-31-figure-4",
+      "noteIds": [
+        "gyoyukron-textbook-page-31"
+      ],
+      "caption": "창문열기 양식: 신석기 시대의 생활",
+      "kind": "diagram",
+      "alt": "가운데에 신석기 시대 생활 모습의 주제를 적고 네 가장자리에 유물·유적을 붙이도록 나눈 창문열기 활동 양식",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_031_538s.jpg",
+        "rect": [
+          686,
+          376,
+          282,
+          205
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "80d56523510820f9fae709741fb820ae4fca6102a51540ffa1e99a158429006f"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-1",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "피라미드토론 활동지",
+      "kind": "table",
+      "alt": "개별 모둠원, 짝 토론, 모둠 토론의 선택과 근거를 단계적으로 기록하고 모둠의 발표문을 작성하는 표",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          251,
+          224,
+          368,
+          347
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-2",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "주먹도끼",
+      "kind": "photo",
+      "alt": "구석기 시대 유물 카드에 실린 주먹도끼 사진",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          672,
+          268,
+          48,
+          64
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-3",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "찍개",
+      "kind": "photo",
+      "alt": "구석기 시대 유물 카드에 실린 찍개 사진",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          831,
+          273,
+          49,
+          56
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-4",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "슴베찌르개",
+      "kind": "photo",
+      "alt": "구석기 시대 유물 카드에 실린 슴베찌르개 사진",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          677,
+          339,
+          41,
+          63
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-5",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "알타미라 동굴벽화",
+      "kind": "photo",
+      "alt": "구석기 시대 유물·유적 카드에 실린 알타미라 동굴벽화 사진",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          827,
+          351,
+          60,
+          45
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-6",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "빌렌도르프의 비너스",
+      "kind": "photo",
+      "alt": "구석기 시대 유물 카드에 실린 빌렌도르프의 비너스 사진",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          676,
+          411,
+          45,
+          72
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-32-figure-7",
+      "noteIds": [
+        "gyoyukron-textbook-page-32"
+      ],
+      "caption": "막집",
+      "kind": "photo",
+      "alt": "구석기 시대 유물·유적 카드에 실린 막집 복원 모습",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_032_542s.jpg",
+        "rect": [
+          827,
+          418,
+          61,
+          61
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "025cc94899b36d048cbe93c8839d6b288c52747b5e2ea69ade6e9b219d9b18e3"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "gyoyukron-textbook-page-56-figure-1",
+      "noteIds": [
+        "gyoyukron-textbook-page-56"
+      ],
+      "caption": "백윤문, 「분노」",
+      "kind": "photo",
+      "alt": "교재에 실린 백윤문의 회화 「분노」",
+      "source": {
+        "imagePath": "gyoyukron_textbook_pages/page_056_929s.jpg",
+        "rect": [
+          732,
+          423,
+          164,
+          141
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "97e8804e664a05b4f9c1cfb7548814523edfe0419d621d177cc5df5323c70bde"
+      },
+      "reviewStatus": "visually-verified"
+    }
+  ],
+  "reviewedNotes": [
+    "gyoyukron-textbook-page-82",
+    "gyoyukron-textbook-page-31",
+    "gyoyukron-textbook-page-32",
+    "gyoyukron-textbook-page-56"
+  ],
+  "unresolved": []
+}

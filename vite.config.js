@@ -6,7 +6,7 @@ function localPages() {
   return { name: "local-pages-api", configureServer(server) {
     server.middlewares.use(async (req, res, next) => {
       const url = new URL(req.url, "http://127.0.0.1");
-      const routes = { "/api/score": "/functions/api/score.js", "/api/models": "/functions/api/models.js", "/api/grade": "/functions/api/grade.js", "/api/grade-temp": "/functions/api/grade-temp.js" };
+      const routes = { "/api/score": "/functions/api/score.js", "/api/models": "/functions/api/models.js", "/api/grade": "/functions/api/grade.js", "/api/grade-temp": "/functions/api/grade-temp.js", "/api/practice-bank": "/functions/api/practice-bank.js" };
       const mcp = /^\/api\/mcp(?:\/([^/]+))?$/.exec(url.pathname);
       const modulePath = routes[url.pathname] || (mcp && "/functions/_lib/mcp.js");
       if (!modulePath) return next();
@@ -18,7 +18,8 @@ function localPages() {
           ...(req.method !== "GET" && req.method !== "HEAD" ? { body: Buffer.concat(chunks) } : {}) });
         const module = await server.ssrLoadModule(modulePath);
         const context = { request, env: {}, params: { id: mcp?.[1] || "public" } };
-        const response = mcp ? await module.handleMcp(context, context.params.id) : req.method === "POST" ? await module.onRequestPost(context) : new Response(null, { status: 405 });
+        const handler = req.method === "POST" ? module.onRequestPost : req.method === "GET" ? module.onRequestGet : undefined;
+        const response = mcp ? await module.handleMcp(context, context.params.id) : handler ? await handler(context) : new Response(null, { status: 405 });
         res.writeHead(response.status, Object.fromEntries(response.headers));
         res.end(Buffer.from(await response.arrayBuffer()));
       } catch (error) {

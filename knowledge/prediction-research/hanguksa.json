@@ -1,0 +1,1332 @@
+{
+  "schemaVersion": 1,
+  "subject": "hanguksa",
+  "preparedFor": "2027학년도 중등 역사 임용 대비 연습",
+  "asOf": "2026-10-03",
+  "generatedAt": "2026-10-04",
+  "scope": "공식 대학 프로필·대학 리포지터리·KCI·공공 학술정보의 공개 범위. 선정 8명의 목록 수집이며 한국사 연구자 전체의 전수 조사가 아니다.",
+  "counts": {
+    "faculty": 8,
+    "bibliographyRecords": 67,
+    "corePapers": 20,
+    "coreAbstractsRead": 20,
+    "additionalAbstractsRead": 1,
+    "fullTextsRead": 0,
+    "predictions": 6
+  },
+  "methodology": [
+    "연구자 선정은 전공·시대·자료 접근성을 기준으로 했다. 특정 연구자가 실제 출제위원이라는 추정이나 예상 출제 확률을 포함하지 않는다.",
+    "공식 프로필에서 보이는 2021~2026 논문 목록을 수집하고, 그중 핵심 20편의 공개 초록을 읽었다. 목록이 갱신되지 않은 기간은 누락 가능성을 연구자별로 표시한다.",
+    "본문·표·주석까지 읽은 논문은 0편이다. 초록 요약을 전문 검토로 세지 않으며 핵심 논문 밖 권내현 사행 논문 1편의 초록 확인은 별도 집계한다.",
+    "발행일이 확인일보다 뒤인 예정 논문은 포함하지 않았다. 연도만 확인된 자료의 월·일이나 미확인 DOI는 추정하여 채우지 않는다.",
+    "예상문항은 초록의 관점을 제시하는 창작 적용형이며, 논쟁적 해석 자체를 유일한 통설로 정답화하지 않는다. 기존 교재의 정확한 발췌와 자료 해석의 한계를 함께 제공한다.",
+    "6문항은 독립 연구 연습 초안이며 기존 300개와 별도이다. linkedQuestionIds는 선수 지식·주제 연결이며 실제 기출 연결이나 반복 출제 빈도를 뜻하지 않는다."
+  ],
+  "faculty": [
+    {
+      "id": "jeong-yokeun",
+      "name": "정요근",
+      "affiliation": "서울대학교 역사학부 한국사학전공",
+      "field": "한국중세사·역사지리",
+      "profileUrl": "https://humanities.snu.ac.kr/academics/faculty?deptidx=9&md=view&profidx=118",
+      "bibliographyUrl": "https://humanities.snu.ac.kr/academics/faculty?deptidx=9&md=view&profidx=118",
+      "verifiedAt": "2026-10-03",
+      "role": "연구 참고 인물",
+      "coverage": "공식 프로필 논문란의 2021~2024 항목 5건 전수 수집, 중복 1건 제거. 목록에 2025~2026 논문 미표시; 그 기간 무실적을 뜻하지 않음.",
+      "examSetterInference": false,
+      "paperIds": [
+        "paper-hanguksa-jeong-2023-local"
+      ],
+      "bibliographyCount": 5
+    },
+    {
+      "id": "ha-ilsik",
+      "name": "하일식",
+      "affiliation": "연세대학교 사학과",
+      "field": "한국고대사·금석문",
+      "profileUrl": "https://history.yonsei.ac.kr/histroy/faculty/f_fulltime.do",
+      "bibliographyUrl": null,
+      "verifiedAt": "2026-10-03",
+      "role": "연구 참고 인물",
+      "coverage": "학과 전임교수 명단에서 확인. 연결 교원정보는 회원 정보를 찾을 수 없음으로 표시되어 전체 업적 목록을 확보하지 못함. KCI에서 저자·소속을 확인한 최근 논문 2건을 보완; 전수 목록 아님.",
+      "examSetterInference": false,
+      "paperIds": [
+        "paper-hanguksa-ha-2022-inscription",
+        "paper-hanguksa-ha-2023-uncheon"
+      ],
+      "bibliographyCount": 2
+    },
+    {
+      "id": "han-younghwa",
+      "name": "한영화",
+      "affiliation": "성균관대학교 사학과",
+      "field": "한국고대사·율령·국가의례",
+      "profileUrl": "https://history.skku.edu/history/faculty/full_time_faculty.do",
+      "bibliographyUrl": "https://history.skku.edu/history/archive/prof_rsch_kor_history.do?article.offset=0&articleLimit=10&articleNo=206267&mode=view",
+      "verifiedAt": "2026-10-03",
+      "role": "연구 참고 인물",
+      "coverage": "학과 2025-09-10 게시 연구업적의 2021~2024 논문 10건 전수 수집. KCI의 2025 논문 1건 보완; 이후 업적 전수 여부 미확인.",
+      "examSetterInference": false,
+      "paperIds": [
+        "paper-hanguksa-han-2024-documents",
+        "paper-hanguksa-han-2025-ancestor"
+      ],
+      "bibliographyCount": 11
+    },
+    {
+      "id": "song-yangseop",
+      "name": "송양섭",
+      "affiliation": "고려대학교 한국사학과",
+      "field": "조선후기 사회경제사·재정·군역",
+      "profileUrl": "https://koreahistory.korea.ac.kr/koreahistory/professor/fulltime.do?article.offset=0&articleLimit=10&articleNo=102790&mode=view",
+      "bibliographyUrl": "https://koreahistory.korea.ac.kr/koreahistory/professor/fulltime.do?article.offset=0&articleLimit=10&articleNo=102790&mode=view",
+      "verifiedAt": "2026-10-03",
+      "role": "연구 참고 인물",
+      "coverage": "공식 프로필의 2021~2023 논문 8건 전수 수집, 같은 화폐유통론 중복 제거. KCI·국회도서관의 2026 논문 2건 보완. 2024~2026 전체 업적 전수는 미확인.",
+      "examSetterInference": false,
+      "paperIds": [
+        "paper-hanguksa-song-2023-military",
+        "paper-hanguksa-song-2023-fiscal",
+        "paper-hanguksa-song-2026-fortress"
+      ],
+      "bibliographyCount": 10
+    },
+    {
+      "id": "jung-daham",
+      "name": "정다함",
+      "affiliation": "상명대학교 역사콘텐츠학과",
+      "field": "조선전기·대외관계·역사서술",
+      "profileUrl": "https://futureedu.smu.ac.kr/history/faculty/faculty.do?empNo=10154343&mode=view&pager.offset=0&pagerLimit=20",
+      "bibliographyUrl": "https://futureedu.smu.ac.kr/history/faculty/faculty.do?empNo=10154343&mode=view&pager.offset=0&pagerLimit=20",
+      "verifiedAt": "2026-10-03",
+      "role": "연구 참고 인물",
+      "coverage": "공식 교수 프로필의 2021~2024 논문 11건 전수 수집. 경력란은 2025.06까지로 적혀 있으나 2026학년도 1학기 공식 시간표에 한국중세사 담당자로도 확인. 2025~2026 논문은 목록에 미표시.",
+      "examSetterInference": false,
+      "additionalAffiliationSource": "https://kcge.smu.ac.kr/kor/life/notice.do?articleNo=762517&attachNo=554508&mode=download",
+      "paperIds": [
+        "paper-hanguksa-jung-2023-hunmin"
+      ],
+      "bibliographyCount": 11
+    },
+    {
+      "id": "kwon-naehyun",
+      "name": "권내현",
+      "affiliation": "고려대학교 사범대학 역사교육과",
+      "field": "조선후기 사회경제사·신분·생활사",
+      "profileUrl": "https://faculty.korea.ac.kr/kufaculty/nhyun/index.do",
+      "bibliographyUrl": "https://scholar.korea.ac.kr/researcher/7c657818-712c-40d4-a656-3736fb97f301/item",
+      "verifiedAt": "2026-10-03",
+      "role": "연구 참고 인물",
+      "coverage": "교수 홈페이지 논문란은 2020에서 끝나 최근 목록으로 부적합. 대학 ScholarWorks의 발행일 내림차순 1~2페이지를 2020 경계까지 확인하여 2021~2026 Article 6건 수집. Book·Conference 제외.",
+      "examSetterInference": false,
+      "paperIds": [
+        "paper-hanguksa-kwon-2022-textbook",
+        "paper-hanguksa-kwon-2023-status",
+        "paper-hanguksa-kwon-2024-everyday",
+        "paper-hanguksa-kwon-2026-famine",
+        "paper-hanguksa-kwon-2026-present"
+      ],
+      "bibliographyCount": 6
+    },
+    {
+      "id": "lee-kihoon",
+      "name": "이기훈",
+      "affiliation": "연세대학교 사학과",
+      "field": "한국근대사·교육·학생·미디어",
+      "profileUrl": "https://history.yonsei.ac.kr/histroy/faculty/f_fulltime.do",
+      "bibliographyUrl": "https://history.yonsei.ac.kr/faculty/name_search.do?mode=report&reportType=article&userId=Oib2oFPfBIy%2FCIHdfkoNGg%3D%3D",
+      "verifiedAt": "2026-10-03",
+      "role": "연구 참고 인물",
+      "coverage": "공식 교원정보 논문 목록의 2021~2024 항목 8건 전수 수집(서평 1건 포함). 2026 한국독립운동사연구 논문 1건 보완. 전체 2025~2026 목록은 미확인.",
+      "examSetterInference": false,
+      "paperIds": [
+        "paper-hanguksa-lee-2021-school",
+        "paper-hanguksa-lee-2022-merit",
+        "paper-hanguksa-lee-2026-students"
+      ],
+      "bibliographyCount": 9
+    },
+    {
+      "id": "oh-jeyeon",
+      "name": "오제연",
+      "affiliation": "성균관대학교 사학과",
+      "field": "한국현대사·대학·학생운동·냉전",
+      "profileUrl": "https://history.skku.edu/history/faculty/full_time_faculty.do",
+      "bibliographyUrl": "https://skb.skku.edu/history/archive/prof_rsch_kor_history.do?article.offset=0&articleLimit=10&articleNo=207392&mode=view",
+      "verifiedAt": "2026-10-03",
+      "role": "연구 참고 인물",
+      "coverage": "학과 2025-10-01 게시 연구업적의 2021~2025 논문 12건 전수 수집. KCI 2026 논문 1건 보완. 2025년 후반 이후 전체 업적은 미확인.",
+      "examSetterInference": false,
+      "paperIds": [
+        "paper-hanguksa-oh-2025-vietnam",
+        "paper-hanguksa-oh-2025-olympics",
+        "paper-hanguksa-oh-2026-university"
+      ],
+      "bibliographyCount": 13
+    }
+  ],
+  "papers": [
+    {
+      "id": "paper-hanguksa-ha-2022-inscription",
+      "facultyIds": [
+        "ha-ilsik"
+      ],
+      "title": "천전리 서석 명문과 생활사의 실마리",
+      "publicationDate": "2022-06",
+      "datePrecision": "month",
+      "journal": "신라문화 60",
+      "pages": "91–120",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002852358",
+      "doi": "10.37280/JRISC.2022.6.60.91",
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "명문을 암각화·현장 지형과 함께 읽어 방문자의 음식 준비 등 생활사의 단서를 찾는다. 짧은 방문 기록만으로 장소의 신성성을 단정하는 해석을 재검토한다.",
+      "examTheme": "금석문의 작성 행위·현장 맥락·판독과 해석 구별",
+      "caution": "구체 글자 판독과 지표면 복원은 전문의 사진·논증을 미확인했으므로 암기형 정답으로 사용하지 않는다.",
+      "coreReview": true,
+      "linkedPredictionIds": [],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-ha-2023-uncheon",
+      "facultyIds": [
+        "ha-ilsik"
+      ],
+      "title": "운천동사적비의 역사 환경, 판독 교정",
+      "publicationDate": "2023-06",
+      "datePrecision": "month",
+      "journal": "木簡과文字 30",
+      "pages": "295–324",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002980424",
+      "doi": "10.35302/wdis.2023.06.30.295",
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "서원경 설치와 사찰 조성의 역사 환경을 연결하고 비문 판독을 교정한다. 사찰 완성과 비석 건립의 시점을 구분하며 왕실 후원과 통일 뒤 평화를 기념하는 서술에 주목한다.",
+      "examTheme": "서원소경·통일신라 통치와 기념비의 성격",
+      "caution": "686년 사찰 완성과 이후 비석 건립을 같은 사건으로 처리하지 않는다. 비 건립 연대의 추정과 판독은 저자의 견해로 제시한다.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-silla-inscription"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-essay-silla-consolidation"
+      ],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-han-2024-documents",
+      "facultyIds": [
+        "han-younghwa"
+      ],
+      "title": "신라 중·하대의 공식령과 문서행정 운용에 대한 試論",
+      "publicationDate": "2024-10",
+      "datePrecision": "month",
+      "journal": "역사와 담론 112",
+      "pages": "5–44",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003136409",
+      "doi": "10.22899/hosuh..112.202410.5",
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "현존 문서가 드문 조건에서 문헌·금석문의 문서 명칭, 관인, 전달 경로를 종합하여 문서행정과 공식령의 존재 가능성을 검토한다.",
+      "examTheme": "통치 기구와 실제 행정 절차를 연결하는 추론",
+      "caution": "공식령 원문이 현존한다거나 초록에 언급된 관인이 반드시 특정 관청의 것이라고 단정하지 않는다.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-silla-inscription"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-essay-silla-consolidation"
+      ],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-han-2025-ancestor",
+      "facultyIds": [
+        "han-younghwa"
+      ],
+      "title": "신라 太宗武烈王의 묘호와 太祖 인식",
+      "publicationDate": "2025",
+      "datePrecision": "year",
+      "journal": "사림 94",
+      "pages": "139–166",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003262646",
+      "doi": "10.20457/SHA.94.5",
+      "readScope": "abstract",
+      "readDetails": "영문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "태종이라는 묘호를 태조 인식 및 종묘 정비와 연결한다. 시조와 태조를 구분하고 왕실 계보와 국가 정체성이 재구성되는 과정을 검토한다.",
+      "examTheme": "묘호·시조·태조·종묘의 개념과 왕권 정당화",
+      "caution": "특정 인물을 태조로 확정하는 단답형은 보류한다. 초록의 재구성 논리를 논문 관점으로만 사용한다.",
+      "coreReview": true,
+      "linkedPredictionIds": [],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-jeong-2023-local",
+      "facultyIds": [
+        "jeong-yokeun"
+      ],
+      "title": "수령관 신설 고을 분석을 통한 여말선초 지방제도 개편의 역사성 고찰: 전라·충청·경기·황해 4개 도를 중심으로",
+      "publicationDate": "2023-06",
+      "datePrecision": "month",
+      "journal": "한국문화 102",
+      "pages": "97–143",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002974477",
+      "doi": "10.22943/han.2023..102.004",
+      "readScope": "abstract",
+      "readDetails": "영문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "수령관이 새로 설치된 고을을 분석하여 여말선초 개편을 고려 중기부터 이어진 주현·속현 관계 변화의 마무리로 해석한다. 왕조 교체에만 변화의 원인을 집중하는 설명을 재검토한다.",
+      "examTheme": "고려 감무·속현과 조선 수령제의 연속 및 변화",
+      "caution": "네 도의 분석을 모든 지역의 동일한 변화로 확대하지 않는다. 개별 고을 목록과 통계는 전문 미확인이다.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-local-transition"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-goryeo-local-differences",
+        "hanguksa-ext-essay-joseon-local"
+      ],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-song-2023-military",
+      "facultyIds": [
+        "song-yangseop"
+      ],
+      "title": "1838년 晉州 大谷里의 군역운영과 里中=面中의 역할",
+      "publicationDate": "2023",
+      "datePrecision": "year",
+      "journal": "藏書閣 50",
+      "pages": "30–76",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003012724",
+      "doi": "10.25024/jsg.2023..50.30",
+      "readScope": "abstract",
+      "readDetails": "국문·영문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "재해 뒤 진주 대곡리에서 군적을 재점검하고 면·리 조직과 향회의 공의로 군역 부담을 조정한 사례를 분석한다. 군적의 이름과 실제 부담 주체가 일치하지 않는 군역 운영에 주목한다.",
+      "examTheme": "군역의 공동 부담·군적과 실제 수취의 차이",
+      "caution": "한 지역 사례를 조선 전체의 일률적 운영으로 일반화하지 않는다. 명단과 금액은 전문 미확인이다.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-fiscal-procurement"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-late-joseon-procurement",
+        "hanguksa-ext-essay-gyunyeok"
+      ],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-song-2023-fiscal",
+      "facultyIds": [
+        "song-yangseop"
+      ],
+      "title": "大同法 실시와 ‘三政體制’의 성립－役에 의한 지배에서 재정에 의한 지배로－",
+      "publicationDate": "2023",
+      "datePrecision": "year",
+      "journal": "조선시대사학보 107",
+      "pages": "7–46",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003041380",
+      "doi": null,
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "공납과 역의 부담이 미·포·전 중심의 재원 조달 및 지출로 전환되는 과정에서 대동법과 삼정체제의 관계를 설명한다. 지방의 잡역·재정 문제까지 시야를 넓힌다.",
+      "examTheme": "대동법의 조달 방식·균역법·재정 운영의 연결",
+      "caution": "대동법만으로 모든 역이 사라졌다거나 근대적 재정이 완성되었다고 서술하지 않는다. DOI는 확인하지 못했다.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-fiscal-procurement"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-late-joseon-procurement",
+        "hanguksa-ext-essay-gyunyeok"
+      ],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-song-2026-fortress",
+      "facultyIds": [
+        "song-yangseop"
+      ],
+      "title": "조선후기 성곽방어체제 정비와 산성제 운영의 변화",
+      "publicationDate": "2026",
+      "datePrecision": "year",
+      "journal": "조선시대사학보 116",
+      "pages": "7–54",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003325636",
+      "doi": null,
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "산성과 읍성을 상호 배타적인 시설로 보기보다 시대·지역에 따라 결합 방식이 달라지는 방어 체제로 해석한다. 도성 방어 및 민보 논의까지 변화의 맥락을 검토한다.",
+      "examTheme": "임진왜란 이후 군사 대응·지역별 방어 전략 비교",
+      "caution": "모든 지역에 하나의 단계 구분을 강제하지 않는다. 발행월·DOI와 성곽별 세부 배치는 미확인이다.",
+      "coreReview": true,
+      "linkedPredictionIds": [],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-jung-2023-hunmin",
+      "facultyIds": [
+        "jung-daham"
+      ],
+      "title": "최만리 등의 諺文 반대 상소와 세종의 訓民正音 제정의 역사적 맥락에 대한 재해석",
+      "publicationDate": "2023-02",
+      "datePrecision": "month",
+      "journal": "한국사학보 90",
+      "pages": "221–261",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002935454",
+      "doi": "10.21490/jskh.2023.2.90.221",
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "세종과 최만리를 애민·사대 또는 한글·한자의 단순 대립으로 배치하는 서술을 재검토하고, 양자가 공유한 유교적 문자 질서와 상소의 논점을 역사적 맥락에서 읽도록 제안한다.",
+      "examTheme": "훈민정음 창제·최만리 상소의 논점과 사료 해석",
+      "caution": "상소 전체의 문장별 해석과 다른 학설 비교는 전문 및 원사료 확인 뒤 사용한다.",
+      "coreReview": true,
+      "linkedPredictionIds": [],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-kwon-2022-textbook",
+      "facultyIds": [
+        "kwon-naehyun"
+      ],
+      "title": "한국사 교과서 조선시대 신분제 서술의 함의와 오류",
+      "publicationDate": "2022",
+      "datePrecision": "year",
+      "journal": "역사교육논집 81",
+      "pages": "171–200",
+      "url": "https://scholar.korea.ac.kr/item/dafe882a-71b3-4b0f-926b-18583e8f6abf",
+      "doi": null,
+      "readScope": "abstract",
+      "readDetails": "영문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "양반 수의 급증을 신분제 붕괴와 연결하는 교과서의 틀을 비판한다. 표현만 바꾸기보다 자료 해석의 전제와 하층민의 변화에 주목할 것을 요구한다.",
+      "examTheme": "호적의 직역 표기와 사회적 지위의 구별",
+      "caution": "해당 비판을 새 통설로 단정하지 않는다. 어떤 교과서·통계를 어떻게 검증했는지는 전문 미확인이다.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-status-evidence"
+      ],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-kwon-2023-status",
+      "facultyIds": [
+        "kwon-naehyun"
+      ],
+      "title": "조선 후기 신분 변동론 그 이후",
+      "publicationDate": "2023-06",
+      "datePrecision": "month",
+      "journal": "조선시대사학보 105",
+      "pages": "177–206",
+      "url": "https://scholar.korea.ac.kr/item/5f53fb74-27dd-4b60-b100-ba1a475bf68c",
+      "doi": null,
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "호적 수치 중심 신분 이동론을 재검토하면서도 사회가 불변했다고 결론짓지 않는다. 노비 감소, 양인층 내부 분화, 권리와 문화의 확산 및 지배층의 배제에 주목한다.",
+      "examTheme": "단선적 신분 상승 서사와 변화 부정 모두를 피하는 논증",
+      "caution": "호적 기재의 변화와 실제 지위 변화를 구별하는 적용형에 한정한다. 개별 지역의 수치와 사료 대조는 미확인이다.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-status-evidence"
+      ],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-kwon-2024-everyday",
+      "facultyIds": [
+        "kwon-naehyun"
+      ],
+      "title": "조선시대 일상 연구의 모색",
+      "publicationDate": "2024-06",
+      "datePrecision": "month",
+      "journal": "영남학 89",
+      "pages": "293–320",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003094930",
+      "doi": "10.36034/yncdoi.2024..89.293",
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "호적·일기·고문서를 통해 하층민의 적응·모방·저항 등 생활을 살피고 미시적 경험과 거시적 구조를 연결하는 일상사 연구를 제안한다.",
+      "examTheme": "동일 제도 아래 다양한 생활 경험과 자료의 대표성",
+      "caution": "초록에서 확인되는 연구 방향만 사용하며, 특정 일기 인물의 행동을 새로 만들어 실제 사례로 제시하지 않는다.",
+      "coreReview": true,
+      "linkedPredictionIds": [],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-kwon-2026-famine",
+      "facultyIds": [
+        "kwon-naehyun"
+      ],
+      "title": "17세기 조선의 대기근과 노비의 삶",
+      "publicationDate": "2026-06",
+      "datePrecision": "month",
+      "journal": "한국사연구 213",
+      "pages": "371–401",
+      "url": "https://scholar.korea.ac.kr/item/dbbb3a71-1cde-46e4-b12a-67a90f98b7db",
+      "doi": null,
+      "readScope": "abstract",
+      "readDetails": "영문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "대기근의 영향을 노비라는 법적 신분만으로 일률화하지 않고 거주·자산·주인과의 관계에 따라 살핀다. 도망뿐 아니라 귀환·재산 처분·속량처럼 서로 다른 대응을 검토한다.",
+      "examTheme": "법적 신분·경제적 조건·재난 대응의 관계",
+      "caution": "차별과 예속을 부정하거나 모든 노비가 보호받았다고 서술하지 않는다. 초록만으로 개별 노비의 재산 규모를 출제하지 않는다.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-status-evidence"
+      ],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-kwon-2026-present",
+      "facultyIds": [
+        "kwon-naehyun"
+      ],
+      "title": "한국 역사학의 현재성—조선시대 연구를 중심으로",
+      "publicationDate": "2026-05",
+      "datePrecision": "month",
+      "journal": "역사비평 155",
+      "pages": "274–303",
+      "url": "https://scholar.korea.ac.kr/item/248ff2b1-3e95-4e59-b21c-74c4eb866041",
+      "doi": null,
+      "readScope": "abstract",
+      "readDetails": "영문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "연구 축적과 함께 현재 사회와의 대화라는 역사학의 과제를 검토한다. 조선의 내적 모순과 노비 문제를 통해 발전·정체의 익숙한 구도를 낯설게 볼 것을 제안한다.",
+      "examTheme": "역사 문제 설정·현재의 질문과 시대 맥락 구별",
+      "caution": "현대 가치로 과거 인물을 일률 채점하라는 뜻으로 사용하지 않는다. 교육학적 정답 기준을 직접 제공하는 논문은 아니다.",
+      "coreReview": true,
+      "linkedPredictionIds": [],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-lee-2021-school",
+      "facultyIds": [
+        "lee-kihoon"
+      ],
+      "title": "재난과 학교-식민지기의 자연재해와 취학",
+      "publicationDate": "2021-12",
+      "datePrecision": "month",
+      "journal": "사학연구 144",
+      "pages": "261–302",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002804569",
+      "doi": null,
+      "readScope": "abstract",
+      "readDetails": "국문·영문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "재해가 취학에 미친 영향을 시기별로 비교한다. 1930년대 말 가뭄에도 입학이 증가한 현상과 학비 부담·결석을 함께 보아 교육 수요와 식민지 동원의 복합적인 작용을 논한다.",
+      "examTheme": "입학·재학·결석을 구별하는 통계 해석과 식민지 교육",
+      "caution": "입학 증가를 생활 개선이나 식민 지배의 혜택으로 바로 환원하지 않는다. 구체 수치·지역 비교표는 전문 미확인이다.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-colonial-student-base"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-essay-colonial-cultural-rule"
+      ],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-lee-2022-merit",
+      "facultyIds": [
+        "lee-kihoon"
+      ],
+      "title": "능력주의의 식민지적 기원―조선일보 독자란에 나타난 입신주의",
+      "publicationDate": "2022-08",
+      "datePrecision": "month",
+      "journal": "역사비평 140",
+      "pages": "33–68",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002874975",
+      "doi": null,
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "1936년 신문 독자란의 입신 욕망을 교육·학력 및 식민지적 제약과 관련해 읽는다. 교육과 시험을 통한 성공 기대가 민족 차별 속에서 형성되는 양상에 주목한다.",
+      "examTheme": "신문 독자 투고의 관점·대상·대표성 검토",
+      "caution": "독자란 이용자의 목소리를 전체 조선인의 의식으로 확대하지 않는다. 현대 능력주의와 완전히 동일하다고 답하도록 하지 않는다.",
+      "coreReview": true,
+      "linkedPredictionIds": [],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-lee-2026-students",
+      "facultyIds": [
+        "lee-kihoon"
+      ],
+      "title": "1920년대 학생층의 성장과 6·10만세운동",
+      "publicationDate": "2026-08",
+      "datePrecision": "month",
+      "journal": "한국독립운동사연구 95",
+      "pages": null,
+      "url": "https://k-knowledge.kr/srch/read.jsp?id=291712392",
+      "doi": null,
+      "readScope": "abstract",
+      "readDetails": "국문·영문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "인가 학제에만 포함되지 않는 학교와 사회적 교육 수요를 학생층 성장의 배경으로 본다. 학생 공간·문화와 집단적 의식 형성이 조직 밖의 학생도 시위에 참여할 수 있는 조건이었다고 해석한다.",
+      "examTheme": "6·10만세운동의 준비 조직과 대중적 참여 기반 구별",
+      "caution": "6·10 100주년이라는 이유만으로 출제 확률을 부여하지 않는다. 학교별 수치·참가자 명단·면수는 미확인이다.",
+      "publisherUrl": "https://search.i815.or.kr/publication/report/list.do",
+      "dateNote": "디지털집현전 해당 레코드 2026-08; 별도 수록 레코드의 2026-09-10을 발행일로 혼용하지 않음.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-colonial-student-base"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-essay-colonial-cultural-rule"
+      ],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-oh-2025-vietnam",
+      "facultyIds": [
+        "oh-jeyeon"
+      ],
+      "title": "1975년 남베트남 패망 담론의 경합과 ‘협상된 질서’",
+      "publicationDate": "2025-04",
+      "datePrecision": "month",
+      "journal": "사림 92",
+      "pages": "211–239",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003201143",
+      "doi": "10.20457/SHA.92.7",
+      "readScope": "abstract",
+      "readDetails": "영문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "남베트남 패망을 설명하는 안보·단결과 민주주의·부패 비판의 담론이 경합한 과정을 다룬다. 정세와 정치적 조치 속에서 유신체제를 강화하는 질서가 만들어진 양상을 검토한다.",
+      "examTheme": "국제 사건의 국내 수용·유신체제와 담론 비교",
+      "caution": "남베트남 패망이 긴급조치를 자동으로 낳았다는 단일 인과를 피한다. DOI는 학술 DB 서지로 교차 확인, 전문 미열람.",
+      "doiSourceUrl": "https://kiss.kstudy.com/Detail/Ar?key=4169344",
+      "coreReview": true,
+      "linkedPredictionIds": [],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-oh-2025-olympics",
+      "facultyIds": [
+        "oh-jeyeon"
+      ],
+      "title": "1988년 서울올림픽의 ‘소련 붐’과 ‘반미(反美)’",
+      "publicationDate": "2025-02",
+      "datePrecision": "month",
+      "journal": "역사비평 150",
+      "pages": "251–280",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003181567",
+      "doi": "10.38080/crh.2025.02.150.251",
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "서울올림픽 때의 소련에 대한 관심과 미국에 대한 반감을 학생운동에만 국한되지 않는 사회적 현상으로 읽는다. 국제 냉전의 완화와 한국 사회의 역사적 맥락을 함께 고려한다.",
+      "examTheme": "대중의 냉전 인식 변화와 북방 외교의 서로 다른 층위",
+      "caution": "응원과 문화적 관심을 국교 수립·사회주의 지지와 동일시하지 않는다. 초록만으로 여론의 비율이나 외교 결정의 직접 원인을 특정하지 않는다.",
+      "coreReview": true,
+      "linkedPredictionIds": [
+        "hanguksa-pred-olympics-diplomacy"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-interkorean-1988",
+        "hanguksa-ext-cloze-northern-diplomacy"
+      ],
+      "officialExamEvidence": false
+    },
+    {
+      "id": "paper-hanguksa-oh-2026-university",
+      "facultyIds": [
+        "oh-jeyeon"
+      ],
+      "title": "국가발전을 위한 대학 만들기 －1960년대 후반 ‘대학과 국가발전’ 논의의 전개와 특징－",
+      "publicationDate": "2026",
+      "datePrecision": "year",
+      "journal": "인문과학 100",
+      "pages": "85–122",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003313425",
+      "doi": "10.31310/HUM.100.03",
+      "readScope": "abstract",
+      "readDetails": "국문 초록 및 서지 확인; 전문·표·주석 미열람",
+      "verifiedAt": "2026-10-03",
+      "summary": "대학이 국가발전 요구를 수동적으로만 받아들인 것이 아니라 자체 이해와 사회봉사론을 통해 재해석한 과정을 다룬다. 자율성 요구도 발전이라는 공통 전제 안에서 제기된 측면을 살핀다.",
+      "examTheme": "발전국가·대학 자율성과 사회 참여의 관계",
+      "caution": "대학 전체가 정부 정책에 일치했다는 뜻으로 확대하지 않는다. 발행월·기관별 입장과 전문은 미확인이다.",
+      "coreReview": true,
+      "linkedPredictionIds": [],
+      "linkedQuestionIds": [],
+      "officialExamEvidence": false
+    }
+  ],
+  "predictions": [
+    {
+      "id": "hanguksa-pred-silla-inscription",
+      "subject": "hanguksa",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "통일신라의 제도와 금석문 추론",
+      "paperIds": [
+        "paper-hanguksa-ha-2023-uncheon",
+        "paper-hanguksa-han-2024-documents"
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-51"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-essay-silla-consolidation"
+      ],
+      "prompt": "다음은 논문 초록을 재서술한 자료이다. (가) 운천동사적비 연구는 서원경 설치와 사찰 조성의 환경을 함께 살피되 사찰 완성과 비석 건립 시점을 구분한다. (나) 신라 문서행정 연구는 문헌·금석문의 문서 명칭, 관인과 전달 경로를 종합하여 공식령의 존재 가능성을 검토한다. 교재에는 서원소경 설치가 685년으로 제시되어 있다. ① 소경 설치라는 행정 변화가 (가)의 비문 해석에 제공하는 맥락과, 맥락만으로 작성 목적을 확정할 수 없는 한계를 설명하시오. ② 비석이 언급한 사건의 연대와 비석 제작 연대를 동일시할 수 없는 이유와, 제작 연대를 별도로 검증할 방법을 쓰시오. ③ (나)의 가설을 검토할 증거 두 종류와, 가설을 확정 사실로 바꾸지 않기 위한 한계를 서술하시오.",
+      "modelAnswer": "소경은 통일 뒤 지방 통치와 인구·자원의 배치에 관계된 제도이므로 사찰 조성과 왕실 후원을 지역 통합의 맥락에서 해석할 수 있게 한다. 다만 행정구역 설치만으로 비문 작성 목적이 입증되지는 않는다. 비석은 과거 사건을 나중에 기념할 수 있어 사찰 완성 연대와 건립 연대는 별도 근거로 검토해야 한다. 문서 명칭이 등장하는 금석문·문헌과 관인 같은 고고 자료를 대조하고 전달 체계도 살필 수 있다. 이러한 간접 증거의 결합은 문서행정의 추정을 뒷받침하지만, 공식령 원문이나 해당 문서 실물이 보존되어 있다는 증거는 아니다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "행정 변화와 지역 맥락",
+          "max": 3,
+          "checkpoints": [
+            "소경을 지방 통치·지역 통합과 연결한다.",
+            "행정적 맥락이 사찰·왕실 후원 해석의 배경임을 설명한다.",
+            "맥락만으로 비문 목적을 확정할 수 없음을 구별한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "소경을 독립 국가로 설명함"
+          ]
+        },
+        {
+          "id": "r2",
+          "label": "사건과 기념 시점 구별",
+          "max": 3,
+          "checkpoints": [
+            "기록된 사건의 연대와 매체 제작 시점을 구별한다.",
+            "후대의 추모·기념 가능성을 설명한다.",
+            "제작 연대를 판독·유물 맥락 등 별도 자료로 검증해야 한다고 쓴다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "사찰 완성과 비 건립이 반드시 동년이라고 단정함"
+          ]
+        },
+        {
+          "id": "r3",
+          "label": "가설 검증과 자료 한계",
+          "max": 4,
+          "checkpoints": [
+            "문서 명칭이 남은 문헌 또는 금석문을 제시한다.",
+            "관인 등 다른 종류의 증거를 제시한다.",
+            "증거의 제작 시기·용도 또는 전달 경로를 대조한다.",
+            "간접 증거와 공식령 원문·실물 문서의 현존을 구별한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "rejectConditions": [
+            "현존하지 않는 공식령 원문을 읽었다고 전제함"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-51",
+          "quote": "• 편제 : 국원(557)·북원(678)·금관(680)·남원·서원소경 설치(685)",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        },
+        {
+          "page": "hanguksa-textbook-page-51",
+          "quote": "• 목적 : 수도-지방 연결하는 교통 요지에 설치 → 지배층 분산, 재화 분산",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        }
+      ],
+      "readScope": "abstract",
+      "caution": "두 논문 모두 초록까지만 확인했다. 새로운 판독자·건립 연도를 고정 정답으로 요구하지 않는다. 문항은 사료 비판 방법을 평가한다.",
+      "connection": "기존 신라 통치 정비 문항의 사실 지식을 행정 맥락과 금석문 해석으로 확장한다.",
+      "status": "original-practice-draft",
+      "officialQuestion": false,
+      "forecastProbability": null,
+      "authoringNote": "논문 초록을 재서술한 자료를 문항 안에 명시한 창작 적용형. 논문 원문·실제 기출의 복제가 아니며 공식 예상 또는 공식 채점기준이 아님.",
+      "scoreNote": "각 문자열 체크포인트는 1점이며 충족한 점수를 합산한다(요소별 3·3·4점, 총 10점). 동의어·의미상 동등한 서술을 인정하되 요구한 서로 다른 사항은 각각 확인한다. 반대 진술이나 명확한 모순이 있으면 그와 충돌하는 체크포인트만 인정하지 않고, 다른 독립적으로 충족한 포인트는 유지한다."
+    },
+    {
+      "id": "hanguksa-pred-local-transition",
+      "subject": "hanguksa",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "고려와 조선 지방제도의 연속·변화",
+      "paperIds": [
+        "paper-hanguksa-jeong-2023-local"
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-86",
+        "hanguksa-textbook-page-121"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-goryeo-local-differences",
+        "hanguksa-ext-essay-joseon-local"
+      ],
+      "prompt": "정요근의 2023년 논문은 네 도의 수령관 신설 고을을 분석하여 여말선초 개편을 고려 중기 이후 지방제도 변화의 장기적 과정에서 해석한다(초록 요약). 교재의 고려 속현·감무와 조선 수령제를 활용하여 ① 고려의 지방 지배가 주현·속현에서 달랐던 점 ② 조선 건국 이전부터 진행된 변화 ③ 이 자료만으로 “1392년에 모든 지방 통치가 처음부터 새로 생겼다” 또는 “왕조 교체 전후 아무 변화도 없었다”라고 말할 수 없는 이유를 쓰고, 네 도와 개별 고을 분석을 일반화할 때의 한계를 서술하시오.",
+      "modelAnswer": "주현에는 지방관이 파견되었지만 속현은 소속 주현을 통해 통제되었으며 향리가 지방 실무에 중요한 역할을 했다. 고려에서 감무가 파견되고 후기 들어 확대된 사실은 수령관의 직접 관할 확대가 조선 건국 이전부터 진행되었음을 보여준다. 따라서 조선의 관찰사·수령 체제 정비를 1392년의 단절만으로 설명하기 어렵다. 동시에 장기적 기원을 인정하는 것이 조선의 지방제도 정비나 향리의 지위 변화까지 부정하는 것은 아니다. 네 도에 관한 연구의 범위와 개별 고을의 변화 시기를 확인해 연속과 변화를 함께 설명해야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "주현과 속현의 지배 구조",
+          "max": 3,
+          "checkpoints": [
+            "주현에는 지방관이 파견되었다고 쓴다.",
+            "속현은 주현을 통해 통제되었다고 쓴다.",
+            "향리의 실무 역할을 설명한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "고려의 모든 군현에 같은 지방관이 직접 파견되었다고 설명함"
+          ]
+        },
+        {
+          "id": "r2",
+          "label": "고려 이래의 변화",
+          "max": 3,
+          "checkpoints": [
+            "감무 파견을 제시한다.",
+            "고려 후기에 파견이 확대되었음을 제시한다.",
+            "이를 직접 관할 확대 또는 주현·속현 관계 변화와 연결한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "감무가 조선 건국 때 처음 설치되었다고 설명함"
+          ]
+        },
+        {
+          "id": "r3",
+          "label": "연속과 변화의 논증",
+          "max": 4,
+          "checkpoints": [
+            "1392년만으로 변화의 기원을 설명할 수 없음을 논증한다.",
+            "조선의 관찰사·수령 체제 정비 또는 향리 지위 변화를 인정한다.",
+            "장기적 연속과 제도적 변화를 함께 설명한다.",
+            "네 도 및 개별 고을 분석의 범위를 지킨다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "rejectConditions": [
+            "조선에 제도 변화가 전혀 없었다고 단정함"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-86",
+          "quote": "⑤ 예종 : 5도 안찰사 파견, 속현에 감무(監務) 파견 시작",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        },
+        {
+          "page": "hanguksa-textbook-page-86",
+          "quote": "④ 고려 후기 변화 : 감무 파견 확산, 문무 교차제 시행, 향·부곡·소 등 점차 해체",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        },
+        {
+          "page": "hanguksa-textbook-page-121",
+          "quote": "㉠ 관제 : 부윤(종2품)~현감(종6품)을 통칭, 관찰사에 병렬적 예속(부·목·군·현)",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        }
+      ],
+      "readScope": "abstract",
+      "caution": "초록의 지역·시기 범위 안에서 논증한다. 개별 고을의 숫자나 서열은 전문을 확인하기 전 채점 요건으로 삼지 않는다.",
+      "connection": "주현·속현 구별과 조선 향촌 통치 문항을 과정 설명 문항으로 연결한다.",
+      "status": "original-practice-draft",
+      "officialQuestion": false,
+      "forecastProbability": null,
+      "authoringNote": "논문 초록을 재서술한 자료를 문항 안에 명시한 창작 적용형. 논문 원문·실제 기출의 복제가 아니며 공식 예상 또는 공식 채점기준이 아님.",
+      "scoreNote": "각 문자열 체크포인트는 1점이며 충족한 점수를 합산한다(요소별 3·3·4점, 총 10점). 동의어·의미상 동등한 서술을 인정하되 요구한 서로 다른 사항은 각각 확인한다. 반대 진술이나 명확한 모순이 있으면 그와 충돌하는 체크포인트만 인정하지 않고, 다른 독립적으로 충족한 포인트는 유지한다."
+    },
+    {
+      "id": "hanguksa-pred-fiscal-procurement",
+      "subject": "hanguksa",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "대동법·균역법과 재정 운영",
+      "paperIds": [
+        "paper-hanguksa-song-2023-fiscal",
+        "paper-hanguksa-song-2023-military"
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-152",
+        "hanguksa-textbook-page-153",
+        "hanguksa-textbook-page-156"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-late-joseon-procurement",
+        "hanguksa-ext-essay-gyunyeok"
+      ],
+      "prompt": "송양섭의 논문은 대동법과 삼정체제를 역의 부담에서 재원 조달과 지출 중심으로 변하는 과정과 관련짓는다. 또 1838년 진주 대곡리 연구는 군적의 이름과 실제 부담 주체가 일치하지 않는 지역 운영을 다룬다(각 초록 요약). ① 대동법이 물품 조달의 방식을 어떻게 바꾸었는지 ② 균역법의 결작이 군역의 전세화라는 해석과 어떻게 연결되는지 ③ 이 변화만으로 “역이 전부 폐지되어 농민 부담이 모두 사라졌다”라고 결론 내릴 수 없는 이유를 제도와 운영의 차이 및 지역 사례의 적용 범위에 유의하여 서술하시오.",
+      "modelAnswer": "대동법은 토지를 기준으로 미·포·전 등을 거두고 그 재원으로 필요한 물품을 구매·조달하는 방식을 확대했다. 균역법은 군포를 줄인 재정 부족분을 보충하기 위해 결작을 토지에 부과했으므로 군역 부담의 일부가 토지세적 재원으로 이전되었다. 그러나 부담의 형태 변화는 모든 부담의 소멸을 뜻하지 않는다. 결작 전가나 지방 재정 문제와 실제 군역 분담을 살펴야 한다. 군적의 기재와 실제 납부자를 구별하고 지역 운영을 확인해야 하며, 대곡리 한 사례를 전국의 동일한 운영으로 일반화할 수 없다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "대동법 조달 방식",
+          "max": 3,
+          "checkpoints": [
+            "토지를 기준으로 한 수취를 제시한다.",
+            "미·포·전 등의 재원화를 제시한다.",
+            "그 재원으로 물품을 구매·조달하는 관계를 설명한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "대동법을 모든 조세의 폐지라고 설명함"
+          ]
+        },
+        {
+          "id": "r2",
+          "label": "결작의 재정적 의미",
+          "max": 3,
+          "checkpoints": [
+            "군포 감축으로 세입 보충이 필요했음을 쓴다.",
+            "결작이 토지에 부과되었음을 쓴다.",
+            "이를 군역 부담의 전세화와 연결한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "결작을 사람마다 군포를 추가로 내는 제도라고 설명함"
+          ]
+        },
+        {
+          "id": "r3",
+          "label": "제도와 실제 부담의 차이",
+          "max": 4,
+          "checkpoints": [
+            "부담 형태의 변화와 부담 소멸을 구별한다.",
+            "전가·지방 재정 등 운영상의 문제를 한 가지 제시한다.",
+            "군적 기재와 실제 납부 주체를 구별한다.",
+            "지역 사례의 전국 일반화를 경계한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "rejectConditions": [
+            "모든 역과 농민 부담이 대동법·균역법으로 소멸했다고 단정함"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-152",
+          "quote": "본청은 그때의 시세를 보아 방납인에게 쌀을 지급하여 물전을 구입하게 하십시오.",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        },
+        {
+          "page": "hanguksa-textbook-page-153",
+          "quote": "• 결작(結作) : 6도에 토지 1결당 쌀 2말 혹은 돈 5전을 부과 (평안도, 함경도 제외)",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        },
+        {
+          "page": "hanguksa-textbook-page-153",
+          "quote": "㉡ 군역의 전세화 : 결작을 통한 군역의 전세화 촉진",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        },
+        {
+          "page": "hanguksa-textbook-page-156",
+          "quote": "㉡ 역할 : 정부가 징수한 쌀·포·전(錢)을 지급받아 관서에 필요한 물품 구입·조달",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        }
+      ],
+      "readScope": "abstract",
+      "caution": "지역 군역 사례의 상세 명단·금액과 전국 분포는 미확인이다. 재정화는 분석 관점이며 근대 재정국가의 완성과 동의어로 채점하지 않는다.",
+      "connection": "기존 공인·균역법 문항의 제도 지식을 재원·조달·실제 부담의 인과 설명으로 확장한다.",
+      "status": "original-practice-draft",
+      "officialQuestion": false,
+      "forecastProbability": null,
+      "authoringNote": "논문 초록을 재서술한 자료를 문항 안에 명시한 창작 적용형. 논문 원문·실제 기출의 복제가 아니며 공식 예상 또는 공식 채점기준이 아님.",
+      "scoreNote": "각 문자열 체크포인트는 1점이며 충족한 점수를 합산한다(요소별 3·3·4점, 총 10점). 동의어·의미상 동등한 서술을 인정하되 요구한 서로 다른 사항은 각각 확인한다. 반대 진술이나 명확한 모순이 있으면 그와 충돌하는 체크포인트만 인정하지 않고, 다른 독립적으로 충족한 포인트는 유지한다."
+    },
+    {
+      "id": "hanguksa-pred-status-evidence",
+      "subject": "hanguksa",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "호적과 노비 생활의 자료 비판",
+      "paperIds": [
+        "paper-hanguksa-kwon-2022-textbook",
+        "paper-hanguksa-kwon-2023-status",
+        "paper-hanguksa-kwon-2026-famine"
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-162"
+      ],
+      "linkedQuestionIds": [],
+      "prompt": "권내현의 연구는 호적의 직역 수치만으로 신분 상승을 추정하는 방식을 비판하고, 대기근 속 노비의 대응도 거주·자산·주인과의 관계에 따라 달랐다고 해석한다(초록 요약). 교재의 『일성록』 발췌에는 군역을 피하려고 호적에 유학으로 올리거나 다른 고을에서 양반 행세를 한다는 내용이 있다. ① 이 기록에서 확인되는 행위와 곧바로 확정할 수 없는 사회적 지위를 구별하시오. ② 법적 신분이 같은 노비의 재난 경험이 달랐을 가능성을 설명할 조건 두 가지를 쓰시오. ③ 이러한 자료 비판이 조선 후기의 모든 사회 변화를 부정하는 것은 아닌 이유와, 추가로 대조할 자료 한 종류와 그 자료로 확인할 사항을 제시하시오.",
+      "modelAnswer": "기록은 유학이라는 직역 표기의 이용과 면역 시도를 보여주지만, 그 기재만으로 지역 사회가 해당 인물을 양반으로 인정했다고 확정할 수는 없다. 노비도 독립된 거주 여부와 자산, 주인과의 관계에 따라 기근을 견디거나 이동하는 조건이 달랐을 수 있다. 직역 수치의 한계를 지적하는 것과 노비 속량·감소, 양인층 내부 분화 같은 변화를 부정하는 것은 다르다. 호적을 일기나 소송 문서·재산 문서와 대조해 실제 생활, 인정 여부와 권리의 변화를 확인할 수 있다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "표기와 사회적 인정의 구별",
+          "max": 3,
+          "checkpoints": [
+            "유학 표기를 이용한 면역 시도를 읽는다.",
+            "호적 기재와 실제 사회적 인정의 차이를 설명한다.",
+            "표기 증가만으로 양반의 일률적 증가를 확정하지 않는다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "호적의 유학 표기가 곧 모든 양반 특권의 취득이라고 단정함"
+          ]
+        },
+        {
+          "id": "r2",
+          "label": "노비 경험의 분화",
+          "max": 3,
+          "checkpoints": [
+            "거주·자산·주인 관계 중 한 조건을 제시한다.",
+            "앞의 조건과 다른 또 하나의 조건을 제시한다.",
+            "두 조건을 재난 대응의 차이와 연결한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "모든 노비가 동일한 피해 또는 보호를 받았다고 단정함"
+          ]
+        },
+        {
+          "id": "r3",
+          "label": "변화의 탐구와 교차 검증",
+          "max": 4,
+          "checkpoints": [
+            "기존 추론의 비판과 사회 변화 부정을 구별한다.",
+            "속량·노비 감소·양인층 분화 등 검토할 변화를 제시한다.",
+            "일기·소송·재산 문서 등 추가 자료를 제시한다.",
+            "추가 자료로 실제 생활·사회적 인정 또는 권리 변화를 검증한다고 설명한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "rejectConditions": [
+            "신분제가 불변했다고 단정하거나 노비의 예속 자체를 부정함"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-162",
+          "quote": "호적을 위조하여 '유학(幼學)'이라고 거짓으로 올리고 면역하거나 다른 고을로 옮겨가서 스스로 양반 행세를 한다.",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        },
+        {
+          "page": "hanguksa-textbook-page-162",
+          "quote": "㉠ 속량(贖良) : 군공(軍功)·납속(納贖)·대구(代口) 등을 활용하여 신분 상승",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        }
+      ],
+      "readScope": "abstract",
+      "caution": "교재의 양반호 증가 표를 곧 사회적 신분 상승의 증거로 사용하지 않는다. 논문의 비판 관점을 제시한 적용형이며 학설 암기를 강제하지 않는다. 기존 300개에 동일 쟁점의 직접 대응 문항이 없어 연결 ID는 비워 둔다.",
+      "connection": "기존 300개의 새 표현이 아니라 호적 자료의 한계와 법적 신분·경제적 조건을 구별하는 새 자료 해석 주제를 추가한다.",
+      "status": "original-practice-draft",
+      "officialQuestion": false,
+      "forecastProbability": null,
+      "authoringNote": "논문 초록을 재서술한 자료를 문항 안에 명시한 창작 적용형. 논문 원문·실제 기출의 복제가 아니며 공식 예상 또는 공식 채점기준이 아님.",
+      "scoreNote": "각 문자열 체크포인트는 1점이며 충족한 점수를 합산한다(요소별 3·3·4점, 총 10점). 동의어·의미상 동등한 서술을 인정하되 요구한 서로 다른 사항은 각각 확인한다. 반대 진술이나 명확한 모순이 있으면 그와 충돌하는 체크포인트만 인정하지 않고, 다른 독립적으로 충족한 포인트는 유지한다."
+    },
+    {
+      "id": "hanguksa-pred-colonial-student-base",
+      "subject": "hanguksa",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "학생층 성장과 집단행동의 조건",
+      "paperIds": [
+        "paper-hanguksa-lee-2026-students",
+        "paper-hanguksa-lee-2021-school"
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-244"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-essay-colonial-cultural-rule"
+      ],
+      "prompt": "이기훈의 2026년 논문은 인가받지 않은 각종 학교를 포함한 교육 수요와 학생의 집단적 의식이 6·10만세운동의 대중적 참여 기반을 넓혔다고 해석한다. 2021년 논문은 1930년대 말 재난 속에서도 입학 증가와 학비 부담·결석이 함께 나타나는 문제를 다룬다(초록 요약). ① 1920년대 학생 증가를 식민 당국의 교육정책만으로 설명하기 어려운 이유 ② 6·10만세운동의 준비 조직과 폭넓은 학생 참여 기반의 관계 ③ 입학자 증가만으로 교육 여건이 전반적으로 개선되었다고 결론 내릴 수 없는 이유를 쓰고, 필요한 추가 지표와 그 지표로 확인할 내용을 서술하시오.",
+      "modelAnswer": "조선인 사회의 교육 수요와 인가 학제 밖 학교의 활동도 학생층 성장에 기여했으므로 학생 수 변화를 총독부 정책의 결과만으로 환원할 수 없다. 조선학생과학연구회 등은 준비와 조직을 담당했지만 학생 공간·문화와 집단적 의식은 직접 조직에 속하지 않은 학생의 참여도 가능하게 한 조건이었다. 입학은 진입의 지표여서 지속적 출석과 학업 유지 또는 생활 부담을 곧바로 나타내지 않는다. 결석·중퇴·수업료 부담 등의 지표를 함께 보아야 교육 수요의 확대와 실제 교육 여건을 구별할 수 있다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "교육 수요와 정책의 구별",
+          "max": 3,
+          "checkpoints": [
+            "조선인 사회의 교육 수요를 제시한다.",
+            "인가 학제 밖 학교의 역할을 제시한다.",
+            "학생 증가를 총독부 정책에만 환원하지 않는다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "인가받지 않은 학교는 존재할 수 없었다고 설명함"
+          ]
+        },
+        {
+          "id": "r2",
+          "label": "조직과 참여 기반",
+          "max": 3,
+          "checkpoints": [
+            "조선학생과학연구회 등 준비 조직의 역할을 쓴다.",
+            "학생 공간·문화·집단적 의식 중 참여 조건을 제시한다.",
+            "조직에 직접 속한 사람과 폭넓은 참여층을 구별한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "모든 참가자가 동일한 조직의 회원이었다고 단정함"
+          ]
+        },
+        {
+          "id": "r3",
+          "label": "통계 지표의 의미와 한계",
+          "max": 4,
+          "checkpoints": [
+            "입학이 교육 진입의 지표임을 설명한다.",
+            "입학 증가와 생활·교육 여건 개선이 동일하지 않음을 설명한다.",
+            "결석·중퇴·학비 부담 등 추가 지표를 제시한다.",
+            "추가 지표가 학업 지속 또는 부담을 검증하는 이유를 연결한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "rejectConditions": [
+            "입학 증가만으로 식민지 교육의 혜택 또는 생활 개선을 확정함"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-244",
+          "quote": "ⓐ 주도 : 조선학생과학연구회와 중앙고보생 등 학생 단체 중심, 대중 시위 계획 및 참여",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        },
+        {
+          "page": "hanguksa-textbook-page-244",
+          "quote": "1. 학생의 사상 통일과 상호 단결",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        },
+        {
+          "page": "hanguksa-textbook-page-244",
+          "quote": "1. 민중 본위 교육의 실시",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        }
+      ],
+      "readScope": "abstract",
+      "caution": "1920년대 학생운동과 1930년대 말 취학은 다른 시기이며 한 통계로 합치지 않는다. 실제 수치·학교별 참가 명단은 전문 미확인이다. 기존 문화통치 문항과는 시대·지배정책의 배경 연결이다.",
+      "connection": "문화통치의 제도 암기를 사회적 수요·집단의식·교육 통계의 해석으로 확장한다.",
+      "status": "original-practice-draft",
+      "officialQuestion": false,
+      "forecastProbability": null,
+      "authoringNote": "논문 초록을 재서술한 자료를 문항 안에 명시한 창작 적용형. 논문 원문·실제 기출의 복제가 아니며 공식 예상 또는 공식 채점기준이 아님.",
+      "scoreNote": "각 문자열 체크포인트는 1점이며 충족한 점수를 합산한다(요소별 3·3·4점, 총 10점). 동의어·의미상 동등한 서술을 인정하되 요구한 서로 다른 사항은 각각 확인한다. 반대 진술이나 명확한 모순이 있으면 그와 충돌하는 체크포인트만 인정하지 않고, 다른 독립적으로 충족한 포인트는 유지한다."
+    },
+    {
+      "id": "hanguksa-pred-olympics-diplomacy",
+      "subject": "hanguksa",
+      "type": "essay",
+      "skill": "source-analysis",
+      "title": "서울올림픽과 냉전 인식·북방 외교",
+      "paperIds": [
+        "paper-hanguksa-oh-2025-olympics"
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-303"
+      ],
+      "linkedQuestionIds": [
+        "hanguksa-ext-interkorean-1988",
+        "hanguksa-ext-cloze-northern-diplomacy"
+      ],
+      "prompt": "오제연의 논문은 1988년 서울올림픽의 소련에 대한 관심과 미국에 대한 반감을 국제 냉전 완화 및 한국 사회의 역사적 맥락에서 읽는다(초록 요약). 같은 해 7·7 특별 선언은 남북 교류와 사회주의권과의 관계 개선을 표방했다. ① 올림픽 관중의 반응과 정부의 외교 선언이 각각 어떤 층위의 자료인지 구별하시오. ② 두 자료를 함께 읽어 설명할 수 있는 당시 변화의 방향을 서술하시오. ③ 관중의 특정 응원만으로 국민 전체의 사회주의 지지 또는 외교정책 결정의 직접 원인을 단정할 수 없는 이유와, 인과관계를 더 검토할 자료 한 종류와 그 자료로 확인할 사항을 제시하시오.",
+      "modelAnswer": "관중의 응원과 관심은 특정 상황의 대중 감정·문화적 수용을 보여주고 7·7 선언은 정부의 공식적인 대외 관계 개선 구상을 보여준다. 두 자료는 냉전적 적대 인식과 대결 외교를 재검토하는 움직임이 서로 다른 층위에서 나타났다는 맥락으로 읽을 수 있다. 그러나 경기장의 일부 반응은 국민 전체의 이념을 대표하지 않으며 응원과 외교 결정 사이의 직접 인과도 입증하지 않는다. 당시의 외교 문서·정책 결정 기록 또는 대표성 있는 여론 자료를 대조해 정책의 동기와 사회적 분포를 별도로 검토해야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "자료의 층위",
+          "max": 3,
+          "checkpoints": [
+            "관중 반응을 상황적 대중 감정·문화 자료로 구분한다.",
+            "7·7 선언을 정부의 공식 정책 표명으로 구분한다.",
+            "두 자료가 동일한 행위자·대상을 직접 대표하지 않음을 설명한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "관중의 응원을 국교 수립 행위와 동일시함"
+          ]
+        },
+        {
+          "id": "r2",
+          "label": "역사적 맥락의 연결",
+          "max": 3,
+          "checkpoints": [
+            "냉전 완화 또는 적대 인식 재검토를 제시한다.",
+            "사회주의권 관계 개선이라는 선언 내용을 제시한다.",
+            "대중적 경험과 공식 정책이 다른 층위에서 변화했다고 설명한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rejectConditions": [
+            "1988년에 사회주의 이념을 공식 국시로 채택했다고 설명함"
+          ]
+        },
+        {
+          "id": "r3",
+          "label": "대표성과 인과 검증",
+          "max": 4,
+          "checkpoints": [
+            "일부 관중과 국민 전체의 대표성 문제를 지적한다.",
+            "동시 발생과 직접 인과를 구별한다.",
+            "외교 문서·정책 기록 또는 대표성 있는 여론 자료를 제시한다.",
+            "그 자료가 정책 동기 또는 인식의 분포를 검증하는 이유를 설명한다."
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "rejectConditions": [
+            "경기 응원이 외교정책을 결정한 유일한 원인이라고 단정함"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-303",
+          "quote": "㉡ 내용 : 남북 간 화해와 교류, 경쟁과 대결 외교 종식, 국제무대 협력, 사회주의권과의 관계 개선 추구",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        },
+        {
+          "page": "hanguksa-textbook-page-303",
+          "quote": "㉢ 영향 : 남북 간 화해와 교류 모색, 북방 외교 추진",
+          "sourceKind": "user-textbook",
+          "scanVerified": false
+        }
+      ],
+      "readScope": "abstract",
+      "caution": "논문 초록만 확인했다. 1988년 대중 인식을 국교 수립 사실이나 이념 전환으로 확대하지 않는다. 본문에 없는 수치나 정책 결정자의 의도는 답안 근거로 만들지 않는다.",
+      "connection": "기존 7·7 특별 선언·북방 외교 문항의 명칭 지식을 자료의 대표성과 인과관계 판별로 확장한다.",
+      "status": "original-practice-draft",
+      "officialQuestion": false,
+      "forecastProbability": null,
+      "authoringNote": "논문 초록을 재서술한 자료를 문항 안에 명시한 창작 적용형. 논문 원문·실제 기출의 복제가 아니며 공식 예상 또는 공식 채점기준이 아님.",
+      "scoreNote": "각 문자열 체크포인트는 1점이며 충족한 점수를 합산한다(요소별 3·3·4점, 총 10점). 동의어·의미상 동등한 서술을 인정하되 요구한 서로 다른 사항은 각각 확인한다. 반대 진술이나 명확한 모순이 있으면 그와 충돌하는 체크포인트만 인정하지 않고, 다른 독립적으로 충족한 포인트는 유지한다."
+    }
+  ],
+  "bibliographyFile": "hanguksa-bibliography.json",
+  "limitations": [
+    "선정한 공식 프로필의 모든 실제 업적이 최신 상태로 제공되는 것은 아니다. 하일식 전체 목록은 접근하지 못했다.",
+    "현재 소속은 확인한 공식 화면 기준이며 과거 임용시험 위원 경력을 2027학년도 위원 여부로 해석하지 않는다.",
+    "올해 학원의 전망 영상·블로그에서 한국사 출제 예측을 검증할 만한 본문은 이 파일의 근거로 사용하지 않았다. 영상 시청·자막 열람으로 간주한 항목은 없다.",
+    "원본 교재 전사는 scanVerified=false인 자료를 포함한다. exact quote 검사는 문자열 일치이며 인쇄 원본의 오탈자 검증과 같지 않다.",
+    "기출 원문 문항을 이 연구에서 별도로 대조하지 않았으므로 기출 빈도·위원 성향·기념연도에 따른 출제 확률을 제시하지 않는다."
+  ],
+  "existingBankReview": {
+    "reviewedFile": "tools/history-questions/extended-inputs/hanguksa.json",
+    "questionsReviewed": 300,
+    "focus": "양반 증가·유학·호적 표기·노비를 언급한 문항 및 관련 원문",
+    "result": "양반호·유학호 증가만으로 양반 급증 또는 신분제 붕괴를 정답으로 요구하는 문항은 발견되지 않았다. 광종의 노비안검법·공민왕 전민변정도감 등은 별도 시기·제도 문항으로, 이 비판과 혼동하지 않는다.",
+    "sourceConcern": "교재 hanguksa-textbook-page-161의 양반층 비율 증가 서술은 최신 연구 관점과 긴장이 있어 수치만으로 신분 상승을 단정하는 새 문항을 만들지 않는다. page-162 사료는 행위와 사회적 인정의 구별을 묻는 데 사용한다.",
+    "changesMade": false
+  }
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "gyoyukron-pck",
+    "term": "교수내용지식",
+    "def": "학습자를 고려하여 교과내용을 이해할 수 있게 조직하고 표현하는, 가르치기 위한 내용지식",
+    "page": "gyoyukron-textbook-page-74",
+    "title": "슐만의 연구 내용 및 결과 / 03 역사교육 담론에 대한 반성",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "교과내용이 교사의 지식으로부터 교육의 내용으로 전환되는 과정에서 교사가 내용과 가르치는 방법을 혼합하여 특정한 문제나 주제를 어떻게 조직하고 표현하는가에 관계된 것"
+      },
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "학생들에게 교과를 이해하게끔 제시하고 조직하는 데 유용한 아이디어"
+      },
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "은유, 비유, 직유, 예증, 예시, 감정이입, 비교, 유추"
+      }
+    ]
+  },
+  {
+    "id": "gyoyukron-curriculum",
+    "term": "교육과정지식",
+    "def": "일정한 학습 단계에서 주제를 가르칠 프로그램과 자료를 선택·활용하고 관련 교과의 교육과정을 이해하는 지식",
+    "page": "gyoyukron-textbook-page-74",
+    "title": "슐만의 연구 내용 및 결과 / 03 역사교육 담론에 대한 반성",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "일정한 단계에서 어떤 주제나 교과를 가르치기 위하여 고안된 일련의 프로그램과 그와 관련된 교육과정 자료를 이용할 수 있는 지식"
+      },
+      {
+        "page": "gyoyukron-textbook-page-74",
+        "quote": "당 교과 및 관련 교과의 교육과정에 대한 이해와 연계한 지식"
+      }
+    ]
+  },
+  {
+    "id": "gyoyukron-external-criticism",
+    "term": "외적 비판",
+    "def": "사료의 저자·연대·보존 상태 등을 조사하여 위작이나 변조 여부 등 사료 자체의 진위를 가리는 작업",
+    "page": "gyoyukron-textbook-page-81",
+    "title": "사료의 개념·종류·비판 / 사료의 특성과 학습",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "사료의 진위 여부를 가리는 작업"
+      },
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "사료의 저자나 작가 확인"
+      },
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "사료의 연대 확정"
+      },
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "원저작의 보존 상태(조작, 위작, 오류) 검토"
+      }
+    ]
+  },
+  {
+    "id": "gyoyukron-internal-criticism",
+    "term": "내적 비판",
+    "def": "사료의 내용을 분석하고 작성 맥락과 모순을 검토하여 서술 내용의 신뢰성을 판단하는 작업",
+    "page": "gyoyukron-textbook-page-81",
+    "title": "사료의 개념·종류·비판 / 사료의 특성과 학습",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "사료의 내용을 분석하여 그 신뢰성을 결정하는 작업"
+      },
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "사료에 거짓이나 잘못된 내용이나 앞뒤가 맞지 않는가가 있는가를 검토"
+      },
+      {
+        "page": "gyoyukron-textbook-page-81",
+        "quote": "당시 사회 전반의 상황에 비추어 해석"
+      }
+    ]
+  },
+  {
+    "id": "gyoyukron-chronological",
+    "term": "연대기적 방법",
+    "def": "역사적 사실을 발생 순서에 따라 조직하여 시간의 흐름과 변화·계속성을 파악하도록 하는 내용 조직 방법",
+    "page": "gyoyukron-textbook-page-12",
+    "title": "내용 조직의 사례 / 역사교육 내용 조직의 방법 / 연대기적·역연대기적·주제 중심적 방법",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "역사적 사실을 일어난 순서에 따라 조직하는 것으로"
+      },
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "역사의 개념인 변화와 계속성을 파악하는 데 도움을 줌"
+      }
+    ]
+  },
+  {
+    "id": "gyoyukron-reverse-chronological",
+    "term": "역연대기적 방법",
+    "def": "현재를 출발점으로 과거로 거슬러 올라가며 역사 내용을 역순으로 조직하는 방법",
+    "page": "gyoyukron-textbook-page-12",
+    "title": "내용 조직의 사례 / 역사교육 내용 조직의 방법 / 연대기적·역연대기적·주제 중심적 방법",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "현재를 기점으로 과거로 거슬러 올라가면서 역사를 역순으로 조직하는 방법"
+      },
+      {
+        "page": "gyoyukron-textbook-page-12",
+        "quote": "지나치게 현재 중심의 역사관에 빠질 위험이 있음"
+      }
+    ]
+  },
+  {
+    "id": "gyoyukron-empathy",
+    "term": "감정이입적 이해",
+    "def": "자료와 당시의 맥락적 지식을 바탕으로 역사 행위자의 관점을 재구성하여 행위를 이해하는 방식",
+    "page": "gyoyukron-textbook-page-106",
+    "title": "구조적 상상 / 감정이입적 이해",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-106",
+        "quote": "역사의 감정이입적 이해는 기본적으로 자료와 맥락적 지식을 바탕으로 한 인지적 성격의 사고활동"
+      },
+      {
+        "page": "gyoyukron-textbook-page-106",
+        "quote": "역사적 행위를 한 사람의 관점을 파악하고 설명"
+      }
+    ]
+  },
+  {
+    "id": "gyoyukron-performance",
+    "term": "수행평가",
+    "def": "학습자가 답을 구성하거나 행동으로 나타내게 하며 학습의 과정과 결과를 함께 중시하는 평가 방식",
+    "page": "gyoyukron-textbook-page-29",
+    "title": "서술형 문항의 제작 절차와 평가결과 처리 / 07 역사과 수행평가",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-29",
+        "quote": "교수·학습의 결과뿐만 아니라 교수·학습의 과정도 함께 중시하는 평가 방식"
+      },
+      {
+        "page": "gyoyukron-textbook-page-29",
+        "quote": "자기 스스로 답을 작성(서술 혹은 구성)하거나 행동으로 나타내도록 하는 평가 방식"
+      }
+    ]
+  }
+]

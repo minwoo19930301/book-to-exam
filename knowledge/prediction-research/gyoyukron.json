@@ -1,0 +1,1161 @@
+{
+  "schemaVersion": 1,
+  "subject": "gyoyukron",
+  "asOf": "2026-10-03",
+  "targetExam": "2027학년도 중등 역사 임용 가정",
+  "scope": "공개 소속 확인 6명, 핵심 논문 17편(본문 선별 4·초록 13), 공개 프로필 2곳의 2021–2026 노출 목록 전수. 전국 교수·전체 논문 전수조사가 아니다.",
+  "faculty": [
+    {
+      "id": "lee-mimi",
+      "name": "이미미",
+      "affiliation": "서울대학교 역사교육과",
+      "position": "부교수",
+      "profileUrl": "https://histoedu.snu.ac.kr/snu__professor/이미미/",
+      "researchArea": "역사적 사고·문해력·교사교육",
+      "bibliographyScope": "공식 페이지의 2021–2026 논문란 17건 전체. 서평·부록 포함 여부 별도 표시.",
+      "examinerStatus": "unknown",
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "kim-sumi",
+      "name": "김수미",
+      "affiliation": "가톨릭관동대학교 역사교육과",
+      "position": "교수(학과장; 페이지 경력란에는 조교수로도 기재)",
+      "profileUrl": "https://www.cku.ac.kr/history/3794/subview.do",
+      "researchArea": "역사 평가·싱가포르 역사교육",
+      "bibliographyScope": "공식 주요논저란 2021–2026 목록 11건 전체. 보고서·공저 단행본 별도 표시.",
+      "examinerStatus": "unknown",
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "yang-jounghyun",
+      "name": "양정현",
+      "affiliation": "부산대학교 역사교육과",
+      "position": "교수",
+      "profileUrl": "https://his.pusan.ac.kr/pnuProfl/edu/359/3474/artclView.do",
+      "researchArea": "역사교육의 목표·교육과정",
+      "bibliographyScope": "공개 프로필과 KCI 핵심 논문 보완. 전체 업적목록을 확보한 것은 아님.",
+      "examinerStatus": "unknown",
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "bang-jiwon",
+      "name": "방지원",
+      "affiliation": "경북대학교 역사교육과",
+      "position": "교수; 센터 권역책임교수 명단 확인",
+      "profileUrl": "https://eduresearch.snu.ac.kr/sub_2/2_18.php",
+      "researchArea": "공공역사·평화교육",
+      "bibliographyScope": "2026년 6월 센터 명단 및 KCI 핵심 논문. 개인 전체 목록 미확보.",
+      "examinerStatus": "unknown",
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "kang-hwajung",
+      "name": "강화정",
+      "affiliation": "서원대학교 역사교육과",
+      "position": "센터 교원연수부장 명단 확인; 직급 미확인",
+      "profileUrl": "https://eduresearch.snu.ac.kr/sub_2/2_18.php",
+      "researchArea": "교육과정 개발·기억공간",
+      "bibliographyScope": "2026년 6월 센터 명단 및 KCI 핵심 논문. 개인 전체 목록 미확보.",
+      "examinerStatus": "unknown",
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "kim-borim",
+      "name": "김보림",
+      "affiliation": "충북대학교 역사교육과",
+      "position": "교수",
+      "profileUrl": "https://edu.cbnu.ac.kr/his/selectWebProfessorList.do?key=212",
+      "researchArea": "역사교육·평가·역사교육사",
+      "bibliographyScope": "공개 프로필 및 KCI 핵심 논문. 개인 전체 목록 미확보.",
+      "examinerStatus": "unknown",
+      "checkedAt": "2026-10-03"
+    }
+  ],
+  "papers": [
+    {
+      "id": "ART003103912",
+      "title": "역사적 사고는 어떻게 함양해야 할까? – 미국 교육과정 자료의 역사적 사고 교수·학습 설계 분석 –",
+      "authors": "이미미",
+      "year": 2024,
+      "journal": "Studies on History Education",
+      "issue": "49",
+      "pages": "154–208",
+      "doi": "10.16976/kahe.2024..49.154",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003103912",
+      "topic": "사료 읽기·논증·진전 설계",
+      "findings": "세 교육과정은 사고의 구성과 진전 방식이 다르다. 반복, 논증의 확장, 요소별 단계화를 수업 목적에 맞게 비교한다.",
+      "caution": "특정 모형의 우월성이나 보편적 발달 단계를 입증한 연구가 아니다.",
+      "readScope": "본문 선별 검토: 인쇄 172–183, 185–188, 198–201쪽; 200쪽 렌더 확인",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003320013",
+      "title": "연계･협력･환류 원리에 기반한 역사과 1급 정교사 자격연수 프로그램 실행연구",
+      "authors": "이미미 외",
+      "year": 2026,
+      "journal": "Studies on History Education",
+      "issue": "54",
+      "pages": "123–184",
+      "doi": "10.16976/kahe.2026..54.123",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003320013",
+      "topic": "교사교육·협력·환류",
+      "findings": "두 차례 실행연구에서 강의와 수업 설계의 연결, 공동 의사결정, 시기와 해석을 고려한 피드백을 분석했다.",
+      "caution": "장기적 효과나 모든 연수의 성공 조건을 확정하지 않는다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART002835160",
+      "title": "내러티브와 역사교육의 만남: 왜 역사교육에서 내러티브를 논하는가?",
+      "authors": "이미미",
+      "year": 2022,
+      "journal": "Journal of Narrative and Educational Research",
+      "issue": "1",
+      "pages": "83–108",
+      "doi": "10.25051/jner.2022.10.1.004",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002835160",
+      "topic": "내러티브·역사 이해",
+      "findings": "이야기로서의 좁은 용례와 의미 구성의 넓은 용례를 구별하며, 증거·논증과 내러티브의 관계를 검토한다.",
+      "caution": "내러티브 활용 자체가 학습 효과를 보장하지 않는다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003140898",
+      "title": "역사교육의 목표-내용-방법 논의, 그리고 역사교육학의 패러다임과 프레임",
+      "authors": "양정현",
+      "year": 2024,
+      "journal": "Studies on History Education",
+      "issue": "50",
+      "pages": "279–314",
+      "doi": "10.16976/kahe.2024..50.279",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003140898",
+      "topic": "내용 선정·교사 전문성",
+      "findings": "학문적 역사 지식을 그대로 수업의 틀로 옮기기보다 교육 목적과 학습자의 관심을 고려한 내용 구성이 필요하다는 논의다.",
+      "caution": "연구자의 이론적 주장으로서 제시한다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003066398",
+      "title": "싱가포르 중등학교 역사 탐구 기반 평가의 운영과 시사점: GCE O-레벨 및 GCE N(A)-레벨 시험에서 통합 인문학(역사 선택) 문항을 중심으로",
+      "authors": "김수미",
+      "year": 2024,
+      "journal": "Studies on History Education",
+      "issue": "48",
+      "pages": "105–163",
+      "doi": "10.16976/kahe.2024..48.105",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003066398",
+      "topic": "사료 평가·수업 평가 정합성",
+      "findings": "교육과정의 탐구가 사료 해석과 논증 평가로 연결되는 과정을 분석한다. 내용 범위 조절과 탐구 결과로서 글쓰기가 논점이다.",
+      "caution": "본문 156쪽: 실제 채점 기준을 확보하지 못했다고 명시. 한국 임용의 공식 배점 근거로 사용할 수 없다.",
+      "readScope": "본문 선별 검토: 인쇄 151–156쪽, 특히 연구 한계",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003188363",
+      "title": "싱가포르 중등학교 역사교육과정의 변화와 특징-2014 중등학교 저학년 역사교육과정과 2021 중등학교 저학년 역사교육과정을 중심으로-",
+      "authors": "김수미·최지연",
+      "year": 2025,
+      "journal": "Studies on History Education",
+      "issue": "51",
+      "pages": "161–218",
+      "doi": "10.16976/kahe.2025..51.161",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003188363",
+      "topic": "역사 탐구·교육과정",
+      "findings": "구조적 탐구 개념과 연간 탐구 프로젝트, 정체성 및 시민성의 연결을 분석한다.",
+      "caution": "싱가포르의 제도를 한국 교육과정의 규정으로 제시하지 않는다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003193678",
+      "title": "싱가포르 중등학교에서는 한국전쟁을 어떻게 가르치고 평가하는가?",
+      "authors": "김수미",
+      "year": 2025,
+      "journal": "The Korean History Education Review",
+      "issue": "173",
+      "pages": "73–123",
+      "doi": "10.18622/kher.2025.03.173.73",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003193678",
+      "topic": "논쟁적 질문·한국전쟁",
+      "findings": "한국전쟁을 냉전 세계사의 논쟁적 사례로 다루며 증거에 근거한 주장을 요구하는 수업·평가를 분석한다.",
+      "caution": "외국 교과서의 관점을 한국전쟁의 확정 정답이나 한국 평가 지침과 동일시하지 않는다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003254354",
+      "title": "싱가포르 세계사 교육의 특징과 시사점 -중등학교 고학년 <역사>, <통합 인문학(역사 선택)> 과목의 학습 내용을 중심으로-",
+      "authors": "김수미",
+      "year": 2025,
+      "journal": "The Korean History Education Review",
+      "issue": "175",
+      "pages": "219–274",
+      "doi": "10.18622/kher.2025.09.175.219",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003254354",
+      "topic": "세계사·깊이 있는 탐구",
+      "findings": "개관과 심층 탐구를 구분하고 비교·사례 연구로 내용 부담을 조절하는 교육과정과 교재의 구조를 검토한다.",
+      "caution": "모든 역사 내용의 축소가 바람직하다는 일반 규칙은 아니다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003019298",
+      "title": "2022 개정 교육과정 「역사로 탐구하는 현대 세계」 과목 개발 연구",
+      "authors": "강화정",
+      "year": 2023,
+      "journal": "Studies on History Education",
+      "issue": "47",
+      "pages": "91–134",
+      "doi": "10.16976/kahe.2023..47.91",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003019298",
+      "topic": "공공역사·주제 조직",
+      "findings": "주제와 시간적 흐름을 함께 고려하고 공공역사와 복수 지역의 관점을 포함하는 개발 논리를 설명한다.",
+      "caution": "초기 시안과 최종안의 내용을 구분해야 한다. 교육과정 원문 전체를 대체하지 않는다.",
+      "readScope": "본문 선별 검토: 인쇄 120–125쪽, 공공역사 및 시선의 다원화",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003365105",
+      "title": "예비 역사교사의 국가폭력 기억공간 관람 경험과 의미 구성 -민주화운동기념관의 남영동 대공분실 전시를 중심으로-",
+      "authors": "강화정",
+      "year": 2026,
+      "journal": "Studies on History Education",
+      "issue": "55",
+      "pages": "225–276",
+      "doi": "10.16976/kahe.2026..55.225",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003365105",
+      "topic": "기억공간·공공역사",
+      "findings": "예비교사 22명의 관람 경험에서 정서 반응과 책임 구조에 대한 해석, 교육적 성찰이 다양하게 나타났다.",
+      "caution": "소규모 사례이며 관람의 보편적 효과나 특정 감정을 정답으로 일반화하지 않는다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003140886",
+      "title": "‘평화 교재’로서의 전쟁사: 역사 교과서 서술 검토 및 대안의 모색 -제1･2차 세계대전 서술을 중심으로-",
+      "authors": "김영주·방지원",
+      "year": 2024,
+      "journal": "Studies on History Education",
+      "issue": "50",
+      "pages": "41–100",
+      "doi": "10.16976/kahe.2024..50.41",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003140886",
+      "topic": "평화교육·전쟁사",
+      "findings": "전쟁 서술에서 군사 사건 외에 다양한 행위자, 폭력의 구조와 기억, 평화의 조건을 검토할 필요를 제기한다.",
+      "caution": "도덕 감정의 정답을 강제하지 않고 자료와 설명의 관계를 평가한다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003298594",
+      "title": "역사교육 위기의 레토릭 -사범대학, 교육과정, 현장의 담론 지형을 중심으로-",
+      "authors": "김보림",
+      "year": 2025,
+      "journal": "The Korean History Education Review",
+      "issue": "176",
+      "pages": "231–292",
+      "doi": "10.18622/kher.2025.12.176.231",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003298594",
+      "topic": "역사교육 담론",
+      "findings": "교원양성·교육과정·현장의 위기 담론을 함께 분석하며 제도 개선을 제안한다.",
+      "caution": "논문의 정책 제안은 시행 중인 정책이나 출제 방향 발표가 아니다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003127177",
+      "title": "해방 직후 역사교육에서 탈식민 과제와 해소의 한계",
+      "authors": "김보림",
+      "year": 2024,
+      "journal": "The Korean History Education Review",
+      "issue": "171",
+      "pages": "47–68",
+      "doi": "10.18622/kher.2024.09.171.47",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003127177",
+      "topic": "역사교육사·탈식민",
+      "findings": "해방 직후 역사교육을 미국 제도의 일방적 이식으로만 보지 않고 한국 측 교육 논의와 식민 교육의 유산을 검토한다.",
+      "caution": "당시 교육과정의 시기별 변화와 행위자를 구분한다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART002934567",
+      "title": "대학수학능력평가 한국사 시험의 문제점과 개선방안",
+      "authors": "김보림",
+      "year": 2023,
+      "journal": "History Education Review",
+      "issue": "82",
+      "pages": "241–282",
+      "doi": "",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002934567",
+      "topic": "역사 평가·내용 선정",
+      "findings": "수능 한국사의 내용과 난도 문제를 비판하고 역사적 사고를 고려한 문항 개선을 제안한다.",
+      "caution": "수능 연구이며 중등 임용의 배점 기준이 아니다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003066390",
+      "title": "한국 중·고등학생들의 신분제 개념에 대한 역사적 이해의 유형과 특징",
+      "authors": "이소은",
+      "year": 2024,
+      "journal": "Studies on History Education",
+      "issue": "48",
+      "pages": "7–62",
+      "doi": "10.16976/kahe.2024..48.7",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003066390",
+      "topic": "개념 학습·맥락화",
+      "findings": "학생 22명의 이해는 정의 암기만으로 설명되지 않았다. 시대·지역의 맥락과 변화 개념을 연결한 개념 학습이 논점이다.",
+      "caution": "학년별 보편적 발달 단계나 효과가 입증된 처방으로 일반화하지 않는다.",
+      "readScope": "본문 선별 검토: 인쇄 51–57쪽, 논의·결론과 한계",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003019312",
+      "title": "역사교육에서 변화개념의 연구 동향과 전망",
+      "authors": "최상호",
+      "year": 2023,
+      "journal": "Studies on History Education",
+      "issue": "47",
+      "pages": "135–173",
+      "doi": "10.16976/kahe.2023..47.135",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003019312",
+      "topic": "연속과 변화·2차 개념",
+      "findings": "변화를 속도·범위·방향 등 여러 측면에서 분석하고, 과거 사람의 시간 경험과 후대 관찰자의 전망을 구별할 필요를 다룬다.",
+      "caution": "모든 변화가 진보이며 모든 사람이 동시에 경험한다는 설명을 피한다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "id": "ART003010874",
+      "title": "역사 문해력 함양을 위한 미국의 교육과정 자료 비교 분석 -‘아테네 민주주의’를 중심으로-",
+      "authors": "김민정",
+      "year": 2023,
+      "journal": "History Education Review",
+      "issue": "84",
+      "pages": "3–40",
+      "doi": "",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003010874",
+      "topic": "역사 문해력·중심 질문",
+      "findings": "같은 아테네 민주주의 내용을 중심 질문과 탐구 지원 도구의 구성 측면에서 비교한다.",
+      "caution": "초록에서 확인하지 못한 각 교육과정의 세부 우열은 단정하지 않는다.",
+      "readScope": "초록",
+      "coreReview": true,
+      "checkedAt": "2026-10-03"
+    }
+  ],
+  "predictions": [
+    {
+      "id": "gyoyukron-research-01",
+      "title": "사료 읽기의 반복과 논증의 진전",
+      "topic": "사료·논증·역사적 사고",
+      "paperIds": [
+        "ART003103912",
+        "ART003010874"
+      ],
+      "sourcePages": [
+        "gyoyukron-textbook-page-109"
+      ],
+      "evidence": [
+        {
+          "page": "gyoyukron-textbook-page-109",
+          "quote": "- ㉠ 출처 확인: 사료를 지은 사람의 의도를 파악하고 우리의 관점과 과거 사람들의 관점을 구분하는 것으로, 내용의 이해를 위한 읽기에 앞서 역사가들이 수행하는 절차"
+        }
+      ],
+      "linkedQuestionIds": [
+        "gyoyukron-ext-080-mc",
+        "gyoyukron-ext-080-short",
+        "gyoyukron-ext-081-mc",
+        "gyoyukron-ext-081-short"
+      ],
+      "examIds": [
+        "kice-exam-spread-13"
+      ],
+      "priority": "review-first",
+      "priorityBasis": "교재 핵심 개념·논문 연구 문제·관련 기출 요구의 교차 연결. 정량적 출제 확률 아님.",
+      "prompt": "[논문을 참고해 재구성한 가상 수업 자료]\n교사 A는 매 차시 다른 사료의 작성자와 작성 당시의 역사적 상황을 확인하게 한다. 교사 B는 한 쟁점의 자료를 읽고 주장하기, 다른 해석에 반박하기, 반박에 응답하기를 차례로 연습하게 한다.\n\n① A에서 수행하는 사고 두 가지를 쓰고 ② B가 논증을 심화하도록 설계된 이유와 ③ 단순 반복 횟수로 사고의 진전을 판단할 수 없는 이유를 설명하시오.",
+      "modelAnswer": "A는 출처 확인과 맥락화를 수행한다. 작성자의 입장과 작성 상황을 고려하여 자료를 해석한다. B는 자료에 근거한 주장에 대립 해석과 재응답을 더하며 논증의 범위를 확장한다. 차시마다 자료와 과제의 난도, 요구하는 관계가 다르므로 반복 횟수만으로 진전을 판단할 수 없다. 실제 학생의 근거 활용과 반론 처리 수준을 비교해야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "출처와 맥락",
+          "max": 3,
+          "ok": "A는 출처 확인과 맥락화를 수행한다. 작성자의 입장과 작성 상황을 고려하여 자료를 해석한다.",
+          "checkpoints": [
+            {
+              "text": "출처 확인",
+              "points": 1
+            },
+            {
+              "text": "맥락화",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-109",
+              "quote": "- ㉠ 출처 확인: 사료를 지은 사람의 의도를 파악하고 우리의 관점과 과거 사람들의 관점을 구분하는 것으로, 내용의 이해를 위한 읽기에 앞서 역사가들이 수행하는 절차"
+            }
+          ],
+          "paperIds": [
+            "ART003103912",
+            "ART003010874"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r2",
+          "label": "논증의 확장",
+          "max": 3,
+          "ok": "B는 자료에 근거한 주장에 대립 해석과 재응답을 더하며 논증의 범위를 확장한다.",
+          "checkpoints": [
+            {
+              "text": "주장-근거",
+              "points": 1
+            },
+            {
+              "text": "반론 또는 재반론",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-109",
+              "quote": "- ㉠ 출처 확인: 사료를 지은 사람의 의도를 파악하고 우리의 관점과 과거 사람들의 관점을 구분하는 것으로, 내용의 이해를 위한 읽기에 앞서 역사가들이 수행하는 절차"
+            }
+          ],
+          "paperIds": [
+            "ART003103912",
+            "ART003010874"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r3",
+          "label": "진전 판단",
+          "max": 4,
+          "ok": "차시마다 자료와 과제의 난도, 요구하는 관계가 다르므로 반복 횟수만으로 진전을 판단할 수 없다. 실제 학생의 근거 활용과 반론 처리 수준을 비교해야 한다.",
+          "checkpoints": [
+            {
+              "text": "횟수의 한계",
+              "points": 2
+            },
+            {
+              "text": "학생 수행의 질",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-109",
+              "quote": "- ㉠ 출처 확인: 사료를 지은 사람의 의도를 파악하고 우리의 관점과 과거 사람들의 관점을 구분하는 것으로, 내용의 이해를 위한 읽기에 앞서 역사가들이 수행하는 절차"
+            }
+          ],
+          "paperIds": [
+            "ART003103912",
+            "ART003010874"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        }
+      ],
+      "caution": "자체 제작 예상 연습문항. 아래 연구 해석은 제시된 조건이며 논문 저자나 평가원의 공식 문항·채점표가 아니다."
+    },
+    {
+      "id": "gyoyukron-research-02",
+      "title": "탐구 수업과 평가의 정합성",
+      "topic": "평가·사료·논증",
+      "paperIds": [
+        "ART003066398"
+      ],
+      "sourcePages": [
+        "gyoyukron-textbook-page-92"
+      ],
+      "evidence": [
+        {
+          "page": "gyoyukron-textbook-page-92",
+          "quote": "① 평가란 실제 교육 성과가 무엇인지를 결정하고 그것을 예상 성과와 비교하는 과정을 포함할 뿐만 아니라, 제시된 변화의 본질과 그것이 바람직한 것인가에 대한 판단을 포함"
+        }
+      ],
+      "linkedQuestionIds": [
+        "gyoyukron-ext-052-mc",
+        "gyoyukron-ext-052-short",
+        "gyoyukron-ext-053-mc",
+        "gyoyukron-ext-053-short"
+      ],
+      "examIds": [
+        "kice-exam-spread-7"
+      ],
+      "priority": "review-first",
+      "priorityBasis": "교재 핵심 개념·논문 연구 문제·관련 기출 요구의 교차 연결. 정량적 출제 확률 아님.",
+      "prompt": "[논문을 참고해 재구성한 가상 수업 자료]\n교사는 상반된 두 기록의 신뢰도를 따지고 역사적 주장을 쓰는 수업을 운영했다. 평가는 연도와 인명 암기만 확인했다.\n\n① 목표와 평가의 불일치를 설명하고 ② 탐구를 평가하는 문항 한 개와 ③ 그 문항의 분석적 채점 요소 두 개를 제안하시오.",
+      "modelAnswer": "수업은 사료 비판과 근거 있는 논증을 목표로 하지만 사실 재생만으로는 그 수행을 확인할 수 없다. 예: 두 기록의 작성 상황을 비교하고 어느 기록이 제시된 쟁점을 설명하는 데 더 유용한지 증거를 들어 논증하시오. 자료의 출처·맥락을 고려한 비교와 선택한 증거가 주장을 뒷받침하는 관계를 별도 요소로 평가한다. 특정 문구 재현만으로 판단하지 않는다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "정합성 진단",
+          "max": 3,
+          "ok": "수업은 사료 비판과 근거 있는 논증을 목표로 하지만 사실 재생만으로는 그 수행을 확인할 수 없다.",
+          "checkpoints": [
+            {
+              "text": "수업의 목표",
+              "points": 1
+            },
+            {
+              "text": "평가의 결손",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-92",
+              "quote": "① 평가란 실제 교육 성과가 무엇인지를 결정하고 그것을 예상 성과와 비교하는 과정을 포함할 뿐만 아니라, 제시된 변화의 본질과 그것이 바람직한 것인가에 대한 판단을 포함"
+            }
+          ],
+          "paperIds": [
+            "ART003066398"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r2",
+          "label": "탐구 문항",
+          "max": 3,
+          "ok": "예: 두 기록의 작성 상황을 비교하고 어느 기록이 제시된 쟁점을 설명하는 데 더 유용한지 증거를 들어 논증하시오.",
+          "checkpoints": [
+            {
+              "text": "사료 판단",
+              "points": 1
+            },
+            {
+              "text": "근거 요구",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-92",
+              "quote": "① 평가란 실제 교육 성과가 무엇인지를 결정하고 그것을 예상 성과와 비교하는 과정을 포함할 뿐만 아니라, 제시된 변화의 본질과 그것이 바람직한 것인가에 대한 판단을 포함"
+            }
+          ],
+          "paperIds": [
+            "ART003066398"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r3",
+          "label": "분석적 기준",
+          "max": 4,
+          "ok": "자료의 출처·맥락을 고려한 비교와 선택한 증거가 주장을 뒷받침하는 관계를 별도 요소로 평가한다. 특정 문구 재현만으로 판단하지 않는다.",
+          "checkpoints": [
+            {
+              "text": "서로 구별되는 두 요소",
+              "points": 2
+            },
+            {
+              "text": "주장과 근거 관계",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-92",
+              "quote": "① 평가란 실제 교육 성과가 무엇인지를 결정하고 그것을 예상 성과와 비교하는 과정을 포함할 뿐만 아니라, 제시된 변화의 본질과 그것이 바람직한 것인가에 대한 판단을 포함"
+            }
+          ],
+          "paperIds": [
+            "ART003066398"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        }
+      ],
+      "caution": "자체 제작 예상 연습문항. 아래 연구 해석은 제시된 조건이며 논문 저자나 평가원의 공식 문항·채점표가 아니다."
+    },
+    {
+      "id": "gyoyukron-research-03",
+      "title": "신분제 정의와 역사적 개념 이해",
+      "topic": "개념·신분제·맥락화",
+      "paperIds": [
+        "ART003066390"
+      ],
+      "sourcePages": [
+        "gyoyukron-textbook-page-78"
+      ],
+      "evidence": [
+        {
+          "page": "gyoyukron-textbook-page-78",
+          "quote": "역사를 사실에 토대를 둔 실체적(substantive) 개념과 역사학의 성격 및 연구방법을 이해하는 데 필요한 이차(second-order) 개념, 즉 메타히스토리(metahistory)에 대한 개념으로 구분할 수 있다."
+        }
+      ],
+      "linkedQuestionIds": [
+        "gyoyukron-ext-014-mc",
+        "gyoyukron-ext-014-short",
+        "gyoyukron-ext-015-mc",
+        "gyoyukron-ext-015-short"
+      ],
+      "examIds": [
+        "kice-exam-spread-7",
+        "kice-exam-spread-10"
+      ],
+      "priority": "review-first",
+      "priorityBasis": "교재 핵심 개념·논문 연구 문제·관련 기출 요구의 교차 연결. 정량적 출제 확률 아님.",
+      "prompt": "[논문을 참고해 재구성한 가상 수업 자료]\n학생은 신분제의 정의를 정확히 암기했지만 모든 전근대 사회의 신분제가 같은 방식으로 작동했다고 설명했다.\n\n① 이 학생의 이해에서 부족한 점과 ② 이를 진단할 비교 과제 한 개, ③ 개선 여부를 확인할 답안의 특징을 제시하시오.",
+      "modelAnswer": "공통 속성의 정의를 알고 있어도 제도가 특정 시대와 사회에서 작동하는 맥락과 변화까지 이해한 것은 아니다. 서로 다른 시대·지역의 법령이나 생활 기록을 제시하고 신분의 구분 기준과 권리·의무를 같은 범주에서 비교하게 한다. 자료에서 확인한 차이를 시대적 조건과 연결하고 공통점과 변화·지속을 구별하는 답안인지 평가한다. 암기한 사실 개수만으로 개선을 판정하지 않는다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "이해의 결손",
+          "max": 3,
+          "ok": "공통 속성의 정의를 알고 있어도 제도가 특정 시대와 사회에서 작동하는 맥락과 변화까지 이해한 것은 아니다.",
+          "checkpoints": [
+            {
+              "text": "정의 암기",
+              "points": 1
+            },
+            {
+              "text": "맥락 누락",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-78",
+              "quote": "역사를 사실에 토대를 둔 실체적(substantive) 개념과 역사학의 성격 및 연구방법을 이해하는 데 필요한 이차(second-order) 개념, 즉 메타히스토리(metahistory)에 대한 개념으로 구분할 수 있다."
+            }
+          ],
+          "paperIds": [
+            "ART003066390"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r2",
+          "label": "비교 과제",
+          "max": 3,
+          "ok": "서로 다른 시대·지역의 법령이나 생활 기록을 제시하고 신분의 구분 기준과 권리·의무를 같은 범주에서 비교하게 한다.",
+          "checkpoints": [
+            {
+              "text": "두 비교 대상",
+              "points": 1
+            },
+            {
+              "text": "공통 비교 범주",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-78",
+              "quote": "역사를 사실에 토대를 둔 실체적(substantive) 개념과 역사학의 성격 및 연구방법을 이해하는 데 필요한 이차(second-order) 개념, 즉 메타히스토리(metahistory)에 대한 개념으로 구분할 수 있다."
+            }
+          ],
+          "paperIds": [
+            "ART003066390"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r3",
+          "label": "진단 기준",
+          "max": 4,
+          "ok": "자료에서 확인한 차이를 시대적 조건과 연결하고 공통점과 변화·지속을 구별하는 답안인지 평가한다. 암기한 사실 개수만으로 개선을 판정하지 않는다.",
+          "checkpoints": [
+            {
+              "text": "자료 근거",
+              "points": 2
+            },
+            {
+              "text": "맥락 또는 변화 연결",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-78",
+              "quote": "역사를 사실에 토대를 둔 실체적(substantive) 개념과 역사학의 성격 및 연구방법을 이해하는 데 필요한 이차(second-order) 개념, 즉 메타히스토리(metahistory)에 대한 개념으로 구분할 수 있다."
+            }
+          ],
+          "paperIds": [
+            "ART003066390"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        }
+      ],
+      "caution": "자체 제작 예상 연습문항. 아래 연구 해석은 제시된 조건이며 논문 저자나 평가원의 공식 문항·채점표가 아니다."
+    },
+    {
+      "id": "gyoyukron-research-04",
+      "title": "기억공간을 역사 탐구 자료로 읽기",
+      "topic": "공공역사·기억·사료 비판",
+      "paperIds": [
+        "ART003019298",
+        "ART003365105"
+      ],
+      "sourcePages": [
+        "gyoyukron-textbook-page-104"
+      ],
+      "evidence": [
+        {
+          "page": "gyoyukron-textbook-page-104",
+          "quote": "ⓑ 공공역사는 대학, 연구소 등 제도권 안의 기관들뿐만 아니라 제도권 밖의 영역을 포함한 공간에서 역사전문가들과 대중들이 함께 역사 지식을 생성하고 소비하며 공유(소통)하는 것"
+        }
+      ],
+      "linkedQuestionIds": [
+        "gyoyukron-ext-068-mc",
+        "gyoyukron-ext-068-short",
+        "gyoyukron-ext-069-mc",
+        "gyoyukron-ext-069-short"
+      ],
+      "examIds": [
+        "kice-exam-spread-5"
+      ],
+      "priority": "review-first",
+      "priorityBasis": "교재 핵심 개념·논문 연구 문제·관련 기출 요구의 교차 연결. 정량적 출제 확률 아님.",
+      "prompt": "[논문을 참고해 재구성한 가상 수업 자료]\n두 전시는 같은 사건을 다루지만 한 전시는 국가 지도자의 결정을, 다른 전시는 주민의 경험을 중심으로 구성했다. 학생들의 관람 반응은 슬픔·의문·거리감 등으로 달랐다.\n\n① 전시를 과거 그 자체와 동일시할 수 없는 이유 ② 두 전시를 비교할 탐구 질문 ③ 학생 반응의 평가 원칙과 정서적 부담을 고려한 참여 방안을 설명하시오.",
+      "modelAnswer": "전시는 자료를 선택·배열한 역사 재현이며 제작 주체와 목적에 따라 강조와 생략이 달라진다. 예: 각 전시가 누구의 경험과 책임을 드러내거나 생략하며 그러한 구성은 어떤 자료로 뒷받침되는가? 특정 감정의 표현을 정답으로 강제하지 않는다. 전시의 근거와 구성에 대한 비판적 설명을 평가하고, 정서적 부담이 큰 학생에게 잠시 관람을 멈추거나 같은 학습 목표의 대체 자료·과제를 선택할 수 있게 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "재현의 성격",
+          "max": 3,
+          "ok": "전시는 자료를 선택·배열한 역사 재현이며 제작 주체와 목적에 따라 강조와 생략이 달라진다.",
+          "checkpoints": [
+            {
+              "text": "선택·배열",
+              "points": 1
+            },
+            {
+              "text": "관점",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-104",
+              "quote": "ⓑ 공공역사는 대학, 연구소 등 제도권 안의 기관들뿐만 아니라 제도권 밖의 영역을 포함한 공간에서 역사전문가들과 대중들이 함께 역사 지식을 생성하고 소비하며 공유(소통)하는 것"
+            }
+          ],
+          "paperIds": [
+            "ART003019298",
+            "ART003365105"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r2",
+          "label": "비교 질문",
+          "max": 3,
+          "ok": "예: 각 전시가 누구의 경험과 책임을 드러내거나 생략하며 그러한 구성은 어떤 자료로 뒷받침되는가?",
+          "checkpoints": [
+            {
+              "text": "행위자·책임·관점·강조와 생략 중 타당한 비교 초점",
+              "points": 1
+            },
+            {
+              "text": "근거 비교",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-104",
+              "quote": "ⓑ 공공역사는 대학, 연구소 등 제도권 안의 기관들뿐만 아니라 제도권 밖의 영역을 포함한 공간에서 역사전문가들과 대중들이 함께 역사 지식을 생성하고 소비하며 공유(소통)하는 것"
+            }
+          ],
+          "paperIds": [
+            "ART003019298",
+            "ART003365105"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r3",
+          "label": "평가·참여 원칙",
+          "max": 4,
+          "ok": "특정 감정의 표현을 정답으로 강제하지 않는다. 전시의 근거와 구성에 대한 비판적 설명을 평가하고, 정서적 부담이 큰 학생에게 잠시 관람을 멈추거나 같은 학습 목표의 대체 자료·과제를 선택할 수 있게 한다.",
+          "checkpoints": [
+            {
+              "text": "감정 강요 배제",
+              "points": 2
+            },
+            {
+              "text": "근거 있는 해석 평가",
+              "points": 1
+            },
+            {
+              "text": "휴식·대체 자료·과제 선택 등 구체적인 참여 배려",
+              "points": 1
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-104",
+              "quote": "ⓑ 공공역사는 대학, 연구소 등 제도권 안의 기관들뿐만 아니라 제도권 밖의 영역을 포함한 공간에서 역사전문가들과 대중들이 함께 역사 지식을 생성하고 소비하며 공유(소통)하는 것"
+            }
+          ],
+          "paperIds": [
+            "ART003019298",
+            "ART003365105"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        }
+      ],
+      "caution": "자체 제작 예상 연습문항. 아래 연구 해석은 제시된 조건이며 논문 저자나 평가원의 공식 문항·채점표가 아니다."
+    },
+    {
+      "id": "gyoyukron-research-05",
+      "title": "변화와 연속성을 묻는 연표",
+      "topic": "2차 개념·연표·변화",
+      "paperIds": [
+        "ART003019312",
+        "ART003066390"
+      ],
+      "sourcePages": [
+        "gyoyukron-textbook-page-12"
+      ],
+      "evidence": [
+        {
+          "page": "gyoyukron-textbook-page-12",
+          "quote": "• 역사적 사실을 일어난 순서에 따라 조직하는 것으로<br>• 역사를 시간의 변화에 따라 살피되 학습주제의 중요성 등을 고려하여 조직한 것으로 일종의 개론학습에 해당"
+        }
+      ],
+      "linkedQuestionIds": [
+        "gyoyukron-ext-021-mc",
+        "gyoyukron-ext-021-short",
+        "gyoyukron-ext-022-mc",
+        "gyoyukron-ext-022-short"
+      ],
+      "examIds": [
+        "kice-exam-spread-7"
+      ],
+      "priority": "review-first",
+      "priorityBasis": "교재 핵심 개념·논문 연구 문제·관련 기출 요구의 교차 연결. 정량적 출제 확률 아님.",
+      "prompt": "[논문을 참고해 재구성한 가상 수업 자료]\n학생은 제도 폐지 연도를 경계로 모든 사람의 생활이 즉시 완전히 바뀌었다고 설명한다. 교사는 같은 사건 전후 서로 다른 집단의 생활 자료를 제공한다.\n\n① 학생 설명의 문제 ② 단순 연대 암기를 넘는 질문 ③ 새 답안에서 확인할 시간 이해를 제시하시오.",
+      "modelAnswer": "제도 변화의 시점과 사회 구성원이 변화를 경험하는 시점·정도는 같지 않을 수 있으며 지속된 요소도 검토해야 한다. 예: 제도 변화 전후 두 집단의 생활에서 무엇이 지속되고 무엇이 언제 어떤 속도로 달라졌는지 자료를 비교하시오. 연대 순서를 바탕으로 변화의 범위·속도·방향과 연속성을 자료로 설명하며 모든 집단에 같은 변화를 가정하지 않는지 확인한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "단절 도식 비판",
+          "max": 3,
+          "ok": "제도 변화의 시점과 사회 구성원이 변화를 경험하는 시점·정도는 같지 않을 수 있으며 지속된 요소도 검토해야 한다.",
+          "checkpoints": [
+            {
+              "text": "제도와 생활 구분",
+              "points": 1
+            },
+            {
+              "text": "지속 가능성",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-12",
+              "quote": "• 역사적 사실을 일어난 순서에 따라 조직하는 것으로<br>• 역사를 시간의 변화에 따라 살피되 학습주제의 중요성 등을 고려하여 조직한 것으로 일종의 개론학습에 해당"
+            }
+          ],
+          "paperIds": [
+            "ART003019312",
+            "ART003066390"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r2",
+          "label": "변화 탐구 질문",
+          "max": 3,
+          "ok": "예: 제도 변화 전후 두 집단의 생활에서 무엇이 지속되고 무엇이 언제 어떤 속도로 달라졌는지 자료를 비교하시오.",
+          "checkpoints": [
+            {
+              "text": "전후 비교",
+              "points": 1
+            },
+            {
+              "text": "집단 차이 또는 속도",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-12",
+              "quote": "• 역사적 사실을 일어난 순서에 따라 조직하는 것으로<br>• 역사를 시간의 변화에 따라 살피되 학습주제의 중요성 등을 고려하여 조직한 것으로 일종의 개론학습에 해당"
+            }
+          ],
+          "paperIds": [
+            "ART003019312",
+            "ART003066390"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r3",
+          "label": "시간 이해",
+          "max": 4,
+          "ok": "연대 순서를 바탕으로 변화의 범위·속도·방향과 연속성을 자료로 설명하며 모든 집단에 같은 변화를 가정하지 않는지 확인한다.",
+          "checkpoints": [
+            {
+              "text": "연대에 기초",
+              "points": 2
+            },
+            {
+              "text": "변화와 연속 설명",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-12",
+              "quote": "• 역사적 사실을 일어난 순서에 따라 조직하는 것으로<br>• 역사를 시간의 변화에 따라 살피되 학습주제의 중요성 등을 고려하여 조직한 것으로 일종의 개론학습에 해당"
+            }
+          ],
+          "paperIds": [
+            "ART003019312",
+            "ART003066390"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        }
+      ],
+      "caution": "자체 제작 예상 연습문항. 아래 연구 해석은 제시된 조건이며 논문 저자나 평가원의 공식 문항·채점표가 아니다."
+    },
+    {
+      "id": "gyoyukron-research-06",
+      "title": "전쟁사 수업의 자료와 평화교육",
+      "topic": "평화·내용 선정·사료 다양성",
+      "paperIds": [
+        "ART003140886",
+        "ART003193678"
+      ],
+      "sourcePages": [
+        "gyoyukron-textbook-page-81"
+      ],
+      "evidence": [
+        {
+          "page": "gyoyukron-textbook-page-81",
+          "quote": "⑦ 다양성: 문헌자료 이외에 비문헌, 보조과학적 자료도 사료로 취급"
+        }
+      ],
+      "linkedQuestionIds": [
+        "gyoyukron-ext-027-mc",
+        "gyoyukron-ext-027-short",
+        "gyoyukron-ext-028-mc",
+        "gyoyukron-ext-028-short"
+      ],
+      "examIds": [
+        "kice-exam-spread-5"
+      ],
+      "priority": "review-first",
+      "priorityBasis": "교재 핵심 개념·논문 연구 문제·관련 기출 요구의 교차 연결. 정량적 출제 확률 아님.",
+      "prompt": "[논문을 참고해 재구성한 가상 수업 자료]\n수업안은 전쟁의 승패와 주요 전투만 다룬다. 교사는 민간인의 일기, 피해 지역 지도, 전후 기념시설의 설명문을 추가하려 한다.\n\n① 자료를 추가하는 교육적 이유 ② 세 자료를 연결하는 탐구 질문 ③ 평화교육의 평가에서 피해야 할 점과 대신 평가할 대상을 설명하시오.",
+      "modelAnswer": "군사 사건뿐 아니라 여러 행위자가 겪은 피해와 삶의 변화, 전후 기억을 살펴 전쟁과 평화의 의미를 다각도로 이해할 수 있다. 예: 전투 이후 민간인의 생활과 공간은 어떻게 달라졌으며 기념시설은 그 경험을 어떻게 기억하는지 세 자료를 비교하시오. 정해진 도덕적 구호나 감정의 재현만 채점해서는 안 된다. 사료의 성격과 한계를 고려해 전쟁의 영향·기억을 설명하는 근거와 논증을 평가한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "내용 확장",
+          "max": 3,
+          "ok": "군사 사건뿐 아니라 여러 행위자가 겪은 피해와 삶의 변화, 전후 기억을 살펴 전쟁과 평화의 의미를 다각도로 이해할 수 있다.",
+          "checkpoints": [
+            {
+              "text": "민간인 경험",
+              "points": 1
+            },
+            {
+              "text": "전후 기억",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-81",
+              "quote": "⑦ 다양성: 문헌자료 이외에 비문헌, 보조과학적 자료도 사료로 취급"
+            }
+          ],
+          "paperIds": [
+            "ART003140886",
+            "ART003193678"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r2",
+          "label": "자료 연결 질문",
+          "max": 3,
+          "ok": "예: 전투 이후 민간인의 생활과 공간은 어떻게 달라졌으며 기념시설은 그 경험을 어떻게 기억하는지 세 자료를 비교하시오.",
+          "checkpoints": [
+            {
+              "text": "서로 다른 자료 연결",
+              "points": 1
+            },
+            {
+              "text": "변화 또는 기억 비교",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-81",
+              "quote": "⑦ 다양성: 문헌자료 이외에 비문헌, 보조과학적 자료도 사료로 취급"
+            }
+          ],
+          "paperIds": [
+            "ART003140886",
+            "ART003193678"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        },
+        {
+          "id": "r3",
+          "label": "평가의 원칙",
+          "max": 4,
+          "ok": "정해진 도덕적 구호나 감정의 재현만 채점해서는 안 된다. 사료의 성격과 한계를 고려해 전쟁의 영향·기억을 설명하는 근거와 논증을 평가한다.",
+          "checkpoints": [
+            {
+              "text": "구호 강요 배제",
+              "points": 2
+            },
+            {
+              "text": "사료 근거와 논증",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "evidence": [
+            {
+              "page": "gyoyukron-textbook-page-81",
+              "quote": "⑦ 다양성: 문헌자료 이외에 비문헌, 보조과학적 자료도 사료로 취급"
+            }
+          ],
+          "paperIds": [
+            "ART003140886",
+            "ART003193678"
+          ],
+          "scoring": "명시된 체크포인트를 충족하면 그 점수를 합산한다. 같은 의미의 다른 표현을 인정하고 누락·모순은 관련 체크포인트 안에서만 반영한다."
+        }
+      ],
+      "caution": "자체 제작 예상 연습문항. 아래 연구 해석은 제시된 조건이며 논문 저자나 평가원의 공식 문항·채점표가 아니다."
+    }
+  ],
+  "bibliographyFile": "gyoyukron-bibliography.json",
+  "examinerInference": "이 목록은 연구 참고용이며 실제 또는 유력 출제위원 목록이 아니다."
+}

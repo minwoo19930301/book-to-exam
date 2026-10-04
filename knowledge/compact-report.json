@@ -1,0 +1,17 @@
+{
+  "topics": 49,
+  "topicsBySubject": {
+    "dongyangsa": 12,
+    "gyoyukron": 12,
+    "hand-memo": 1,
+    "hanguksa": 12,
+    "seoyangsa": 12
+  },
+  "selectedSourceCards": 251,
+  "rawSourceCards": 1167,
+  "rawTextCharacters": 2010264,
+  "compactTextCharacters": 30165,
+  "compactToRawPercent": 1.5,
+  "metric": "Unicode characters, not model tokens; excludes metadata. Editorial coverage is selective, not exhaustive.",
+  "selectionPolicy": "knowledge/selection-policy.md"
+}

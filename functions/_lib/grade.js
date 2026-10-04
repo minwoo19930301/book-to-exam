@@ -173,7 +173,7 @@ export async function gradeBody(body, env, { requireKey = true } = {}) {
   // Only the ID is trusted from a client, never its supplied rubric or source text.
   const context = prepareScore(body.essayId || body.essay?.id, body.answer);
   const raw = await callModel(provider, apiKey, scoreInstructions, JSON.stringify({
-    prompt: context.prompt, answer: context.answer, rubric: context.rubric, sources: context.sources,
+    prompt: context.prompt, answer: context.answer, rubric: context.rubric, sources: context.sources, gradingGuide: context.gradingGuide,
   }), env, model);
   return finalizeScore(context, extractJSON(raw));
 }

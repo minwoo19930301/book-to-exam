@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-03",
+  "scope": "중등 역사 임용 채점 보강을 위한 박문각 외 공식 학원 공개 1차 자료",
+  "sources": [
+    {
+      "id": "willbes-kimjongkwon-2024-history-explanation",
+      "publisher": "윌비스 임용",
+      "author": "김종권",
+      "title": "2024년 교원임용 1차 시험 해설",
+      "url": "https://ssam.willbes.net/lecture/download/?filename=%2Fpublic%2Fuploads%2Fwbs%2Flecture%2F2024%2F145301%2Funit_20240205114447_0.pdf&filename_ori=history2024.pdf",
+      "publishedAt": null,
+      "documentCreatedAt": "2023-11-27T12:53:51+09:00",
+      "dateBasis": "PDF CreationDate; 게시일은 미확인. URL 업로드 폴더 날짜와 시험 학년도를 게시일로 간주하지 않음",
+      "access": "공개 HTTP 다운로드 200, 로그인 없음; PDF 9면 텍스트 추출, 5·7쪽 렌더 육안 확인",
+      "classification": "academy-interpretation-not-official-mark-scheme",
+      "directlyRead": ["4쪽 A8 자료별 이유 항목", "5쪽 A12 자료 측면·학습자 특성·자료 비교 질문", "6쪽 B4 정치 참여의 이유와 반박 항목", "7쪽 B10 평가 방법·기준 답안"],
+      "shortQuote": "주어진 자료를 충실히 해석하는 문항",
+      "principles": [
+        {"principle": "자료별·요구별로 답안 요소를 구분한다", "locator": "4쪽 A8, 5쪽 A12", "application": "루브릭 조건 분리의 설계 참고", "inference": true},
+        {"principle": "제시 자료의 맥락에 부합하는 설명인지 확인한다", "locator": "5쪽 A12 해설", "application": "사료 분석 문항", "inference": false}
+      ],
+      "unverified": ["공식 정답 여부", "실제 임용 부분배점", "동의어 인정 범위", "모순 서술의 일반 감점 규칙"],
+      "automaticRubricAuthority": false
+    },
+    {
+      "id": "ssamplus-snu-2024-history-public-material",
+      "publisher": "KG에듀원 희소/쌤플러스",
+      "author": "전공역사 스누팀",
+      "title": "2024학년도 기출 올킬 적중자료_231130",
+      "url": "https://www.ssamplus.com/bbs/board/noticeView.asp?idx=21958&mode=V&page=1&sch_profseq=281",
+      "attachmentUrl": "https://pds.ssamplus.com/common/download.asp?file_path=BBS&file_name=%5B%BF%AA%BB%E7+%BD%BA%B4%A9%C6%C0%5D+2024%C7%D0%B3%E2%B5%B5+%B1%E2%C3%E2+%BF%C3%C5%B3+%C0%FB%C1%DF%C0%DA%B7%E1%5F231130%280%29%2Epdf",
+      "publishedAt": "2023-11-28",
+      "documentModifiedAt": "2023-11-30T17:50:04+09:00",
+      "dateBasis": "공식 게시글 등록일 및 첨부 PDF ModDate",
+      "access": "공개 첨부 200, 로그인 없음; PDF 18면 중 5·10·11면 전체 렌더 육안 확인. 이미지 본문은 텍스트 추출 결과로 대신하지 않음",
+      "classification": "academy-mock-explanation-not-official-mark-scheme",
+      "directlyRead": ["5쪽 회고록 기출과 학원 내러티브 수업 모의문항 비교", "10쪽 학원 B-11 모범답안의 명칭·설명별 배점", "11쪽 학원 B-3 모범답안 및 분석적·총괄적 채점 설명"],
+      "shortQuote": "핵심적인 정보의 활용 및 지식의 정확성",
+      "principles": [
+        {"principle": "요소별 기준을 사전에 정해 채점의 일관성을 높인다", "locator": "11쪽 B-3 해설", "application": "내부 분석적 루브릭 설계", "inference": false},
+        {"principle": "서술형에서 자료 분석·비교 요구를 단순 사실 확인과 구별한다", "locator": "11쪽 B-3 모범답안", "application": "문항 요구와 채점 요소의 정렬", "inference": false},
+        {"principle": "명칭과 설명을 분리해 배점할 수 있다", "locator": "10쪽 B-11 모범답안", "application": "해당 학원 모의문항의 0.5점·1점 배점 예시만 확인; 실제 임용 공통규칙으로 적용 불가", "inference": true}
+      ],
+      "unverified": ["홍보 적중률의 타당성", "실제 임용 부분배점", "공식 허용 답안 범위", "동의어·모순 처리의 공통 규칙"],
+      "automaticRubricAuthority": false
+    },
+    {
+      "id": "ssamplus-snu-2024-youtube-unread",
+      "publisher": "희소 공식 게시글에서 연결한 영상",
+      "url": "https://www.youtube.com/watch?v=YnFFDXWpKO0",
+      "officialLinkPage": "https://www.ssamplus.com/bbs/board/noticeView.asp?idx=21958&mode=V&page=1&sch_profseq=281",
+      "publishedAt": null,
+      "access": "영상 페이지와 공식 게시글의 연결만 확인. 자막·음성 미확인",
+      "classification": "discovery-only",
+      "principles": [],
+      "automaticRubricAuthority": false
+    },
+    {
+      "id": "hackers-otaejin-2025-history-access-notice",
+      "publisher": "해커스 임용",
+      "author": "오태진 선생님 게시판",
+      "title": "2025학년도 전공역사 기출해설 특강 안내",
+      "url": "https://teacher.hackers.com/board/?bid=tb_teacher_iis&m=bbs&r=teacher&uid=52429",
+      "publishedAt": "2024-11-19",
+      "access": "공식 안내 본문 확인. 답지 및 자료의 수강생 신청 제한 확인; 해설 본문 미확인",
+      "classification": "access-scope-only",
+      "principles": [],
+      "unverified": ["답안·부분점수·용어·모순 처리 규칙 모두 미확인"],
+      "automaticRubricAuthority": false
+    }
+  ]
+}

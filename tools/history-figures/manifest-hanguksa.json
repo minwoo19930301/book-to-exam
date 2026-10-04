@@ -1,0 +1,1752 @@
+{
+  "schemaVersion": 1,
+  "subject": "hanguksa",
+  "sourceCommit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+  "figures": [
+    {
+      "id": "hanguksa-textbook-page-307-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "만주와 한반도의 구석기 유적",
+      "alt": "만주와 한반도의 구석기 유적",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          722,
+          392,
+          163,
+          137
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "빙하기의 종결과 신석기 시대",
+      "alt": "빙하기의 종결과 신석기 시대",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          897,
+          436,
+          157,
+          94
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-3",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "찍개",
+      "alt": "찍개",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          705,
+          537,
+          94,
+          87
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-4",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "긁개",
+      "alt": "긁개",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          799,
+          537,
+          75,
+          98
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-5",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "슴베찌르개",
+      "alt": "슴베찌르개",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          873,
+          537,
+          71,
+          99
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-307-figure-6",
+      "noteIds": [
+        "hanguksa-textbook-page-307"
+      ],
+      "caption": "막집",
+      "alt": "막집",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_307_18s.jpg",
+        "rect": [
+          949,
+          535,
+          97,
+          100
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4153fdfe68577d4c9db98f68a3dbdfba8b4a8cbcca067ec5b762572ceeb322ae"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "연천 전곡리 주먹도끼",
+      "alt": "연천 전곡리 주먹도끼",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          554,
+          115,
+          62,
+          93
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "만주와 한반도의 신석기 유적",
+      "alt": "만주와 한반도의 신석기 유적",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          735,
+          175,
+          141,
+          219
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-3",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "움집 복원도",
+      "alt": "움집 복원도",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          891,
+          196,
+          165,
+          104
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-4",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "암사동 선사 유적지",
+      "alt": "암사동 선사 유적지",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          866,
+          303,
+          81,
+          91
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-5",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "양양 오산리 집터 유적",
+      "alt": "양양 오산리 집터 유적",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          945,
+          307,
+          117,
+          94
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-6",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "가락바퀴",
+      "alt": "가락바퀴",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          732,
+          400,
+          78,
+          85
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-7",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "조개 껍데기 가면",
+      "alt": "조개 껍데기 가면",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          818,
+          400,
+          80,
+          86
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-8",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "빗살무늬 토기",
+      "alt": "빗살무늬 토기",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          903,
+          400,
+          67,
+          89
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-9",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "갈돌과 갈판",
+      "alt": "갈돌과 갈판",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          969,
+          422,
+          85,
+          69
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-3-figure-10",
+      "noteIds": [
+        "hanguksa-textbook-page-3"
+      ],
+      "caption": "울주 대곡리 반구대 암각화",
+      "alt": "울주 대곡리 반구대 암각화",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_003_23s.jpg",
+        "rect": [
+          897,
+          539,
+          151,
+          78
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f8b23b37630b82e60afc9f0404f88342de62dbc4e8582f0e9599f1bcec2cc90e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "반달돌칼",
+      "alt": "반달돌칼",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          325,
+          456,
+          72,
+          41
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "비파형 동검",
+      "alt": "비파형 동검",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          324,
+          497,
+          73,
+          31
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-3",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "청동 거울",
+      "alt": "청동 거울",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          399,
+          461,
+          69,
+          74
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-4",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "팔주령",
+      "alt": "팔주령",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          469,
+          466,
+          67,
+          71
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-5",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "민무늬 토기",
+      "alt": "민무늬 토기",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          549,
+          469,
+          67,
+          79
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-6",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "송국리형 집자리",
+      "alt": "송국리형 집자리",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          325,
+          528,
+          70,
+          69
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-7",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "청동기 후기 화덕 흔적",
+      "alt": "청동기 후기 화덕 흔적",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          397,
+          532,
+          70,
+          69
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-8",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "북방식 고인돌",
+      "alt": "북방식 고인돌",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          466,
+          539,
+          73,
+          67
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-9",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "남방식 고인돌",
+      "alt": "남방식 고인돌",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          542,
+          548,
+          77,
+          63
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-10",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "동예의 철(凸)자형 집터",
+      "alt": "동예의 철(凸)자형 집터",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          739,
+          266,
+          164,
+          123
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-11",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "동예의 여(呂)자형 집터",
+      "alt": "동예의 여(呂)자형 집터",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          912,
+          272,
+          159,
+          125
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-12",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "마한의 토실",
+      "alt": "마한의 토실",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          732,
+          391,
+          166,
+          126
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-4-figure-13",
+      "noteIds": [
+        "hanguksa-textbook-page-4"
+      ],
+      "caption": "마한의 주구묘",
+      "alt": "마한의 주구묘",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_004_28s.jpg",
+        "rect": [
+          906,
+          397,
+          157,
+          126
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "8d1150310d956b5137b11f2cc63a8d5e51891f245e5f15d704df9ab576e26f16"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-6-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-6"
+      ],
+      "caption": "고조선의 중심지 변화",
+      "alt": "고조선의 중심지 변화",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_006_37s.jpg",
+        "rect": [
+          481,
+          305,
+          151,
+          169
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9c48f574dd7cb2646ba2c024951b8756c9d195cc880cb97eb50b4f6a50ac4616"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-6-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-6"
+      ],
+      "caption": "고조선의 발전 단계",
+      "alt": "고조선의 발전 단계",
+      "kind": "table",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_006_37s.jpg",
+        "rect": [
+          324,
+          195,
+          310,
+          100
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9c48f574dd7cb2646ba2c024951b8756c9d195cc880cb97eb50b4f6a50ac4616"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-7-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-7"
+      ],
+      "caption": "한4군",
+      "alt": "한4군",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_007_41s.jpg",
+        "rect": [
+          909,
+          299,
+          162,
+          195
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6a0723b5ff3c9ba8fb93c839d0bb4c0ebe066851b80c16a4ce27a109751ad9e0"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-21-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-21"
+      ],
+      "caption": "장수왕 시기 국제 정세",
+      "alt": "장수왕 시기 국제 정세",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_021_112s.jpg",
+        "rect": [
+          350,
+          253,
+          257,
+          166
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4b2a6eeb966b7bd3e269bd60df8ea539868a0bdbeee035a5a3c17152cf352877"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-25-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-25"
+      ],
+      "caption": "근초고왕 시기의 팽창",
+      "alt": "근초고왕 시기의 팽창",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_025_133s.jpg",
+        "rect": [
+          718,
+          306,
+          152,
+          211
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "3750eaaf966da8e90d794cf6fb67d7f33f2a67497a8e747117ec123772845547"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-25-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-25"
+      ],
+      "caption": "개로왕 시기 신라와의 관계 강화",
+      "alt": "개로왕 시기 신라와의 관계 강화",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_025_133s.jpg",
+        "rect": [
+          870,
+          308,
+          187,
+          210
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "3750eaaf966da8e90d794cf6fb67d7f33f2a67497a8e747117ec123772845547"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-28-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-28"
+      ],
+      "caption": "백제의 수도 변천",
+      "alt": "백제의 수도 변천",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_028_151s.jpg",
+        "rect": [
+          417,
+          94,
+          140,
+          154
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "bbfe9c27557f5a4eba7b52cd41a4a420db8b1fd93010f82319f409614188bf03"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-29-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-29"
+      ],
+      "caption": "신라 왕호의 변화",
+      "alt": "신라 왕호의 변화",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_029_156s.jpg",
+        "rect": [
+          334,
+          304,
+          317,
+          67
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "48c7a0280a4570bff3663db140cfd69af4ccf67a7f6f5b695203b72915d8057b"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-31-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-31"
+      ],
+      "caption": "6세기 신라의 영토 팽창",
+      "alt": "6세기 신라의 영토 팽창",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_031_168s.jpg",
+        "rect": [
+          903,
+          400,
+          157,
+          180
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "ce2ee7387b9747b288b62038dbd9fe3e8080e19157f60bf9e9cf94183b9b7761"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-40-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-40"
+      ],
+      "caption": "나·당 전쟁",
+      "alt": "나·당 전쟁",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_040_214s.jpg",
+        "rect": [
+          338,
+          374,
+          145,
+          228
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9f5b6dea0853c12602748c08ad522075592821c82a1c29057482b9b0b7d94f8b"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-40-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-40"
+      ],
+      "caption": "고구려·백제의 부흥 운동",
+      "alt": "고구려·백제의 부흥 운동",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_040_214s.jpg",
+        "rect": [
+          489,
+          376,
+          170,
+          232
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9f5b6dea0853c12602748c08ad522075592821c82a1c29057482b9b0b7d94f8b"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-41-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-41"
+      ],
+      "caption": "성산산성 목간에 나오는 물자 이동 흐름",
+      "alt": "성산산성 목간에 나오는 물자 이동 흐름",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_041_220s.jpg",
+        "rect": [
+          919,
+          256,
+          143,
+          233
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "a675aec045fd858eea1c47c65d4f28031e85a3e989afb1a1ed7f32f0eba17da2"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-42-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-42"
+      ],
+      "caption": "돌보습·반달 돌칼·쇠살포와 쇠삽날·쇠보습",
+      "alt": "돌보습·반달 돌칼·쇠살포와 쇠삽날·쇠보습",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_042_226s.jpg",
+        "rect": [
+          724,
+          111,
+          338,
+          96
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "02d8b4cc49daf23792fd6573c8331e3db959375ffde7aeb7b1f1ae53292ad539"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-46-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-46"
+      ],
+      "caption": "삼국 시대의 무덤: 굴식돌방무덤·벽돌무덤·돌무지덧널무덤",
+      "alt": "삼국 시대의 무덤: 굴식돌방무덤·벽돌무덤·돌무지덧널무덤",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_046_250s.jpg",
+        "rect": [
+          353,
+          181,
+          302,
+          101
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "0e23505570212924567ff3b88c422d81b724c7f8b07c3ac919cf80bb02e771a4"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-53-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-53"
+      ],
+      "caption": "신라 하대의 반란",
+      "alt": "신라 하대의 반란",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_053_296s.jpg",
+        "rect": [
+          925,
+          253,
+          127,
+          155
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4cacd5d7a942e1047c27882a75a0f9a21eecf28535a26d63e6179bfc38c6461e"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-61-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-61"
+      ],
+      "caption": "무인상",
+      "alt": "무인상",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_061_345s.jpg",
+        "rect": [
+          358,
+          239,
+          51,
+          83
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f5675d40606ad005d8cd936fe63db5fa9ec458c632c8b9f34b97f43cd13aa97c"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-61-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-61"
+      ],
+      "caption": "12지신상",
+      "alt": "12지신상",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_061_345s.jpg",
+        "rect": [
+          430,
+          230,
+          151,
+          96
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f5675d40606ad005d8cd936fe63db5fa9ec458c632c8b9f34b97f43cd13aa97c"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-61-figure-3",
+      "noteIds": [
+        "hanguksa-textbook-page-61"
+      ],
+      "caption": "발해의 건국과 주변 정세",
+      "alt": "발해의 건국과 주변 정세",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_061_345s.jpg",
+        "rect": [
+          860,
+          390,
+          177,
+          172
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "f5675d40606ad005d8cd936fe63db5fa9ec458c632c8b9f34b97f43cd13aa97c"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-64-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-64"
+      ],
+      "caption": "발해의 영역 팽창",
+      "alt": "발해의 영역 팽창",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_064_360s.jpg",
+        "rect": [
+          762,
+          92,
+          227,
+          229
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "4406a8ff3ec970fcccdf1a919bc698e4cbf0c20cf210d9864ec8ecf9118ec1dc"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-66-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-66"
+      ],
+      "caption": "발해의 대외 교류",
+      "alt": "발해의 대외 교류",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_066_371s.jpg",
+        "rect": [
+          464,
+          397,
+          167,
+          186
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d71186363495f703f8dc4f5a1c85fef307d56d20f8477d2c974e020c16fc111c"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-66-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-66"
+      ],
+      "caption": "발해 이불병좌상",
+      "alt": "발해 이불병좌상",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_066_371s.jpg",
+        "rect": [
+          719,
+          250,
+          95,
+          149
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d71186363495f703f8dc4f5a1c85fef307d56d20f8477d2c974e020c16fc111c"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-66-figure-3",
+      "noteIds": [
+        "hanguksa-textbook-page-66"
+      ],
+      "caption": "발해 영광탑",
+      "alt": "발해 영광탑",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_066_371s.jpg",
+        "rect": [
+          833,
+          250,
+          103,
+          150
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d71186363495f703f8dc4f5a1c85fef307d56d20f8477d2c974e020c16fc111c"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-66-figure-4",
+      "noteIds": [
+        "hanguksa-textbook-page-66"
+      ],
+      "caption": "발해 석등",
+      "alt": "발해 석등",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_066_371s.jpg",
+        "rect": [
+          946,
+          254,
+          59,
+          147
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d71186363495f703f8dc4f5a1c85fef307d56d20f8477d2c974e020c16fc111c"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-66-figure-5",
+      "noteIds": [
+        "hanguksa-textbook-page-66"
+      ],
+      "caption": "발해 상경성",
+      "alt": "발해 상경성",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_066_371s.jpg",
+        "rect": [
+          757,
+          410,
+          209,
+          165
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "d71186363495f703f8dc4f5a1c85fef307d56d20f8477d2c974e020c16fc111c"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-68-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-68"
+      ],
+      "caption": "중국의 만리장성 확대 시도",
+      "alt": "중국의 만리장성 확대 시도",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_068_380s.jpg",
+        "rect": [
+          735,
+          388,
+          246,
+          166
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "5beb94c3cabd1db369bbef155bbff50196290f7f05ec5e1abfa4ccdb87977722"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-73-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-73"
+      ],
+      "caption": "고려의 영토 확장",
+      "alt": "고려의 영토 확장",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_073_408s.jpg",
+        "rect": [
+          501,
+          121,
+          133,
+          195
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "eac820db77c2b32f16c42a68cc7316683eaba40d509b5a133da1f49f23fdb937"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-80-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-80"
+      ],
+      "caption": "고려의 영토 수복",
+      "alt": "고려의 영토 수복",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_080_455s.jpg",
+        "rect": [
+          495,
+          180,
+          117,
+          160
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "686368f2ff6c6f126147c3ae18ca96e08d7f59919ad1291649d4dba4add302a2"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-91-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-91"
+      ],
+      "caption": "몽골의 침입과 항쟁",
+      "alt": "몽골의 침입과 항쟁",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_091_511s.jpg",
+        "rect": [
+          485,
+          296,
+          138,
+          190
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "cea6d5c811cf1e822ab9c7daa05ec6dab5f4da8696189d17495f46e8556782ef"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-124-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-124"
+      ],
+      "caption": "북방 영토의 개척",
+      "alt": "북방 영토의 개척",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_124_694s.jpg",
+        "rect": [
+          475,
+          435,
+          151,
+          161
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "19983606d2b9a1d46a54fdc062c7ab12c380e0cd1c816462acddd452af2220c0"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-144-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-144"
+      ],
+      "caption": "정묘호란과 병자호란",
+      "alt": "정묘호란과 병자호란",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_144_808s.jpg",
+        "rect": [
+          485,
+          265,
+          139,
+          214
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "42c346a8703852a8864fc98cb4d728830b46d444ad6d56bd339eccf292fbff9b"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-177-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-177"
+      ],
+      "caption": "천하도",
+      "alt": "천하도",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_177_1003s.jpg",
+        "rect": [
+          288,
+          101,
+          122,
+          117
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9cf1b3bbf741eeab2943a5d47b0171000447a4a08e661099ba3c92e0c9cdd40d"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-177-figure-2",
+      "noteIds": [
+        "hanguksa-textbook-page-177"
+      ],
+      "caption": "김정호의 지구전후도",
+      "alt": "김정호의 지구전후도",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_177_1003s.jpg",
+        "rect": [
+          414,
+          94,
+          201,
+          127
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "9cf1b3bbf741eeab2943a5d47b0171000447a4a08e661099ba3c92e0c9cdd40d"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-188-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-188"
+      ],
+      "caption": "동학의 확산과 교조 신원 운동",
+      "alt": "동학의 확산과 교조 신원 운동",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_188_1063s.jpg",
+        "rect": [
+          839,
+          248,
+          153,
+          176
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "6ecf9776bb29466b07a382a75cbcdb3791ad7686b6d162dd354fb5f5e16e3827"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-227-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-227"
+      ],
+      "caption": "철도 건설",
+      "alt": "철도 건설",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_227_1255s.jpg",
+        "rect": [
+          868,
+          445,
+          121,
+          176
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "61fc6233d00118a37f8bc7d0a5ee8ebbfd9d17fda43543e647bd03a56d401126"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-textbook-page-228-figure-1",
+      "noteIds": [
+        "hanguksa-textbook-page-228"
+      ],
+      "caption": "토지 조사 사업 이후 일제의 토지 약탈",
+      "alt": "토지 조사 사업 이후 일제의 토지 약탈",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_textbook_pages/page_228_1261s.jpg",
+        "rect": [
+          849,
+          101,
+          153,
+          225
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "a5b3328140d3e1d65888e90b0ed53cd87d37a7cec89edb92ab2b6931efe7ae28"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-gichul-page-10-figure-1",
+      "noteIds": [
+        "hanguksa-gichul-page-10"
+      ],
+      "caption": "5세기 무렵 동아시아 정세",
+      "alt": "5세기 무렵 동아시아 정세",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_pages/page_010_123s.jpg",
+        "rect": [
+          620,
+          351,
+          302,
+          166
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "1480f99d838787c90607ce1c7f253a0d33c636925c2ea51c75bb8066f7fad9f2"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-gichul-page-16-figure-1",
+      "noteIds": [
+        "hanguksa-gichul-page-16"
+      ],
+      "caption": "(가) 삼국 시대 외국으로 파견된 사신",
+      "alt": "(가) 삼국 시대 외국으로 파견된 사신",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_pages/page_016_229s.jpg",
+        "rect": [
+          345,
+          122,
+          116,
+          183
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e9aedffba8e003d688d85a7511e42311b3da2c835628a4bd61f438fe2574f3af"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-gichul-page-16-figure-2",
+      "noteIds": [
+        "hanguksa-gichul-page-16"
+      ],
+      "caption": "(나) 삼국 시대 외국으로 파견된 사신",
+      "alt": "(나) 삼국 시대 외국으로 파견된 사신",
+      "kind": "photo",
+      "source": {
+        "imagePath": "hanguksa_pages/page_016_229s.jpg",
+        "rect": [
+          465,
+          124,
+          82,
+          180
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e9aedffba8e003d688d85a7511e42311b3da2c835628a4bd61f438fe2574f3af"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-gichul-page-16-figure-3",
+      "noteIds": [
+        "hanguksa-gichul-page-16"
+      ],
+      "caption": "백제·고구려 부흥 운동",
+      "alt": "백제·고구려 부흥 운동",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_pages/page_016_229s.jpg",
+        "rect": [
+          627,
+          316,
+          178,
+          231
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e9aedffba8e003d688d85a7511e42311b3da2c835628a4bd61f438fe2574f3af"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-gichul-page-16-figure-4",
+      "noteIds": [
+        "hanguksa-gichul-page-16"
+      ],
+      "caption": "나·당 전쟁",
+      "alt": "나·당 전쟁",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_pages/page_016_229s.jpg",
+        "rect": [
+          811,
+          329,
+          178,
+          227
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e9aedffba8e003d688d85a7511e42311b3da2c835628a4bd61f438fe2574f3af"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-gichul-page-41-figure-1",
+      "noteIds": [
+        "hanguksa-gichul-page-41"
+      ],
+      "caption": "문과 급제자·당상관·비변사 당상의 성관별 비중",
+      "alt": "문과 급제자·당상관·비변사 당상의 성관별 비중",
+      "kind": "diagram",
+      "source": {
+        "imagePath": "hanguksa_pages/page_041_762s.jpg",
+        "rect": [
+          299,
+          125,
+          265,
+          150
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "e7085d64a8b8791042411acdbdb8fd604030274117ed786cedc020049443c9f8"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "hanguksa-gichul-page-60-figure-1",
+      "noteIds": [
+        "hanguksa-gichul-page-60"
+      ],
+      "caption": "기출 문항의 거점 지도",
+      "alt": "기출 문항의 거점 지도",
+      "kind": "map",
+      "source": {
+        "imagePath": "hanguksa_pages/page_060_1125s.jpg",
+        "rect": [
+          398,
+          119,
+          272,
+          219
+        ],
+        "imageSize": [
+          1280,
+          720
+        ],
+        "sha256": "357352c5ff7dcc23b90fe4fd31ee4469150926b0904caa4044e31b41fa240273"
+      },
+      "reviewStatus": "visually-verified"
+    }
+  ],
+  "reviewedNotes": [
+    "hanguksa-textbook-page-307",
+    "hanguksa-textbook-page-3",
+    "hanguksa-textbook-page-4",
+    "hanguksa-textbook-page-6",
+    "hanguksa-textbook-page-7",
+    "hanguksa-textbook-page-21",
+    "hanguksa-textbook-page-25",
+    "hanguksa-textbook-page-28",
+    "hanguksa-textbook-page-29",
+    "hanguksa-textbook-page-31",
+    "hanguksa-textbook-page-40",
+    "hanguksa-textbook-page-41",
+    "hanguksa-textbook-page-42",
+    "hanguksa-textbook-page-46",
+    "hanguksa-textbook-page-53",
+    "hanguksa-textbook-page-61",
+    "hanguksa-textbook-page-64",
+    "hanguksa-textbook-page-66",
+    "hanguksa-textbook-page-68",
+    "hanguksa-textbook-page-73",
+    "hanguksa-textbook-page-80",
+    "hanguksa-textbook-page-91",
+    "hanguksa-textbook-page-124",
+    "hanguksa-textbook-page-144",
+    "hanguksa-textbook-page-177",
+    "hanguksa-textbook-page-188",
+    "hanguksa-textbook-page-227",
+    "hanguksa-textbook-page-228",
+    "hanguksa-gichul-page-10",
+    "hanguksa-gichul-page-16",
+    "hanguksa-gichul-page-41",
+    "hanguksa-gichul-page-43",
+    "hanguksa-gichul-page-60"
+  ],
+  "unresolved": [
+    {
+      "noteId": "hanguksa-gichul-page-43",
+      "reason": "전사에는 강경 포구 지도 설명이 있으나 연결된 192–193쪽 사진에는 해당 지도 그림이 보이지 않음. 추정 그림을 붙이지 않음."
+    }
+  ]
+}

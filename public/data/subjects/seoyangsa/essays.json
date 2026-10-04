@@ -1,0 +1,200 @@
+[
+  {
+    "id": "seoyangsa-essay-athens-reform",
+    "title": "솔론과 클레이스테네스의 개혁 비교",
+    "prompt": "솔론의 개혁과 클레이스테네스의 개혁을 비교하시오. 솔론의 부채 문제 해결과 참정권 기준 변화, 클레이스테네스의 행정구역 개편 원리와 정치적 의미를 구분하여 서술하시오.",
+    "page": "seoyangsa-textbook-page-295"
+  },
+  {
+    "id": "seoyangsa-essay-bill-parliament",
+    "title": "권리장전과 의회의 우위",
+    "prompt": "1689년 권리장전이 국왕의 권한을 제한한 방식과 의회의 권리를 보장한 방식을 설명하시오. 법 집행·과세, 선거·토론의 자유, 헌정 질서의 변화라는 세 측면을 포함하시오.",
+    "page": "seoyangsa-textbook-page-163"
+  },
+  {
+    "id": "seoyangsa-essay-vienna-order",
+    "title": "빈 체제의 질서 유지 원리",
+    "prompt": "빈 회의가 유럽의 질서를 재편한 원리를 설명하시오. 정통주의, 세력균형, 이를 지키기 위한 4국동맹의 역할을 각각 서술하시오.",
+    "page": "seoyangsa-textbook-page-183"
+  },
+  {
+    "id": "seoyangsa-ext-ancient-271",
+    "title": "이집트와 메소포타미아의 종교 자료 읽기",
+    "prompt": "이집트의 오시리스·사자의 서와 메소포타미아의 길가메시 서사시를 비교하시오. ① 각 자료의 죽음·내세에 대한 강조점을 각각 쓰고 ② 이 대비를 문명 전체 주민의 동일한 믿음으로 일반화할 때 생기는 한계를 설명하시오.",
+    "page": "seoyangsa-textbook-page-313"
+  },
+  {
+    "id": "seoyangsa-ext-ancient-272",
+    "title": "아테네 개혁의 단계와 한계",
+    "prompt": "솔론과 클레이스테네스의 개혁을 ① 시민 구분의 기준 ② 귀족 권력 약화의 수단 ③ 민주화의 성과와 한계로 나누어 비교하시오.",
+    "page": "seoyangsa-textbook-page-295"
+  },
+  {
+    "id": "seoyangsa-ext-ancient-273",
+    "title": "알렉산드로스 이후의 세계",
+    "prompt": "알렉산드로스의 정복을 ① 정복지 통치·문화 전파 수단 ② 사후 왕국 분열 ③ 헬레니즘 문화 확산과 사회적 한계로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-267"
+  },
+  {
+    "id": "seoyangsa-ext-rome-274",
+    "title": "로마의 팽창과 공화정 위기",
+    "prompt": "로마의 정복 확대가 ① 토지·노동 구조 ② 시민군의 기반 ③ 군사 지도자와 병사의 관계를 통해 공화정의 위기와 연결된 과정을 설명하시오.",
+    "page": "seoyangsa-textbook-page-274"
+  },
+  {
+    "id": "seoyangsa-ext-rome-275",
+    "title": "초기 제정과 후기 제국의 통치",
+    "prompt": "① 아우구스투스의 공화정적 형식과 실권 집중 ② 디오클레티아누스의 통치·계승 문제 대응 ③ 두 황제의 통치 목표의 공통점과 제도상의 차이를 설명하시오.",
+    "page": "seoyangsa-textbook-page-270"
+  },
+  {
+    "id": "seoyangsa-ext-rome-276",
+    "title": "비잔티움의 법과 국방",
+    "prompt": "비잔티움의 국가 운영을 ① 유스티니아누스의 법 편찬 ② 군관구제의 군정·민정 관계 ③ 둔전병제의 토지·군역 관계로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-64"
+  },
+  {
+    "id": "seoyangsa-ext-medieval-277",
+    "title": "봉건 주종 관계와 장원 지배",
+    "prompt": "중세 서유럽의 봉건제와 장원제를 ① 주군·가신의 상호 의무 ② 영주·농민의 경제적 관계 ③ 불입권과 지방 분권의 관계로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-68"
+  },
+  {
+    "id": "seoyangsa-ext-medieval-278",
+    "title": "교회 개혁과 서임권 분쟁",
+    "prompt": "클뤼니 개혁부터 보름스 협약까지 ① 비판한 교회의 문제 ② 성직 임명을 둘러싼 교황·황제의 이해 ③ 협약의 타협 내용을 설명하시오.",
+    "page": "seoyangsa-textbook-page-277"
+  },
+  {
+    "id": "seoyangsa-ext-medieval-279",
+    "title": "중세 말의 농업 경로 비교",
+    "prompt": "중세 말 이후 ① 인구 감소와 노동 관계의 변화 ② 서유럽의 지대 수취 경향 ③ 동유럽의 영주 직영·부역 강화가 보이는 지역적 차이를 설명하시오.",
+    "page": "seoyangsa-textbook-page-106"
+  },
+  {
+    "id": "seoyangsa-ext-early-modern-280",
+    "title": "인문주의와 교회 비판의 여러 경로",
+    "prompt": "발라·에라스무스·루터를 ① 비판 대상과 방법 ② 성서 원전 연구의 의미 ③ 교회 비판을 모두 동일한 종교개혁 노선으로 볼 수 없는 이유로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-118"
+  },
+  {
+    "id": "seoyangsa-ext-early-modern-281",
+    "title": "대서양 팽창의 경제와 강제",
+    "prompt": "신항로 개척 이후 세계의 연결을 ① 아메리카 귀금속 ② 식민지 노동·인구 이동 ③ 유럽 내부의 물가·상업 변화로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-125"
+  },
+  {
+    "id": "seoyangsa-ext-early-modern-282",
+    "title": "절대왕정의 안팎",
+    "prompt": "절대왕정의 ① 관료제·상비군 ② 중상주의의 재정적 역할 ③ 30년 전쟁에서 프랑스의 선택이 보여 주는 국가 이익을 연결하여 설명하시오.",
+    "page": "seoyangsa-textbook-page-136"
+  },
+  {
+    "id": "seoyangsa-ext-revolutions-283",
+    "title": "입헌 질서의 서로 다른 문서",
+    "prompt": "영국 권리장전과 미국 권리장전을 ① 탄생한 정치적 맥락 ② 권력 제한의 대상과 수단 ③ 두 문서를 같은 역사적 사건으로 취급하지 말아야 하는 이유에 따라 비교하시오.",
+    "page": "seoyangsa-textbook-page-163"
+  },
+  {
+    "id": "seoyangsa-ext-revolutions-284",
+    "title": "프랑스 혁명의 권리와 배제",
+    "prompt": "프랑스 혁명의 ① 권리선언의 보편적 원칙 ② 여성과 재산에 따른 정치 참여의 한계 ③ 1793년 헌법의 조문과 실제 운영의 차이를 설명하시오.",
+    "page": "seoyangsa-textbook-page-171"
+  },
+  {
+    "id": "seoyangsa-ext-revolutions-285",
+    "title": "1830년과 1848년 프랑스 혁명",
+    "prompt": "두 혁명을 ① 1830년의 정체·선거권 결과 ② 1848년의 공화정·노동권 요구 ③ 국립 작업장 폐쇄가 드러낸 혁명 내부 분열로 나누어 비교하시오.",
+    "page": "seoyangsa-textbook-page-187"
+  },
+  {
+    "id": "seoyangsa-ext-nation-industry-286",
+    "title": "이탈리아와 독일의 통일 경로",
+    "prompt": "19세기 이탈리아와 독일 통일을 ① 민족운동의 여러 주체 ② 사르데냐·프로이센 국가의 역할 ③ 민족주의가 단일한 정치 이념을 뜻하지 않는 이유로 나누어 비교하시오.",
+    "page": "seoyangsa-textbook-page-200"
+  },
+  {
+    "id": "seoyangsa-ext-nation-industry-287",
+    "title": "산업사회에 대한 세 가지 대응",
+    "prompt": "산업사회의 문제를 ① 초기 사회주의의 공동체 구상 ② 차티스트의 정치 개혁 요구 ③ 점진적 노동조합 활동과 대비하여 설명하시오.",
+    "page": "seoyangsa-textbook-page-193"
+  },
+  {
+    "id": "seoyangsa-ext-nation-industry-288",
+    "title": "제국주의의 설명과 식민지 현실",
+    "prompt": "19세기 말 제국주의를 ① 홉슨의 경제적 설명 ② 레닌의 경제적 설명 ③ 콩고의 자원 수탈·강제 노동과 경제적 동인을 설명하는 이론의 관계로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-216"
+  },
+  {
+    "id": "seoyangsa-ext-war-revolution-289",
+    "title": "제1차 세계대전의 확대",
+    "prompt": "제1차 세계대전을 ① 개전의 직접 계기와 구조적 배경 ② 단기전 계획의 좌절 ③ 미국 참전 요인으로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-283"
+  },
+  {
+    "id": "seoyangsa-ext-war-revolution-290",
+    "title": "러시아 혁명과 경제 정책",
+    "prompt": "러시아 혁명 이후를 ① 임시정부와 소비에트의 긴장 ② 전시 공산주의의 운영 ③ NEP의 전환과 한계로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-224"
+  },
+  {
+    "id": "seoyangsa-ext-war-revolution-291",
+    "title": "전후 평화 구상의 원칙과 제약",
+    "prompt": "제1차 세계대전 후 질서를 ① 윌슨의 평화 원칙 ② 전승국의 강화 조건·위임통치 ③ 국제연맹의 집행 한계로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-229"
+  },
+  {
+    "id": "seoyangsa-ext-interwar-292",
+    "title": "뉴딜을 기능으로 분류하기",
+    "prompt": "뉴딜의 정책을 ① 긴급은행법의 은행 정상화 ② AAA와 TVA의 농업·지역 회복 ③ 와그너법과 사회보장법의 제도 개혁이라는 기능으로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-234"
+  },
+  {
+    "id": "seoyangsa-ext-interwar-293",
+    "title": "나치 권력의 성장과 운영",
+    "prompt": "나치 체제를 ① 대공황 속 정치적 성장 ② 독재의 제도화와 반대 세력 억압 ③ 사적 기업과 국가 경제 동원의 관계로 나누어 설명하시오.",
+    "page": "seoyangsa-gichul-page-26"
+  },
+  {
+    "id": "seoyangsa-ext-interwar-294",
+    "title": "유화정책과 전쟁 확대",
+    "prompt": "1930년대 말 유럽을 ① 오스트리아 병합과 주데텐 문제의 구별 ② 뮌헨 회담의 유화정책 ③ 독소 불가침조약과 뒤이은 침공의 관계로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-238"
+  },
+  {
+    "id": "seoyangsa-ext-coldwar-295",
+    "title": "초기 냉전의 여러 수단",
+    "prompt": "냉전 초기 미소 대립을 ① 트루먼 독트린과 마셜 계획의 수단 차이 ② 소련권의 조직적 대응 ③ 베를린 봉쇄와 군사 동맹으로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-245"
+  },
+  {
+    "id": "seoyangsa-ext-coldwar-296",
+    "title": "탈식민지화와 비동맹",
+    "prompt": "전후 신생 국가들의 국제적 위치를 ① 반식민주의 ② 반둥 회의와 비동맹의 자율성 추구 ③ 양극 대립에 대한 도전의 의미와 한계로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-252"
+  },
+  {
+    "id": "seoyangsa-ext-coldwar-297",
+    "title": "긴장 완화와 사회주의권 내부 갈등",
+    "prompt": "1960~1970년대 냉전을 ① 닉슨 독트린의 부담 조정 ② 전략무기 제한과 헬싱키 합의 ③ 프라하의 봄 진압이 보여 주는 긴장 완화의 한계로 나누어 설명하시오.",
+    "page": "seoyangsa-textbook-page-250"
+  },
+  {
+    "id": "seoyangsa-ext-postwar-change-298",
+    "title": "유럽 통합의 단계",
+    "prompt": "전후 유럽 통합을 ① 석탄·철강 공동 관리 ② EEC 공동시장 ③ 경제 협력의 확대와 즉각적인 단일국가 수립을 구분해야 하는 이유로 설명하시오.",
+    "page": "seoyangsa-textbook-page-253"
+  },
+  {
+    "id": "seoyangsa-ext-postwar-change-299",
+    "title": "전후 경제 질서와 1970년대 위기",
+    "prompt": "전후 서구 경제를 ① IMF·IBRD·GATT의 기능 ② 금태환 정지와 석유 파동 ③ 신보수·신자유주의 정책의 대응 방향으로 설명하시오.",
+    "page": "seoyangsa-textbook-page-262"
+  },
+  {
+    "id": "seoyangsa-ext-postwar-change-300",
+    "title": "소련 개혁과 유럽 질서의 전환",
+    "prompt": "1980년대 말~1991년의 변화를 ① 글라스노스트와 페레스트로이카의 구별 ② 동유럽 개혁과 독일 통일 ③ 소련 해체까지의 시간 순서로 설명하시오.",
+    "page": "seoyangsa-textbook-page-263"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "hand-memo",
+    "title": "손글씨 메모",
+    "description": "손글씨 메모와 문제로 복습합니다.",
+    "dataPath": "/data",
+    "counts": {
+      "notes": 75,
+      "concepts": 49,
+      "questions": 98,
+      "blanks": 38,
+      "essays": 6,
+      "knowledge": 1
+    },
+    "sourceStatus": "existing-app-transcription-unverified"
+  },
+  {
+    "id": "seoyangsa",
+    "title": "서양사",
+    "description": "서양사 교재와 그림을 읽고 근거가 있는 문제로 연습합니다.",
+    "dataPath": "/data/subjects/seoyangsa",
+    "counts": {
+      "notes": 325,
+      "concepts": 9,
+      "questions": 218,
+      "blanks": 79,
+      "essays": 33,
+      "knowledge": 12
+    },
+    "sourceStatus": "imported-unverified"
+  },
+  {
+    "id": "hanguksa",
+    "title": "한국사",
+    "description": "한국사 교재와 그림을 읽고 근거가 있는 문제로 연습합니다.",
+    "dataPath": "/data/subjects/hanguksa",
+    "counts": {
+      "notes": 404,
+      "concepts": 8,
+      "questions": 236,
+      "blanks": 58,
+      "essays": 33,
+      "knowledge": 12
+    },
+    "sourceStatus": "imported-unverified"
+  },
+  {
+    "id": "dongyangsa",
+    "title": "동양사",
+    "description": "동양사 교재와 그림을 읽고 근거가 있는 문제로 연습합니다.",
+    "dataPath": "/data/subjects/dongyangsa",
+    "counts": {
+      "notes": 206,
+      "concepts": 8,
+      "questions": 216,
+      "blanks": 78,
+      "essays": 33,
+      "knowledge": 12
+    },
+    "sourceStatus": "imported-unverified"
+  },
+  {
+    "id": "gyoyukron",
+    "title": "역사교육론",
+    "description": "역사교육론 교재와 그림을 읽고 근거가 있는 문제로 연습합니다.",
+    "dataPath": "/data/subjects/gyoyukron",
+    "counts": {
+      "notes": 157,
+      "concepts": 8,
+      "questions": 216,
+      "blanks": 78,
+      "essays": 33,
+      "knowledge": 12
+    },
+    "sourceStatus": "imported-unverified"
+  }
+]

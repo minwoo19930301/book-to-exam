@@ -14,6 +14,10 @@ export function scoreLocal(q, value) {
     const groups = q.keywordGroups || [];
     good = Boolean(v) && groups.length > 0 && groups.every(group => group.some(word => v.includes(exact(word))))
       && !(q.rejectPatterns || []).some(pattern => new RegExp(pattern, "u").test(v));
+  } else if (q.match === "aliases") {
+    // Only explicitly curated new banks opt in; legacy `accept` stays ignored.
+    const allowed = [q.answer, ...(Array.isArray(q.acceptedAnswers) ? q.acceptedAnswers : [])];
+    good = Boolean(exact(value)) && allowed.some(answer => exact(value) === exact(answer));
   } else {
     good = Boolean(exact(value)) && exact(value) === exact(q.answer);
   }

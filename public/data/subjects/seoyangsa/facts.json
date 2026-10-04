@@ -1,0 +1,199 @@
+[
+  {
+    "id": "seoyangsa-solon",
+    "term": "솔론의 개혁",
+    "def": "아테네에서 기존 부채를 말소하고 부채노예제를 폐지하며 재산을 참정권의 기준으로 삼은 개혁",
+    "page": "seoyangsa-textbook-page-295",
+    "title": "드라콘 법전 / 솔론 개혁의 배경 / 솔론 개혁 표 / 플루타르코스",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-295",
+        "quote": "기존 부채의 말소, 세이스악테이아 seisachtheia : 부채노예제 폐지"
+      },
+      {
+        "page": "seoyangsa-textbook-page-295",
+        "quote": "재산(연간 수확량)을 기준으로 시민을 4등급으로 구분하고, 참정권·병역의 기준을 출생에서 재산으로 바꿈"
+      }
+    ]
+  },
+  {
+    "id": "seoyangsa-cleisthenes",
+    "term": "클레이스테네스의 개혁",
+    "def": "아테네에서 혈연·지연적 기반을 약화시키고 10부족과 500인회로 시민의 정치 참여를 넓힌 개혁",
+    "page": "seoyangsa-textbook-page-28",
+    "title": "클레이스테네스의 개혁 / 500인회 / 민회 / 도편추방제",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-28",
+        "quote": "혈연적·지연적 배경을 배제하고, 거주지 중심으로 재편하여 민주적 행정제도 마련"
+      },
+      {
+        "page": "seoyangsa-textbook-page-28",
+        "quote": "10개의 부족(phylai) 조직"
+      },
+      {
+        "page": "seoyangsa-textbook-page-28",
+        "quote": "500인회(boule) 설치"
+      },
+      {
+        "page": "seoyangsa-textbook-page-28",
+        "quote": "귀족의 전통적인 세력 기반을 해체"
+      }
+    ]
+  },
+  {
+    "id": "seoyangsa-worms",
+    "term": "보름스 협약",
+    "def": "1122년 교황과 황제가 성직자의 종교적 권위와 세속적 봉토 수여를 구별하여 서임권 문제를 타협한 협약",
+    "page": "seoyangsa-textbook-page-76",
+    "title": "카노사의 굴욕(1077) / 카노사의 굴욕 이후 / 서임권 문제의 해결",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-76",
+        "quote": "황제가 주교를 임명하는 이전까지의 관행을 포기, 교황은 그 보답으로 황제가 서임식에 참여하고 영지를 수여하는 것 인정"
+      },
+      {
+        "page": "seoyangsa-textbook-page-76",
+        "quote": "보름스 협약(Concordat of Worms, 1122)"
+      },
+      {
+        "page": "seoyangsa-textbook-page-76",
+        "quote": "종교적 권위를 상징하는 반지나 지팡이는 수여될 수 없게 됨"
+      }
+    ]
+  },
+  {
+    "id": "seoyangsa-westphalia",
+    "term": "베스트팔렌 조약",
+    "def": "1648년 30년 전쟁을 마무리하면서 칼뱅파의 동등한 권리와 제후국의 주권을 인정한 강화 조약",
+    "page": "seoyangsa-textbook-page-142",
+    "title": "30년 전쟁의 전개 / 베스트팔렌 조약과 전쟁의 성격",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-142",
+        "quote": "칼뱅파가 루터파 및 가톨릭과 동등한 권리를 획득."
+      },
+      {
+        "page": "seoyangsa-textbook-page-142",
+        "quote": "베스트팔렌 조약 체결(1648)"
+      },
+      {
+        "page": "seoyangsa-textbook-page-142",
+        "quote": "제국을 구성하고 있던 제후국가에 완전한 주권이 폭넓게 정식으로 인정"
+      }
+    ]
+  },
+  {
+    "id": "seoyangsa-bill-rights",
+    "term": "권리장전",
+    "def": "1689년 영국에서 국왕의 권한을 제한하고 의회의 입법권·과세권과 자유로운 선거·토론을 확인한 문서",
+    "page": "seoyangsa-textbook-page-163",
+    "title": "심사령 / 인신보호령 / 제임스 2세 / 명예혁명 / 권리장전",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-163",
+        "quote": "중세 이래 영국의 헌정적 전통을 종합하고 확인한 것이지만, 실제로는 왕권을 제약하고 의회의 우위를 확인한 것"
+      },
+      {
+        "page": "seoyangsa-textbook-page-163",
+        "quote": "『권리장전』 승인(1689)"
+      },
+      {
+        "page": "seoyangsa-textbook-page-163",
+        "quote": "의회 승인 없이 법의 제정·효력 정지·과세 불가"
+      },
+      {
+        "page": "seoyangsa-textbook-page-163",
+        "quote": "자유로운 의원 선거와 의회 내에서의 자유로운 토론"
+      }
+    ]
+  },
+  {
+    "id": "seoyangsa-tennis-court",
+    "term": "테니스코트의 서약",
+    "def": "1789년 프랑스 혁명 초기에 새로운 헌법이 제정될 때까지 해산하지 않겠다고 한 국민의회의 서약",
+    "page": "seoyangsa-textbook-page-169",
+    "title": "귀족의 반항 / 고등법원 / 삼부회 소집 / 부르주아 혁명 연표 1789~1792",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-169",
+        "quote": "테니스코트의 서약 : 새로운 헌법이 제정될 때까지 해산하지 않겠다"
+      },
+      {
+        "page": "seoyangsa-textbook-page-169",
+        "quote": "1789. 6. 20. 테니스코트의 서약"
+      },
+      {
+        "page": "seoyangsa-textbook-page-169",
+        "quote": "제3신분 의원들은 ‘국민의회(제헌의회)’를 자칭"
+      }
+    ]
+  },
+  {
+    "id": "seoyangsa-vienna",
+    "term": "빈 회의",
+    "def": "1814~1815년 정통주의·세력균형·현상유지를 원칙으로 구질서의 회복과 유지를 추구한 국제회의",
+    "page": "seoyangsa-textbook-page-183",
+    "title": "자유주의 / 빈 회의 / 정통주의·세력균형 / 신성동맹·4국동맹",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-183",
+        "quote": "원칙 : 정통주의(정치체제), 세력균형, 현상유지"
+      },
+      {
+        "page": "seoyangsa-textbook-page-183",
+        "quote": "빈 회의(1814~1815)"
+      },
+      {
+        "page": "seoyangsa-textbook-page-183",
+        "quote": "구질서의 회복과 유지"
+      }
+    ]
+  },
+  {
+    "id": "seoyangsa-nep",
+    "term": "신경제정책",
+    "def": "레닌이 전시공산주의의 위기 이후 소규모 상업·농업에서 시장 요소를 허용한 정책",
+    "page": "seoyangsa-textbook-page-132",
+    "title": "전시공산주의의 농업·상공업 / 스탈린의 집권과 1국 사회주의",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-132",
+        "quote": "레닌은 신경제정책(NEP)으로 전환하여 소규모 상업·농업의 시장 요소를 허용"
+      },
+      {
+        "page": "seoyangsa-textbook-page-132",
+        "quote": "전시공산주의의 결과"
+      },
+      {
+        "page": "seoyangsa-textbook-page-132",
+        "quote": "내전과 식량 공출로 농업 생산 격감"
+      }
+    ]
+  },
+  {
+    "id": "seoyangsa-new-deal",
+    "term": "뉴딜",
+    "def": "대공황에 대응하여 루스벨트 정부가 구제·회복·개혁을 내세우고 경제에 적극 개입한 정책",
+    "page": "seoyangsa-textbook-page-234",
+    "title": "대공황 / 뉴딜 / 영국 거국내각 / 프랑스 인민전선",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-234",
+        "quote": "고전적 자유방임에서 수정 자본주의로. 복지국가 추세, 부의 분배에 국가 개입"
+      },
+      {
+        "page": "seoyangsa-textbook-page-234",
+        "quote": "구제·회복·개혁(3R)"
+      },
+      {
+        "page": "seoyangsa-textbook-page-234",
+        "quote": "실업 구제와 지역 개발"
+      },
+      {
+        "page": "seoyangsa-textbook-page-234",
+        "quote": "사회보장법\n노령연금·실업수당"
+      }
+    ]
+  }
+]

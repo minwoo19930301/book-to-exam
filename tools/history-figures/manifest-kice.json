@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "subject": "kice",
+  "sourceCommit": "c27126b8b11008d96bdca159e534fbb6ec564f2b",
+  "figures": [
+    {
+      "id": "kice-exam-spread-25-crop-1",
+      "noteIds": [
+        "kice-exam-spread-25"
+      ],
+      "caption": "2025학년도 1차 전공B · 5면 · 문항 5 · 콜럼버스의 날을 둘러싼 뉴스 화면",
+      "kind": "diagram",
+      "alt": "2025학년도 1차 전공B · 5면 · 문항 5 · 콜럼버스의 날을 둘러싼 뉴스 화면",
+      "source": {
+        "imagePath": "kice_gichul_pages/2025_중등1차_역사_B/page_004.jpg",
+        "rect": [
+          949,
+          327,
+          501,
+          345
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "b8c0d29f50b13e1f1e5bd696e75cf434a7846702408814e49a8ae2d903a099f9"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-35-crop-1",
+      "noteIds": [
+        "kice-exam-spread-35"
+      ],
+      "caption": "2024학년도 1차 전공A · 8면 · 문항 12 · 추념비 (B-1)",
+      "kind": "photo",
+      "alt": "2024학년도 1차 전공A · 8면 · 문항 12 · 추념비 (B-1)",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_A/page_007.jpg",
+        "rect": [
+          579,
+          1475,
+          209,
+          258
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "58771fef165ae109c40a9843293a08e04bb532feb9e6bd9d83a5d87abd164299"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-35-crop-2",
+      "noteIds": [
+        "kice-exam-spread-35"
+      ],
+      "caption": "2024학년도 1차 전공A · 8면 · 문항 12 · 추념비 (B-2)",
+      "kind": "photo",
+      "alt": "2024학년도 1차 전공A · 8면 · 문항 12 · 추념비 (B-2)",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_A/page_007.jpg",
+        "rect": [
+          572,
+          1805,
+          222,
+          177
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "58771fef165ae109c40a9843293a08e04bb532feb9e6bd9d83a5d87abd164299"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-37-crop-1",
+      "noteIds": [
+        "kice-exam-spread-37"
+      ],
+      "caption": "2024학년도 1차 전공B · 3면 · 문항 4 · 중갑보병 그림 (가)",
+      "kind": "diagram",
+      "alt": "2024학년도 1차 전공B · 3면 · 문항 4 · 중갑보병 그림 (가)",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_B/page_002.jpg",
+        "rect": [
+          900,
+          388,
+          594,
+          167
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "add8f8a5c7f79457d5252fa893fd9d59c2163e474ef84c908545338cb7d01e67"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-37-crop-2",
+      "noteIds": [
+        "kice-exam-spread-37"
+      ],
+      "caption": "2024학년도 1차 전공B · 3면 · 문항 4 · 삼단 노선 그림 (나)",
+      "kind": "diagram",
+      "alt": "2024학년도 1차 전공B · 3면 · 문항 4 · 삼단 노선 그림 (나)",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_B/page_002.jpg",
+        "rect": [
+          903,
+          888,
+          591,
+          315
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "add8f8a5c7f79457d5252fa893fd9d59c2163e474ef84c908545338cb7d01e67"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-39-crop-1",
+      "noteIds": [
+        "kice-exam-spread-39"
+      ],
+      "caption": "2024학년도 1차 전공B · 5면 · 문항 7 · 백신 접종 판화",
+      "kind": "diagram",
+      "alt": "2024학년도 1차 전공B · 5면 · 문항 7 · 백신 접종 판화",
+      "source": {
+        "imagePath": "kice_gichul_pages/2024_중등1차_역사_B/page_004.jpg",
+        "rect": [
+          324,
+          1286,
+          333,
+          264
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "cc7b815312ab4d866eae257a7fcd40bb8d3460fca39cbc6d6ab8463f3f7ea0d1"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-52-crop-1",
+      "noteIds": [
+        "kice-exam-spread-52"
+      ],
+      "caption": "2023학년도 1차 전공B · 4면 · 문항 4 · 9세기 후반 브리튼 제도",
+      "kind": "map",
+      "alt": "2023학년도 1차 전공B · 4면 · 문항 4 · 9세기 후반 브리튼 제도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2023_중등1차_역사_B/page_003.jpg",
+        "rect": [
+          385,
+          550,
+          290,
+          450
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "e2747965e80fe7e0afda4cea7c27b082e93f305e686cdbd8cbeeda9227aefc0f"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-68-crop-1",
+      "noteIds": [
+        "kice-exam-spread-68"
+      ],
+      "caption": "2022학년도 1차 전공B · 7면 · 문항 11 · 전쟁을 종결지은 조약에 따른 유럽 지도",
+      "kind": "map",
+      "alt": "2022학년도 1차 전공B · 7면 · 문항 11 · 전쟁을 종결지은 조약에 따른 유럽 지도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2022_중등1차_역사_B/page_006.jpg",
+        "rect": [
+          896,
+          345,
+          602,
+          715
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "e663a5d5ddc1861f6f8a067f9e21fb3fc050ccbf85f47bf2e81444bfb1dc735b"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-78-crop-1",
+      "noteIds": [
+        "kice-exam-spread-78"
+      ],
+      "caption": "2021학년도 1차 전공B · 4면 · 문항 6 · 20세기 초 상하이 조계도",
+      "kind": "map",
+      "alt": "2021학년도 1차 전공B · 4면 · 문항 6 · 20세기 초 상하이 조계도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2021_중등1차_역사_B/page_003.jpg",
+        "rect": [
+          1021,
+          1231,
+          359,
+          282
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "2f0d1a08af2528310de4a1b6bedaea3c249cd98629b9b3449b6c34960af31fe1"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-85-crop-1",
+      "noteIds": [
+        "kice-exam-spread-85"
+      ],
+      "caption": "2020학년도 1차 전공A · 5면 · 문항 8 · 12세기 중엽 이베리아 반도",
+      "kind": "map",
+      "alt": "2020학년도 1차 전공A · 5면 · 문항 8 · 12세기 중엽 이베리아 반도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2020_중등1차_역사_A/page_004.jpg",
+        "rect": [
+          949,
+          1324,
+          547,
+          460
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "7559c8f13272161fc674236de945adcc4d91b638bc85e1532e6e924743c76727"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-99-crop-1",
+      "noteIds": [
+        "kice-exam-spread-99"
+      ],
+      "caption": "2019학년도 1차 전공A · 5면 · 문항 11 · 조약의 결과로 재편된 유럽 지도",
+      "kind": "map",
+      "alt": "2019학년도 1차 전공A · 5면 · 문항 11 · 조약의 결과로 재편된 유럽 지도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2019_중등1차_역사_A/page_004.jpg",
+        "rect": [
+          905,
+          393,
+          587,
+          622
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "c15e7161bc55c8a819c632ae8846ab9f713460df1e191f4ad752517727ad627d"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-108-crop-1",
+      "noteIds": [
+        "kice-exam-spread-108"
+      ],
+      "caption": "2018학년도 1차 전공A · 4면 · 문항 8 · 백년전쟁 초기의 지도",
+      "kind": "map",
+      "alt": "2018학년도 1차 전공A · 4면 · 문항 8 · 백년전쟁 초기의 지도",
+      "source": {
+        "imagePath": "kice_gichul_pages/2018_중등1차_역사_A/page_003.jpg",
+        "rect": [
+          225,
+          695,
+          562,
+          581
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "f4fe574233874ef9c2ee6ae31ec44610337126f1e6e7507d7a1e0b5d26de0cae"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-110-crop-1",
+      "noteIds": [
+        "kice-exam-spread-110"
+      ],
+      "caption": "2018학년도 1차 전공A · 6면 · 문항 14 · 1600년경 에스파냐령 아메리카",
+      "kind": "map",
+      "alt": "2018학년도 1차 전공A · 6면 · 문항 14 · 1600년경 에스파냐령 아메리카",
+      "source": {
+        "imagePath": "kice_gichul_pages/2018_중등1차_역사_A/page_005.jpg",
+        "rect": [
+          999,
+          1020,
+          420,
+          562
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "6ee112d12e5f1f80841bc703b44b82ed2e9e79dc655bf6fc0fb40b158671f480"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-120-crop-1",
+      "noteIds": [
+        "kice-exam-spread-120"
+      ],
+      "caption": "2017학년도 1차 전공B · 3면 · 문항 4 · 원정군의 진격로",
+      "kind": "map",
+      "alt": "2017학년도 1차 전공B · 3면 · 문항 4 · 원정군의 진격로",
+      "source": {
+        "imagePath": "kice_gichul_pages/2017_중등1차_역사_B/page_002.jpg",
+        "rect": [
+          903,
+          509,
+          591,
+          382
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "c00ba541e322d91bec2c346049fabcc57c968531e118e517f40df69084d1a0cf"
+      },
+      "reviewStatus": "visually-verified"
+    },
+    {
+      "id": "kice-exam-spread-189-crop-1",
+      "noteIds": [
+        "kice-exam-spread-189"
+      ],
+      "caption": "2011학년도 1차 문제 · 2면 · 문항 4 · 조선총독부 건물",
+      "kind": "photo",
+      "alt": "2011학년도 1차 문제 · 2면 · 문항 4 · 조선총독부 건물",
+      "source": {
+        "imagePath": "kice_gichul_pages/2011_중등1차_역사/page_002.jpg",
+        "rect": [
+          502,
+          489,
+          223,
+          137
+        ],
+        "imageSize": [
+          1684,
+          2382
+        ],
+        "sha256": "1a983c4fdd25c0668ac06f294388ea47e56e443d7182b935280cd390d21ea99c"
+      },
+      "reviewStatus": "visually-verified"
+    }
+  ],
+  "reviewedNotes": [
+    "kice-exam-spread-25",
+    "kice-exam-spread-35",
+    "kice-exam-spread-37",
+    "kice-exam-spread-39",
+    "kice-exam-spread-52",
+    "kice-exam-spread-68",
+    "kice-exam-spread-78",
+    "kice-exam-spread-85",
+    "kice-exam-spread-99",
+    "kice-exam-spread-108",
+    "kice-exam-spread-110",
+    "kice-exam-spread-120",
+    "kice-exam-spread-189"
+  ],
+  "unresolved": []
+}

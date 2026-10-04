@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "scope": "Figure markers in imported text, plus explicitly reviewed pages. This is not a visual census of every scan.",
+  "subjects": [
+    {
+      "subject": "dongyangsa",
+      "candidateNotes": 41,
+      "reviewedNotes": [
+        "dongyangsa-textbook-page-103",
+        "dongyangsa-textbook-page-107",
+        "dongyangsa-textbook-page-108",
+        "dongyangsa-textbook-page-12",
+        "dongyangsa-textbook-page-135",
+        "dongyangsa-textbook-page-14",
+        "dongyangsa-textbook-page-140",
+        "dongyangsa-textbook-page-141",
+        "dongyangsa-textbook-page-15",
+        "dongyangsa-textbook-page-151",
+        "dongyangsa-textbook-page-158",
+        "dongyangsa-textbook-page-160",
+        "dongyangsa-textbook-page-161",
+        "dongyangsa-textbook-page-163",
+        "dongyangsa-textbook-page-165",
+        "dongyangsa-textbook-page-166",
+        "dongyangsa-textbook-page-20",
+        "dongyangsa-textbook-page-207",
+        "dongyangsa-textbook-page-208",
+        "dongyangsa-textbook-page-210",
+        "dongyangsa-textbook-page-224",
+        "dongyangsa-textbook-page-225",
+        "dongyangsa-textbook-page-227",
+        "dongyangsa-textbook-page-228",
+        "dongyangsa-textbook-page-230",
+        "dongyangsa-textbook-page-233",
+        "dongyangsa-textbook-page-238",
+        "dongyangsa-textbook-page-278",
+        "dongyangsa-textbook-page-280",
+        "dongyangsa-textbook-page-282",
+        "dongyangsa-textbook-page-283",
+        "dongyangsa-textbook-page-291",
+        "dongyangsa-textbook-page-303",
+        "dongyangsa-textbook-page-32",
+        "dongyangsa-textbook-page-36",
+        "dongyangsa-textbook-page-43",
+        "dongyangsa-textbook-page-59",
+        "dongyangsa-textbook-page-63",
+        "dongyangsa-textbook-page-64",
+        "dongyangsa-textbook-page-7",
+        "dongyangsa-textbook-page-9"
+      ],
+      "notesWithFigures": 38,
+      "figures": 67,
+      "unresolved": [
+        {
+          "noteId": "dongyangsa-textbook-page-9",
+          "reason": "HTML에 연결된 part1_page_006_35s.jpg는 실제 12–13쪽(동아시아의 기후 구분·사회 구분)으로, 이 노트의 신석기 문화 지도·유물 사진들과 일치하지 않음. 노트에 대응하는 원본 이미지 재확인 필요."
+        },
+        {
+          "noteId": "dongyangsa-textbook-page-225",
+          "reason": "원본의 야요이 시대 청동 동탁·토기 사진 대부분이 촬영자의 손에 가려져 완전한 이미지 영역을 추출할 수 없음. 같은 면의 전래 경로 지도와 시대 흐름 도표는 추출함."
+        },
+        {
+          "noteId": "dongyangsa-textbook-page-291",
+          "reason": "원본 HTML의 해당 노트에 이미지 경로가 없어 지도·사진 표식을 실제 이미지와 대조할 수 없음."
+        },
+        {
+          "noteId": "dongyangsa-textbook-page-303",
+          "reason": "원본 HTML의 해당 노트에 이미지 경로가 없어 지도·사진 표식을 실제 이미지와 대조할 수 없음."
+        }
+      ],
+      "unreviewedCandidates": []
+    },
+    {
+      "subject": "gyoyukron",
+      "candidateNotes": 4,
+      "reviewedNotes": [
+        "gyoyukron-textbook-page-31",
+        "gyoyukron-textbook-page-32",
+        "gyoyukron-textbook-page-56",
+        "gyoyukron-textbook-page-82"
+      ],
+      "notesWithFigures": 4,
+      "figures": 13,
+      "unresolved": [],
+      "unreviewedCandidates": []
+    },
+    {
+      "subject": "hanguksa",
+      "candidateNotes": 32,
+      "reviewedNotes": [
+        "hanguksa-gichul-page-10",
+        "hanguksa-gichul-page-16",
+        "hanguksa-gichul-page-41",
+        "hanguksa-gichul-page-43",
+        "hanguksa-gichul-page-60",
+        "hanguksa-textbook-page-124",
+        "hanguksa-textbook-page-144",
+        "hanguksa-textbook-page-177",
+        "hanguksa-textbook-page-188",
+        "hanguksa-textbook-page-21",
+        "hanguksa-textbook-page-227",
+        "hanguksa-textbook-page-228",
+        "hanguksa-textbook-page-25",
+        "hanguksa-textbook-page-28",
+        "hanguksa-textbook-page-29",
+        "hanguksa-textbook-page-3",
+        "hanguksa-textbook-page-307",
+        "hanguksa-textbook-page-31",
+        "hanguksa-textbook-page-4",
+        "hanguksa-textbook-page-40",
+        "hanguksa-textbook-page-41",
+        "hanguksa-textbook-page-42",
+        "hanguksa-textbook-page-46",
+        "hanguksa-textbook-page-53",
+        "hanguksa-textbook-page-6",
+        "hanguksa-textbook-page-61",
+        "hanguksa-textbook-page-64",
+        "hanguksa-textbook-page-66",
+        "hanguksa-textbook-page-68",
+        "hanguksa-textbook-page-7",
+        "hanguksa-textbook-page-73",
+        "hanguksa-textbook-page-80",
+        "hanguksa-textbook-page-91"
+      ],
+      "notesWithFigures": 32,
+      "figures": 71,
+      "unresolved": [
+        {
+          "noteId": "hanguksa-gichul-page-43",
+          "reason": "전사에는 강경 포구 지도 설명이 있으나 연결된 192–193쪽 사진에는 해당 지도 그림이 보이지 않음. 추정 그림을 붙이지 않음."
+        }
+      ],
+      "unreviewedCandidates": []
+    },
+    {
+      "subject": "kice",
+      "candidateNotes": 0,
+      "reviewedNotes": [
+        "kice-exam-spread-108",
+        "kice-exam-spread-110",
+        "kice-exam-spread-120",
+        "kice-exam-spread-189",
+        "kice-exam-spread-25",
+        "kice-exam-spread-35",
+        "kice-exam-spread-37",
+        "kice-exam-spread-39",
+        "kice-exam-spread-52",
+        "kice-exam-spread-68",
+        "kice-exam-spread-78",
+        "kice-exam-spread-85",
+        "kice-exam-spread-99"
+      ],
+      "notesWithFigures": 13,
+      "figures": 15,
+      "unresolved": [],
+      "unreviewedCandidates": []
+    },
+    {
+      "subject": "seoyangsa",
+      "candidateNotes": 18,
+      "reviewedNotes": [
+        "seoyangsa-textbook-page-13",
+        "seoyangsa-textbook-page-22",
+        "seoyangsa-textbook-page-23",
+        "seoyangsa-textbook-page-24",
+        "seoyangsa-textbook-page-266",
+        "seoyangsa-textbook-page-267",
+        "seoyangsa-textbook-page-3",
+        "seoyangsa-textbook-page-303",
+        "seoyangsa-textbook-page-31",
+        "seoyangsa-textbook-page-314",
+        "seoyangsa-textbook-page-330",
+        "seoyangsa-textbook-page-331",
+        "seoyangsa-textbook-page-333",
+        "seoyangsa-textbook-page-52",
+        "seoyangsa-textbook-page-63",
+        "seoyangsa-textbook-page-64",
+        "seoyangsa-textbook-page-70",
+        "seoyangsa-textbook-page-74",
+        "seoyangsa-textbook-page-77"
+      ],
+      "notesWithFigures": 18,
+      "figures": 30,
+      "unresolved": [
+        {
+          "noteId": "seoyangsa-textbook-page-23",
+          "reason": "같은 펼침의 오른쪽 중무장보병 대형 그림은 오른쪽 일부가 손에 가려져 있어 완전한 그림 crop은 만들지 않음. 왼쪽 식민활동 지도는 분리함."
+        },
+        {
+          "noteId": "seoyangsa-textbook-page-13",
+          "reason": "HTML의 '[지도] <예수회의 전파>' 표식에 대응하는 지도가 연결된 300–301쪽 원본 프레임에서 보이지 않음. 오른쪽 페이지 넘김과 손 가림도 있어 임의의 crop이나 다른 지도로 대체하지 않음."
+        }
+      ],
+      "unreviewedCandidates": []
+    }
+  ]
+}

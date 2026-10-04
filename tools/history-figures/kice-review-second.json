@@ -1,0 +1,759 @@
+{
+  "reviewed": [
+    {
+      "id": "kice-exam-spread-168-figure-2",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "f0e3dab06aa53e9af5a2de89ae11be9867f525aa4f4d0e022c204699d6446cac"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-1",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "4c50faa16b7504f3468ebea5617cc157a00845090ab7934fe210d3535d6a53bf"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-2",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "b24aaaafab6e79974dafbff600f8d98b92386e4e3e23db18166751872d7b8127"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-3",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "e34265e565d61edc3c3081c16ac618bd2937c923cf5f13911a1417a7a5fa45ef"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-4",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "92c3142e53a4a353c1e722b7e7e959e0c8a209c11dee4364254a4b44694daa75"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-5",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "1aec6d95c825035bbd90821915a3e8ec93322d891fd50561fadc2a382fd58e99"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-6",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "94dae882162efa480f6a26e38a7f1d5c7d1a9d3c2d8fca62ac810a22a83b239e"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-7",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "8619fa0e1d05a016674d097ff5a6e5d96a84ee9c12863d9ae4252459811ed712"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-8",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "42c0967770cb939c3c6fe0e69c5187edf278ead1305a06fdaa57d6c735e51641"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-9",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "0cab88ff01478793c99562c441357fada54e8252770c92ec948852dc21453634"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-10",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "83d8d34c0862843efe2944325540a18a2a77953487a70e70af056c0444102ddf"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-11",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "cf0f06df5cb6eb6dbe6c69df50ce7416577acecc0dfd49e3c128f5fe9f732b3a"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-12",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "e0abaa960217a01153616e3d6cceec26d33ca714af6f0a037817102fe16e8bd4"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-13",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "0fc3d538bf4faa16e2282bf3e237fc90e53c84db0b3e5fef19e3fdbb98b47791"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-14",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "ee63f4276c73c972fe0ee5b26fc180d667e3d2f9475679ab057115903eadc7de"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-15",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "92fa3a676fb9fc2214837258648a39cf683ce281c627f75a6282a0f730f375c9"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-16",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "136ed3da6e68ba3a54079dbb389b2c5dda26146ed7731e17740b9910ebeb377a"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-17",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "4fa14fc8d3ebe7954c360c4f4710fa67cce8697b55850021cc9eb5dcb664f993"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-18",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "e43e0bf4daef6a66b8968021602d62c543c5504540820e5d4c6f19d80cbea548"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-19",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "207242b9569d3ece57be318626317f5ff9d83f5cb2c6294be1a2aafc879e92fb"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-20",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "fb0a918597835d0e59d2ece66cf558e44469db07ba0a85c6bc8f81e6f47bdcfd"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-21",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "9f1119e5d3509b376a08e65302221155a3a8be5dc453137607dabbd85258dca4"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-22",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "16947722a04799e05d1ee39fec2ceb7886b86bf513d4deba68ea2f90ddc4dc3c"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-23",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "034301339f14b664b9fb54289a925bbeefd4adbdb9da12af3fcae04e0a6bc3ca"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-24",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "d9f92845be110e8960aa10ed5615c40cbad8f69ab61a6e70247aa55997ad13d8"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-25",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "99f2cfde166b8849e7b2a98d90318421ba428bd35bcd66309f75bf1cb1fb911c"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-26",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "86574292b724d9f43265e3518c5ad724f34d494d8d2f62ec426deae62ff86b9d"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-27",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "42a26ff2321dedb9e829edac97b01e46365c9d4c9cdc00879ee6ab4a525832e7"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-28",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "691988baa608ab7d85eafc53651b44116862711f7e64f546bb0b1d9acae9c765"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-29",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "1476314fa4bf16bac25b23b583961967c6a37abd675cae85c5259a9600b30d63"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-30",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "a77e7ac90521a4a831521df6ec6f370b25cccc9c2d0277e000159ab6789d9b33"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-31",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "afef1b214ec583fff1aba1bb66546693bcbc271ffb3610eb626d74005de7d76e"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-32",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "70ae787cd5ce66a36c5344b7047bd42432bedab70f0798e57f4e31c7c5acfc32"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-33",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "0a20701f669284755317348b47254bf812d7ec9a2442d78e7670daf4a16c9918"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-34",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "869df35ec0eccb29fa7e9357fe504cf7c974ea57f89a4489ee54655bd1a84ca0"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-35",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "f3539de3d0d010478bda84cbe4ca0d2d0831d775ebf4ab4b01c4b4d2acef3673"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-36",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "6d47a030390423abbaf66f16804c57ba25b6c28e4246586a299a9dd114bc7b66"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-37",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "2fa49f9725d3342db5d5507d251e3a1cec073dd6c8def13f2dd730bc605dae06"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-38",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "ecd757fa34537db957ea49c755060cff080d04c5eef9690eb1492cef0e884d82"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-39",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "4de399db6dee2e3ee5b9163d2ab4dde628c2dcfcd0c204fa0ba971ba16ee9904"
+    },
+    {
+      "id": "kice-exam-spread-182-figure-40",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "fa5e6b696e2a4f39c81b30d5ba028e22c4d71273f26d2886e649b5b446bf6ca5"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-1",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "2f003458a1b6d1e94b1b8d1042caede4ad62689d0a19c86462f1291b0589231b"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-2",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "b24aaaafab6e79974dafbff600f8d98b92386e4e3e23db18166751872d7b8127"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-3",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "8a1cf07e85e92fef7611fbeb80c448d444444a05e5b1c3f04da134ceb47edabc"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-4",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "92c3142e53a4a353c1e722b7e7e959e0c8a209c11dee4364254a4b44694daa75"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-5",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "1aec6d95c825035bbd90821915a3e8ec93322d891fd50561fadc2a382fd58e99"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-6",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "94dae882162efa480f6a26e38a7f1d5c7d1a9d3c2d8fca62ac810a22a83b239e"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-7",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "8619fa0e1d05a016674d097ff5a6e5d96a84ee9c12863d9ae4252459811ed712"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-8",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "42c0967770cb939c3c6fe0e69c5187edf278ead1305a06fdaa57d6c735e51641"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-9",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "0cab88ff01478793c99562c441357fada54e8252770c92ec948852dc21453634"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-10",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "83d8d34c0862843efe2944325540a18a2a77953487a70e70af056c0444102ddf"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-11",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "cf0f06df5cb6eb6dbe6c69df50ce7416577acecc0dfd49e3c128f5fe9f732b3a"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-12",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "e0abaa960217a01153616e3d6cceec26d33ca714af6f0a037817102fe16e8bd4"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-13",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "0fc3d538bf4faa16e2282bf3e237fc90e53c84db0b3e5fef19e3fdbb98b47791"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-14",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "ee63f4276c73c972fe0ee5b26fc180d667e3d2f9475679ab057115903eadc7de"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-15",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "92fa3a676fb9fc2214837258648a39cf683ce281c627f75a6282a0f730f375c9"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-16",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "136ed3da6e68ba3a54079dbb389b2c5dda26146ed7731e17740b9910ebeb377a"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-17",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "4fa14fc8d3ebe7954c360c4f4710fa67cce8697b55850021cc9eb5dcb664f993"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-18",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "e43e0bf4daef6a66b8968021602d62c543c5504540820e5d4c6f19d80cbea548"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-19",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "207242b9569d3ece57be318626317f5ff9d83f5cb2c6294be1a2aafc879e92fb"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-20",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "fb0a918597835d0e59d2ece66cf558e44469db07ba0a85c6bc8f81e6f47bdcfd"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-21",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "9f1119e5d3509b376a08e65302221155a3a8be5dc453137607dabbd85258dca4"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-22",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "16947722a04799e05d1ee39fec2ceb7886b86bf513d4deba68ea2f90ddc4dc3c"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-23",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "034301339f14b664b9fb54289a925bbeefd4adbdb9da12af3fcae04e0a6bc3ca"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-24",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "d9f92845be110e8960aa10ed5615c40cbad8f69ab61a6e70247aa55997ad13d8"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-25",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "99f2cfde166b8849e7b2a98d90318421ba428bd35bcd66309f75bf1cb1fb911c"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-26",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "86574292b724d9f43265e3518c5ad724f34d494d8d2f62ec426deae62ff86b9d"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-27",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "42a26ff2321dedb9e829edac97b01e46365c9d4c9cdc00879ee6ab4a525832e7"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-28",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "691988baa608ab7d85eafc53651b44116862711f7e64f546bb0b1d9acae9c765"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-29",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "1476314fa4bf16bac25b23b583961967c6a37abd675cae85c5259a9600b30d63"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-30",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "a77e7ac90521a4a831521df6ec6f370b25cccc9c2d0277e000159ab6789d9b33"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-31",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "afef1b214ec583fff1aba1bb66546693bcbc271ffb3610eb626d74005de7d76e"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-32",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "70ae787cd5ce66a36c5344b7047bd42432bedab70f0798e57f4e31c7c5acfc32"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-33",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "0a20701f669284755317348b47254bf812d7ec9a2442d78e7670daf4a16c9918"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-34",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "869df35ec0eccb29fa7e9357fe504cf7c974ea57f89a4489ee54655bd1a84ca0"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-35",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "f3539de3d0d010478bda84cbe4ca0d2d0831d775ebf4ab4b01c4b4d2acef3673"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-36",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "6d47a030390423abbaf66f16804c57ba25b6c28e4246586a299a9dd114bc7b66"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-37",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "2fa49f9725d3342db5d5507d251e3a1cec073dd6c8def13f2dd730bc605dae06"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-38",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "ecd757fa34537db957ea49c755060cff080d04c5eef9690eb1492cef0e884d82"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-39",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "4de399db6dee2e3ee5b9163d2ab4dde628c2dcfcd0c204fa0ba971ba16ee9904"
+    },
+    {
+      "id": "kice-exam-spread-185-figure-40",
+      "decision": "exclude",
+      "reason": "시험지 제목·문자·배경 조각으로 학습 그림이 아님",
+      "kind": "table",
+      "sourceSha256": "fa5e6b696e2a4f39c81b30d5ba028e22c4d71273f26d2886e649b5b446bf6ca5"
+    },
+    {
+      "id": "kice-exam-spread-188-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "diagram",
+      "sourceSha256": "c698a5bcecf79dfe4b08c62c6342b689eff3a37c367d2b609f3287436dd82a61"
+    },
+    {
+      "id": "kice-exam-spread-189-figure-1",
+      "decision": "exclude",
+      "reason": "빈 문항 틀 또는 일부 요소만 포함된 복합 자료",
+      "kind": "table",
+      "sourceSha256": "406f23b4c047fcc6e4d318708b81627c67b5a87004aae91d2f6373ce0bc349fe"
+    },
+    {
+      "id": "kice-exam-spread-189-figure-2",
+      "decision": "exclude",
+      "reason": "빈 문항 틀 또는 일부 요소만 포함된 복합 자료",
+      "kind": "table",
+      "sourceSha256": "00dc22a32879624a8b9ba02f2f19be5336b2ee53d1e23d9248ec022049b0482d"
+    },
+    {
+      "id": "kice-exam-spread-189-figure-3",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "table",
+      "sourceSha256": "c7f11e8dd783ac3489a6e9428a75f0fb5018b6b2e882e4ca9228787f160442cb"
+    },
+    {
+      "id": "kice-exam-spread-191-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "diagram",
+      "sourceSha256": "2b32dd90c7aeef9f6ea428e3db4b9a9b3833b336d920268cac05e22962d0ae83"
+    },
+    {
+      "id": "kice-exam-spread-193-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "diagram",
+      "sourceSha256": "7af275f8873b10687aaa929d20eb0ce165e05130944dea1bf13306d0891451c3"
+    },
+    {
+      "id": "kice-exam-spread-193-figure-2",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "map",
+      "sourceSha256": "f8048ace4ab02df293efb4e11ff3c26447effba20eb25d4a119df7185cfd54ac"
+    },
+    {
+      "id": "kice-exam-spread-196-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "map",
+      "sourceSha256": "dfa50c2e33da461cd2b148576de7cc001b79f7df9f613b720c093369f857c1d2"
+    },
+    {
+      "id": "kice-exam-spread-197-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "map",
+      "sourceSha256": "937109891f256089668759bb86bb5d4c2b330fdbb674aa3e363facec89868794"
+    },
+    {
+      "id": "kice-exam-spread-208-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "map",
+      "sourceSha256": "6a236fed0626df3a410b1405ec8f535a5063ada12a6dbdb8f536780551602dd7"
+    },
+    {
+      "id": "kice-exam-spread-210-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "diagram",
+      "sourceSha256": "9e41c922c1849d6723a87d053930e7926b820f8428f18a9b2b3f95f5dfb9cb57"
+    },
+    {
+      "id": "kice-exam-spread-212-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "photo",
+      "sourceSha256": "33f15acbe56906a9edc10d6ef87b8216da8ca1691e7ac10d1a2888250bb2125f"
+    },
+    {
+      "id": "kice-exam-spread-212-figure-2",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "photo",
+      "sourceSha256": "e2af289accba98d6de9014ba80702c3f2102a252a7ea481709287f98b262261e"
+    },
+    {
+      "id": "kice-exam-spread-215-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "map",
+      "sourceSha256": "afc5d04e41af0c2809a14d6fa7d99f01bcd2463ba9b4c7fa4fb80845cb6100c3"
+    },
+    {
+      "id": "kice-exam-spread-216-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "map",
+      "sourceSha256": "0b83cf3bf3ffdffe0bb94b3e63a544ce37dc0b34d7cc96981e76a2469d3f55c6"
+    },
+    {
+      "id": "kice-exam-spread-217-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "map",
+      "sourceSha256": "f4b8e87657d587a2f3a9fadbbc5899d5a4b8fa19da679a3b45ecfc7cfa627967"
+    },
+    {
+      "id": "kice-exam-spread-252-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "map",
+      "sourceSha256": "d2fcc5dcbfefe6cf1bbac34d277b0eeb04673627fe15864dc8a740dbdb2259ac"
+    },
+    {
+      "id": "kice-exam-spread-253-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "diagram",
+      "sourceSha256": "0ecf52fb6a8d3614dfa74164208b2d3a74b55547d19c1479446cd5af102bcf07"
+    },
+    {
+      "id": "kice-exam-spread-261-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "map",
+      "sourceSha256": "f99766233c1398f416786817a40968dee6ed723ffe73564ddf31879e9b4c1a43"
+    },
+    {
+      "id": "kice-exam-spread-286-figure-1",
+      "decision": "include",
+      "reason": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+      "kind": "map",
+      "sourceSha256": "ceb127ccb85806865514dd0293ebdd6e3aaeb523f44549b97bf18dd39f2c41bd",
+      "rotation": 180
+    },
+    {
+      "id": "kice-exam-spread-296-figure-1",
+      "decision": "include",
+      "reason": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+      "kind": "map",
+      "sourceSha256": "36ef95bb43deeff34e76f1beee1bbb65eb335c0529eb4868c610b226e2f62a30",
+      "rotation": 180
+    },
+    {
+      "id": "kice-exam-spread-296-figure-2",
+      "decision": "include",
+      "reason": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+      "kind": "diagram",
+      "sourceSha256": "1deb4e3487ccb528c6a0d12b06982e9dfd2e97d1f2e350e2cdb78735bd783165",
+      "rotation": 180
+    },
+    {
+      "id": "kice-exam-spread-298-figure-1",
+      "decision": "include",
+      "reason": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+      "kind": "photo",
+      "sourceSha256": "8c62647128a423080b58052bfc56666bffa64097470a84b7e1f8965ab1915523",
+      "rotation": 180
+    },
+    {
+      "id": "kice-exam-spread-298-figure-2",
+      "decision": "include",
+      "reason": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+      "kind": "photo",
+      "sourceSha256": "b44af42f3c4c67068be65ea03e4de6339ff33f753d1d52529860c832864f685d",
+      "rotation": 180
+    },
+    {
+      "id": "kice-exam-spread-298-figure-3",
+      "decision": "include",
+      "reason": "완전한 그림이지만 원본 추출 방향이 거꾸로여서 180도 회전",
+      "kind": "photo",
+      "sourceSha256": "c06e95f10ce787b275a65d1189bbf7fd1f5fd283f4604bb506f1dfe901381647",
+      "rotation": 180
+    },
+    {
+      "id": "kice-exam-spread-299-figure-1",
+      "decision": "include",
+      "reason": "원본에서 분리된 완전한 지도·도표·사진",
+      "kind": "photo",
+      "sourceSha256": "c8dacc26bafbe5ed3d50796362e3d215da9917ed7216ae05e4776f181e8fd76a"
+    }
+  ]
+}
