@@ -13,9 +13,8 @@ import Blank from "./Blank.jsx";
 import Short from "./Short.jsx";
 import Essay from "./Essay.jsx";
 import Questions from "./Questions.jsx";
-import History from "./History.jsx";
+import StudyPopups, { LegacyPopupRoute } from "./StudyPopups.jsx";
 import PredictionAnalysis from "./PredictionAnalysis.jsx";
-import Appeal from "./Appeal.jsx";
 import ApiKey from "./ApiKey.jsx";
 import LegacyWikiRedirect from "./LegacyWikiRedirect.jsx";
 import { SubjectsProvider } from "./subjects.jsx";
@@ -24,6 +23,7 @@ createRoot(document.getElementById("root")).render(
   <SettingsProvider>
     <BrowserRouter>
       <SubjectsProvider>
+      <StudyPopups>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/guide" element={<Guide />} />
@@ -36,11 +36,12 @@ createRoot(document.getElementById("root")).render(
         <Route path="/short" element={<Short />} />
         <Route path="/essay" element={<Essay />} />
         <Route path="/questions" element={<Questions />} />
-        <Route path="/history" element={<History />} />
+        <Route path="/history" element={<LegacyPopupRoute kind="history" />} />
         <Route path="/prediction-analysis" element={<PredictionAnalysis />} />
-        <Route path="/appeal" element={<Appeal />} />
+        <Route path="/appeal" element={<LegacyPopupRoute kind="appeal" />} />
         <Route path="/apikey" element={<ApiKey />} />
       </Routes>
+      </StudyPopups>
       </SubjectsProvider>
     </BrowserRouter>
   </SettingsProvider>

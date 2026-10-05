@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from "react";
 import { Link, useLocation, useSearchParams } from "react-router-dom";
 import Chrome from "./Chrome.jsx";
+import { appealContext } from "./appeal-context.js";
+import { popupSource, useStudyPopups } from "./popup-context.js";
 import { subjectUrl, useSubjects } from "./subjects.jsx";
 
 const TYPES = { all: "전체", mc: "객관식", short: "단답형", blank: "빈칸", essay: "서술형", research: "연구 예상문항" };
@@ -23,6 +25,7 @@ function Criterion({ criterion, index }) {
 
 export function QuestionCard({ item, number, expanded, onExpanded }) {
   const location = useLocation();
+  const { openAppeal } = useStudyPopups();
   const essay = item.type === "essay" || item.type === "research";
   const evidence = list(item.evidence);
   const sources = [...new Set([...list(item.sourcePages), ...evidence.map(entry => entry.page)].filter(Boolean))];
@@ -48,7 +51,7 @@ export function QuestionCard({ item, number, expanded, onExpanded }) {
       </div>
     </details>
     {sources.length > 0 && <div className="bank-source-links">{sources.map((page, index) => <Link key={page} className="source-link" to={subjectUrl(`/viewer?page=${encodeURIComponent(page)}`, item.subject)}>교재 원문{sources.length > 1 ? ` ${index + 1}` : ""} ↗</Link>)}</div>}
-    <div className="bank-source-links"><Link className="source-link" to={subjectUrl(`/appeal?${new URLSearchParams({ from: location.pathname + location.search, type: item.type, question: item.id })}`, item.subject)}>이 문항 이의제기</Link></div>
+    <div className="bank-source-links"><button type="button" className="text-btn source-link" aria-haspopup="dialog" onClick={() => openAppeal({ subject: item.subject, context: appealContext(item, item.type), source: popupSource(location) })}>이 문항 이의제기</button></div>
   </article>;
 }
 
@@ -110,7 +113,7 @@ export default function Questions() {
     if (activeRequest.current !== requestKey) return;
     setOpened(previous => ({ key: requestKey, ids: { ...(previous.key === requestKey ? previous.ids : {}), [id]: value } }));
   }
-  return <Chrome title="문제은행" subjectControls={false} navigationSubject={Object.hasOwn(SUBJECT_NAMES, subject) ? subject : "seoyangsa"}>
+  return <Chrome title="문제은행" subjectControls={false} feedbackSubject={subject} navigationSubject={Object.hasOwn(SUBJECT_NAMES, subject) ? subject : "seoyangsa"}>
     <header className="bank-heading"><p className="kicker">문제은행</p><h1>문제와 해설을 한눈에</h1><p className="muted">과목과 유형을 골라 연습문항을 둘러보세요. 정답과 해설, 서술형의 채점 기준을 펼쳐 확인할 수 있습니다.</p></header>
     <section className="card bank-filters" aria-label="문제 찾기">
       <div className="bank-filter-row"><label>과목<select value={subject} onChange={event => update({ subject: event.target.value })}><option value="all">전체 과목</option>{subjects.map(item => <option key={item.id} value={item.id}>{item.title}</option>)}</select></label><label>한 번에 보기<select value={pageSize} onChange={event => update({ pageSize: event.target.value })}>{[20, 50, 100].map(size => <option key={size} value={size}>{size}문항</option>)}</select></label></div>

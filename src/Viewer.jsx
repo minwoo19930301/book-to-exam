@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import Chrome from "./Chrome.jsx";
 import { formatNote } from "./noteFormat.jsx";
@@ -6,13 +6,26 @@ import { sourceUrl, useJsonArray, useSubject } from "./subjects.jsx";
 import { useGuide } from "./guide-mode.jsx";
 import SourceIssues from "./SourceIssues.jsx";
 import FigureGallery from "./FigureGallery.jsx";
+import { buildViewerIndex, highlightParts, searchViewerNotes } from "./viewer-search.js";
 import "./viewer.css";
+
+function Highlight({ text, ranges }) {
+  return highlightParts(text, ranges).map((part, index) => part.match ? <mark key={index}>{part.text}</mark> : part.text);
+}
 
 export default function Viewer() {
   const [search, setSearch] = useSearchParams();
-  const { dataFile } = useSubject();
+  const { dataFile, id: subject } = useSubject();
   const { data: notes, loading, error } = useJsonArray(dataFile("notes"));
   const guide = useGuide();
+  const query = guide ? "" : search.get("q") || "";
+  const [draft, setDraft] = useState(query);
+  const composing = useRef(false);
+  const searchInput = useRef(null);
+  const spread = useRef(null);
+  const index = useMemo(() => buildViewerIndex(notes), [notes]);
+  const results = useMemo(() => searchViewerNotes(index, query), [index, query]);
+  useEffect(() => { setDraft(query); composing.current = false; }, [query, subject]);
   const [zoom, setZoom] = useState(null);
   const [failedImages, setFailedImages] = useState({});
   const [captures, setCaptures] = useState({ pages: {}, loading: true, error: false });
@@ -33,6 +46,25 @@ export default function Viewer() {
     const next = notes[((index % notes.length) + notes.length) % notes.length];
     setSearch(current => { const params = new URLSearchParams(current); params.set("page", next.id); return params; });
     setZoom(null);
+  }
+
+  function submitSearch(event) {
+    event.preventDefault();
+    if (composing.current) return;
+    setSearch(current => {
+      const params = new URLSearchParams(current);
+      if (draft.trim()) params.set("q", draft.trim()); else params.delete("q");
+      return params;
+    });
+  }
+  function clearSearch() {
+    setDraft("");
+    setSearch(current => { const params = new URLSearchParams(current); params.delete("q"); return params; });
+    searchInput.current?.focus();
+  }
+  function showResult(result) {
+    show(result.index);
+    requestAnimationFrame(() => spread.current?.focus({ preventScroll: false }));
   }
 
   useEffect(() => {
@@ -56,17 +88,33 @@ export default function Viewer() {
   const original = sourceUrl(n.sourceUrl || n.source?.url);
 
   return (
-    <Chrome title="뷰어">
+    <Chrome title="뷰어" sourcePage={n.id}>
       {selectedPage && found < 0 && <p role="status">선택한 페이지를 찾을 수 없어 첫 자료를 표시합니다.</p>}
-      <div className="viewer">
-        <aside className="side">
-          {notes.map((item, k) => (
+      {!guide && <section className="viewer-search" aria-label="뷰어 검색">
+        <form role="search" onSubmit={submitSearch}>
+          <label htmlFor="viewer-query">현재 과목 원문 검색</label>
+          <div className="viewer-search-controls"><input id="viewer-query" ref={searchInput} type="search" value={draft} placeholder="제목이나 본문에서 찾기" maxLength={200}
+            aria-describedby="viewer-search-help" onChange={event => setDraft(event.target.value)}
+            onCompositionStart={() => { composing.current = true; }} onCompositionEnd={() => { composing.current = false; }}
+            onKeyDown={event => { if (event.key === "Enter" && (event.nativeEvent.isComposing || event.keyCode === 229 || composing.current)) event.preventDefault(); }} />
+            <button type="submit">검색</button>{(query || draft) && <button type="button" className="ghost" onClick={clearSearch}>검색 지우기</button>}</div>
+        </form>
+        <p id="viewer-search-help">띄어쓰기·줄바꿈·대소문자를 무시합니다. 여러 검색어는 모두 포함하며, %는 사이에 어떤 글자가 있어도 찾습니다.</p>
+        {query.trim() && <p className="viewer-search-count" role="status">‘{query}’ 검색 결과 {results.length}개</p>}
+      </section>}
+      <div className={`viewer${query.trim() ? " viewer-search-active" : ""}`}>
+        <aside className={`side${query.trim() ? " viewer-results" : ""}`} aria-label={query.trim() ? "원문 검색 결과" : "원문 목록"}>
+          {query.trim() ? results.length ? results.map(result => <button key={result.note.id} className={result.index === idx ? "on" : ""} aria-current={result.index === idx ? "page" : undefined} type="button" onClick={() => showResult(result)}>
+            <span className="viewer-result-location">{result.location}</span>
+            <span className="viewer-result-title"><Highlight text={result.title.text} ranges={result.titleRanges} /></span>
+            {result.snippets.map((snippet, k) => <span className="viewer-result-snippet" key={k}>{snippet.before && "…"}<Highlight text={snippet.text} ranges={snippet.ranges} />{snippet.after && "…"}</span>)}
+          </button>) : <p className="viewer-no-results">일치하는 자료가 없습니다. 검색어를 줄이거나 다른 표현으로 찾아보세요.</p> : notes.map((item, k) => (
             <button key={item.id} className={k === idx ? "on" : ""} aria-current={k === idx ? "page" : undefined} type="button" onClick={() => show(k)}>
               {item.title}
             </button>
           ))}
         </aside>
-        <section className="spread" data-guide="spread">
+        <section className="spread" data-guide="spread" ref={spread} tabIndex={-1} aria-label="선택한 원문">
           <div className="row">
             <button className="ghost" type="button" onClick={() => show(idx - 1)}>이전</button>
             <button className="ghost" type="button" onClick={() => show(idx + 1)}>다음</button>

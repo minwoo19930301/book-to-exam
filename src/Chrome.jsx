@@ -1,17 +1,25 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Link, NavLink, useLocation } from "react-router-dom";
-import { currentAppealLink } from "./appeal-context.js";
+import { appealContext } from "./appeal-context.js";
+import { popupSource, useStudyPopups } from "./popup-context.js";
 import SettingsPopup from "./SettingsPopup.jsx";
 import { useGuide } from "./guide-mode.jsx";
-import { SubjectPicker, subjectUrl, useSubject } from "./subjects.jsx";
+import { SubjectPicker, subjectUrl, useSubject, useSubjects } from "./subjects.jsx";
 
-export default function Chrome({ title, children, subjectControls = true, navigationSubject, appeal }) {
+export default function Chrome({ title, children, subjectControls = true, navigationSubject, appeal, sourcePage, feedbackSubject }) {
   const guide = useGuide();
   const location = useLocation();
   const tabs = useRef(null);
   const { to: subjectTo, id: subjectId, error, loading } = useSubject();
   const to = navigationSubject ? path => subjectUrl(path, navigationSubject) : subjectTo;
-  const pinnedAppeal = appeal ? currentAppealLink({ ...appeal, from: location.pathname + location.search, subject: subjectId }) : null;
+  const popups = useStudyPopups();
+  const { subjects } = useSubjects();
+  function openAppeal() {
+    setOpen(false);
+    const selected = feedbackSubject || subjectId;
+    popups.openAppeal({ subject: subjects.some(item => item.id === selected) ? selected : "all", source: popupSource(location, sourcePage),
+      context: appeal?.question ? appealContext(appeal.question, appeal.type, { ...appeal.record, question: appeal.question }) : null });
+  }
   const [open, setOpen] = useState(false);
   const dismissSettings = guide?.dismissSettings;
   const closeSettings = useCallback(() => { setOpen(false); dismissSettings?.(); }, [dismissSettings]);
@@ -41,8 +49,8 @@ export default function Chrome({ title, children, subjectControls = true, naviga
         <div className="bar-actions">
           {!guide && <Link className="text-link" to={to("/guide")}>사용법</Link>}
         <button className="text-btn" type="button" data-guide="settings-btn" aria-expanded={settingsOpen} aria-controls="reading-settings" onClick={() => setOpen((v) => !v)}>설정</button>
-        {!guide && <Link className="text-link history-top-link" to={to("/history")}>히스토리</Link>}
-        {!guide && <Link className="text-link" to={location.pathname === "/appeal" ? location.pathname + location.search : to(`/appeal${pinnedAppeal?.search || `?${new URLSearchParams({ from: location.pathname + location.search })}`}`)} state={location.pathname === "/appeal" ? location.state : pinnedAppeal?.state}>이의제기</Link>}
+        {!guide && <button type="button" className="text-btn history-top-link" aria-haspopup="dialog" onClick={() => { setOpen(false); popups.openHistory(); }}>히스토리</button>}
+        {!guide && <button type="button" className="text-btn" aria-haspopup="dialog" onClick={openAppeal}>이의제기</button>}
         </div>
       </div>
       {settingsOpen && <SettingsPopup onClose={closeSettings} guided={Boolean(guide?.openSettings)} />}

@@ -80,7 +80,7 @@ export default function PredictionAnalysis() {
   const relevantPapers = item => list(data?.papers).filter(paper => paper.subject === item.subject && list(item.paperIds).includes(paper.id));
   const selectFaculty = id => change({ facultyId: id, topic: "", view: "faculty" });
 
-  return <Chrome title="출제자 예상" subjectControls={false} navigationSubject={subject === "all" ? "hand-memo" : subject}>
+  return <Chrome title="출제자 예상" subjectControls={false} feedbackSubject={subject} navigationSubject={subject === "all" ? "hand-memo" : subject}>
     <header className="research-heading">
       <p className="kicker">출제자 예상 · 공개 연구 참고</p>
       <h1>공개 연구를 바탕으로 한<br className="research-mobile-break" /> 출제 주제 분석</h1>

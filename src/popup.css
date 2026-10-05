@@ -1,0 +1,8 @@
+.study-popup{width:min(540px,calc(100vw - 32px));max-width:none;max-height:calc(100dvh - 40px);padding:0;border:1px solid var(--line);border-radius:20px;background:var(--card);color:var(--fg);box-shadow:0 24px 100px #0003;overflow:auto;overscroll-behavior:contain}
+.study-popup::backdrop{background:#0007;backdrop-filter:blur(2px)}
+.study-popup-wide{width:min(980px,calc(100vw - 32px))}
+.study-popup-heading{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 24px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--card);z-index:2}
+.study-popup-heading h2{font-size:18px;margin:0}.study-popup-heading button{font-size:28px;line-height:1;padding:6px 10px}
+.study-popup-body{padding:24px;min-width:0;overflow-wrap:anywhere}
+.study-popup .history-heading{margin-top:0}.study-popup .history-heading h1{font-size:24px}.study-popup .history-heading .kicker{display:none}
+@media(max-width:600px){.study-popup{width:calc(100vw - 20px);max-height:calc(100dvh - 24px);border-radius:16px}.study-popup-heading{padding:14px 16px}.study-popup-body{padding:16px}.study-popup .history-filters{grid-template-columns:1fr}.study-popup .history-entry h2{font-size:17px}}

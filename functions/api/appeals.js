@@ -1,6 +1,6 @@
 import { findPracticeQuestion } from './practice-bank.js';
 
-const SUBJECTS = new Set(['hand-memo', 'seoyangsa', 'hanguksa', 'dongyangsa', 'gyoyukron']);
+const SUBJECTS = new Set(['all', 'hand-memo', 'seoyangsa', 'hanguksa', 'dongyangsa', 'gyoyukron']);
 const TYPES = new Set(['mc', 'short', 'blank', 'essay', 'research']);
 const CATEGORIES = new Set(['grading', 'answer', 'source', 'question', 'other']);
 const MAX_BODY = 64000;
@@ -14,6 +14,23 @@ function string(value, name, max, required = false) {
   if (value == null && !required) return '';
   if (typeof value !== 'string' || value.length > max || (required && !value.trim())) throw new InputError(`${name}을(를) 확인해 주세요. (최대 ${max}자)`);
   return value.trim();
+}
+function sourcePath(value) {
+  const source = string(value, '화면 정보', 14000);
+  if (!source) return '';
+  // Only app-relative paths and explicitly permitted diagnostic query keys.
+  // Unknown keys are rejected rather than retaining tokens or arbitrary URLs.
+  if (!/^\/[a-zA-Z0-9/_-]*(?:\?[^#]*)?$/.test(source) || source.startsWith('//') || /[\\\u0000-\u001f\u007f]/.test(source))
+    throw new InputError('화면 정보는 사이트 내부 경로여야 합니다.');
+  const url = new URL(source, 'https://local.invalid');
+  for (const key of url.searchParams.keys()) {
+    if (!['subject', 'page', 'q', 'view', 'facultyId', 'topic', 'mode'].includes(key) || url.searchParams.getAll(key).length !== 1)
+      throw new InputError('화면 정보의 검색 조건을 확인해 주세요.');
+    const text = url.searchParams.get(key);
+    if (text.length > 200 || /[\u0000-\u001f\u007f]/.test(text)) throw new InputError('화면 정보의 검색 조건을 확인해 주세요.');
+  }
+  url.searchParams.sort();
+  return url.pathname + url.search;
 }
 async function bodyJson(request) {
   if (Number(request.headers.get('content-length')) > MAX_BODY) throw new InputError('제출 내용이 너무 큽니다.', 413);
@@ -36,12 +53,14 @@ async function bodyJson(request) {
 function validation(body) {
   if (!body || typeof body !== 'object' || Array.isArray(body)) throw new InputError('제출 형식을 확인해 주세요.');
   if (!/^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(body.id || '')) throw new InputError('새로고침 후 다시 제출해 주세요.');
-  if (!SUBJECTS.has(body.subject) || !CATEGORIES.has(body.category)) throw new InputError('과목과 이의제기 유형을 확인해 주세요.');
+  const category = body.category ?? 'other';
+  if (!SUBJECTS.has(body.subject) || !CATEGORIES.has(category)) throw new InputError('과목과 이의제기 유형을 확인해 주세요.');
   const message = string(body.message, '이의제기 내용', 3000, true);
-  if (message.length < 5) throw new InputError('이의제기 내용을 5자 이상 적어 주세요.');
   const expectedAnswer = string(body.expectedAnswer, '제안하는 정답', 1000);
+  const source = sourcePath(body.source);
   let context = null;
   if (body.context != null) {
+    if (body.subject === 'all') throw new InputError('문항이 첨부된 경우 실제 과목을 지정해 주세요.');
     const value = body.context;
     if (!TYPES.has(value.type) || typeof value.questionId !== 'string') throw new InputError('문항 정보를 확인해 주세요.');
     const observed = value.observed || {};
@@ -58,7 +77,7 @@ function validation(body) {
       },
     };
   }
-  return { id: body.id.toLowerCase(), subject: body.subject, category: body.category, message, expectedAnswer, context };
+  return { id: body.id.toLowerCase(), subject: body.subject, category, message, expectedAnswer, context, ...(source ? { source } : {}) };
 }
 async function hash(value) {
   return Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256', new TextEncoder().encode(value))), byte => byte.toString(16).padStart(2, '0')).join('');
@@ -77,7 +96,7 @@ export async function onRequestPost({ request, env }) {
     if (existing) return existing.payload_hash === digest ? json({ id: entry.id, received: true }) : json({ error: '접수 번호가 이미 사용되었습니다. 새 이의제기로 작성해 주세요.' }, 409);
     if (entry.context) {
       const question = findPracticeQuestion(entry.subject, entry.context.type, entry.context.questionId);
-      if (!question) throw new InputError('현재 문제은행에서 문항을 찾지 못했습니다. 문항 첨부를 해제하고 내용을 적어 주세요.');
+      if (!question) throw new InputError('현재 문제은행에서 문항을 찾지 못했습니다. 문항을 다시 연 뒤 전송해 주세요.');
       entry.context.question = { title: question.title, prompt: question.prompt, choices: question.choices, answer: question.answer,
         modelAnswer: question.modelAnswer, sourcePages: question.sourcePages };
     }
@@ -90,7 +109,7 @@ export async function onRequestPost({ request, env }) {
       env.APPEALS_DB.prepare('INSERT INTO appeal_limits(bucket, requests, expires_at) VALUES (?1, 1, ?2) ON CONFLICT(bucket) DO UPDATE SET requests = MIN(requests + 1, ?3)').bind(bucket, (hour + 2) * 3600000, HOURLY_LIMIT + 1),
       env.APPEALS_DB.prepare(`INSERT INTO appeals(id, received_at, subject, question_type, question_id, category, message, expected_answer, context_json, payload_hash, updated_at)
         SELECT ?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?2 FROM appeal_limits WHERE bucket = ?11 AND requests <= ?12 ON CONFLICT(id) DO NOTHING`)
-        .bind(entry.id, timestamp, entry.subject, entry.context?.type || null, entry.context?.questionId || null, entry.category, entry.message, entry.expectedAnswer, JSON.stringify(entry.context), digest, bucket, HOURLY_LIMIT),
+        .bind(entry.id, timestamp, entry.subject, entry.context?.type || null, entry.context?.questionId || null, entry.category, entry.message, entry.expectedAnswer, JSON.stringify(entry.source ? { ...entry.context, source: entry.source } : entry.context), digest, bucket, HOURLY_LIMIT),
     ]);
     if (!result[2].meta.changes) {
       const retry = await env.APPEALS_DB.prepare('SELECT payload_hash FROM appeals WHERE id = ?1').bind(entry.id).first();

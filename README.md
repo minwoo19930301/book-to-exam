@@ -42,7 +42,7 @@
 | --- | --- | --- |
 | 랜딩 | [/ ](https://bookvideotoexam.pages.dev/) | 보내는 자료와 예시 |
 | 사용법 | [/guide](https://bookvideotoexam.pages.dev/guide) | 화면을 직접 눌러 보는 안내 |
-| 뷰어 | [/viewer](https://bookvideotoexam.pages.dev/viewer) | 쪽 사진과 메모 |
+| 뷰어 | [/viewer](https://bookvideotoexam.pages.dev/viewer) | 원문 부분 검색·쪽 이동·캡처와 전사 비교 |
 | 객관식 | [/quiz](https://bookvideotoexam.pages.dev/quiz) | 보기 선택 후 채점 |
 | 빈칸 | [/blank](https://bookvideotoexam.pages.dev/blank) | 사료탐구 발췌문·개념 빈칸, 유형별 이동 |
 | 단답 | [/short](https://bookvideotoexam.pages.dev/short) | 개념·원문 기반 단답, 원문은 채점 전 정답을 가림 |
@@ -50,8 +50,8 @@
 | 전체 문제은행 | [/questions](https://bookvideotoexam.pages.dev/questions?subject=all&pageSize=50) | 2,413개 검색·과목/유형 필터·정답/해설 펼치기 |
 | 연구 예상문항 | [/questions?type=research](https://bookvideotoexam.pages.dev/questions?type=research&pageSize=50) | 논문 기반 서술형 120개·모범답안·채점 기준 |
 | 출제자 예상 | [/prediction-analysis](https://bookvideotoexam.pages.dev/prediction-analysis?subject=all) | 공개 교수·논문·주제 분석, 예상도와 근거·한계 |
-| 이의제기 | [/appeal](https://bookvideotoexam.pages.dev/appeal) | 문항·답안·채점 결과를 선택 첨부하여 운영자에게 접수 |
-| 히스토리 | [/history](https://bookvideotoexam.pages.dev/history) | 30일간 답안·채점 결과, 과목/유형/결과 필터, 삭제·다시 풀기 |
+| 이의제기 | [/appeal](https://bookvideotoexam.pages.dev/appeal) | 내용 한 칸만 쓰는 팝업·현재 문항/화면 자동 첨부 |
+| 히스토리 | [/history](https://bookvideotoexam.pages.dev/history) | 팝업에서 30일간 답안·채점 결과, 필터·삭제·다시 풀기 |
 
 서술형 채점에는 사용자 AI가 필요합니다.
 
@@ -68,6 +68,8 @@ npm run dev -- --host 127.0.0.1 --port 4179
 검증: `npm test` / `npm run build`
 
 문제의 이전/다음 이동은 채점 여부와 무관합니다. 문항 번호를 입력해 이동하고, 과목·유형별 마지막 문항과 작성하던 답안·결과를 다시 불러옵니다. `?q=문항ID`가 있으면 그 문항을 우선합니다. 다시 풀기는 이전 답안을 보존하는 새 시도이며 문항 위에 시도 번호와 누적 정답률을 표시합니다.
+
+히스토리와 이의제기는 현재 화면 위에 팝업으로 열립니다. 닫으면 작성하던 답안과 뷰어 검색 상태가 유지됩니다. 기존 `/history`, `/appeal` 링크도 팝업으로 연결합니다.
 
 히스토리는 이 브라우저의 IndexedDB에 보관합니다. 기록마다 마지막 답안 저장 후 30일이 지나면 다음 열람 시 만료 처리합니다. 즉시 새로고침으로 저장이 끊기는 상황을 위해 잠깐 localStorage에 남기는 pending journal도 같은 유효기간·삭제 규칙을 따릅니다. 기록을 지운 뒤 도착한 비동기 채점 응답은 삭제한 기록을 되살리지 않습니다. 과거 브라우저에 저장되어 있지 않던 풀이와 MCP 채팅 안에서만 완료한 채점은 소급 수집하지 않습니다.
 
@@ -123,7 +125,7 @@ Markdown KB는 아래에 설명합니다. 벡터 DB나 운영비 절감 실측�
 ## 과목별 교재와 출제 지식
 
 `/menu`에서 손글씨 메모·서양사·한국사·동양사·역사교육론을 선택합니다.
-교재 뷰어는 원문 전사와 전체 캡처를 함께 보여주며 별도로 분리한 사진·지도·도표도 유지합니다. 사용자용 개념 위키는 제공하지 않습니다. 기존 `/wiki` 주소는 과목을 유지하여 교재로 이동합니다.
+교재 뷰어는 원문 전사와 전체 캡처를 함께 보여주며 별도로 분리한 사진·지도·도표도 유지합니다. 현재 과목의 제목과 원문 전체를 부분 검색할 수 있습니다. 띄어쓰기·줄바꿈·대소문자를 무시하고 여러 검색어는 모두 포함하는 자료를 찾습니다. `%`는 사이의 임의 글자를 허용합니다. 예를 들어 `베스트팔렌`, `베스트%조약`으로 찾아 쪽번호와 일치 문맥을 보고 해당 원문으로 바로 이동합니다. 사용자용 개념 위키는 제공하지 않습니다. 기존 `/wiki` 주소는 과목을 유지하여 교재로 이동합니다.
 
 - `knowledge/compact/<subject>/*.md`: 내부 출제용으로 선별·압축한 핵심, 비교·함정, 출제 판단과 보류 사유.
 - [지식 목차](knowledge/index.md) · [선별 기준](knowledge/selection-policy.md) · [출처 방법](knowledge/methodology.md).
@@ -159,7 +161,7 @@ npm run build
 
 ## 이의제기 운영
 
-우측 상단 이의제기에서 과목·유형·내용을 접수합니다. 현재 화면의 문항·답안·채점 결과는 첨부 옵션을 켠 경우에만 첨부하며 서버의 정식 문항과 브라우저 관찰 기록을 구분합니다. Cloudflare D1에 보관하고 접수 번호를 반환합니다. 고객 제출물을 공개 조회하는 API는 없습니다. 운영자는 기존 Cloudflare 계정으로 `npm run appeals:list`를 실행하거나 D1 콘솔에서 확인합니다. [저장·운영·검증 방법](docs/APPEALS.md).
+우측 상단 이의제기 팝업에서 내용 한 칸만 쓰고 전송합니다. 현재 과목·화면 주소·문항·답안·채점 결과는 자동으로 첨부하며 서버의 정식 문항과 브라우저 관찰 기록을 구분합니다. 종합 화면의 일반 의견도 과목 선택 없이 접수할 수 있습니다. Cloudflare D1에 보관하고 접수 번호를 반환합니다. 고객 제출물을 공개 조회하는 API는 없습니다. 운영자는 기존 Cloudflare 계정으로 `npm run appeals:list`를 실행하거나 D1 콘솔에서 확인합니다. [저장·운영·검증 방법](docs/APPEALS.md).
 
 ## 배포
 

@@ -56,7 +56,7 @@ test('public API never lists customer submissions and rejects cross-site or malf
   assert.equal((await submit(env, entry(), { 'sec-fetch-site': 'cross-site' })).status, 403);
   assert.equal((await submit(env, entry(), { 'content-type': 'text/plain' })).status, 415);
   assert.equal((await submit(env, '{')).status, 400);
-  for (const patch of [{ subject: 'no' }, { category: 'no' }, { message: 'x' }, { message: 'a'.repeat(3001) }, { id: 'not-an-id' }, { context: { type: 'blank', questionId: 'not-found' } }]) assert.equal((await submit(env, { ...entry(), ...patch })).status, 400);
+  for (const patch of [{ subject: 'no' }, { category: 'no' }, { message: '   ' }, { message: 'a'.repeat(3001) }, { id: 'not-an-id' }, { context: { type: 'blank', questionId: 'not-found' } }]) assert.equal((await submit(env, { ...entry(), ...patch })).status, 400);
   assert.equal((await submit(env, 'a'.repeat(64001))).status, 413);
   assert.equal(sql.prepare('SELECT COUNT(*) n FROM appeals').get().n, 0);
   sql.close();
@@ -137,4 +137,60 @@ test('current appeal pins the rendered question and attempt despite another tab 
   const recent = resolveAppealContext(question, bankOrigin, { attempts: [a, c] }, null, 'hanguksa');
   assert.equal(recent.context.submittedAnswer, 'B의 재도전 답');
   assert.equal(recent.source, 'latest-for-bank-question');
+});
+
+
+test('single-input appeals accept general all-subject feedback and retain old client fields', async () => {
+  const { sql, env } = database();
+  const body = { id: crypto.randomUUID(), subject: 'all', message: '확', source: '/questions?subject=all' };
+  assert.equal((await submit(env, body)).status, 201);
+  const saved = sql.prepare('SELECT * FROM appeals WHERE id = ?').get(body.id);
+  assert.equal(saved.subject, 'all');
+  assert.equal(saved.category, 'other');
+  assert.equal(saved.expected_answer, '');
+  assert.equal(saved.question_id, null);
+  assert.deepEqual(JSON.parse(saved.context_json), { source: '/questions?subject=all' });
+  const old = entry();
+  assert.equal((await submit(env, old)).status, 201);
+  const legacy = sql.prepare('SELECT * FROM appeals WHERE id = ?').get(old.id);
+  assert.equal(legacy.category, old.category);
+  assert.equal(legacy.expected_answer, old.expectedAnswer);
+  assert.equal(JSON.parse(legacy.context_json), null);
+  assert.equal((await submit(env, { ...old, source: '' })).status, 200, 'an empty new field keeps the legacy normalized payload');
+  assert.equal((await submit(env, { ...body, id: crypto.randomUUID(), message: '가'.repeat(3000) })).status, 201);
+  sql.close();
+});
+
+test('attached questions require a real subject and strict current question ownership', async () => {
+  const { sql, env } = database();
+  const context = { type: 'blank', questionId: blanks[0].id, submittedAnswer: '내 답' };
+  assert.equal((await submit(env, { ...entry(), subject: 'all', context })).status, 400);
+  assert.equal((await submit(env, { ...entry(), subject: 'seoyangsa', context })).status, 400);
+  assert.equal((await submit(env, { ...entry(), context: { ...context, type: 'short' } })).status, 400);
+  const body = { ...entry(), context, source: '/blank?subject=hanguksa&mode=source&q=' + blanks[0].id };
+  assert.equal((await submit(env, body)).status, 201);
+  const saved = JSON.parse(sql.prepare('SELECT context_json FROM appeals').get().context_json);
+  assert.equal(saved.questionId, blanks[0].id);
+  assert.equal(saved.submittedAnswer, '내 답');
+  assert.equal(saved.source, '/blank?mode=source&q=' + blanks[0].id + '&subject=hanguksa');
+  assert.ok(saved.question.prompt);
+  sql.close();
+});
+
+test('source accepts only safe local paths and explicit query keys, and joins retry identity', async () => {
+  const { sql, env } = database();
+  const body = { ...entry(), source: '/prediction-analysis?subject=hanguksa&facultyId=faculty-1&topic=tax&page=2&q=land&view=faculty&mode=source' };
+  assert.equal((await submit(env, body)).status, 201);
+  const saved = JSON.parse(sql.prepare('SELECT context_json FROM appeals').get().context_json);
+  assert.equal(saved.source, '/prediction-analysis?facultyId=faculty-1&mode=source&page=2&q=land&subject=hanguksa&topic=tax&view=faculty');
+  assert.equal((await submit(env, { ...body, source: saved.source })).status, 200, 'query ordering does not change the normalized receipt');
+  assert.equal((await submit(env, { ...body, source: '/questions?subject=hanguksa' })).status, 409, 'a changed source cannot reuse a receipt');
+  const invalid = ['https://attacker.invalid', '//attacker.invalid', '/\\attacker.invalid', '/questions#secret', '/../api/appeals', '/%2e%2e/appeals', '/questions?token=secret', '/questions?q=a&q=b', '/questions?q=%00', '/questions?q=%0A', '/questions?q=' + 'x'.repeat(201), '/questions?subject=all&apiKey=secret'];
+  for (const source of invalid) {
+    assert.equal((await submit(env, { ...entry(), source })).status, 400, source);
+  }
+  assert.equal(sql.prepare('SELECT COUNT(*) n FROM appeals').get().n, 1);
+  const koreanQuery = '/questions?q=' + encodeURIComponent('한'.repeat(200));
+  assert.equal((await submit(env, { ...entry(), source: koreanQuery })).status, 201, 'the source bound accommodates percent-encoded Korean search text');
+  sql.close();
 });

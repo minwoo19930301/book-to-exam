@@ -29,9 +29,12 @@ try {
   attempts = await history();
   assert.deepEqual(attempts.map(item=>item.result.good).sort(), [false,true]);
   assert.ok(await page.locator('.exam-progress').innerText().then(text=>text.includes('2번째')));
-  await page.goto(`${origin}/history`);
+  await page.goto(`${origin}/history?subject=dongyangsa`);
   await page.locator('.history-entry').first().waitFor();
   assert.equal(await page.locator('.history-entry').count(), 2);
+  assert.equal(new URL(page.url()).pathname, '/menu', 'legacy history URL opens a popup over the study menu');
+  assert.equal(new URL(page.url()).searchParams.get('subject'), 'dongyangsa');
+  await page.getByRole('dialog', {name:'히스토리',exact:true}).waitFor();
   await page.getByLabel('결과', {exact:true}).selectOption('correct');
   assert.equal(await page.locator('.history-entry').count(), 1);
   await page.getByRole('link', {name:'새 시도로 다시 풀기'}).click();
@@ -42,8 +45,10 @@ try {
   await page.getByLabel('단답형 답안').waitFor();
   assert.equal((await history()).length, 3, 'retry URL reload must not create a fourth attempt');
   await page.getByLabel('단답형 답안').fill('연속 입력한 마지막 답안');
-  await page.getByRole('link', {name:'히스토리',exact:true}).click();
+  await page.getByRole('button', {name:'히스토리',exact:true}).click();
   assert.equal((await history()).find(item=>item.attemptNumber===3).value, '연속 입력한 마지막 답안');
+  await page.keyboard.press('Escape');
+  await page.getByRole('dialog', {name:'히스토리',exact:true}).waitFor({state:'detached'});
   assert.match(await page.getByRole('link', {name:'단답형',exact:true}).getAttribute('href'), /subject=dongyangsa/);
   await page.goto(`${origin}/short?subject=hanguksa`);
   await page.getByLabel('단답형 답안').fill('한국사 별도 답안');
@@ -114,7 +119,7 @@ try {
     await page.getByPlaceholder('API 키',{exact:true}).fill('AIza-demo-history-only');
     await page.getByRole('button',{name:'이 모델로 채점',exact:true}).click();
     await page.waitForFunction(()=>document.querySelector('.status')?.textContent.includes('채점 중'));
-    await page.getByRole('link',{name:'히스토리',exact:true}).click();
+    await page.getByRole('button',{name:'히스토리',exact:true}).click();
   }
   await startEssay();
   while(!releaseScore) await new Promise(resolve=>setTimeout(resolve,5));

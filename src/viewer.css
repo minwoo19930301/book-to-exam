@@ -7,6 +7,31 @@
 .source-lightbox { overflow: auto; align-items: flex-start; }
 .source-lightbox img { max-height: none; width: auto; height: auto; margin: auto; object-fit: contain; }
 .source-lightbox .lightbox-close { position: fixed; }
+.viewer-search { margin: 0 0 24px; }
+.viewer-search label { display: block; font-weight: 600; margin-bottom: 8px; }
+.viewer-search-controls { display: flex; align-items: stretch; gap: 8px; }
+.viewer-search-controls input { flex: 1; min-width: 0; margin: 0; }
+.viewer-search-controls button { flex: 0 0 auto; }
+.viewer-search #viewer-search-help { font-size: 13px; color: var(--muted); margin: 8px 0; }
+.viewer-search-count { margin: 12px 0 0; overflow-wrap: anywhere; }
+.viewer.viewer-search-active { grid-template-columns: minmax(220px, 28%) minmax(0, 1fr); }
+.viewer .side.viewer-results { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.viewer .side.viewer-results button { flex: 0 0 auto; white-space: normal; overflow-wrap: anywhere; padding: 12px; }
+.viewer-result-location, .viewer-result-title, .viewer-result-snippet { display: block; }
+.viewer-result-location { font-size: 12px; opacity: .8; margin-bottom: 5px; }
+.viewer-result-title { font-weight: 600; color: var(--fg); line-height: 1.5; }
+.viewer-result-snippet { font-size: 13px; line-height: 1.65; margin-top: 7px; white-space: pre-wrap; }
+.viewer-results mark { background: #f8df85; color: #332500; border-radius: 2px; padding: 0 1px; }
+.viewer-results button.on .viewer-result-title { color: inherit; }
+.viewer-no-results { color: var(--muted); font-size: 14px; line-height: 1.7; margin: 0; padding: 12px 0; }
+.viewer .spread:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
 @media (max-width: 860px) {
   .page-grid.source-comparison.has-capture { grid-template-columns: minmax(0, 1fr); }
+  .viewer.viewer-search-active { grid-template-columns: minmax(0, 1fr); }
+  .viewer .side.viewer-results { position: static; max-height: 360px; overflow-y: auto; overflow-x: hidden; padding-right: 6px; }
+}
+@media (max-width: 480px) {
+  .viewer-search-controls { flex-wrap: wrap; }
+  .viewer-search-controls input { flex-basis: calc(100% - 80px); }
+  .viewer-search-controls .ghost { margin-left: auto; }
 }
