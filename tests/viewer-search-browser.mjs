@@ -117,7 +117,19 @@ try {
   await page.screenshot({ path: '/tmp/book-to-exam-viewer-search-mobile.png', fullPage: false });
   await results.locator('button').last().click();
   await page.getByRole('heading', { name: '특수문자 예시', exact: true }).waitFor();
-  assert.ok((await page.locator('.spread').boundingBox()).y < 844, 'selected result is brought into the mobile viewport');
+  // The title changes during React's commit; showResult moves focus/scroll in the
+  // next animation frame. Wait for that observable interaction, not just the title.
+  const mobileBeforeFocus = await page.locator('.spread').evaluate(node => ({ top: node.getBoundingClientRect().top, focused: node === document.activeElement, scrollY }));
+  await page.waitForFunction(() => {
+    const node = document.querySelector('.spread');
+    const heading = node?.querySelector('h1')?.getBoundingClientRect();
+    return node === document.activeElement && heading && heading.top >= 0 && heading.bottom <= innerHeight;
+  });
+  if (process.env.VIEWER_SEARCH_DIAGNOSTICS) {
+    const mobileAfterFocus = await page.locator('.spread').evaluate(node => ({ top: node.getBoundingClientRect().top, focused: node === document.activeElement, scrollY }));
+    console.log(JSON.stringify({ mobileBeforeFocus, mobileAfterFocus }));
+    await page.screenshot({ path: '/tmp/book-to-exam-viewer-selected-mobile.png', fullPage: false });
+  }
   assert.equal(await input.inputValue(), '카라칼라');
   await page.getByLabel('학습 과목', { exact: true }).selectOption('hanguksa');
   await input.waitFor();
