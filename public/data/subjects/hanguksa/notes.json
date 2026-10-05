@@ -1285,7 +1285,16 @@
         "hanguksa_textbook_pages/page_008_45s.jpg"
       ],
       "textSha256": "0e5b333cf708cc455a147d12f77b3d969b8bdc06f5393d31cc740419bf2d7ef6",
-      "knownIssues": []
+      "knownIssues": [
+        {
+          "id": "byeon-office-1416",
+          "status": "known-discrepancy",
+          "quote": "영중추부사(領中樞府事) 변계량(卞季良)이 상서(上書)하였다.",
+          "note": "이 상소의 태종 16년 6월 1일 실록 기사는 변계량의 관직을 경승부 윤(敬承府尹)으로 적습니다. 가져온 전사의 관직 표기는 출제 근거에서 제외합니다.",
+          "referenceUrl": "https://sillok.history.go.kr/id/kca_11606001_002",
+          "referenceTitle": "조선왕조실록 · 태종 16년 6월 1일 변계량 상소"
+        }
+      ]
     },
     "headings": [
       "[사료탐구]"
@@ -4881,7 +4890,24 @@
         "hanguksa_textbook_pages/page_073_408s.jpg"
       ],
       "textSha256": "89de06fb9909977996136994330d5434c6945047acc0e292919045e9cc0e55c2",
-      "knownIssues": []
+      "knownIssues": [
+        {
+          "id": "gwon-jik-transcription",
+          "status": "known-discrepancy",
+          "quote": "권식(權直)",
+          "note": "서경 천도 추진 기사에 등장하는 시중의 이름은 권직(權直)입니다. 같은 한자를 권식으로 적은 전사는 정답 근거에서 제외합니다.",
+          "referenceUrl": "https://db.history.go.kr/id/kj_002r_0020_0050_0020",
+          "referenceTitle": "국사편찬위원회 · 고려사절요 정종 4년 3월"
+        },
+        {
+          "id": "jeongjong-article-year",
+          "status": "known-discrepancy",
+          "quote": "『고려사절요』 정종 2년",
+          "note": "정종의 사망과 서경 천도 추진을 회고하는 해당 기사는 정종 4년(949) 3월에 수록되어 있습니다. 전사 말미의 정종 2년 표기는 출제 근거에서 제외합니다.",
+          "referenceUrl": "https://db.history.go.kr/id/kj_002r_0020_0050_0020",
+          "referenceTitle": "국사편찬위원회 · 고려사절요 정종 4년 3월"
+        }
+      ]
     },
     "headings": [
       "[지도: 고려의 영토 확장]",
@@ -6214,7 +6240,16 @@
         "hanguksa_textbook_pages/page_097_552s.jpg"
       ],
       "textSha256": "6c8dce98a3a85a5a03d22b208ea139058d9380cb161e015cc699644f3b83970b",
-      "knownIssues": []
+      "knownIssues": [
+        {
+          "id": "eumyang-council-transcription",
+          "status": "known-discrepancy",
+          "quote": "응방의의소(鷹坊擬議所)",
+          "note": "인종 9년 6월 향도 관련 기사의 기관명은 한국사데이터베이스에서 음양회의소(陰陽會議所)로 확인됩니다. 전사의 응방의의소 표기는 정답 근거에서 제외합니다.",
+          "referenceUrl": "https://db.history.go.kr/id/kr_085r_0010_0010_0020_0320",
+          "referenceTitle": "국사편찬위원회 · 고려사 권85 향도 기사"
+        }
+      ]
     },
     "headings": [
       "02 생활 모습과 사회 정책",

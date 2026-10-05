@@ -95,8 +95,11 @@ test("research selection reports omissions and respects no-match and hand-memo c
   const sourceIds = reports.flatMap(report => report.predictions.flatMap(item => item.sourcePages));
   const found = prepareResearch({ query: "not-a-lexical-match", sourceIds });
   assert.equal(found.predictions.length, 3);
-  assert.equal(found.predictions.length + found.omittedPredictionIds.length, reports.reduce((sum, report) => sum + report.predictions.length, 0));
-  assert.equal(new Set([...found.predictions.map(item => item.id), ...found.omittedPredictionIds]).size, reports.reduce((sum, report) => sum + report.predictions.length, 0));
+  const sourceLinked = reports.flatMap(report => report.predictions).filter(item => item.sourcePages.some(id => sourceIds.includes(id)));
+  assert.equal(found.predictions.length + found.omittedPredictionIds.length, sourceLinked.length);
+  assert.equal(new Set([...found.predictions.map(item => item.id), ...found.omittedPredictionIds]).size, sourceLinked.length);
+  const paperOnly = reports.flatMap(report => report.predictions).find(item => item.sourcePages.length === 0);
+  assert.ok(prepareResearch({ query: paperOnly.title }).predictions.some(item => item.id === paperOnly.id), "paper-only exercises remain searchable without inventing textbook links");
   for (const subject of [undefined, "hand-memo"]) {
     const absent = prepareResearch({ query: "자료없는검색어123456", subject });
     assert.equal(absent.status, "no_matching_research");

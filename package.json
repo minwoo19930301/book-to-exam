@@ -8,6 +8,7 @@
     "build": "vite build",
     "deploy:pages": "node tools/deploy-pages.mjs",
     "deploy:verify": "node tools/verify-deployment.mjs",
+    "appeals:list": "node tools/appeals.mjs list",
     "preview": "vite preview",
     "test": "node --test tests/*.test.js",
     "textbook:viewer": "python3 tools/smart-textbook-pipeline/run_pipeline.py",

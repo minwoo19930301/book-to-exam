@@ -22,6 +22,34 @@ ROOT = Path(__file__).resolve().parents[2]
 REPO = "https://github.com/chaeeun-kim-teacher/smart-textbooks"
 SUBJECTS = {"seoyangsa": "서양사", "hanguksa": "한국사", "dongyangsa": "동양사", "gyoyukron": "역사교육론"}
 KNOWN_ISSUES = {
+    "dongyangsa-textbook-page-165": [{
+        "id": "lin-fu-transcription", "status": "known-discrepancy", "quote": "순무 일부",
+        "note": "포르투갈과의 교역 허용을 건의한 인물은 중국어 사료의 林富(임부)입니다. 전사의 '일부'를 인명 정답으로 사용하지 않습니다.",
+        "referenceUrl": "https://www.macaudata.mo/macaubook/book256/html/007001.htm", "referenceTitle": "마카오 문헌 · 명산장 12.2 林富의 교역 건의",
+    }, {
+        "id": "xiangshan-ao-transcription", "status": "known-discrepancy", "quote": "랑산오(마카오)",
+        "note": "중국어 사료는 香山澳(향산오)로 적습니다. '랑산오'는 전사 오류이며 이 표기를 정답으로 요구하는 문항은 사용하지 않습니다.",
+        "referenceUrl": "https://www.macaudata.mo/macaubook/book256/html/007001.htm", "referenceTitle": "마카오 문헌 · 명산장 12.2 香山澳 교역",
+    }],
+    "hanguksa-textbook-page-8": [{
+        "id": "byeon-office-1416", "status": "known-discrepancy", "quote": "영중추부사(領中樞府事) 변계량(卞季良)이 상서(上書)하였다.",
+        "note": "이 상소의 태종 16년 6월 1일 실록 기사는 변계량의 관직을 경승부 윤(敬承府尹)으로 적습니다. 가져온 전사의 관직 표기는 출제 근거에서 제외합니다.",
+        "referenceUrl": "https://sillok.history.go.kr/id/kca_11606001_002", "referenceTitle": "조선왕조실록 · 태종 16년 6월 1일 변계량 상소",
+    }],
+    "hanguksa-textbook-page-97": [{
+        "id": "eumyang-council-transcription", "status": "known-discrepancy", "quote": "응방의의소(鷹坊擬議所)",
+        "note": "인종 9년 6월 향도 관련 기사의 기관명은 한국사데이터베이스에서 음양회의소(陰陽會議所)로 확인됩니다. 전사의 응방의의소 표기는 정답 근거에서 제외합니다.",
+        "referenceUrl": "https://db.history.go.kr/id/kr_085r_0010_0010_0020_0320", "referenceTitle": "국사편찬위원회 · 고려사 권85 향도 기사",
+    }],
+    "hanguksa-textbook-page-73": [{
+        "id": "gwon-jik-transcription", "status": "known-discrepancy", "quote": "권식(權直)",
+        "note": "서경 천도 추진 기사에 등장하는 시중의 이름은 권직(權直)입니다. 같은 한자를 권식으로 적은 전사는 정답 근거에서 제외합니다.",
+        "referenceUrl": "https://db.history.go.kr/id/kj_002r_0020_0050_0020", "referenceTitle": "국사편찬위원회 · 고려사절요 정종 4년 3월",
+    }, {
+        "id": "jeongjong-article-year", "status": "known-discrepancy", "quote": "『고려사절요』 정종 2년",
+        "note": "정종의 사망과 서경 천도 추진을 회고하는 해당 기사는 정종 4년(949) 3월에 수록되어 있습니다. 전사 말미의 정종 2년 표기는 출제 근거에서 제외합니다.",
+        "referenceUrl": "https://db.history.go.kr/id/kj_002r_0020_0050_0020", "referenceTitle": "국사편찬위원회 · 고려사절요 정종 4년 3월",
+    }],
     "dongyangsa-textbook-page-241": [{
         "id": "ryukyu-capital-naha", "status": "known-discrepancy", "quote": "류큐의 수도 나하",
         "note": "류큐 왕국의 왕도 슈리와 무역항 나하를 구별해야 합니다. 오키나와현 공식 안내는 슈리성을 왕국의 중심, 나하를 교역항으로 설명합니다. 원문은 보존하되 이 구절은 출제 근거에서 제외합니다.",

@@ -102,7 +102,7 @@ export default function Essay() {
     } catch (error) { update({ status: error.name === "AbortError" ? "Chrome 채점을 중단했습니다." : error.message }); }
     finally { update({ waiting: false }); }
   }
-  return <Chrome title="서술형"><ExamFrame>
+  return <Chrome title="서술형" appeal={{ question: essay, type: "essay", record: bank.record }}><ExamFrame>
     <BankStatus bank={bank} />
     {essay && <div className="card q">
       <p className="lead">{essay.prompt}</p>

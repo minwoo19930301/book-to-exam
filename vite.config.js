@@ -6,7 +6,7 @@ function localPages() {
   return { name: "local-pages-api", configureServer(server) {
     server.middlewares.use(async (req, res, next) => {
       const url = new URL(req.url, "http://127.0.0.1");
-      const routes = { "/api/score": "/functions/api/score.js", "/api/models": "/functions/api/models.js", "/api/grade": "/functions/api/grade.js", "/api/grade-temp": "/functions/api/grade-temp.js", "/api/practice-bank": "/functions/api/practice-bank.js" };
+      const routes = { "/api/score": "/functions/api/score.js", "/api/models": "/functions/api/models.js", "/api/grade": "/functions/api/grade.js", "/api/grade-temp": "/functions/api/grade-temp.js", "/api/practice-bank": "/functions/api/practice-bank.js", "/api/research": "/functions/api/research.js", "/api/appeals": "/functions/api/appeals.js" };
       const mcp = /^\/api\/mcp(?:\/([^/]+))?$/.exec(url.pathname);
       const modulePath = routes[url.pathname] || (mcp && "/functions/_lib/mcp.js");
       if (!modulePath) return next();

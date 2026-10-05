@@ -2,5 +2,12 @@
   "name": "bookvideotoexam",
   "compatibility_date": "2026-09-01",
   "pages_build_output_dir": "dist",
+  "d1_databases": [
+    {
+      "binding": "APPEALS_DB",
+      "database_name": "bookvideotoexam-appeals",
+      "database_id": "ab4a8c5c-6434-4596-9b7f-65533149a419"
+    }
+  ],
   "ai": { "binding": "AI" }
 }

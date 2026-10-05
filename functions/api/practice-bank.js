@@ -67,6 +67,10 @@ const catalog = [
   item.explanation, item.choiceExplanations, item.criteria, item.evidence, item.sourcePages, item.caution,
 ])) }));
 
+export function findPracticeQuestion(subject, type, id) {
+  return catalog.find(({ item }) => item.subject === subject && item.type === type && item.id === id)?.item || null;
+}
+
 function parseParameters(request) {
   const params = new URL(request.url).searchParams;
   for (const key of params.keys()) {

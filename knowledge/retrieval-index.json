@@ -5214,7 +5214,24 @@
         "hanguksa_textbook_pages/page_073_408s.jpg"
       ],
       "textSha256": "89de06fb9909977996136994330d5434c6945047acc0e292919045e9cc0e55c2",
-      "knownIssues": []
+      "knownIssues": [
+        {
+          "id": "gwon-jik-transcription",
+          "status": "known-discrepancy",
+          "quote": "권식(權直)",
+          "note": "서경 천도 추진 기사에 등장하는 시중의 이름은 권직(權直)입니다. 같은 한자를 권식으로 적은 전사는 정답 근거에서 제외합니다.",
+          "referenceUrl": "https://db.history.go.kr/id/kj_002r_0020_0050_0020",
+          "referenceTitle": "국사편찬위원회 · 고려사절요 정종 4년 3월"
+        },
+        {
+          "id": "jeongjong-article-year",
+          "status": "known-discrepancy",
+          "quote": "『고려사절요』 정종 2년",
+          "note": "정종의 사망과 서경 천도 추진을 회고하는 해당 기사는 정종 4년(949) 3월에 수록되어 있습니다. 전사 말미의 정종 2년 표기는 출제 근거에서 제외합니다.",
+          "referenceUrl": "https://db.history.go.kr/id/kj_002r_0020_0050_0020",
+          "referenceTitle": "국사편찬위원회 · 고려사절요 정종 4년 3월"
+        }
+      ]
     },
     "sources": [
       {
@@ -5241,7 +5258,24 @@
             "hanguksa_textbook_pages/page_073_408s.jpg"
           ],
           "textSha256": "89de06fb9909977996136994330d5434c6945047acc0e292919045e9cc0e55c2",
-          "knownIssues": []
+          "knownIssues": [
+            {
+              "id": "gwon-jik-transcription",
+              "status": "known-discrepancy",
+              "quote": "권식(權直)",
+              "note": "서경 천도 추진 기사에 등장하는 시중의 이름은 권직(權直)입니다. 같은 한자를 권식으로 적은 전사는 정답 근거에서 제외합니다.",
+              "referenceUrl": "https://db.history.go.kr/id/kj_002r_0020_0050_0020",
+              "referenceTitle": "국사편찬위원회 · 고려사절요 정종 4년 3월"
+            },
+            {
+              "id": "jeongjong-article-year",
+              "status": "known-discrepancy",
+              "quote": "『고려사절요』 정종 2년",
+              "note": "정종의 사망과 서경 천도 추진을 회고하는 해당 기사는 정종 4년(949) 3월에 수록되어 있습니다. 전사 말미의 정종 2년 표기는 출제 근거에서 제외합니다.",
+              "referenceUrl": "https://db.history.go.kr/id/kj_002r_0020_0050_0020",
+              "referenceTitle": "국사편찬위원회 · 고려사절요 정종 4년 3월"
+            }
+          ]
         },
         "figureIds": [
           "hanguksa-textbook-page-73-figure-1"

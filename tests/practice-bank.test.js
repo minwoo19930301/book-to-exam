@@ -115,17 +115,17 @@ test("essay criteria retain full private rubrics; model answers are never invent
 
 test("research browsing preserves getPrediction material without faculty inventories", async () => {
   const result = await allItems("type=research");
-  assert.equal(result.total, 24);
+  assert.equal(result.total, listPredictions().length);
   for (const item of result.items) {
     const original = JSON.parse(JSON.stringify(getPrediction(item.id)));
     assert.equal(item.type, "research");
-    for (const key of ["prompt", "modelAnswer", "criteria", "caution", "paperIds", "sourcePages", "papers", "sources", "instructions", "linkedQuestionIds", "scoreNote", "automaticExamEligible", "reviewStatus"])
+    for (const key of ["prompt", "modelAnswer", "criteria", "forecast", "caution", "paperIds", "sourcePages", "papers", "sources", "instructions", "linkedQuestionIds", "scoreNote", "automaticExamEligible", "reviewStatus"])
       assert.deepEqual(item[key], original[key], `${item.id}: ${key}`);
     assert.ok(!("faculty" in item));
     assert.ok(!("bibliography" in item));
   }
   const first = listPredictions({ subject: "hanguksa" });
-  assert.equal(first.length, 6);
+  assert.equal(first.length, read("knowledge/prediction-research/hanguksa.json").predictions.length);
   first[0].criteria[0].label = "mutated";
   assert.notEqual(listPredictions({ subject: "hanguksa" })[0].criteria[0].label, "mutated");
   assert.equal(listPredictions({ subject: "hand-memo" }).length, 0);

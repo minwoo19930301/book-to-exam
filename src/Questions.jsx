@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { Link, useSearchParams } from "react-router-dom";
+import { Link, useLocation, useSearchParams } from "react-router-dom";
 import Chrome from "./Chrome.jsx";
 import { subjectUrl, useSubjects } from "./subjects.jsx";
 
@@ -22,6 +22,7 @@ function Criterion({ criterion, index }) {
 }
 
 export function QuestionCard({ item, number, expanded, onExpanded }) {
+  const location = useLocation();
   const essay = item.type === "essay" || item.type === "research";
   const evidence = list(item.evidence);
   const sources = [...new Set([...list(item.sourcePages), ...evidence.map(entry => entry.page)].filter(Boolean))];
@@ -47,6 +48,7 @@ export function QuestionCard({ item, number, expanded, onExpanded }) {
       </div>
     </details>
     {sources.length > 0 && <div className="bank-source-links">{sources.map((page, index) => <Link key={page} className="source-link" to={subjectUrl(`/viewer?page=${encodeURIComponent(page)}`, item.subject)}>교재 원문{sources.length > 1 ? ` ${index + 1}` : ""} ↗</Link>)}</div>}
+    <div className="bank-source-links"><Link className="source-link" to={subjectUrl(`/appeal?${new URLSearchParams({ from: location.pathname + location.search, type: item.type, question: item.id })}`, item.subject)}>이 문항 이의제기</Link></div>
   </article>;
 }
 

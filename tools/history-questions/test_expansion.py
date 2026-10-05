@@ -212,13 +212,15 @@ class ExpansionTests(unittest.TestCase):
         self.write(path, self.full_document())
         expanded = bank.expand_generated(self.subject, self.root, starter)
         self.assertEqual(len(expanded[self.paths["questions"]]), 221)
-        # Isolate this hook assertion from optional authored short inputs in the
-        # real repository; their integration is covered by test_shorts.py.
+        # Isolate this hook assertion from optional authored inputs in the real
+        # repository; their imports are covered by their own fixture tests.
         with patch.object(bank, "expand_generated", return_value={}) as hook, \
-                patch("shorts.extend_generated", side_effect=lambda subject, root, outputs: outputs) as short_hook:
+                patch("shorts.extend_generated", side_effect=lambda subject, root, outputs: outputs) as short_hook, \
+                patch("source_cloze.extend_generated", side_effect=lambda subject, root, outputs: outputs) as source_hook:
             self.assertEqual(generate.generate(self.subject, generate.ROOT), {})
             hook.assert_called_once()
             short_hook.assert_called_once_with(self.subject, generate.ROOT, {})
+            source_hook.assert_called_once_with(self.subject, generate.ROOT, {})
 
 
 if __name__ == "__main__":

@@ -44,11 +44,13 @@
 | 사용법 | [/guide](https://bookvideotoexam.pages.dev/guide) | 화면을 직접 눌러 보는 안내 |
 | 뷰어 | [/viewer](https://bookvideotoexam.pages.dev/viewer) | 쪽 사진과 메모 |
 | 객관식 | [/quiz](https://bookvideotoexam.pages.dev/quiz) | 보기 선택 후 채점 |
-| 빈칸 | [/blank](https://bookvideotoexam.pages.dev/blank) | 뷰어 앞뒤 글을 보고 빈칸을 채움 |
-| 단답 | [/short](https://bookvideotoexam.pages.dev/short) | 용어를 정확히 씀 |
+| 빈칸 | [/blank](https://bookvideotoexam.pages.dev/blank) | 사료탐구 발췌문·개념 빈칸, 유형별 이동 |
+| 단답 | [/short](https://bookvideotoexam.pages.dev/short) | 개념·원문 기반 단답, 원문은 채점 전 정답을 가림 |
 | 서술형 | [/essay](https://bookvideotoexam.pages.dev/essay) | 사용자 AI로 채점 |
-| 전체 문제은행 | [/questions](https://bookvideotoexam.pages.dev/questions?subject=all&pageSize=50) | 2,077개 검색·과목/유형 필터·정답/해설 펼치기 |
-| 연구 예상문항 | [/questions?type=research](https://bookvideotoexam.pages.dev/questions?type=research&pageSize=50) | 논문 기반 서술형 24개·모범답안·채점 기준 |
+| 전체 문제은행 | [/questions](https://bookvideotoexam.pages.dev/questions?subject=all&pageSize=50) | 2,413개 검색·과목/유형 필터·정답/해설 펼치기 |
+| 연구 예상문항 | [/questions?type=research](https://bookvideotoexam.pages.dev/questions?type=research&pageSize=50) | 논문 기반 서술형 120개·모범답안·채점 기준 |
+| 출제자 예상 | [/prediction-analysis](https://bookvideotoexam.pages.dev/prediction-analysis?subject=all) | 공개 교수·논문·주제 분석, 예상도와 근거·한계 |
+| 이의제기 | [/appeal](https://bookvideotoexam.pages.dev/appeal) | 문항·답안·채점 결과를 선택 첨부하여 운영자에게 접수 |
 | 히스토리 | [/history](https://bookvideotoexam.pages.dev/history) | 30일간 답안·채점 결과, 과목/유형/결과 필터, 삭제·다시 풀기 |
 
 서술형 채점에는 사용자 AI가 필요합니다.
@@ -134,13 +136,15 @@ MCP의 `search_knowledge` → `get_knowledge`로 필요한 작은 문서만 읽�
 
 `prepare_exam`은 과목·주제에 맞는 압축 문서 최대 3개와 제한된 원문 발췌, 검증된 기출 연결, 실제 그림 정보를 묶어 에이전트의 출제를 준비합니다. 모델을 호출하거나 문항을 자동 등록하지 않습니다. 에이전트는 보류 사유를 확인하고 정답·선지·채점 기준의 근거를 남겨 검수해야 합니다. 초기 111문항을 유지하고 서양사·한국사·동양사·역사교육론에 각각 300문항(총 1,200개)을 추가했습니다. `tools/history-questions/extended-inputs/`의 집필 입력과 원문 인용·오답 해설·문항별 채점 기준을 검증해 가져옵니다. 교재 기반 연습은행은 총 1,311문항이며, 기존 손글씨 142문항을 포함하면 1,453문항입니다. 새 KB를 편집한다고 은행이 자동 변경되지는 않습니다.
 
-2026-10-05에 네 과목의 단답형을 각각 150개(총 600개) 추가하여 등록 연습문항은 2,053개, 연구 초안 24개를 포함한 공개 목록은 2,077개가 됩니다. 단답형 합계는 1,067개입니다. 입력·인용 선택은 `short-seeds/`와 `short-inputs/`, 증분 검증은 `tools/history-questions/shorts.py`에서 관리합니다. [객관식 517개 내용 검토 기록](knowledge/question-review/2026-10-05-mc.md)은 원문 의미 검토와 외부 자료로 확인한 범위를 구분합니다. 새 단답의 출제 확률이나 실제 시험 적중률을 측정한 것은 아닙니다.
+2026-10-05에 네 과목의 단답형을 각각 150개(총 600개) 추가하여 등록 연습문항이 2,053개가 되었습니다. 단답형 합계는 1,067개입니다. 입력·인용 선택은 `short-seeds/`와 `short-inputs/`, 증분 검증은 `tools/history-questions/shorts.py`에서 관리합니다. [객관식 517개 내용 검토 기록](knowledge/question-review/2026-10-05-mc.md)은 원문 의미 검토와 외부 자료로 확인한 범위를 구분합니다. 새 단답의 출제 확률이나 실제 시험 적중률을 측정한 것은 아닙니다.
+
+같은 날 서양사·한국사·동양사에 사료탐구 지문 빈칸을 각각 80개(총 240개) 추가했습니다. 등록 연습문항은 2,293개, 연구 예상문항 120개를 포함한 공개 목록은 2,413개입니다. 빈칸 합계는 571개입니다. `tools/history-questions/source-cloze-inputs/`에 문항별로 검토한 연속 발췌문·정답·별칭·해설을 보존하고 원문 일치, 사료 표제, 답 노출, 기존 문항 중복을 검사합니다. '사료탐구' 필터에서 새 문항만 풀 수 있습니다. 원문은 기존 교재 전사이며 모든 캡처와의 대조 완료를 뜻하지 않습니다. 확인된 전사 오류는 원문에 경고를 붙이고 새 문항 근거에서 제외합니다.
 
 전체 캡처 재현: `python3 tools/history-source-pages.py --source /path/to/smart-textbooks --github-account chaeeun-kim-teacher`. 배포 자산만 검증: `python3 tools/history-source-pages.py --check`.
 
-공개 연구 참고 교수 27명·연구 JSON 87항목(핵심 검토 72항목)을 별도 조사했습니다. 논문 기반 예상 서술형 24개는 연구 초안이며 `prepare_exam`의 연구 검색과 `get_prediction`의 모범답안·채점 기준 조회로 연결됩니다. 공개 문제은행에서도 ‘연구 예상문항’ 유형으로 읽을 수 있습니다. `get_research_stats`는 서지·초록·본문 일부의 확인 범위를 구별해 집계합니다. [문항·연구 검증 기록](knowledge/prediction-research/validation-report.md)에 실제 확인 범위와 한계를 남겼습니다.
+공개 연구 참고 교수 27명·연구 JSON 87항목(핵심 검토 72항목)을 별도 조사했습니다. 논문 기반 예상 서술형 120개(과목별 30개)는 연구 초안이며 `prepare_exam`의 연구 검색과 `get_prediction`의 모범답안·채점 기준 조회로 연결됩니다. 공개 문제은행에서도 ‘연구 예상문항’ 유형으로 읽을 수 있습니다. `get_research_stats`는 서지·초록·본문 일부의 확인 범위를 구별해 집계합니다. [문항·연구 검증 기록](knowledge/prediction-research/validation-report.md)에 실제 확인 범위와 한계를 남겼습니다.
 
-논문 기반 예상문항·공개 교수 연구분야·학원 자료 대조는 [출제 연구](knowledge/prediction-research/README.md)에 보존합니다. 논문별로 서지 확인·초록·본문 선별 검토를 구분하며, 특정 연구자의 실제 출제 참여나 정량적 적중률을 추정하지 않습니다. 조사 결과는 내부 출제 자료이며 공개 개념 위키 화면을 만들지 않습니다.
+논문 기반 예상문항·공개 교수 연구분야·학원 자료 대조는 [출제 연구](knowledge/prediction-research/README.md)에 보존합니다. 논문별로 서지 확인·초록·본문 선별 검토를 구분하며, 특정 연구자의 실제 출제 참여나 정량적 적중률을 추정하지 않습니다. 문제은행 옆 '출제자 예상'에서 주제 분석·공개 교수·논문·연구 예상문항을 연결해 볼 수 있습니다. 제목은 사용자 요청에 따른 메뉴명이며 실제 출제자 명단을 의미하지 않습니다. 상·중상·중은 교육과정·교재·연구 연결에 따른 편집적 예상도이며 실측 확률이나 특정 교수의 참여 가능성이 아닙니다. 공개 개념 위키 화면은 만들지 않습니다.
 
 ```sh
 npm run kb:import -- --source /path/to/smart-textbooks
@@ -151,7 +155,11 @@ npm test
 npm run build
 ```
 
-그림 재현은 [수집·크롭·검수 절차](tools/history-figures/README.md)를 따릅니다. 원문은 고정 커밋에서 가져온 기존 전사로 전체 내용 검수 전입니다. 2026-10-04 공개 문제은행 배포 요청에 따라 문제·해설·연구 예상문항을 사이트에서 열람하도록 연결했습니다. 원본 PDF와 전체 스캔 사진은 배포에 추가하지 않았습니다.
+그림 재현은 [수집·크롭·검수 절차](tools/history-figures/README.md)를 따릅니다. 원문은 고정 커밋에서 가져온 기존 전사로 전체 내용 검수 전입니다. 2026-10-04 공개 문제은행 배포 요청에 따라 문제·해설·연구 예상문항을 사이트에서 열람하도록 연결했습니다. 원본 PDF는 배포하지 않으며, 교재의 전체 캡처 1,071개는 별도 복원하여 배포했습니다.
+
+## 이의제기 운영
+
+우측 상단 이의제기에서 과목·유형·내용을 접수합니다. 현재 화면의 문항·답안·채점 결과는 첨부 옵션을 켠 경우에만 첨부하며 서버의 정식 문항과 브라우저 관찰 기록을 구분합니다. Cloudflare D1에 보관하고 접수 번호를 반환합니다. 고객 제출물을 공개 조회하는 API는 없습니다. 운영자는 기존 Cloudflare 계정으로 `npm run appeals:list`를 실행하거나 D1 콘솔에서 확인합니다. [저장·운영·검증 방법](docs/APPEALS.md).
 
 ## 배포
 

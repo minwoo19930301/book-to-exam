@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { createHash } from "node:crypto";
-import { listPredictions } from "../functions/_lib/research.js";
+import { listPredictions, getResearchStats, getResearchAnalysis } from "../functions/_lib/research.js";
 
 const [origin = "https://bookvideotoexam.pages.dev", expectedCommit] = process.argv.slice(2);
 if (!expectedCommit || !/^[a-f0-9]{40}$/.test(expectedCommit)) throw new Error("Usage: node tools/verify-deployment.mjs <url> <full-commit-sha>");
@@ -42,18 +42,29 @@ const expectedCounts = Object.fromEntries(["hand-memo", "seoyangsa", "hanguksa",
 const expectedTotal = Object.values(expectedCounts).reduce((a, b) => a + b, 0);
 assert.equal(all.total, expectedTotal);
 assert.equal(all.items.length, 100);
-assert.equal(all.counts.research, 24);
+const expectedResearch = listPredictions().length;
+assert.equal(all.counts.research, expectedResearch);
 for (const [subject, total] of Object.entries(expectedCounts)) {
   const result = await get(`/api/practice-bank?subject=${subject}&pageSize=20`);
   assert.equal(result.total, total, subject);
   assert.ok(result.items.every(item => item.subject === subject));
 }
-const research = await get("/api/practice-bank?type=research&pageSize=50");
-assert.equal(research.items.length, 24);
-for (const item of research.items) {
+const research = await get("/api/practice-bank?type=research&pageSize=100");
+assert.equal(research.total, expectedResearch);
+const researchItems = [...research.items];
+for (let page = 2; page <= research.pageCount; page++) researchItems.push(...(await get(`/api/practice-bank?type=research&pageSize=100&page=${page}`)).items);
+assert.equal(researchItems.length, expectedResearch);
+for (const item of researchItems) {
   assert.ok(item.modelAnswer);
   assert.equal(item.criteria.reduce((sum, criterion) => sum + criterion.max, 0), 10);
+  assert.ok(['상', '중상', '중'].includes(item.forecast?.level));
 }
+const analysis = await get('/api/research?subject=all');
+assert.deepEqual(analysis.counts, getResearchAnalysis().counts);
+assert.match(await (await request('/prediction-analysis?subject=hanguksa')).text(), /<div id="root"/);
+assert.match(await (await request('/appeal?subject=hanguksa')).text(), /<div id="root"/);
+const appeals = await fetch(new URL('/api/appeals', base), { signal: AbortSignal.timeout(20000) });
+assert.equal(appeals.status, 405, 'customer submissions must not have a public list endpoint');
 const searched = await get(`/api/practice-bank?subject=hanguksa&type=research&q=${encodeURIComponent("호적")}`);
 assert.ok(searched.items.some(item => item.id === "hanguksa-pred-status-evidence"));
 const invalid = await fetch(new URL("/api/practice-bank?pageSize=999", base), { signal: AbortSignal.timeout(20000) });
@@ -76,5 +87,5 @@ for (const subject of ["seoyangsa", "hanguksa", "dongyangsa", "gyoyukron"]) {
 assert.match(await (await request("/history")).text(), /<div id="root"/);
 const mcp = await (await request("/api/mcp/public", { method: "POST", headers: { "content-type": "application/json" },
   body: JSON.stringify({ jsonrpc: "2.0", id: 1, method: "tools/call", params: { name: "get_research_stats", arguments: {} } }) })).json();
-assert.deepEqual(mcp.result.structuredContent.totals, { faculty: 27, papers: 87, predictions: 24, coreReviewed: 72 });
-console.log(`Verified: ${expectedTotal.toLocaleString()} questions, five subjects, 24 research answers/rubrics, search, invalid-input handling, ${captures.notesWithCaptures} capture mappings with four original samples, four extracted figures, history route, MCP, release identity.`);
+assert.deepEqual(mcp.result.structuredContent.totals, getResearchStats().totals);
+console.log(`Verified: ${expectedTotal.toLocaleString()} questions, five subjects, ${expectedResearch} research answers/rubrics/forecast bands, research analysis, private appeals, search, invalid-input handling, ${captures.notesWithCaptures} capture mappings with four original samples, four extracted figures, history route, MCP, release identity.`);

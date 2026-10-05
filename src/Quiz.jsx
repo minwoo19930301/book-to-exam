@@ -27,7 +27,7 @@ export default function Quiz() {
   }
 
   return (
-    <Chrome title="객관식">
+    <Chrome title="객관식" appeal={{ question: q, type: "mc", record: bank.record }}>
       <ExamFrame>
         <BankStatus bank={bank} />
         {q && (

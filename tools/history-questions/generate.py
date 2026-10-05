@@ -103,7 +103,8 @@ def generate(subject: str, root: Path, *, include_expansion: bool = True) -> dic
     if include_expansion:
         from expansion import expand_generated
         from shorts import extend_generated
-        return extend_generated(subject, root, expand_generated(subject, root, outputs))
+        from source_cloze import extend_generated as extend_source_cloze
+        return extend_source_cloze(subject, root, extend_generated(subject, root, expand_generated(subject, root, outputs)))
     return outputs
 
 
