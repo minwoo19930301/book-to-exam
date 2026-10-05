@@ -9,6 +9,8 @@ const branch = git("branch", "--show-current");
 const remoteCommit = branch && git("ls-remote", "--heads", "origin", `refs/heads/${branch}`).split(/\s+/)[0];
 if (remoteCommit !== commit) throw new Error("Push this branch's current commit before deploying.");
 execFileSync("npm", ["run", "build"], { stdio: "inherit" });
+execFileSync(process.execPath, ["tools/build-pages-functions.mjs"], { stdio: "inherit" });
+execFileSync(process.execPath, ["tools/verify-functions-build.mjs"], { stdio: "inherit" });
 execFileSync("npx", ["wrangler", "pages", "deploy", "dist", "--project-name", "bookvideotoexam",
-  "--branch", "main", "--commit-hash", commit, "--commit-dirty=false"], { stdio: "inherit" });
+  "--no-bundle", "--branch", "main", "--commit-hash", commit, "--commit-dirty=false"], { stdio: "inherit" });
 execFileSync(process.execPath, ["tools/verify-deployment.mjs", "https://bookvideotoexam.pages.dev", commit], { stdio: "inherit" });

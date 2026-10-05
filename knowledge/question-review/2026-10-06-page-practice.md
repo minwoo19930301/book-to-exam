@@ -57,3 +57,9 @@ npm run build
 ```
 
 검증 범위: Python 44개, Node 76개, 다섯 과목 실제 브라우저에서 쪽별 조회→답안 작성→채점→히스토리, 원문 복귀, 과목 변경과 필터 초기화, 제외 쪽 안내 및 모바일 너비 확인. 기존 원문 검색과 새 빈칸의 전체 지문 표시도 확인한다. 브라우저 검증은 headless Playwright를 사용하며 고객 이의제기 데이터를 저장하지 않는다.
+
+## 배포 파일 크기
+
+문항 추가 후 기본 Functions 빌드는 25MiB 제한을 초과했다. 문항을 줄이는 대신 Wrangler가 생성한 라우터를 minify하고 esbuild의 [UTF-8 출력](https://esbuild.github.io/api/#charset)으로 변환한다. 생성된 라우트와 ASSETS fallback을 유지한 [Pages advanced mode](https://developers.cloudflare.com/pages/functions/advanced-mode/) 파일을 `--no-bundle`로 업로드하여 한글이 다시 긴 ASCII escape로 바뀌지 않게 했다. 결과는 15,473,411바이트(약 14.8MiB)이며 데이터 내용은 바뀌지 않는다.
+
+`tools/build-pages-functions.mjs`는 크기를 검사하고, `tools/verify-functions-build.mjs`는 실제 배포 Worker의 3,749개 문항 응답을 소스 API와 전체 대조한다. 범위/오류 응답, 연구 API, MCP 도구 목록, 이의제기 목록 비공개 및 정적 파일 fallback도 확인한다. 두 단계는 `npm run deploy:pages`에 포함되어 있어 검사 실패 시 업로드하지 않는다.
