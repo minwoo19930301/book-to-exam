@@ -181,3 +181,29 @@ test("unsupported methods return 405 and browsing never requires a model or envi
     get env() { throw new Error("Browsing must not access model credentials"); } });
   assert.equal(response.status, 200);
 });
+
+test("viewer page filter counts primary-page questions exactly and composes with other filters", async () => {
+  for (const subject of subjects) {
+    const bank = sourceBanks.find(bank => bank.subject === subject);
+    const page = bank.questions.find(q => q.page)?.page;
+    const expected = [...bank.questions, ...bank.blanks, ...bank.essays].filter(q => q.page === page);
+    const scoped = await allItems(`subject=${subject}&sourcePage=${page}`);
+    assert.equal(scoped.total, expected.length);
+    assert.deepEqual(new Set(scoped.items.map(q => q.id)), new Set(expected.map(q => q.id)));
+    assert.ok(scoped.items.every(q => q.page === page));
+    const shorts = await allItems(`subject=${subject}&sourcePage=${page}&type=short`);
+    assert.equal(shorts.total, scoped.counts.short);
+    assert.deepEqual(shorts.counts, scoped.counts);
+    const other = subjects.find(s => s !== subject);
+    assert.equal((await request(`subject=${other}&sourcePage=${page}`)).body.total, 0);
+    const query = encodeURIComponent(scoped.items[0].prompt.slice(0, 5));
+    const searched = await allItems(`subject=${subject}&sourcePage=${page}&q=${query}`);
+    assert.ok(searched.total > 0);
+    assert.ok(searched.items.every(q => expected.some(original => original.id === q.id)));
+  }
+  const unknown = await request("sourcePage=hanguksa-textbook-page-999999");
+  assert.equal(unknown.body.total, 0);
+  for (const query of ["sourcePage=../p1", "sourcePage=p1&sourcePage=p2", `sourcePage=${"x".repeat(121)}`, "sourcePage=p1%25"]) {
+    assert.equal((await request(query)).response.status, 400, query);
+  }
+});

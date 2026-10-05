@@ -1,8 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { useSearchParams } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import Chrome from "./Chrome.jsx";
 import { formatNote } from "./noteFormat.jsx";
-import { sourceUrl, useJsonArray, useSubject } from "./subjects.jsx";
+import { sourceUrl, subjectUrl, useJsonArray, useSubject } from "./subjects.jsx";
 import { useGuide } from "./guide-mode.jsx";
 import SourceIssues from "./SourceIssues.jsx";
 import FigureGallery from "./FigureGallery.jsx";
@@ -29,6 +29,7 @@ export default function Viewer() {
   const [zoom, setZoom] = useState(null);
   const [failedImages, setFailedImages] = useState({});
   const [captures, setCaptures] = useState({ pages: {}, loading: true, error: false });
+  const [coverage, setCoverage] = useState({});
   const selectedPage = guide ? null : search.get("page");
   const found = notes.findIndex(note => note.id === selectedPage);
   const idx = found < 0 ? 0 : found;
@@ -39,6 +40,15 @@ export default function Viewer() {
       .then(response => { if (!response.ok) throw new Error("capture manifest"); return response.json(); })
       .then(data => setCaptures({ pages: data.pages || {}, loading: false, error: false }))
       .catch(error => { if (error.name !== "AbortError") setCaptures({ pages: {}, loading: false, error: true }); });
+    return () => controller.abort();
+  }, []);
+  useEffect(() => {
+    const controller = new AbortController();
+    fetch("/data/page-practice-coverage.json", { signal: controller.signal })
+      .then(response => { if (!response.ok) throw new Error("page coverage"); return response.json(); })
+      .then(data => setCoverage(Object.fromEntries((data.subjects || []).flatMap(entry =>
+        (entry.pages || []).map(page => [`${entry.subject}:${page.page}`, page])))))
+      .catch(error => { if (error.name !== "AbortError") setCoverage({}); });
     return () => controller.abort();
   }, []);
   function show(index) {
@@ -86,6 +96,7 @@ export default function Viewer() {
   const imageUrl = n.img ? sourceUrl(n.img) || `/pages/${encodeURIComponent(n.img)}` : null;
   const images = imageUrl ? [{ src: imageUrl }] : (captures.pages[n.id]?.captures || []);
   const original = sourceUrl(n.sourceUrl || n.source?.url);
+  const practice = coverage[`${subject}:${n.id}`];
 
   return (
     <Chrome title="뷰어" sourcePage={n.id}>
@@ -123,9 +134,11 @@ export default function Viewer() {
           <h1>{n.title}</h1>
           <SourceIssues item={n} />
           {!guide && <div className="source-actions">
+            {practice?.count > 0 && <Link className="source-link viewer-page-practice" to={subjectUrl(`/questions?sourcePage=${encodeURIComponent(n.id)}`, subject)}>이 쪽 문제 {practice.count}개 보기 →</Link>}
             {n.figures?.length > 0 && <a className="source-link" href="#figures">사진·지도·도표 {n.figures.length}개 보기 ↓</a>}
             {original && <a className="source-link" href={original} target="_blank" rel="noreferrer">원문 출처 열기 ↗</a>}
           </div>}
+          {!guide && practice?.status === "exception" && <p className="muted source-hint">문제 구성 안내: {practice.reason}</p>}
           <div className={`page-grid source-comparison${images.length ? " has-capture" : ""}`}>
             <div data-guide="note-text" className="hand" dangerouslySetInnerHTML={{ __html: formatNote(n.text) }} />
             <section className="source-captures" aria-label="원문 캡처">

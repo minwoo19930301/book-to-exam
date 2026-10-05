@@ -839,6 +839,7 @@ textarea.cloze-in { display: inline-block; width: 10em; min-height: 0; height: 4
 .bank-evidence { margin-top: 20px; font-size: 13px; }
 .bank-evidence > summary { cursor: pointer; color: var(--muted); }
 .bank-source-links { display: flex; flex-wrap: wrap; gap: 2px 18px; margin-top: 4px; }
+.bank-source-filter { flex-wrap: wrap; gap: 8px 18px; padding: 12px 0; font-size: 14px; }
 .bank-evidence .source-link { margin-top: 4px; }
 @media (max-width: 600px) {
   .bank-filters { padding: 16px; }

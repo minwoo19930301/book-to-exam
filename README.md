@@ -47,7 +47,7 @@
 | 빈칸 | [/blank](https://bookvideotoexam.pages.dev/blank) | 사료탐구 발췌문·개념 빈칸, 유형별 이동 |
 | 단답 | [/short](https://bookvideotoexam.pages.dev/short) | 개념·원문 기반 단답, 원문은 채점 전 정답을 가림 |
 | 서술형 | [/essay](https://bookvideotoexam.pages.dev/essay) | 사용자 AI로 채점 |
-| 전체 문제은행 | [/questions](https://bookvideotoexam.pages.dev/questions?subject=all&pageSize=50) | 2,413개 검색·과목/유형 필터·정답/해설 펼치기 |
+| 전체 문제은행 | [/questions](https://bookvideotoexam.pages.dev/questions?subject=all&pageSize=50) | 3,749개 검색·과목/유형/원문 쪽 필터·정답/해설 펼치기 |
 | 연구 예상문항 | [/questions?type=research](https://bookvideotoexam.pages.dev/questions?type=research&pageSize=50) | 논문 기반 서술형 120개·모범답안·채점 기준 |
 | 출제자 예상 | [/prediction-analysis](https://bookvideotoexam.pages.dev/prediction-analysis?subject=all) | 공개 교수·논문·주제 분석, 예상도와 근거·한계 |
 | 이의제기 | [/appeal](https://bookvideotoexam.pages.dev/appeal) | 내용 한 칸만 쓰는 팝업·현재 문항/화면 자동 첨부 |
@@ -177,3 +177,5 @@ Canary 자체의 실행 완료는 아직 검증하지 못했습니다. 표본 �
 
 
 채점 화면의 설정 가이드에서 Canary 설치, Prompt API 설정, 재시작, 모델 준비 확인을 순서대로 안내합니다. 설정 주소 복사와 준비 상태 확인 버튼을 제공합니다.
+
+2026-10-06에는 뷰어 쪽별로 부족한 연습문항 1,336개(단답 1,328·빈칸 8)를 더했습니다. 877쪽에 최소 3문항을 연결했으며, 나머지 290쪽은 표지·중복·짧은 메모·유추 복원된 기출 등 제외 사유를 남겼습니다. 연습문항은 3,629개, 연구 예상문항 포함 공개 문제은행은 3,749개입니다. 뷰어의 **이 쪽 문제 보기**로 해당 쪽의 문제만 모아 보고 **답안 작성**으로 이동할 수 있습니다. [쪽별 보충 및 검토 기록](knowledge/question-review/2026-10-06-page-practice.md), [수량·예외 데이터](public/data/page-practice-coverage.json)를 참고하세요.

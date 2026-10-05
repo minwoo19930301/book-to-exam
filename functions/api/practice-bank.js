@@ -24,7 +24,7 @@ const banks = [
 ];
 const subjects = new Set(["all", ...banks.map(([subject]) => subject)]);
 const types = ["mc", "short", "blank", "essay", "research"];
-const parameters = new Set(["subject", "type", "q", "page", "pageSize"]);
+const parameters = new Set(["subject", "type", "q", "page", "pageSize", "sourcePage"]);
 const normalize = value => String(value).normalize("NFKC").toLowerCase();
 
 function sourceEvidence(item, criteria) {
@@ -80,14 +80,16 @@ function parseParameters(request) {
   const subject = params.get("subject") ?? "all";
   const type = params.get("type") ?? "all";
   const query = params.get("q") ?? "";
+  const sourcePage = params.get("sourcePage") ?? "";
   const rawPage = params.get("page") ?? "1";
   const rawSize = params.get("pageSize") ?? "20";
   if (!subjects.has(subject)) throw new Error("없는 과목입니다.");
   if (type !== "all" && !types.includes(type)) throw new Error("없는 문제 유형입니다.");
   if (query.length > 200) throw new Error("검색어는 200자 이내로 입력해 주세요.");
+  if (sourcePage && (sourcePage.length > 120 || !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(sourcePage))) throw new Error("원문 페이지 조건을 확인해 주세요.");
   if (!/^[1-9]\d*$/.test(rawPage) || !Number.isSafeInteger(Number(rawPage))) throw new Error("페이지는 양의 정수여야 합니다.");
   if (!["20", "50", "100"].includes(rawSize)) throw new Error("페이지 크기는 20, 50, 100 중 하나여야 합니다.");
-  return { subject, type, terms: normalize(query).trim().split(/\s+/).filter(Boolean), page: Number(rawPage), pageSize: Number(rawSize) };
+  return { subject, type, sourcePage, terms: normalize(query).trim().split(/\s+/).filter(Boolean), page: Number(rawPage), pageSize: Number(rawSize) };
 }
 function json(body, status = 200) {
   return new Response(JSON.stringify(body), { status, headers: {
@@ -98,8 +100,9 @@ function json(body, status = 200) {
 
 export function onRequestGet({ request }) {
   try {
-    const { subject, type, terms, page, pageSize } = parseParameters(request);
-    const matches = catalog.filter(({ item, search }) => (subject === "all" || item.subject === subject) && terms.every(term => search.includes(term)));
+    const { subject, type, sourcePage, terms, page, pageSize } = parseParameters(request);
+    const matches = catalog.filter(({ item, search }) => (subject === "all" || item.subject === subject)
+      && (!sourcePage || item.page === sourcePage) && terms.every(term => search.includes(term)));
     const counts = Object.fromEntries(["all", ...types].map(kind => [kind, 0]));
     for (const { item } of matches) { counts.all++; counts[item.type]++; }
     const selected = matches.filter(({ item }) => type === "all" || item.type === type);

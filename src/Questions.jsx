@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { Link, useLocation, useSearchParams } from "react-router-dom";
 import Chrome from "./Chrome.jsx";
+import { resumeUrl } from "./history-store.js";
 import { appealContext } from "./appeal-context.js";
 import { popupSource, useStudyPopups } from "./popup-context.js";
 import { subjectUrl, useSubjects } from "./subjects.jsx";
@@ -51,7 +52,7 @@ export function QuestionCard({ item, number, expanded, onExpanded }) {
       </div>
     </details>
     {sources.length > 0 && <div className="bank-source-links">{sources.map((page, index) => <Link key={page} className="source-link" to={subjectUrl(`/viewer?page=${encodeURIComponent(page)}`, item.subject)}>교재 원문{sources.length > 1 ? ` ${index + 1}` : ""} ↗</Link>)}</div>}
-    <div className="bank-source-links"><button type="button" className="text-btn source-link" aria-haspopup="dialog" onClick={() => openAppeal({ subject: item.subject, context: appealContext(item, item.type), source: popupSource(location) })}>이 문항 이의제기</button></div>
+    <div className="bank-source-links">{item.type !== "research" && <Link className="source-link" to={resumeUrl({ subject: item.subject, type: item.type, questionId: item.id })}>답안 작성 →</Link>}<button type="button" className="text-btn source-link" aria-haspopup="dialog" onClick={() => openAppeal({ subject: item.subject, context: appealContext(item, item.type), source: popupSource(location) })}>이 문항 이의제기</button></div>
   </article>;
 }
 
@@ -69,9 +70,11 @@ export default function Questions() {
   const subject = params.get("subject") || "all";
   const type = params.get("type") || "all";
   const query = params.get("q") || "";
+  const sourcePage = params.get("sourcePage") || "";
   const page = params.get("page") || "1";
   const pageSize = params.get("pageSize") || "20";
   const requestParams = new URLSearchParams({ subject, type, q: query, page, pageSize });
+  if (sourcePage) requestParams.set("sourcePage", sourcePage);
   const requestKey = requestParams.toString();
   const activeRequest = useRef(requestKey);
   activeRequest.current = requestKey;
@@ -96,10 +99,12 @@ export default function Questions() {
   }, [requestKey, retry]);
   const current = state.key === requestKey ? state : { data: null, error: "" };
   const data = current.data;
+  const sourceSubject = data?.items[0]?.subject || (/^p\d+$/.test(sourcePage) ? "hand-memo" : Object.keys(SUBJECT_NAMES).find(id => sourcePage.startsWith(`${id}-`))) || (Object.hasOwn(SUBJECT_NAMES, subject) ? subject : null);
   const openIds = opened.key === requestKey ? opened.ids : {};
   function update(patch) {
-    const next = new URLSearchParams({ subject, type, q: query, page: "1", pageSize, ...patch });
+    const next = new URLSearchParams({ subject, type, q: query, sourcePage, page: "1", pageSize, ...patch });
     if (!next.get("q")) next.delete("q");
+    if (!next.get("sourcePage")) next.delete("sourcePage");
     setOpened({ key: "", ids: {} });
     setParams(next);
   }
@@ -116,16 +121,17 @@ export default function Questions() {
   return <Chrome title="문제은행" subjectControls={false} feedbackSubject={subject} navigationSubject={Object.hasOwn(SUBJECT_NAMES, subject) ? subject : "seoyangsa"}>
     <header className="bank-heading"><p className="kicker">문제은행</p><h1>문제와 해설을 한눈에</h1><p className="muted">과목과 유형을 골라 연습문항을 둘러보세요. 정답과 해설, 서술형의 채점 기준을 펼쳐 확인할 수 있습니다.</p></header>
     <section className="card bank-filters" aria-label="문제 찾기">
-      <div className="bank-filter-row"><label>과목<select value={subject} onChange={event => update({ subject: event.target.value })}><option value="all">전체 과목</option>{subjects.map(item => <option key={item.id} value={item.id}>{item.title}</option>)}</select></label><label>한 번에 보기<select value={pageSize} onChange={event => update({ pageSize: event.target.value })}>{[20, 50, 100].map(size => <option key={size} value={size}>{size}문항</option>)}</select></label></div>
+      <div className="bank-filter-row"><label>과목<select aria-label="과목" value={subject} onChange={event => update({ subject: event.target.value, sourcePage: "" })}><option value="all">전체 과목</option>{subjects.map(item => <option key={item.id} value={item.id}>{item.title}</option>)}</select></label><label>한 번에 보기<select value={pageSize} onChange={event => update({ pageSize: event.target.value })}>{[20, 50, 100].map(size => <option key={size} value={size}>{size}문항</option>)}</select></label></div>
+      {sourcePage && <div className="row bank-source-filter"><span>선택한 원문에서 출제한 문제</span>{sourceSubject && <Link className="source-link" to={subjectUrl(`/viewer?page=${encodeURIComponent(sourcePage)}`, sourceSubject)}>원문으로 돌아가기 ↗</Link>}<button type="button" className="text-btn" onClick={() => update({ sourcePage: "" })}>쪽 선택 해제</button></div>}
       <form className="bank-search" onSubmit={event => { event.preventDefault(); update({ q: search.trim() }); }}><label className="bank-search-input">내용 검색<input type="search" value={search} maxLength={200} onChange={event => setSearch(event.target.value)} placeholder="예: 시민권, 신라, 사료 비판" /></label><button type="submit">검색</button></form>
       <div className="bank-types" role="group" aria-label="문제 유형">{Object.entries(TYPES).map(([id, label]) => <button type="button" className={type === id ? "" : "ghost"} key={id} aria-pressed={type === id} onClick={() => update({ type: id })}>{label}{data && <span className="bank-count">{data.counts[id].toLocaleString()}</span>}</button>)}</div>
     </section>
     {type === "research" && <p className="muted bank-note">논문에서 착안한 창작 연습문항입니다. 실제 출제 예정 문제나 공식 채점 기준을 뜻하지 않습니다.</p>}
     <section ref={resultsRef} className="bank-results" tabIndex={-1} aria-label="검색 결과" aria-busy={!data && !current.error}>
-      {current.error ? <div className="card" role="alert"><p>{current.error}</p><div className="row"><button type="button" onClick={() => setRetry(value => value + 1)}>다시 불러오기</button><button type="button" className="ghost" onClick={() => update({ subject: "all", type: "all", q: "", pageSize: "20" })}>필터 초기화</button></div></div> : !data ? <p role="status">문제를 불러오는 중…</p> : <>
+      {current.error ? <div className="card" role="alert"><p>{current.error}</p><div className="row"><button type="button" onClick={() => setRetry(value => value + 1)}>다시 불러오기</button><button type="button" className="ghost" onClick={() => update({ subject: "all", type: "all", q: "", sourcePage: "", pageSize: "20" })}>필터 초기화</button></div></div> : !data ? <p role="status">문제를 불러오는 중…</p> : <>
         <div className="bank-results-bar"><p role="status"><strong>{data.total.toLocaleString()}문항</strong>{data.items.length > 0 && <span className="muted"> · {(data.page - 1) * data.pageSize + 1}–{(data.page - 1) * data.pageSize + data.items.length}번</span>}</p><div className="bank-bulk-actions"><button type="button" className="text-btn" disabled={!data.items.length} onClick={() => setOpened({ key: requestKey, ids: Object.fromEntries(data.items.map(item => [item.id, true])) })}>이 페이지 정답 모두 펼치기</button><button type="button" className="text-btn" disabled={!Object.values(openIds).some(Boolean)} onClick={() => setOpened({ key: requestKey, ids: {} })}>모두 접기</button></div></div>
         {data.pageCount > 1 && <Pagination data={data} onPage={changePage} position="위" />}
-        {data.items.length ? data.items.map((item, index) => <QuestionCard key={`${requestKey}:${item.id}`} item={item} number={(data.page - 1) * data.pageSize + index + 1} expanded={Boolean(openIds[item.id])} onExpanded={value => setExpanded(item.id, value)} />) : <div className="card"><h2>{data.total ? "이 페이지에는 문항이 없습니다." : "조건에 맞는 문항이 없습니다."}</h2><p className="muted">검색어를 줄이거나 다른 과목과 유형을 선택해 보세요.</p><button type="button" className="ghost" onClick={() => update(data.total ? { page: "1" } : { type: "all", q: "" })}>{data.total ? "첫 페이지로" : "검색 조건 지우기"}</button></div>}
+        {data.items.length ? data.items.map((item, index) => <QuestionCard key={`${requestKey}:${item.id}`} item={item} number={(data.page - 1) * data.pageSize + index + 1} expanded={Boolean(openIds[item.id])} onExpanded={value => setExpanded(item.id, value)} />) : <div className="card"><h2>{data.total ? "이 페이지에는 문항이 없습니다." : "조건에 맞는 문항이 없습니다."}</h2><p className="muted">검색어를 줄이거나 다른 과목과 유형을 선택해 보세요.</p><button type="button" className="ghost" onClick={() => update(data.total ? { page: "1" } : { type: "all", q: "", sourcePage: "" })}>{data.total ? "첫 페이지로" : "검색 조건 지우기"}</button></div>}
         {data.pageCount > 1 && <Pagination data={data} onPage={changePage} position="아래" />}
       </>}
     </section>

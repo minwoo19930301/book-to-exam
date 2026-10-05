@@ -5151,5 +5151,237 @@
       "reviewed": true,
       "inputSha256": "73a0e762e34edec859b85917a1a47532c1a47abaccefbb32d311e7d86b449791"
     }
+  },
+  {
+    "id": "seoyangsa-page-practice-cloze-87-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-87",
+    "answer": "갤리선",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "② 이탈리아 상인이 14세기 초부터 _____으로 직접 북유럽(브뤼주·런던)을 왕래하게 됨으로써 쇠퇴",
+    "keyword": "갤리선",
+    "explain": "갤리선: ② 이탈리아 상인이 14세기 초부터 갤리선으로 직접 북유럽(브뤼주·런던)을 왕래하게 됨으로써 쇠퇴",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-87",
+        "quote": "② 이탈리아 상인이 14세기 초부터 갤리선으로 직접 북유럽(브뤼주·런던)을 왕래하게 됨으로써 쇠퇴"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "갤리선",
+      "inputSha256": "ffa9735b407785881a8e465b33d558f6ca8e653b738fb3e892ba7dae0d9eb55c"
+    },
+    "stem": "원문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "② 이탈리아 상인이 14세기 초부터 ",
+    "after": "으로 직접 북유럽(브뤼주·런던)을 왕래하게 됨으로써 쇠퇴",
+    "passage": "② 이탈리아 상인이 14세기 초부터 갤리선으로 직접 북유럽(브뤼주·런던)을 왕래하게 됨으로써 쇠퇴",
+    "passageMode": "full"
+  },
+  {
+    "id": "seoyangsa-page-practice-cloze-106-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-106",
+    "answer": "채찍질 고행",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "㉠ 당시 중세 유럽인들은 흑사병이 하나님의 저주라고 생각하여, _____ 등 극단적 방식의 참회, 행렬·도주 등 기이한 행태로 반응",
+    "keyword": "채찍질 고행",
+    "explain": "채찍질 고행: ㉠ 당시 중세 유럽인들은 흑사병이 하나님의 저주라고 생각하여, 채찍질 고행 등 극단적 방식의 참회, 행렬·도주 등 기이한 행태로 반응",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-106",
+        "quote": "㉠ 당시 중세 유럽인들은 흑사병이 하나님의 저주라고 생각하여, 채찍질 고행 등 극단적 방식의 참회, 행렬·도주 등 기이한 행태로 반응"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "채찍질 고행",
+      "inputSha256": "f12e145b2272b909b688cad596a9496121ea00abd2d25ead8b30bbd4e9768991"
+    },
+    "stem": "원문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "㉠ 당시 중세 유럽인들은 흑사병이 하나님의 저주라고 생각하여, ",
+    "after": " 등 극단적 방식의 참회, 행렬·도주 등 기이한 행태로 반응",
+    "passage": "㉠ 당시 중세 유럽인들은 흑사병이 하나님의 저주라고 생각하여, 채찍질 고행 등 극단적 방식의 참회, 행렬·도주 등 기이한 행태로 반응",
+    "passageMode": "full"
+  },
+  {
+    "id": "seoyangsa-page-practice-cloze-121-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-121",
+    "answer": "초기 교회",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "에라스무스 같은 성서주의적 휴머니스트들은 학자들이 가톨릭교회의 관행을 _____에 비추어 고칠 수 있도록 그리스어·히브리어 원전을 부활시킬 필요성을 강조했다.",
+    "keyword": "초기 교회",
+    "explain": "초기 교회: 에라스무스 같은 성서주의적 휴머니스트들은 학자들이 가톨릭교회의 관행을 초기 교회에 비추어 고칠 수 있도록 그리스어·히브리어 원전을 부활시킬 필요성을 강조했다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-121",
+        "quote": "에라스무스 같은 성서주의적 휴머니스트들은 학자들이 가톨릭교회의 관행을 초기 교회에 비추어 고칠 수 있도록 그리스어·히브리어 원전을 부활시킬 필요성을 강조했다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "초기 교회",
+      "inputSha256": "553168d221906f08774651444daa5370eb8a80e43a001be415f6b879c0275cad"
+    },
+    "stem": "원문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "에라스무스 같은 성서주의적 휴머니스트들은 학자들이 가톨릭교회의 관행을 ",
+    "after": "에 비추어 고칠 수 있도록 그리스어·히브리어 원전을 부활시킬 필요성을 강조했다.",
+    "passage": "에라스무스 같은 성서주의적 휴머니스트들은 학자들이 가톨릭교회의 관행을 초기 교회에 비추어 고칠 수 있도록 그리스어·히브리어 원전을 부활시킬 필요성을 강조했다.",
+    "passageMode": "full"
+  },
+  {
+    "id": "seoyangsa-page-practice-cloze-138-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-138",
+    "answer": "의회 과세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "㉢ 영국은 _____를 통해 비교적 안정적인 재정을 마련",
+    "keyword": "의회 과세",
+    "explain": "의회 과세: ㉢ 영국은 의회 과세를 통해 비교적 안정적인 재정을 마련",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-138",
+        "quote": "㉢ 영국은 의회 과세를 통해 비교적 안정적인 재정을 마련"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "의회 과세",
+      "inputSha256": "0baa001ba1bcc24d309bab77330a92d78e3ddc5c6a1959cc94f1c2e855b3d031"
+    },
+    "stem": "원문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "㉢ 영국은 ",
+    "after": "를 통해 비교적 안정적인 재정을 마련",
+    "passage": "㉢ 영국은 의회 과세를 통해 비교적 안정적인 재정을 마련",
+    "passageMode": "full"
+  },
+  {
+    "id": "seoyangsa-page-practice-cloze-145-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-145",
+    "answer": "통행허가증",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "• 앞으로 경계를 넘는 사람은 _____을 소지해야 한다.",
+    "keyword": "통행허가증",
+    "explain": "통행허가증: • 앞으로 경계를 넘는 사람은 통행허가증을 소지해야 한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-145",
+        "quote": "• 앞으로 경계를 넘는 사람은 통행허가증을 소지해야 한다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "통행허가증",
+      "inputSha256": "cd6b6fefb710fa00479a17cef18c294ecef2443f50600dca64f7d86998c2f67e"
+    },
+    "stem": "원문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "• 앞으로 경계를 넘는 사람은 ",
+    "after": "을 소지해야 한다.",
+    "passage": "• 앞으로 경계를 넘는 사람은 통행허가증을 소지해야 한다.",
+    "passageMode": "full"
+  },
+  {
+    "id": "seoyangsa-page-practice-cloze-171-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-171",
+    "answer": "소유권",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "③ _____을 신성불가침의 권리로 규정",
+    "keyword": "소유권",
+    "explain": "소유권: ③ 소유권을 신성불가침의 권리로 규정",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-171",
+        "quote": "③ 소유권을 신성불가침의 권리로 규정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "소유권",
+      "inputSha256": "40ccaf149b9522841a9d878f6d8610ecb20a3ad39ec4a38fb0a1cf6599a1379c"
+    },
+    "stem": "원문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "③ ",
+    "after": "을 신성불가침의 권리로 규정",
+    "passage": "③ 소유권을 신성불가침의 권리로 규정",
+    "passageMode": "full"
+  },
+  {
+    "id": "seoyangsa-page-practice-cloze-179-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-179",
+    "answer": "소농",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "③ 봉건적 부담 철폐로 _____ 소유가 확대",
+    "keyword": "소농",
+    "explain": "소농: ③ 봉건적 부담 철폐로 소농 소유가 확대",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-179",
+        "quote": "③ 봉건적 부담 철폐로 소농 소유가 확대"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "소농",
+      "inputSha256": "87cd2df0a34692a959fd0578316da552ccc1d05b10a7172431516479476d0a7d"
+    },
+    "stem": "원문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "③ 봉건적 부담 철폐로 ",
+    "after": " 소유가 확대",
+    "passage": "③ 봉건적 부담 철폐로 소농 소유가 확대",
+    "passageMode": "full"
+  },
+  {
+    "id": "seoyangsa-page-practice-cloze-215-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-215",
+    "answer": "백인 의무",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "② ‘_____’론과 사회진화론이 팽창을 정당화",
+    "keyword": "백인 의무",
+    "explain": "백인 의무: ② ‘백인 의무’론과 사회진화론이 팽창을 정당화",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-215",
+        "quote": "② ‘백인 의무’론과 사회진화론이 팽창을 정당화"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "백인 의무",
+      "inputSha256": "0e659d7ac71835282d3ee47721a11aa9316b592ba816a4dab554e347cebf7787"
+    },
+    "stem": "원문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "② ‘",
+    "after": "’론과 사회진화론이 팽창을 정당화",
+    "passage": "② ‘백인 의무’론과 사회진화론이 팽창을 정당화",
+    "passageMode": "full"
   }
 ]
