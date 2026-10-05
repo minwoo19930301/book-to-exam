@@ -519,6 +519,27 @@ def main():
     row["rubric"][0]["ok"] = "후지와라씨는 천황가와 계속 혼인 관계를 맺고 섭정·관백의 지위를 활용하여 정권을 장악하였다."
     row["rubric"][0]["acceptedConcepts"] = [row["rubric"][0]["ok"]]
     row["answer"] = " ".join(r["ok"] for r in row["rubric"])
+
+    # Manual MC audit, 2026-10-05: exact relevant evidence and unambiguous scope.
+    MC_REVIEW_PATCHES = {'dongyangsa-ext-mc-036': {'evidence': [{'page': 'dongyangsa-textbook-page-166',
+                                             'quote': '② 내용 : 무역항을 4개항에서 광주(광동)로 제한(1757)'}]},
+     'dongyangsa-ext-mc-100': {'evidence': [{'page': 'dongyangsa-textbook-page-305',
+                                             'quote': '㉢ 급진적 정책 : 도시민의 농촌 강제 이주, 통화 폐지 등의 정책'}]},
+     'dongyangsa-ext-mc-083': {'evidence': [{'page': 'dongyangsa-textbook-page-273', 'quote': '• 농지 개혁 : 소작지 해방'},
+                                            {'page': 'dongyangsa-textbook-page-273',
+                                             'quote': '자작농 창출 → 내수 경기 부양'}]}}
+    for _id, _patch in MC_REVIEW_PATCHES.items():
+        _q = next(q for q in QUESTIONS if q['id'] == _id)
+        assert _q['type'] == 'mc'
+        _q.update(_patch)
+        for _e in _q['evidence']:
+            assert _e['quote'] in NOTES[_e['page']]['text'], _id
+    # Reuse the corrected source scope in the corresponding essay criterion.
+    land_essay = next(q for q in QUESTIONS if q['id'] == 'dongyangsa-ext-essay-024')
+    land_evidence = MC_REVIEW_PATCHES['dongyangsa-ext-mc-083']['evidence']
+    land_essay['rubric'][0]['evidence'] = [dict(item) for item in land_evidence]
+    land_essay['evidence'] = [dict(item) for item in land_evidence] + [
+        item for item in land_essay['evidence'] if '전체 농지의 80%' not in item['quote']]
     path = ROOT / "tools/history-questions/extended-inputs/dongyangsa.json"
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps({"schemaVersion": 1, "subject": SUBJECT, "questions": QUESTIONS}, ensure_ascii=False, indent=2) + "\n")

@@ -10,8 +10,8 @@ import BankStatus from "./BankStatus.jsx";
 const shortQuestions = list => list.filter(x => x.type === "blank" && usable(x)).map(x => ({ ...x, type: "short" }));
 
 export default function Short() {
-  const { dataFile } = useSubject();
-  const bank = useQuestionBank(dataFile("questions"), shortQuestions);
+  const { dataFile, id: subject } = useSubject();
+  const bank = useQuestionBank(dataFile("questions"), shortQuestions, { subject, type: "short" });
   const { q, value: val, setValue: setVal, result, setResult } = bank;
   useExamPlay({ q, setVal, setResult, kind: "short" });
   function grade() {
@@ -45,7 +45,7 @@ export default function Short() {
                 placeholder="답을 쓰세요"
               />
             )}
-            <ExamBar graded={result} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious} onGrade={grade} gradeDisabled={!q || !val.trim()} />
+            <ExamBar graded={result} onRetry={bank.retry} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious} onGrade={grade} gradeDisabled={!q || !val.trim()} />
             {result && <After q={q} />}
           </div>
         )}

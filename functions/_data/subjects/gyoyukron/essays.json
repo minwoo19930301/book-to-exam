@@ -290,11 +290,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "582c52f39da6e7b4d898a14275090951564f6527bac175fbed284efb640143b7"
     }
@@ -438,11 +438,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "ec550fcc259fb5abcea28ad474c2f38988658714bf75eec705590c5d27dc98b8"
     }
@@ -578,11 +578,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "0518ebf80fe70d2b45329aaba7f8fdc546b14d6e47438997908c0dd6bf1a684f"
     }
@@ -718,11 +718,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "3bb98e5cecbe72f17315ac54152faf2570900998c36dffa2a4fe80d7755c46c4"
     }
@@ -854,11 +854,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "adc63866210803aec4b85b8cd22e639bf007055887fdea765c337c213accab8e"
     }
@@ -994,11 +994,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "e6cf0a4d353ab61edcc97e501a263bfc84b1baed0fa54be8c82654b8855f495e"
     }
@@ -1134,11 +1134,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "1bf58f7ff545e9114cd055dfb739bac13ee91417a0deb9b5bec7485ecb2a6be8"
     }
@@ -1148,16 +1148,16 @@
     "title": "시기가 다른 두 자료의 활용",
     "prompt": "사건 당시의 일기와 후대 연구자의 해설을 함께 읽는다. 1차·2차 사료를 구분하고, 당시 자료가 남아 있어도 과거 전체를 그대로 알 수 없는 이유를 서술하시오.",
     "page": "gyoyukron-textbook-page-81",
-    "answer": "1차 사료: 역사적 사건이 일어난 시기와 거의 같은 때에 만들어진 유물이나 저작물이다.\n2차 사료: 사건이 일어난 뒤에 만들어진 해석·해설 등 후대의 자료이다.\n사료의 불완전성: 사료가 과거의 모든 일을 담지 않으며 완전한 형태로 전해지지도 않는 성격이다.",
+    "answer": "1차 사료: 연구하는 사건에 대한 직접 경험이나 목격의 증거이다. 제작 시점만으로 분류하지 않는다.\n2차 사료: 연구하는 사건의 기존 자료를 분석·해석하여 구성한 설명이다. 제작 시점만으로 분류하지 않는다.\n사료의 불완전성: 사료가 과거의 모든 일을 담지 않으며 완전한 형태로 전해지지도 않는 성격이다.",
     "explain": "각 요구를 별도 기준으로 평가한다. 명칭만 나열하지 말고 문항에서 요구한 의미와 관계를 서술한다.",
     "evidence": [
       {
         "page": "gyoyukron-textbook-page-81",
-        "quote": "• 역사적 사실이 일어난 것과 거의 같은 시기에 제작된 유물이나 저작물"
+        "quote": "• 직접적 증거, 목격자의 생생한 증거"
       },
       {
         "page": "gyoyukron-textbook-page-81",
-        "quote": "• 역사적 사실이 일어났던 시기보다 나중에 만들어진 자료"
+        "quote": "• 예) 논문, 해석, 해설, 각주, 전기류, 비평"
       },
       {
         "page": "gyoyukron-textbook-page-81",
@@ -1169,11 +1169,11 @@
         "id": "r1",
         "label": "1차 사료",
         "max": 3,
-        "ok": "역사적 사건이 일어난 시기와 거의 같은 때에 만들어진 유물이나 저작물이다.",
+        "ok": "연구하는 사건에 대한 직접 경험이나 목격의 증거이다. 제작 시점만으로 분류하지 않는다.",
         "evidence": [
           {
             "page": "gyoyukron-textbook-page-81",
-            "quote": "• 역사적 사실이 일어난 것과 거의 같은 시기에 제작된 유물이나 저작물"
+            "quote": "• 직접적 증거, 목격자의 생생한 증거"
           }
         ],
         "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음.",
@@ -1183,7 +1183,7 @@
           3
         ],
         "checkpoints": [
-          "역사적 사건이 일어난 시기와 거의 같은 때에 만들어진 유물이나 저작물이다.",
+          "연구하는 사건에 대한 직접 경험이나 목격의 증거이다. 제작 시점만으로 분류하지 않는다.",
           "문항에서 요구한 대상과 관계를 구별하여 설명한다."
         ],
         "scoreLevels": [
@@ -1205,11 +1205,11 @@
         "id": "r2",
         "label": "2차 사료",
         "max": 3,
-        "ok": "사건이 일어난 뒤에 만들어진 해석·해설 등 후대의 자료이다.",
+        "ok": "연구하는 사건의 기존 자료를 분석·해석하여 구성한 설명이다. 제작 시점만으로 분류하지 않는다.",
         "evidence": [
           {
             "page": "gyoyukron-textbook-page-81",
-            "quote": "• 역사적 사실이 일어났던 시기보다 나중에 만들어진 자료"
+            "quote": "• 예) 논문, 해석, 해설, 각주, 전기류, 비평"
           }
         ],
         "scoring": "0점: 핵심 의미가 없거나 모순됨. 부분점수: 일부 핵심 의미만 충족. 만점: 기준의 핵심 의미를 모두 충족. 동의 표현은 인정하되 근거 없는 주장에는 점수를 주지 않음.",
@@ -1219,7 +1219,7 @@
           3
         ],
         "checkpoints": [
-          "사건이 일어난 뒤에 만들어진 해석·해설 등 후대의 자료이다.",
+          "연구하는 사건의 기존 자료를 분석·해석하여 구성한 설명이다. 제작 시점만으로 분류하지 않는다.",
           "문항에서 요구한 대상과 관계를 구별하여 설명한다."
         ],
         "scoreLevels": [
@@ -1274,13 +1274,13 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "source-analysis",
-      "inputSha256": "659179dac046edfc1ef165d161a49cd998d358550c20b6ae5876b2a3cee083e2"
+      "inputSha256": "857c6cb832ec4f87a49fbd2f50202fd09324ebd34cf011eb9dcb654f154839ad"
     }
   },
   {
@@ -1414,11 +1414,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "source-analysis",
       "inputSha256": "fd7880ebab7f2c16e7b3d155551edf75fd727f84a20dcffbed590c88b72c564a"
     }
@@ -1554,11 +1554,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "070be501afb6248ece81aaa543bef09fc73e18d3126a3c1558624cd3595a188f"
     }
@@ -1694,11 +1694,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "ff44f580890767fadc04168cc1f69b833a7578bc1cbd607f945e479d5e87d0c7"
     }
@@ -1834,11 +1834,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "source-analysis",
       "inputSha256": "1ce7a31cb3d96e248aed0cf3c7683854f9184be3be7a4aef36949869c1af8139"
     }
@@ -1974,11 +1974,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "49d7a23f052e1601d88e42a1dcc8e022d2d326160ed56493153aae6fab5e0b04"
     }
@@ -2114,11 +2114,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "causation",
       "inputSha256": "8fb4caab075b43223ebb6edce8d5006243365a68f26a588a33eb4764234de12d"
     }
@@ -2254,11 +2254,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "a1dcf717b70ca25c6c6665b5499394e39bab4b22fe89ffb359131e387754da1c"
     }
@@ -2394,11 +2394,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "cbbb1e1b6926a2074b4d13e0f4b2cbd4e3054b7d706934fc8c3948aa638f3a92"
     }
@@ -2534,11 +2534,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "03879c5b044bef07a7a86fae83025eb77c10884579bd0d61e846923c8b112521"
     }
@@ -2698,11 +2698,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "causation",
       "inputSha256": "65f4c4f12a330fb5489231bad181f2cf02d86d9ea94313013c01479f98bf01fb"
     }
@@ -2834,11 +2834,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "1a29a896a201effbd6ae4ccac18ad693cd35149005732cfce87b7df9dc56ceab"
     }
@@ -2974,11 +2974,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "f3372cf048beb3746abb3ffd4abae00c69e915b1dbd190737dcbfbbd42f7deb6"
     }
@@ -3114,11 +3114,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "75a8ede9889d888905095b4b66b6ebbebdaaa832e1a71671c048dc6cd39f0a0d"
     }
@@ -3254,11 +3254,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "c7de837fe05fe211a880b31a6988fbaebf40ded9b3f54f9812145a57d3d64e99"
     }
@@ -3394,11 +3394,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "source-analysis",
       "inputSha256": "69117dd1f4189287e479e53340a3894e40099ff722c1c36adad4b8d2abbeed3d"
     }
@@ -3534,11 +3534,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "source-analysis",
       "inputSha256": "21ff55c8a3d4a5d9f4b8714de86e2566ddb51bfabfa6ea5ba9e79d0ab80eefe8"
     }
@@ -3674,11 +3674,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "254a014df5a09cced42d044653be586e299f4e24a62bf32c37d9fc0bbebf8c83"
     }
@@ -3814,11 +3814,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "67128a99f77a982975551bf2875828bc9079b78ab3f121e38da74fd3d68a56a5"
     }
@@ -3954,11 +3954,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "source-analysis",
       "inputSha256": "2243d3b36ad69a22fc99915b7b4f337fe8b4b6ee55a5349045ad9f73feb59727"
     }
@@ -4094,11 +4094,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "source-analysis",
       "inputSha256": "ec5f5672ce55797a02039d02e8333bb20a794ff94ebe08a933467d1e9535b040"
     }
@@ -4234,11 +4234,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "1de0b48037927afa1e5dcd1c0c935a5042377b69d5322d0d053c153844919c32"
     }
@@ -4374,11 +4374,11 @@
         ]
       }
     ],
-    "rubricVersion": "history-expansion.1",
+    "rubricVersion": "history-expansion.2",
     "provenance": {
       "origin": "authored-practice",
       "sourceStatus": "transcription-unverified",
-      "version": "history-expansion.1",
+      "version": "history-expansion.2",
       "skill": "comparison",
       "inputSha256": "f417264a0dbfd164aa7d4b9b50d72eae7e3b0bdbb0f8ecf461bb81e9aacdc119"
     }

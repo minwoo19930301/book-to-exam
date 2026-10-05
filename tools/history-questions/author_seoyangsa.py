@@ -534,7 +534,121 @@ essay('postwar-change','소련 개혁과 유럽 질서의 전환','1980년대 �
 ('유럽의 변화','동유럽의 공산당 지배가 흔들리고 1989년 베를린 장벽이 붕괴한 뒤 1990년 독일 통일이 이루어졌다.','264:베를린 장벽 개방@2;264:1990. 3. 총선@1','동유럽 체제 변화 / 장벽 붕괴와 통일의 순서'),
 ('소련의 해체','소련은 1991년에 해체되었다. 장벽 붕괴·독일 통일·소련 해체는 관련된 과정이지만 연도와 국가적 사건을 동일하게 처리해서는 안 된다.','264:1991 연방 해체@1','1991년 소련 해체 / 세 사건의 구별과 정확한 선후')])
 
+# Manual MC audit, 2026-10-05: exact relevant evidence and unambiguous scope.
+MC_REVIEW_PATCHES = {'seoyangsa-ext-ancient-005': {'evidence': [{'page': 'seoyangsa-textbook-page-295',
+                                             'quote': '• 재산(연간 수확량)을 기준으로 시민을 4등급으로 구분하고, 참정권·병역의 기준을 출생에서 '
+                                                      '재산으로 바꿈'}]},
+ 'seoyangsa-ext-ancient-009': {'evidence': [{'page': 'seoyangsa-textbook-page-267',
+                                             'quote': '① 그리스식 도시 건설을 통해 그리스 문화의 보급 및 이식\n'
+                                                      '② 그리스 군인과 정복지 여성의 혼인 정책: 그리스인과 마케도니아인의 이주 정책'}]},
+ 'seoyangsa-ext-ancient-010': {'evidence': [{'page': 'seoyangsa-textbook-page-37',
+                                             'quote': '스토아 학파는 이성이 우주를 지배한다고 보았다. 이성에서 나온 법은 로마인이거나 이방인이거나 '
+                                                      '모두에게 적용되는 법이며, 그 때문에 자연법과 동일시됐다. 키케로는 자연법을 명료하게 규정했다. '
+                                                      '“진정한 법이 존재하는데, 그것은 모든 존재에 퍼져 있고 언제나 자기 자신과 일치하며 결코 '
+                                                      '사멸하지 않는 자연에 부합하는 공정한 이성이다.”'}]},
+ 'seoyangsa-ext-ancient-003': {'evidence': [{'page': 'seoyangsa-textbook-page-10',
+                                             'quote': '그러나 사람들의 신분과 경제 형편을 고려하여 규정을 만들고, 고아나 과부와 같은 사회적 약자를 '
+                                                      '보호한다는 개념이 뚜렷하다.'}]},
+ 'seoyangsa-ext-rome-017': {'prompt': '밀라노 칙령과 테오도시우스 황제의 이교도 억압 정책을 구별한 것은?',
+                            'evidence': [{'page': 'seoyangsa-textbook-page-52',
+                                          'quote': '① 공인 : 밀라노 칙령(313) - 콘스탄티누스, 리키니우스'},
+                                         {'page': 'seoyangsa-textbook-page-52',
+                                          'quote': '테오도시우스 황제가 이교도를 근본적으로 억압하는 칙령 발표'}],
+                            'choices': ['전자는 크리스트교 신앙을 허용하고 후자는 이교도 억압을 강화했다.',
+                                        '두 정책 모두 크리스트교 박해 강화이다.',
+                                        '밀라노 칙령은 크리스트교 성립보다 먼저 발표되었다.',
+                                        '두 조치는 모두 네로가 시행했다.'],
+                            'explain': '크리스트교 신앙 허용과 뒤이은 이교도 억압을 구별한다. 원문의 국교 선언 연도 표현은 이 문항의 근거에서 제외했다.',
+                            'choiceExplanations': ['신앙 허용과 이교도 억압은 서로 다른 정책이다.',
+                                                   '밀라노 칙령은 크리스트교 박해 강화 조치가 아니다.',
+                                                   '크리스트교 성립 이후의 조치이다.',
+                                                   '콘스탄티누스·리키니우스 및 테오도시우스의 정책이다.']},
+ 'seoyangsa-ext-early-modern-036': {'choices': ['아메리카 은은 산지 밖으로 전혀 이동하지 않았다.',
+                                                '은 유통은 식민지 노동과 아무 관련이 없었다.',
+                                                '유럽과 아시아 사이의 상업이 완전히 끊겼다.',
+                                                '은을 중심으로 여러 지역을 잇는 세계적 교역망이 확대되었다.'],
+                                    'explain': '원문은 신항로 개척의 결과로 은 중심의 세계적 교역망과 상업혁명을 함께 제시한다.',
+                                    'evidence': [{'page': 'seoyangsa-textbook-page-125',
+                                                  'quote': '⑤ 상업혁명 : 원격지 무역의 확대, 주식회사·증권거래소·보험의 발달\n'
+                                                           '⑥ 가격혁명과 은 중심의 세계적 교역망'}],
+                                    'choiceExplanations': ['원문은 은을 중심으로 한 세계 교역망을 제시한다.',
+                                                           '식민지 노동과 무관하다는 단정은 은의 생산과 유통 관계를 지워 버린다.',
+                                                           '원격지 무역의 확대와 반대되는 설명이다.',
+                                                           '은을 중심으로 한 교역 확대를 설명한다.']},
+ 'seoyangsa-ext-early-modern-038': {'evidence': [{'page': 'seoyangsa-textbook-page-142',
+                                                  'quote': '㉠ 프랑스의 대외정책 : 16세기 이래 합스부르크 왕실의 타도라는 기본 정책을 이어받아 '
+                                                           '리슐리외가 담수\n'
+                                                           '㉡ 신성로마가 수세에 몰리자 휴전 제의 → 베스트팔렌 조약 체결(1648)'},
+                                                 {'page': 'seoyangsa-textbook-page-142',
+                                                  'quote': '② 시작은 종교 전쟁이었으나, 점차 영토 및 통상 등 각국의 이해관계가 얽히면서 상호 '
+                                                           '적대관계 및 동맹이 이루어지는 세력 대결로 변질\n'
+                                                           '③ 스웨덴이 참전한 1630년 이후에는 합스부르크 왕가, 부르봉 왕가, 바사 왕가 등에 '
+                                                           '의한 강대국 간의 파워게임으로 변화'}]},
+ 'seoyangsa-ext-early-modern-039': {'evidence': [{'page': 'seoyangsa-textbook-page-142',
+                                                  'quote': '㉠ 종교 : 칼뱅파가 루터파 및 가톨릭과 동등한 권리를 획득. 프로테스탄트이든 '
+                                                           '가톨릭이든 재산·교회령을 1624년 기준으로 유지'}]},
+ 'seoyangsa-ext-early-modern-040': {'prompt': "권리장전의 '의회 동의 없는 과세와 평화시 국내 상비군 유지 금지'를 종합한 원리는?"},
+ 'seoyangsa-ext-revolutions-045': {'prompt': '1792년 8월 10일 봉기로 프랑스 혁명의 정치 체제가 변화한 내용을 설명한 것은?',
+                                   'choices': ['8월 10일 봉기로 왕권이 정지되고 국민공회 소집이 결정되었다.',
+                                               '삼부회가 중세 봉건제를 영구히 강화했다.',
+                                               '나폴레옹이 1789년에 바로 황제에 즉위했다.',
+                                               '루이 16세가 로마 교황으로 취임했다.'],
+                                   'explain': '왕권 정지와 입법의회 해산, 보통선거에 의한 국민공회 소집 결정을 연결한다.',
+                                   'evidence': [{'page': 'seoyangsa-textbook-page-174',
+                                                 'quote': '8월 10일 봉기(1792)\n'
+                                                          '① 왕궁 튀일리 궁 습격. 왕권 정지\n'
+                                                          '② 입법의회 해산, 보통선거에 의한 국민공회 소집 결정'}],
+                                   'choiceExplanations': ['왕권 정지와 새로운 의회 소집이 같은 혁명 단계에서 이루어졌다.',
+                                                          '봉기는 봉건 질서의 영구 강화를 지향하지 않았다.',
+                                                          '나폴레옹의 제정 성립과 시기가 다르다.',
+                                                          '루이 16세가 교황에 취임한 사실은 없다.']},
+ 'seoyangsa-ext-war-revolution-067': {'choices': ['두 정책 모두 고대 로마의 속주세였다.',
+                                                  '신경제정책은 국가가 모든 주요 산업을 외국에 무상 양도한 정책이다.',
+                                                  '국내 상업을 금지한 정책에서 소규모 상업·농업의 시장 요소를 허용하는 방향으로 바뀌었다.',
+                                                  '신경제정책은 모든 시장을 전시 공산주의보다 더 전면 금지했다.'],
+                                      'evidence': [{'page': 'seoyangsa-textbook-page-132',
+                                                    'quote': '㉢ 국내 상업 불법화\n'
+                                                             '전시공산주의의 결과\n'
+                                                             '① 내전과 식량 공출로 농업 생산 격감\n'
+                                                             '② 공업 생산도 붕괴에 가까운 수준으로 하락\n'
+                                                             '③ 농민 반란과 Kronstadt 수병 반란 등 정권 위기\n'
+                                                             '④ 레닌은 신경제정책(NEP)으로 전환하여 소규모 상업·농업의 시장 요소를 '
+                                                             '허용'}]},
+ 'seoyangsa-ext-coldwar-081': {'evidence': [{'page': 'seoyangsa-textbook-page-245',
+                                             'quote': '트루먼 독트린(1947) [기출 2017]\n'
+                                                      '① 배경 : 그리스 공산 반란, 소련의 다르다넬스 공동관리 압력, 동유럽 공산화\n'
+                                                      '② 내용 : 봉쇄 정책(Containment). 그리스 군사 지원, 터키 경제 원조'},
+                                            {'page': 'seoyangsa-textbook-page-245',
+                                             'quote': '① 전후 유럽 경제 부흥을 위한 대규모 원조. 유럽경제협력기구(OEEC) 창설(1948)'}]},
+ 'seoyangsa-ext-coldwar-082': {'evidence': [{'page': 'seoyangsa-textbook-page-246',
+                                             'quote': '베를린 봉쇄(1948~1949)\n'
+                                                      '① 계기 : 미·영·프가 서독 점령 지구를 통합하고 DM을 발행\n'
+                                                      '② 소련이 서베를린 지상 수송로를 차단. 서방은 공수.'}]},
+ 'seoyangsa-ext-coldwar-085': {'evidence': [{'page': 'seoyangsa-textbook-page-252',
+                                             'quote': '반둥 회의(제1회 아시아-아프리카 회의, 1955)\n'
+                                                      '① 반제국주의, 반식민주의, 반인종주의, 비동맹 중립, 국제연합 가입\n'
+                                                      '② 분쟁의 평화적 해결, 상호 및 세계와의 경제적 협력'},
+                                            {'page': 'seoyangsa-textbook-page-252',
+                                             'quote': '② 목표 : 비동맹·반식민·중립. 동서 냉전에 휘말리지 않고 남북 경제 격차 축소'}]},
+ 'seoyangsa-ext-coldwar-088': {'evidence': [{'page': 'seoyangsa-textbook-page-250',
+                                             'quote': '강대국의 핵 위협을 제외하고는 내란이나 침략에 대하여 아시아 각국이 스스로 대처하여야 한다.'},
+                                            {'page': 'seoyangsa-textbook-page-249',
+                                             'quote': '냉전 체제의 완화\n'
+                                                      '① 1970년대 : 냉전 피로, 공산 세계 내부 변화, 미국의 외교 전환, 핵전쟁 공포'}]}}
+for _id, _patch in MC_REVIEW_PATCHES.items():
+    _q = next(q for q in Q if q['id'] == _id)
+    assert _q['type'] == 'mc'
+    _q.update(_patch)
+    for _e in _q['evidence']:
+        assert _e['quote'] in NOTES[_e['page']]['text'], _id
+
 def main():
+    # The same source-date typo must not re-enter the essay's grading evidence.
+    coldwar = next(q for q in Q if q['id'] == 'seoyangsa-ext-coldwar-295')
+    berlin = MC_REVIEW_PATCHES['seoyangsa-ext-coldwar-082']['evidence'][0]
+    for owner in [coldwar, *coldwar['rubric']]:
+        owner['evidence'] = [dict(berlin) if '1949. 6. 봉쇄 해제' in item['quote'] else item
+                             for item in owner['evidence']]
     assert len(Q)==300, len(Q)
     assert collections.Counter(q['type'] for q in Q)=={'mc':100,'short':100,'blank':70,'essay':30}
     for q in Q:

@@ -102,7 +102,8 @@ def generate(subject: str, root: Path, *, include_expansion: bool = True) -> dic
                root / 'functions/_data/subjects' / subject / 'essays.json': private_essays}
     if include_expansion:
         from expansion import expand_generated
-        return expand_generated(subject, root, outputs)
+        from shorts import extend_generated
+        return extend_generated(subject, root, expand_generated(subject, root, outputs))
     return outputs
 
 

@@ -32,15 +32,15 @@ SEEDS = '''
 78|일반화|일반화는 두 개 이상의 사건이나 현상|여러 사건·현상·개념 사이의 관계를 자료에 기초하여 보편적인 진술로 표현하는 것이다.|관계
 78|제한된 일반화|제한된 일반화(동학농민운동은|특정 사건이나 범위에 한정하여 성격과 관계를 진술하는 일반화이다.|반제국주의적
 78|보편적 일반화|보편적 일반화(과거의 사실에 대한 역사가의 견해|개별 사건을 넘어 폭넓은 역사 인식의 관계를 진술하는 일반화이다.|시대 환경
-12|통사|시대를 한정하지 아니하고 전 시대와 전 지역의|시대나 지역을 좁게 한정하지 않고 역사의 전체 줄거리를 서술하는 양식이다.|줄거리
+12|통사|시대를 한정하지 아니하고 전 시대와 전 지역의|특정 시기에 한정하지 않고 선정한 역사 범위의 전체 줄거리를 서술하는 양식이다.|줄거리
 12|연대기적 방법|역사적 사실을 일어난 순서에 따라 조직|역사적 사실을 발생한 시간 순서에 따라 조직하는 내용 구성 방식이다.|순서
 12|역연대기적 방법|현재를 기점으로 과거로 거슬러 올라가면서|현재의 문제에서 출발하여 과거로 거슬러 올라가도록 내용을 구성하는 방식이다.|현재
 12|주제 중심적 방법|유사한 역사적 사건들을 하나의 주제로 묶어|서로 다른 역사적 사건을 공통 주제로 묶어 내용을 조직하는 방식이다.|주제
 12|종적 관점의 주제 조직|동일한 주제도 시대에 따라 다르게 작용|동일 주제가 여러 시대에 걸쳐 어떻게 변화하는지 추적하는 내용 조직 관점이다.|시대
 12|횡적 관점의 주제 조직|한 시대의 주요 주제를 다방면에 걸쳐 고찰|하나의 시대에서 특정 주제를 여러 측면으로 살피는 내용 조직 관점이다.|다방면
 81|사료|역사 연구에 필요한 문헌이나 유물|역사 연구의 근거로 이용하는 문헌이나 유물을 가리킨다.|유물
-81|1차 사료|역사적 사실이 일어난 것과 거의 같은 시기에 제작된|역사적 사건이 일어난 시기와 거의 같은 때에 만들어진 유물이나 저작물이다.|같은 시기
-81|2차 사료|역사적 사실이 일어났던 시기보다 나중에 만들어진|사건이 일어난 뒤에 만들어진 해석·해설 등 후대의 자료이다.|나중
+81|1차 사료|직접적 증거, 목격자의 생생한 증거|연구하는 사건에 대한 직접 경험이나 목격의 증거이다. 제작 시점만으로 분류하지 않는다.|목격자
+81|2차 사료|예) 논문, 해석, 해설, 각주, 전기류, 비평|연구하는 사건의 기존 자료를 분석·해석하여 구성한 설명이다. 제작 시점만으로 분류하지 않는다.|해석
 81|사료의 불완전성|사료가 과거에 일어났던 일을 모두 담고 있는 것은|사료가 과거의 모든 일을 담지 않으며 완전한 형태로 전해지지도 않는 성격이다.|완전
 81|사료의 주관성|의식적이건 아니건 그것을 만든 사람에 의해 선택된|사료의 내용에는 제작자의 선택이 개입된다는 성격이다.|선택
 81|해석의 다양성|사료를 이용하는 사람에 따라 달리 해석|같은 사료도 이용하는 사람에 따라 의미와 해석이 달라질 수 있다는 특성이다.|사람
@@ -149,6 +149,7 @@ def main():
         # concepts on the same source card when forming distractors.
         candidates = [s for s in seeds if s['term'] != seed['term'] and
                       {s['term'], seed['term']} != {'불완전한 설명', '생략적 설명'} and
+                       {s['term'], seed['term']} not in ({'행동목표', '교육목표의 상세화'}, {'역사담론', '플롯화'}) and
                       s['term'] not in seed['term'] and seed['term'] not in s['term'] and
                       s['meaning'] != seed['meaning']]
         order = [s for s in candidates if s['page'] == seed['page']]
@@ -199,6 +200,30 @@ def main():
     assert len(clozes) >= 70, len(clozes)
     questions.extend(clozes[:70])
     questions.extend(essays(seeds, notes))
+
+    # Audit correction applies to every MC option where the broad '통사' definition recurs.
+    for q in questions:
+        if q['id'] == 'gyoyukron-ext-021-short':
+            q['evidence'] = [{'page': 'gyoyukron-textbook-page-12', 'quote': '시대를 한정하지 아니하고'},
+                             {'page': 'gyoyukron-textbook-page-12', 'quote': '전체 역사의 줄거리를 서술하는 역사 기술의 양식'}]
+            q['explain'] += ' 특정 지역의 역사를 여러 시대에 걸쳐 서술한 통사도 가능하므로, 전 지역을 다루는 것이 필수 요건은 아니다.'
+        if q['id'] == 'gyoyukron-ext-021-passage':
+            q['passage'] = '② 통사체제와 같은 방식은 연대순에 따르는 통사적 접근이 시간의 흐름에 따른 변화를 인식한다는 역사학의 본질에 가장 가까운 것으로 여겨졌기 때문'
+            q['answer'] = '통사적 접근'
+            q['explain'] = '통사적 접근은 시대를 좁게 한정하지 않고 시간의 흐름에 따른 변화를 살핀다. 특정 지역의 통사도 가능하므로, 전 지역을 다루는 것이 필수 요건은 아니다.'
+            q['evidence'] = [{'page': 'gyoyukron-textbook-page-12', 'quote': q['passage']}]
+        if q['type'] != 'mc':
+            continue
+        old_meaning = '시대나 지역을 좁게 한정하지 않고 역사의 전체 줄거리를 서술하는 양식이다.'
+        new_meaning = '특정 시기에 한정하지 않고 선정한 역사 범위의 전체 줄거리를 서술하는 양식이다.'
+        q['choices'] = [v.replace(old_meaning, new_meaning) for v in q['choices']]
+        q['explain'] = q['explain'].replace(old_meaning, new_meaning)
+        q['choiceExplanations'] = [v.replace(old_meaning, new_meaning) for v in q['choiceExplanations']]
+        if q['id'] == 'gyoyukron-ext-021-mc':
+            q['evidence'] = [{'page': 'gyoyukron-textbook-page-12', 'quote': '시대를 한정하지 아니하고'},
+                             {'page': 'gyoyukron-textbook-page-12', 'quote': '전체 역사의 줄거리를 서술하는 역사 기술의 양식'}]
+        if q['id'] == 'gyoyukron-ext-035-mc':
+            q['prompt'] = '교재가 내적 비판의 하위 작업으로 제시한 텍스트 비판의 내용으로 가장 적절한 것은?'
     assert len(questions) == 300, len(questions)
     folder = ROOT / 'tools/history-questions/extended-inputs'
     folder.mkdir(parents=True, exist_ok=True)

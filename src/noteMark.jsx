@@ -15,6 +15,7 @@ export function answerOf(q) {
 }
 
 export function Mark({ good, children }) {
+  if (good == null) return <span className="mark-review">{children}</span>;
   if (good) {
     return (
       <span className="mark-ok">
@@ -28,11 +29,12 @@ export function Mark({ good, children }) {
   return <span className="mark-bad"><svg viewBox="0 0 100 24" preserveAspectRatio="none" aria-hidden="true"><path className="strike" d="M 1 15 L 99 9" /></svg>{children}</span>;
 }
 
-export function After({ q }) {
+export function After({ q, result }) {
   const { to } = useSubject();
   const why = reasonOf(q);
   return (
     <div className="after">
+      {result?.status === "review" && <p role="status">검토 필요 · {result.explain} 이 답안은 정답률에 포함하지 않습니다.</p>}
       <p className="ans">정답 {answerOf(q)}</p>
       {why && <p className="why">{why}</p>}
       {q.page && <Link className="source-link" to={to(`/viewer?page=${encodeURIComponent(q.page)}`)}>뷰어 근거 보기 ↗</Link>}

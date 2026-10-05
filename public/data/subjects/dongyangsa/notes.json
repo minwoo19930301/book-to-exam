@@ -9287,7 +9287,16 @@
         "dongyangsa_pages/part5_page_031_1404s.jpg"
       ],
       "textSha256": "f7a01b1ce7e6c6bb4ca06ef31e6ae064dac258b7edc03da16c8d25ff3cb9c7ff",
-      "knownIssues": []
+      "knownIssues": [
+        {
+          "id": "japan-land-reform-share",
+          "status": "known-discrepancy",
+          "quote": "전체 농지의 80%",
+          "note": "일본 농림수산성 자료의 매수 농지 비율은 전체의 약 3할이며, 소작지 비율은 46%에서 10%로 감소한 것으로 설명됩니다. '전체 농지의 80%'는 분모가 혼동된 수치이므로 출제 근거에서 제외합니다.",
+          "referenceUrl": "https://www.maff.go.jp/j/keiei/koukai/kaikaku/pdf/kaisei_sh.pdf",
+          "referenceTitle": "일본 농림수산성 · 농지제도의 변천"
+        }
+      ]
     },
     "headings": [
       "[사료탐구] 일본의 농지 개혁",
@@ -9337,7 +9346,16 @@
         "dongyangsa_pages/part5_page_031_1404s.jpg"
       ],
       "textSha256": "f7a01b1ce7e6c6bb4ca06ef31e6ae064dac258b7edc03da16c8d25ff3cb9c7ff",
-      "knownIssues": []
+      "knownIssues": [
+        {
+          "id": "japan-land-reform-share",
+          "status": "known-discrepancy",
+          "quote": "전체 농지의 80%",
+          "note": "일본 농림수산성 자료의 매수 농지 비율은 전체의 약 3할이며, 소작지 비율은 46%에서 10%로 감소한 것으로 설명됩니다. '전체 농지의 80%'는 분모가 혼동된 수치이므로 출제 근거에서 제외합니다.",
+          "referenceUrl": "https://www.maff.go.jp/j/keiei/koukai/kaikaku/pdf/kaisei_sh.pdf",
+          "referenceTitle": "일본 농림수산성 · 농지제도의 변천"
+        }
+      ]
     },
     "headings": [
       "[사료탐구] 일본의 농지 개혁",

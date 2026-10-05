@@ -13,6 +13,7 @@ import Blank from "./Blank.jsx";
 import Short from "./Short.jsx";
 import Essay from "./Essay.jsx";
 import Questions from "./Questions.jsx";
+import History from "./History.jsx";
 import ApiKey from "./ApiKey.jsx";
 import LegacyWikiRedirect from "./LegacyWikiRedirect.jsx";
 import { SubjectsProvider } from "./subjects.jsx";
@@ -33,6 +34,7 @@ createRoot(document.getElementById("root")).render(
         <Route path="/short" element={<Short />} />
         <Route path="/essay" element={<Essay />} />
         <Route path="/questions" element={<Questions />} />
+        <Route path="/history" element={<History />} />
         <Route path="/apikey" element={<ApiKey />} />
       </Routes>
       </SubjectsProvider>

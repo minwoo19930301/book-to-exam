@@ -43,24 +43,15 @@ export default function Essay() {
   const { dataFile, id: subjectId, to } = useSubject();
   const chromeAbort = useRef(null);
   useEffect(() => () => chromeAbort.current?.abort(), [subjectId]);
-  const bank = useQuestionBank(dataFile("essays"));
+  const bank = useQuestionBank(dataFile("essays"), undefined, { subject: subjectId, type: "essay" });
   const { q: essay, value: answer, setValue: setAnswer, result: out, record, update } = bank;
-  const draftKey = essay ? (subjectId === "hand-memo" ? `bve-essay-${essay.id}` : `bve-essay-${subjectId}-${essay.id}`) : null;
   const [provider, setProvider] = useState(() => lastKey().provider || "gemini");
   const [keyVal, setKey] = useState(() => lastKey().key || "");
   const [model, setModel] = useState(() => lastKey().model || "");
   const waiting = Boolean(record.waiting), method = record.method || "";
   const ask = Boolean(record.ask), status = record.status || "";
-  useEffect(() => {
-    if (!essay || guide?.demo || record.loaded) return;
-    let draft = "";
-    try { draft = localStorage.getItem(draftKey) || ""; } catch { /* storage unavailable */ }
-    update({ value: record.value ?? draft, loaded: true });
-  }, [essay, draftKey, guide?.demo, record.loaded, record.value, update]);
   function writeDraft(value) {
     setAnswer(value);
-    if (!essay || guide?.demo) return;
-    try { localStorage.setItem(draftKey, value); } catch { /* storage unavailable */ }
   }
   useEffect(() => {
     if (!guide?.demo || !essay) return undefined;
@@ -116,7 +107,7 @@ export default function Essay() {
     {essay && <div className="card q">
       <p className="lead">{essay.prompt}</p>
       <textarea data-guide="type" aria-label="서술형 답안" value={answer} onChange={e => writeDraft(e.target.value)} placeholder="답을 작성하세요." disabled={Boolean(out) || waiting} />
-      <ExamBar graded={out} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious}
+      <ExamBar graded={out} onRetry={bank.retry} retryDisabled={waiting} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious}
         onGrade={() => update({ ask: true })} gradeDisabled={waiting || !answer.trim()} />
     </div>}
     {ask && <AiGate method={method} onPick={method => update({ method })} provider={provider} setProvider={setProvider} keyVal={keyVal} setKey={setKey}

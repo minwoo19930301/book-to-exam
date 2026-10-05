@@ -1274,7 +1274,16 @@
         "gyoyukron_textbook_pages/page_081_231s.jpg"
       ],
       "textSha256": "fa75ad930fa87601ffb375355fc3a902a91f3c8c2c8bdd691cf01babba9dd098",
-      "knownIssues": []
+      "knownIssues": [
+        {
+          "id": "primary-secondary-time-only",
+          "status": "oversimplification",
+          "quote": "역사적 사실이 일어났던 때와 같은 시대에 만들어졌는가의 여부에 따라 1·2차 사료로 구분(동시대성)",
+          "note": "1·2차 사료는 제작 시기만으로 구분할 수 없습니다. 나중에 작성된 회고록·구술 증언도 당사자의 직접 경험 자료가 될 수 있으며 연구 질문과 자료의 관계를 함께 보아야 합니다.",
+          "referenceUrl": "https://ask.loc.gov/faq/303148",
+          "referenceTitle": "미 의회도서관 · What is a primary source?"
+        }
+      ]
     },
     "headings": [
       "2 사료(史料)",

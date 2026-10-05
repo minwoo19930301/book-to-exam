@@ -47,8 +47,9 @@
 | 빈칸 | [/blank](https://bookvideotoexam.pages.dev/blank) | 뷰어 앞뒤 글을 보고 빈칸을 채움 |
 | 단답 | [/short](https://bookvideotoexam.pages.dev/short) | 용어를 정확히 씀 |
 | 서술형 | [/essay](https://bookvideotoexam.pages.dev/essay) | 사용자 AI로 채점 |
-| 전체 문제은행 | [/questions](https://bookvideotoexam.pages.dev/questions?subject=all&pageSize=50) | 1,477개 검색·과목/유형 필터·정답/해설 펼치기 |
+| 전체 문제은행 | [/questions](https://bookvideotoexam.pages.dev/questions?subject=all&pageSize=50) | 2,077개 검색·과목/유형 필터·정답/해설 펼치기 |
 | 연구 예상문항 | [/questions?type=research](https://bookvideotoexam.pages.dev/questions?type=research&pageSize=50) | 논문 기반 서술형 24개·모범답안·채점 기준 |
+| 히스토리 | [/history](https://bookvideotoexam.pages.dev/history) | 30일간 답안·채점 결과, 과목/유형/결과 필터, 삭제·다시 풀기 |
 
 서술형 채점에는 사용자 AI가 필요합니다.
 
@@ -64,11 +65,15 @@ npm run dev -- --host 127.0.0.1 --port 4179
 
 검증: `npm test` / `npm run build`
 
-문제의 이전/다음 이동은 채점 여부와 무관하며, 같은 화면에서 답안과 결과를 유지합니다.
+문제의 이전/다음 이동은 채점 여부와 무관합니다. 문항 번호를 입력해 이동하고, 과목·유형별 마지막 문항과 작성하던 답안·결과를 다시 불러옵니다. `?q=문항ID`가 있으면 그 문항을 우선합니다. 다시 풀기는 이전 답안을 보존하는 새 시도이며 문항 위에 시도 번호와 누적 정답률을 표시합니다.
+
+히스토리는 이 브라우저의 IndexedDB에 보관합니다. 기록마다 마지막 답안 저장 후 30일이 지나면 다음 열람 시 만료 처리합니다. 즉시 새로고침으로 저장이 끊기는 상황을 위해 잠깐 localStorage에 남기는 pending journal도 같은 유효기간·삭제 규칙을 따릅니다. 기록을 지운 뒤 도착한 비동기 채점 응답은 삭제한 기록을 되살리지 않습니다. 과거 브라우저에 저장되어 있지 않던 풀이와 MCP 채팅 안에서만 완료한 채점은 소급 수집하지 않습니다.
 
 ## 채점 규칙
 
-- 단답형과 용어 빈칸은 공백만 무시하는 정확 일치입니다. 문장 빈칸은 `public/data/blanks.json`의 필수 핵심어 그룹과 모순 표현으로 판정합니다. 빈칸의 앞·답·뒤를 합치면 해당 뷰어 원문과 일치합니다.
+- 단답형은 유니코드 조합·공백 차이를 무시하고 정답 및 문항별 승인된 별칭과 정확히 일치해야 합니다. 부분 문자열이나 유사도만으로 정답 처리하지 않습니다.
+- 용어 빈칸은 마침표·가운뎃점·영문 대소문자 등 표기 차이와 명시적으로 검토한 답안(예: `화(和)` → `화`, `100분의 3` → `3%`)을 인정합니다. 앞·답·뒤 전체 문장이 일치하는 위치를 사용해 반복 글머리표 때문에 다른 문장을 가리지 않습니다.
+- 문장 빈칸은 원문/승인된 답안과 일치하면 정답, 다른 표현은 키워드만으로 오답을 확정하지 않고 ‘검토 필요’로 남깁니다. 검토 필요·미채점 답안은 정답률에서 제외합니다. 이 과정에서 유료 AI를 자동 호출하지 않습니다.
 - 서술형의 정식 기준과 기준별 뷰어 인용은 `functions/_data/essays.json`과 과목별 서버 파일에 둡니다. 시험 화면의 정적 문항 목록은 답안을 포함하지 않습니다. 공개 연습용 `/questions`는 읽기 전용 `/api/practice-bank`에서 모범답안과 기준을 받아 펼쳐 볼 수 있습니다. 기준을 수정하면 버전도 올리고, 테스트로 원문 인용을 확인합니다.
 - API 키 채점은 `POST /api/score { essayId, answer, provider, apiKey, model }`입니다. 키를 넣은 뒤 `POST /api/models`로 목록을 받아 모델을 고릅니다. 클라이언트가 보낸 기준은 신뢰하지 않습니다. 서버가 기준과 근거를 모으고 모델을 호출한 뒤 항목 점수·답안 인용·뷰어 인용을 검증합니다.
 - MCP 주소는 `/api/mcp/<id>`입니다. 같은 URL에서 JSON-RPC `initialize`, `tools/list`, `tools/call`을 지원합니다. 채점은 `score({essayId,answer})`로 문맥을 준비하고, 연결된 에이전트가 평가한 뒤 `score({essayId,answer,assessment})`로 검증합니다. `get_essay`만으로 채점하지 않습니다. 점수는 에이전트 채팅에 나타나며 웹 화면으로 자동 동기화하지 않습니다. 검증은 점수 범위와 인용 출처를 확인하며, AI의 의미 판단까지 보장하지 않습니다. 새 문항 작성은 아래 압축 KB와 출제 준비 도구를 이용합니다.
@@ -116,17 +121,22 @@ Markdown KB는 아래에 설명합니다. 벡터 DB나 운영비 절감 실측�
 ## 과목별 교재와 출제 지식
 
 `/menu`에서 손글씨 메모·서양사·한국사·동양사·역사교육론을 선택합니다.
-교재 뷰어는 원문 전사와 분리한 사진·지도·도표를 보여주며 객관식·빈칸·단답·서술형으로 이어집니다. 사용자용 개념 위키는 제공하지 않습니다. 기존 `/wiki` 주소는 과목을 유지하여 교재로 이동합니다.
+교재 뷰어는 원문 전사와 전체 캡처를 함께 보여주며 별도로 분리한 사진·지도·도표도 유지합니다. 사용자용 개념 위키는 제공하지 않습니다. 기존 `/wiki` 주소는 과목을 유지하여 교재로 이동합니다.
 
 - `knowledge/compact/<subject>/*.md`: 내부 출제용으로 선별·압축한 핵심, 비교·함정, 출제 판단과 보류 사유.
 - [지식 목차](knowledge/index.md) · [선별 기준](knowledge/selection-policy.md) · [출처 방법](knowledge/methodology.md).
 - `public/data/subjects/*/notes.json`: 원문 근거 데이터. KB에 원문을 통째로 복제하지 않습니다.
 - `public/figures/`: 원본에서 분리한 실제 그림. 좌표·출처는 `tools/history-figures/manifest-*.json`에 보존합니다.
+- `public/source-pages/`: 원본 Git 스냅샷과 바이트가 같은 전체 캡처 1,071개. `public/data/source-pages.json`에 1,081개 노트와의 연결·크기·SHA-256·원본 경로를 보존합니다. 원문 HTML에 이미지 연결이 없는 동양사 11개 페이지에는 다른 사진을 임의 배정하지 않습니다. 캡처 복원은 원문 전사 전체 검수 완료를 의미하지 않습니다.
 - `functions/_data/knowledge.json`: Markdown을 컴파일한 내부 검색 자료. 편집 원본은 Markdown입니다.
 
 MCP의 `search_knowledge` → `get_knowledge`로 필요한 작은 문서만 읽고, `get_note`로 원문과 그림을 확인합니다. `search_exam_sources`/`get_exam_source`는 평가원 근거를 별도로 조회합니다. 중요도는 출제 가능한 비교·인과·사료 판별을 기준으로 선별한 편집 판단이며 출제 확률 통계가 아닙니다. 전사·해설의 불명확한 부분은 자동 정답으로 승격하지 않습니다.
 
 `prepare_exam`은 과목·주제에 맞는 압축 문서 최대 3개와 제한된 원문 발췌, 검증된 기출 연결, 실제 그림 정보를 묶어 에이전트의 출제를 준비합니다. 모델을 호출하거나 문항을 자동 등록하지 않습니다. 에이전트는 보류 사유를 확인하고 정답·선지·채점 기준의 근거를 남겨 검수해야 합니다. 초기 111문항을 유지하고 서양사·한국사·동양사·역사교육론에 각각 300문항(총 1,200개)을 추가했습니다. `tools/history-questions/extended-inputs/`의 집필 입력과 원문 인용·오답 해설·문항별 채점 기준을 검증해 가져옵니다. 교재 기반 연습은행은 총 1,311문항이며, 기존 손글씨 142문항을 포함하면 1,453문항입니다. 새 KB를 편집한다고 은행이 자동 변경되지는 않습니다.
+
+2026-10-05에 네 과목의 단답형을 각각 150개(총 600개) 추가하여 등록 연습문항은 2,053개, 연구 초안 24개를 포함한 공개 목록은 2,077개가 됩니다. 단답형 합계는 1,067개입니다. 입력·인용 선택은 `short-seeds/`와 `short-inputs/`, 증분 검증은 `tools/history-questions/shorts.py`에서 관리합니다. [객관식 517개 내용 검토 기록](knowledge/question-review/2026-10-05-mc.md)은 원문 의미 검토와 외부 자료로 확인한 범위를 구분합니다. 새 단답의 출제 확률이나 실제 시험 적중률을 측정한 것은 아닙니다.
+
+전체 캡처 재현: `python3 tools/history-source-pages.py --source /path/to/smart-textbooks --github-account chaeeun-kim-teacher`. 배포 자산만 검증: `python3 tools/history-source-pages.py --check`.
 
 공개 연구 참고 교수 27명·연구 JSON 87항목(핵심 검토 72항목)을 별도 조사했습니다. 논문 기반 예상 서술형 24개는 연구 초안이며 `prepare_exam`의 연구 검색과 `get_prediction`의 모범답안·채점 기준 조회로 연결됩니다. 공개 문제은행에서도 ‘연구 예상문항’ 유형으로 읽을 수 있습니다. `get_research_stats`는 서지·초록·본문 일부의 확인 범위를 구별해 집계합니다. [문항·연구 검증 기록](knowledge/prediction-research/validation-report.md)에 실제 확인 범위와 한계를 남겼습니다.
 

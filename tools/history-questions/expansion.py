@@ -23,7 +23,7 @@ from generate import ROOT, SCORING
 SUBJECTS = ("seoyangsa", "hanguksa", "dongyangsa", "gyoyukron")
 TYPES = ("mc", "short", "blank", "essay")
 SKILLS = ("fact", "comparison", "causation", "source-analysis")
-VERSION = "history-expansion.1"
+VERSION = "history-expansion.2"
 REQUIRED_COUNT = 300
 
 
@@ -263,6 +263,11 @@ def prepare_subject(root, subject, document, *, allow_partial=False, baseline_ou
     for same_task in quote_tasks.values():
         require(len({kind for _, kind in same_task}) < 3,
                 f"{subject}: same quote/answer recycled across three types: {[key for key, _ in same_task]}")
+    # Standalone re-imports preserve the same starter -> ext -> short150 order
+    # as generate.py without modifying any short150 row.
+    short_prefix = subject + "-short150-"
+    outputs["questions"] = ([row for row in outputs["questions"] if not row["id"].startswith(short_prefix)] +
+                            [row for row in outputs["questions"] if row["id"].startswith(short_prefix)])
     report = {"subject": subject, "added": len(rows), "types": dict(counts), "skills": dict(skills),
               "sourcePages": len(source_counts), "sourceQuestionCounts": dict(sorted(source_counts.items())),
               "existingPreserved": sum(len(baseline[k]) for k in ("questions", "blanks", "essays")),

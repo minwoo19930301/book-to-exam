@@ -2406,7 +2406,7 @@
       "evidence": [
         {
           "page": "dongyangsa-textbook-page-166",
-          "quote": "② 내용 : 무역항을 4개항에서 광주(광동)로 제한(1757) (유대관 등 기타 해관 폐지)"
+          "quote": "② 내용 : 무역항을 4개항에서 광주(광동)로 제한(1757)"
         }
       ],
       "choices": [
@@ -5627,7 +5627,11 @@
       "evidence": [
         {
           "page": "dongyangsa-textbook-page-273",
-          "quote": "• 농지 개혁 : 소작지 해방(전체 농지의 80%), 자작농 창출 → 내수 경기 부양"
+          "quote": "• 농지 개혁 : 소작지 해방"
+        },
+        {
+          "page": "dongyangsa-textbook-page-273",
+          "quote": "자작농 창출 → 내수 경기 부양"
         }
       ],
       "choices": [
@@ -6073,7 +6077,7 @@
       "evidence": [
         {
           "page": "dongyangsa-textbook-page-305",
-          "quote": "㉢ 급진적 정책 : 도시민의 농촌 강제 이주, 통화 폐지 등의 정책, 200만 명 학살"
+          "quote": "㉢ 급진적 정책 : 도시민의 농촌 강제 이주, 통화 폐지 등의 정책"
         }
       ],
       "choices": [
@@ -7846,7 +7850,11 @@
       "evidence": [
         {
           "page": "dongyangsa-textbook-page-273",
-          "quote": "• 농지 개혁 : 소작지 해방(전체 농지의 80%), 자작농 창출 → 내수 경기 부양"
+          "quote": "• 농지 개혁 : 소작지 해방"
+        },
+        {
+          "page": "dongyangsa-textbook-page-273",
+          "quote": "자작농 창출 → 내수 경기 부양"
         },
         {
           "page": "dongyangsa-textbook-page-273",
@@ -7882,7 +7890,11 @@
           "evidence": [
             {
               "page": "dongyangsa-textbook-page-273",
-              "quote": "• 농지 개혁 : 소작지 해방(전체 농지의 80%), 자작농 창출 → 내수 경기 부양"
+              "quote": "• 농지 개혁 : 소작지 해방"
+            },
+            {
+              "page": "dongyangsa-textbook-page-273",
+              "quote": "자작농 창출 → 내수 경기 부양"
             }
           ],
           "scoring": "요구한 핵심 의미를 정확히 설명하면 만점, 일부만 설명하면 그 충족 정도에 따라 부분점수. 의미가 같은 표현을 인정한다. 누락·모순은 해당 기준에서만 감점하고 다른 기준의 충족을 취소하지 않는다."

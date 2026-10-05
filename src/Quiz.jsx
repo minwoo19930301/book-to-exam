@@ -10,8 +10,8 @@ import BankStatus from "./BankStatus.jsx";
 const mcQuestions = list => list.filter(x => x.type === "mc" && usable(x));
 
 export default function Quiz() {
-  const { dataFile } = useSubject();
-  const bank = useQuestionBank(dataFile("questions"), mcQuestions);
+  const { dataFile, id: subject } = useSubject();
+  const bank = useQuestionBank(dataFile("questions"), mcQuestions, { subject, type: "mc" });
   const { q, value: choice, setValue: setChoice, result, setResult } = bank;
   useExamPlay({ q, setVal: setChoice, setResult, kind: "mc" });
   function grade() {
@@ -46,7 +46,7 @@ export default function Quiz() {
                 );
               })}
             </div>
-            <ExamBar graded={result} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious} onGrade={grade} gradeDisabled={!q || choice === ""} />
+            <ExamBar graded={result} onRetry={bank.retry} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious} onGrade={grade} gradeDisabled={!q || choice === ""} />
             {result && <After q={q} />}
           </div>
         )}

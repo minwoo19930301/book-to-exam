@@ -13146,7 +13146,16 @@
         "seoyangsa_pages/page_246_2328s.jpg"
       ],
       "textSha256": "ea7c95c8953d72abf8513ca3d0bfd6c85eb4315adce346ac82ddcf9d3065e5fb",
-      "knownIssues": []
+      "knownIssues": [
+        {
+          "id": "berlin-blockade-end-month",
+          "status": "known-discrepancy",
+          "quote": "1949. 6. 봉쇄 해제",
+          "note": "베를린 봉쇄 해제는 1949년 5월입니다. 원문의 6월 표기는 정답 근거에서 제외합니다.",
+          "referenceUrl": "https://history.state.gov/milestones/1945-1952/berlin-airlift",
+          "referenceTitle": "미 국무부 역사실 · The Berlin Airlift"
+        }
+      ]
     },
     "headings": [
       "[사료탐구] 마셜 플랜",

@@ -32,7 +32,23 @@ KNOWN_ISSUES = {
         "note": "원문의 당선 연도는 오류가 의심됩니다. FDR은 1932년 대통령 선거에서 당선되었고 1933년 취임했습니다. 가져온 원문은 보존하며 이 구절은 출제 근거에서 제외합니다.",
         "referenceUrl": "https://www.fdrlibrary.org/fdr-presidency", "referenceTitle": "Franklin D. Roosevelt Presidential Library · FDR's Presidency",
     }],
+    "seoyangsa-textbook-page-246": [{
+        "id": "berlin-blockade-end-month", "status": "known-discrepancy", "quote": "1949. 6. 봉쇄 해제",
+        "note": "베를린 봉쇄 해제는 1949년 5월입니다. 원문의 6월 표기는 정답 근거에서 제외합니다.",
+        "referenceUrl": "https://history.state.gov/milestones/1945-1952/berlin-airlift", "referenceTitle": "미 국무부 역사실 · The Berlin Airlift",
+    }],
+    "gyoyukron-textbook-page-81": [{
+        "id": "primary-secondary-time-only", "status": "oversimplification", "quote": "역사적 사실이 일어났던 때와 같은 시대에 만들어졌는가의 여부에 따라 1·2차 사료로 구분(동시대성)",
+        "note": "1·2차 사료는 제작 시기만으로 구분할 수 없습니다. 나중에 작성된 회고록·구술 증언도 당사자의 직접 경험 자료가 될 수 있으며 연구 질문과 자료의 관계를 함께 보아야 합니다.",
+        "referenceUrl": "https://ask.loc.gov/faq/303148", "referenceTitle": "미 의회도서관 · What is a primary source?",
+    }],
 }
+for _page in (273, 275):
+    KNOWN_ISSUES[f"dongyangsa-textbook-page-{_page}"] = [{
+        "id": "japan-land-reform-share", "status": "known-discrepancy", "quote": "전체 농지의 80%",
+        "note": "일본 농림수산성 자료의 매수 농지 비율은 전체의 약 3할이며, 소작지 비율은 46%에서 10%로 감소한 것으로 설명됩니다. '전체 농지의 80%'는 분모가 혼동된 수치이므로 출제 근거에서 제외합니다.",
+        "referenceUrl": "https://www.maff.go.jp/j/keiei/koukai/kaikaku/pdf/kaisei_sh.pdf", "referenceTitle": "일본 농림수산성 · 농지제도의 변천",
+    }]
 BLOCK = {"p", "div", "section", "li", "h1", "h2", "h3", "h4", "h5", "h6", "tr", "br", "hr"}
 VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
 STOP = set("대한 위한 통해 관련 역사 내용 다음 경우 당시 이후 이전 이를 그는 또는 그리고 그러나 특히 가운데 따른 위해 모든 여러 주로 중심 주요 특징 설명 정리 문제 학년도 전공 역사교육론 서양사 한국사 동양사 기출 학습 자료 사료 정치 경제 사회 문화 중요 확립 전개 발전 변화 시작 실시 국가 시대 수업 학생 교사 제시 한다 하였다 되었다 있었다 것이다 있는 대한 것으로 것을 통해서 된다 있습니다 쓰시오 서술하시오 괄호 밑줄 공통 들어갈".split())

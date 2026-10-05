@@ -55,15 +55,16 @@ export function clozeAround(q, notes) {
   if (!note) return { before: before0, after: after0 };
   const text = String(note.text || "").replace(/\*\*/g, "");
   const ans = String(q.answer || "");
-  let pos = -1;
-  if (before0) {
-    const p = text.indexOf(before0);
-    if (p >= 0) pos = p + before0.length;
+  // Bullets such as "① " recur throughout a page. Locate the whole authored
+  // passage, never just its prefix or the first occurrence of the answer.
+  const passage = before0 + ans + after0;
+  const start = ans && passage ? text.indexOf(passage) : -1;
+  if (start < 0 || text.indexOf(passage, start + 1) >= 0) {
+    return { before: before0, after: after0 };
   }
-  if (pos < 0 && ans) pos = text.indexOf(ans);
-  if (pos < 0) return { before: before0, after: after0 };
+  const pos = start + before0.length;
   const left = text.slice(0, pos);
-  const right = text.slice(pos + (text.startsWith(ans, pos) ? ans.length : 0));
+  const right = text.slice(pos + ans.length);
   return {
     before: takeTail(left, 260) || before0,
     after: takeHead(right, 260) || after0,

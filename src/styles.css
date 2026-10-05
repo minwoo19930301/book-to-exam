@@ -750,6 +750,47 @@ textarea.cloze-in { display: inline-block; width: 10em; min-height: 0; height: 4
 }
 
 /* Browse authored questions and answers without starting an exam. */
+.grade-actions { display: flex; align-items: center; gap: 8px; }
+.mark-review { border-bottom: 2px dotted var(--muted); padding-bottom: 2px; }
+.exam-progress-tools { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+.exam-progress-tools p { margin: 0; }
+.question-jump { display: flex; align-items: center; gap: 8px; font-size: 13px; }
+.question-jump label { display: flex; align-items: center; gap: 8px; color: var(--muted); }
+.question-jump input { width: 76px; padding: 6px 8px; font-variant-numeric: tabular-nums; }
+.question-jump button { padding: 6px 12px; }
+.history-storage-error { margin: 16px 0; padding: 14px; border: 1px solid var(--bad); border-radius: 10px; color: var(--bad); font-size: 14px; }
+.history-heading { display: flex; justify-content: space-between; align-items: start; gap: 16px; margin-bottom: 20px; }
+.history-heading > button { flex-shrink: 0; font-size: 13px; }
+.history-heading .kicker { margin-bottom: 8px; }
+.history-heading p:last-child { margin-bottom: 0; }
+.history-filters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; padding: 20px; }
+.history-filters label { display: flex; flex-direction: column; gap: 6px; color: var(--muted); font-size: 13px; }
+.history-filters select { padding: 10px; color: var(--fg); font-size: 14px; }
+.history-entry-meta { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; color: var(--muted); font-size: 12px; margin-bottom: 16px; }
+.history-entry h2, .history-prompt, .history-answer { white-space: pre-wrap; overflow-wrap: anywhere; }
+.history-entry h2 { line-height: 1.65; }
+.history-outcome { display: inline-block; padding: 3px 10px; border-radius: 30px; background: var(--bg); font-size: 13px; }
+.history-outcome.correct { color: var(--ok); }
+.history-outcome.incorrect { color: var(--bad); }
+.history-outcome.ungraded, .history-outcome.review { color: var(--muted); }
+.history-entry summary { cursor: pointer; font-size: 14px; }
+.history-answer { margin-top: 16px; padding: 16px; background: var(--bg); border-radius: 10px; }
+.history-entry-actions { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: center; margin-top: 20px; }
+.history-entry-actions .cta { padding: 8px 14px; font-size: 13px; }
+.history-entry-actions .text-btn { color: var(--muted); font-size: 13px; }
+.history-delete-confirm { border-color: var(--bad); }
+.history-delete-confirm .row { margin-bottom: 0; }
+@media (max-width: 600px) {
+  .history-filters { grid-template-columns: 1fr; padding: 16px; }
+  .history-filters label { flex-direction: row; align-items: center; justify-content: space-between; }
+  .history-filters select { width: 75%; }
+  .history-heading { flex-wrap: wrap; }
+  .exam-actions { grid-template-columns: 1fr; }
+  .grade-actions { justify-content: flex-end; }
+  .bar-actions { gap: 2px; }
+  .bar-actions .text-link { font-size: 12px; }
+  .bar-actions .text-btn { padding: 8px; font-size: 12px; }
+}
 .bank-heading { margin: 0 0 24px; }
 .bank-heading .kicker { margin-bottom: 8px; }
 .bank-filters { padding: 24px; margin-bottom: 24px; }

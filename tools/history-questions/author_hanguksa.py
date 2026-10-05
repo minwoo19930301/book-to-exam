@@ -387,6 +387,157 @@ for _slug,_ref in {
 }.items():
     next(q for q in Q if q['id']=='hanguksa-ext-'+_slug)['evidence']=[ev(*_ref)]
 
+# Manual MC audit, 2026-10-05: exact relevant evidence and unambiguous scope.
+MC_REVIEW_PATCHES = {'hanguksa-ext-silla-census-purpose': {'evidence': [{'page': 'hanguksa-textbook-page-56',
+                                                     'quote': '㉢ 파악 : 촌주가 인구·토지·소·말·나무 등을 종류별로 3년마다 파악'},
+                                                    {'page': 'hanguksa-textbook-page-56',
+                                                     'quote': '④ 작성 목적 : 촌락의 노동력·생산 자원 파악 → 조세·특산물·부역 부과'}]},
+ 'hanguksa-ext-silla-land-rights': {'evidence': [{'page': 'hanguksa-textbook-page-56',
+                                                  'quote': '② 녹읍(祿邑) [2022-B-10]\n'
+                                                           '㉠ 내용 : 관료들에게 근무 보수로서 지급(노동력 징발 및 세금 징수)'},
+                                                 {'page': 'hanguksa-textbook-page-56',
+                                                  'quote': '④ 관료전(官僚田) 지급(신문왕 7년, 687) [2022-B-10]\n'
+                                                           '㉠ 배경 : 삼국통일로 수조권 지급 가능 토지 확대 → 관료들에 대한 보수체제 정비\n'
+                                                           '㉡ 내용 : 문무 관료에게 토지 수조권에 한정해 지급(자의적 수취 방지)'}]},
+ 'hanguksa-ext-balhae-mun-diplomacy': {'evidence': [{'page': 'hanguksa-textbook-page-62',
+                                                     'quote': '(3) 문왕(대흠무, 737~793)\n'
+                                                              '① 대외 관계\n'
+                                                              '㉠ 친당 노선\n'
+                                                              '• 문물 수용 : 『대당개원례』 등의 수용을 통한 지배 체제 정비\n'
+                                                              '• 국왕 책봉 : 안·사의 난으로 요동 혼란, 발해의 미개입 → 발해국왕 '
+                                                              '책봉(762)'},
+                                                    {'page': 'hanguksa-textbook-page-62',
+                                                     'quote': '③ 왕권 강화 및 체제 정비\n'
+                                                              '㉠ 중앙 : 3성 6부의 정치 제도 확립, 주자감\n'
+                                                              '㉡ 지방 : 경(京)-부(府)-주(州)의 통치 제도 토대 마련'}]},
+ 'hanguksa-ext-balhae-tomb-synthesis': {'evidence': [{'page': 'hanguksa-textbook-page-67',
+                                                      'quote': '③ 정효공주 묘(문왕 넷째 딸)\n'
+                                                               '㉠ 위치 : 중경 부근의 용두산 고분군, 문왕의 넷째 딸 무덤\n'
+                                                               '㉡ 특징\n'
+                                                               '• 당나라 양식 : 벽돌무덤, 널길과 널방 벽에 인물도 화풍\n'
+                                                               '• 고구려 양식 : 평행고임 구조\n'
+                                                               '• 발해 독자적 양식 : 탑장(塔葬) 형태'}]},
+ 'hanguksa-ext-goryeo-military-regime': {'evidence': [{'page': 'hanguksa-textbook-page-78',
+                                                       'quote': '(5) 최충헌(집권, 1196~1219)\n'
+                                                                '① 집권체제 안정 도모 [2022-A-8]\n'
+                                                                '㉠ 봉사 10조 제시 : 토지 겸병 등의 사회 문제 지적, 정변 정당성 확립\n'
+                                                                '㉡ 교정도감 설치 : 집정 기구, 감찰 · 세금 · 인사 행정 등 담당, '
+                                                                '교정별감(수장)'},
+                                                      {'page': 'hanguksa-textbook-page-78',
+                                                       'quote': '(6) 최우(집권, 1219~1249)\n'
+                                                                '① 최씨 무인 집권체제의 강화 [2016-A-10 / 2006-10]\n'
+                                                                '㉠ 정방(政房) : 인사 기구, 정색승선(政色承宣) 등 관직 설치\n'
+                                                                "㉡ 서방(書房) : 문신 등용('능문능리'), 정권 운영 고문, 3번으로 "
+                                                                '나누어 숙위'}]},
+ 'hanguksa-ext-gongmin-independence': {'evidence': [{'page': 'hanguksa-textbook-page-81',
+                                                     'quote': '② 1차 개혁(공민왕 5년, 1356) [2013-1차-17]\n'
+                                                              '㉠ 배경 : 원 내부에서 홍건적의 봉기(1351) 등으로 고려에 대한 내정 간섭 '
+                                                              '어려운 상황\n'
+                                                              '㉡ 내용 : 기철 등 숙청, 정동행성이문소 폐지, 원 연호 사용 중지, '
+                                                              '관제·쌍성총관부 회복'}]},
+ 'hanguksa-ext-goryeo-consensus': {'evidence': [{'page': 'hanguksa-textbook-page-84',
+                                                 'quote': '⑥ 식목도감(式目都監)\n'
+                                                          '㉠ 구성 : 중서문하성의 재신(宰臣)과 중추원의 추밀(樞密)이 모여 회의\n'
+                                                          '㉡ 업무 : 대내적 법제·격식 문제 관장\n'
+                                                          '㉢ 의의 : 고려의 독자적 성격을 가진 정치 기구'},
+                                                {'page': 'hanguksa-textbook-page-84',
+                                                 'quote': '⑦ 도병마사(都兵馬使)\n'
+                                                          '㉠ 구성 : 중서문하성의 재신(宰臣)과 중추원의 추밀(樞密)이 모여 회의\n'
+                                                          '㉡ 업무 : 대외적 국방·군사관계 관장'}]},
+ 'hanguksa-ext-goryeo-local-differences': {'evidence': [{'page': 'hanguksa-textbook-page-86',
+                                                         'quote': '㉠ 편제 : 인구 등에 따라 주·군·현을 병렬적으로 편제\n'
+                                                                  '㉡ 관할 : 수령 미파견 지역을 속군·속현으로 관할'},
+                                                        {'page': 'hanguksa-textbook-page-86',
+                                                         'quote': '(3) 지방관 파견\n'
+                                                                  '① 파견 범위 : 군·현과 진까지 지방관 파견, 3층 '
+                                                                  '구조(계수관-주현-속현)\n'
+                                                                  '② 계수관 : 경·도호부·목 등에 파견, 광역의 군사 운영과 사법체계 '
+                                                                  '상급심 운영\n'
+                                                                  '③ 특징\n'
+                                                                  '㉠ 역할 : 주현의 수 < 속현의 수, 주현을 통해 속현이나 향·부곡·소 '
+                                                                  '등을 통제\n'
+                                                                  '㉡ 제한 : 실제적 행정 사무는 호장·부호장 등 향리층이 담당'}]},
+ 'hanguksa-ext-goryeo-history-writing': {'evidence': [{'page': 'hanguksa-textbook-page-102',
+                                                       'quote': '④ 특징 ⓠ 2020-A-10 / 2003-6\n'
+                                                                '㉠ 기전체 구성 : 본기(28권)·지(9권)·연표(3권)·열전(10권)으로 '
+                                                                '구성\n'
+                                                                '㉡ 유교적 역사관 : 덕치·예법 등에 입각한 사관, 불교 및 비합리적 '
+                                                                '신이사(神異事) 배제'},
+                                                      {'page': 'hanguksa-textbook-page-103',
+                                                       'quote': '이로부터 원광(圓光)과 자장(慈藏)의 무리들이 서쪽으로 들어가 법을 전해 받아 '
+                                                                '돌아오니 상하가 믿고 공경하여, 내외가 받들어 행하여 앞에서 부르면 뒤에서 '
+                                                                '응하니, 불법은 날로 번성하였다.\n'
+                                                                '(4) 『삼국유사(三國遺事)』(1281)\n'
+                                                                '① 편찬 배경과 목적 ⓠ 2003-6\n'
+                                                                '㉠ 시대상 : 원의 직접적인 간섭 → 고려의 독자성과 문화적 우수성 강조\n'
+                                                                "㉡ '유사(遺事)' : 기존 사서 보충 의도, 단군신화·민간설화·불교 관련 "
+                                                                '기사 등을 수록\n'
+                                                                '② 특징\n'
+                                                                '㉠ 구성 : 왕력편·기이편·흥법편·탑상·의해·신주·감통·피은·효선 등의 '
+                                                                '9편목'}]},
+ 'hanguksa-ext-joseon-salary-land-limit': {'evidence': [{'page': 'hanguksa-textbook-page-127',
+                                                         'quote': '(2) 직전법\n'
+                                                                  '① 직전법 실시(세조 12년, 1466)\n'
+                                                                  '㉠ 배경 : 산관(散官)에게 과전 지급, 수신전·휼양전 세습, 공신전 남발 '
+                                                                  '→ 과전 부족\n'
+                                                                  '㉡ 내용 : 현직 관리에게만 분급, 수신전·휼양전 폐지, 과전의 지급 '
+                                                                  '대상·규모 축소'}]},
+ 'hanguksa-ext-opening-news-comparison': {'evidence': [{'page': 'hanguksa-textbook-page-214',
+                                                        'quote': '③ 『제국신문』(1898)\n'
+                                                                 '㉠ 창간 : 이종일의 창간. 1910년 폐간될 때까지 민족지로 활동\n'
+                                                                 '㉡ 특징 : 순한글 신문, 서민층·여성층에 인기\n'
+                                                                 '④ 『황성신문』(1898) : 국한문 혼용체, 식자층이 주 독자, '
+                                                                 '장지연·박은식 등이 주요 필진'}]},
+ 'hanguksa-ext-kabo-finance-separation': {'evidence': [{'page': 'hanguksa-textbook-page-191',
+                                                        'quote': '국가 재정의 탁지아문 일원화'},
+                                                       {'page': 'hanguksa-textbook-page-191',
+                                                        'quote': '정부와 왕실의 사무 분리'}]},
+ 'hanguksa-ext-korean-war-sequence': {'evidence': [{'page': 'hanguksa-textbook-page-279',
+                                                    'quote': '#### ② 전쟁의 과정\n'
+                                                             '- ㉠ 북한의 기습 남침 : 3일 만에 서울 점령, 7월 말 낙동강 유역 진출\n'
+                                                             '- ㉡ 유엔군의 참전 : 안전보장이사회 결의(소련의 불참)로 한국을 지원하는 유엔군 '
+                                                             '참전 결의\n'
+                                                             '- ㉢ 인천 상륙 작전 : 맥아더 지휘 아래 작전 성공, 서울 탈환, 38도선 '
+                                                             '돌파, 압록강 유역 진격\n'
+                                                             '- ㉣ (중국의 개입) 대규모 병력 파병(1950. 10.) → 정세 역전, 1·4 '
+                                                             '후퇴(1951)'}]},
+ 'hanguksa-ext-joseon-six-ministries': {'evidence': [{'page': 'hanguksa-textbook-page-117',
+                                                      'quote': '★ 14년\n'
+                                                               '• 6조 직계제 : 모든 정무를 왕에게 직접 상계(왕-6조)\n'
+                                                               '★ 의정부 : 사대문서와 중죄인에 대한 계심만 관장\n'
+                                                               '• 의미 : 왕권을 중심으로 한 중앙 집권 강화, 공신 계열의 재상권 약화\n'
+                                                               '[사료탐구]\n'
+                                                               '6조 직계제의 확대'},
+                                                     {'page': 'hanguksa-textbook-page-117',
+                                                      'quote': '④ 세종\n'
+                                                               '㉠ 의정부 서사제 : 각 조에서 가부 의정 → 의정부 대신들의 동의'}]},
+ 'hanguksa-ext-joseon-commercial-farming': {'choices': ['농산물의 판매가 전면 금지되어 자급만 가능해졌다.',
+                                                        '모든 농민이 국가의 동일한 농장 노동자가 되었다.',
+                                                        '담배·인삼 등은 시장 수요와 무관한 관념적 작물이었다.',
+                                                        '시장 판매에서 수익을 얻기 위한 작물 생산이 확대되었다.'],
+                                            'evidence': [{'page': 'hanguksa-textbook-page-155',
+                                                          'quote': '[사료탐구]\n'
+                                                                   '상품작물의 재배\n'
+                                                                   '도성지 주변의 파밭, 마늘밭, 배추밭, 오이밭 등에서는 4마지기 밭에서 '
+                                                                   '많은 수입을 올린다. 특히 서도 지방의 담배밭, 북도 지방의 삼밭, '
+                                                                   '한산의 모시밭, 전주의 생강밭, 강진의 고구마밭, 황주의 지황밭에서의 '
+                                                                   '수확은 모두 상상등전(上上等田)의 논에서 나는 수확보다 그 이익이 '
+                                                                   '10배에 이른다.\n'
+                                                                   '- 『경세유표』'}],
+                                            'explain': '채소·담배·삼 등의 재배에서 큰 수익을 거두었다는 자료는 판매를 위한 생산의 확대를 보여 '
+                                                       '준다.',
+                                            'choiceExplanations': ['상품작물의 재배는 판매 수요의 확대와 연결된다.',
+                                                                   '상업적 농업 발달을 생산 조직의 전면 국영화로 볼 수 없다.',
+                                                                   '원문은 이들 작물을 상품 생산의 사례로 든다.',
+                                                                   '채소·담배·삼 등의 재배에서 큰 수익을 거두었다는 자료는 판매를 위한 '
+                                                                   '생산의 확대를 보여 준다.']}}
+for _id, _patch in MC_REVIEW_PATCHES.items():
+    _q = next(q for q in Q if q['id'] == _id)
+    assert _q['type'] == 'mc'
+    _q.update(_patch)
+    for _e in _q['evidence']:
+        assert _e['quote'] in NOTES[_e['page']]['text'], _id
+
 if __name__=='__main__':
     from collections import Counter
     target=Path(__file__).resolve().parent/'extended-inputs/hanguksa.json'

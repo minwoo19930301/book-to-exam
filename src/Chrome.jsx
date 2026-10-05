@@ -28,6 +28,7 @@ export default function Chrome({ title, children, subjectControls = true, naviga
         <div className="bar-actions">
           {!guide && <Link className="text-link" to={to("/guide")}>사용법</Link>}
         <button className="text-btn" type="button" data-guide="settings-btn" aria-expanded={settingsOpen} aria-controls="reading-settings" onClick={() => setOpen((v) => !v)}>설정</button>
+        {!guide && <Link className="text-link history-top-link" to={to("/history")}>히스토리</Link>}
         </div>
       </div>
       {settingsOpen && <SettingsPopup onClose={closeSettings} guided={Boolean(guide?.openSettings)} />}

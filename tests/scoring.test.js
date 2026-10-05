@@ -18,15 +18,17 @@ test("객관식 미선택은 0번 선택으로 처리되지 않음", () => {
   assert.equal(scoreLocal({ type: "mc", answer: 0 }, "").good, false);
   assert.equal(scoreLocal({ type: "mc", answer: 0 }, 0).good, true);
 });
-test("원문 빈칸: 개념어 정확 일치, 문장 핵심어와 모순 판정", () => {
+test("원문 빈칸: 용어 일치, 문장 바꿔쓰기는 키워드만으로 정오답 확정하지 않음", () => {
   const term = blanks.find(x => x.id === "c-p9-term");
   const sentence = blanks.find(x => x.id === "c-p9-sentence");
   assert.equal(scoreLocal(term, "다원적 관점").good, true);
   assert.equal(scoreLocal(term, "여러 관점").good, false);
-  assert.equal(scoreLocal(sentence, "학습자 사이의 역사적 인식이나 견해가 서로 충돌하는 것이다").good, true);
-  assert.equal(scoreLocal(sentence, "학생들의 역사관 대립").good, true);
-  assert.equal(scoreLocal(sentence, "학생 간 토론").good, false);
-  assert.equal(scoreLocal(sentence, "학습자 역사 인식 견해 충돌이 아니다").good, false);
+  for (const answer of ["학습자 사이의 역사적 인식이나 견해가 서로 충돌하는 것이다", "학생들의 역사관 대립", "학생 간 토론", "학습자 역사 인식 견해 충돌이 아니다", "토론만이 아니라 학생들의 역사관이 충돌하는 것이다"]) {
+    const result = scoreLocal(sentence, answer);
+    assert.equal(result.good, null);
+    assert.equal(result.status, "review");
+    assert.equal(result.score, null);
+  }
   for (const b of blanks) {
     const source = notes.find(n => n.id === b.page).text.replace(/\*\*/g, "");
     assert.ok(source.includes(b.before + b.answer + b.after), b.id);

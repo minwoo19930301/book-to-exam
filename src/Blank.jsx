@@ -8,8 +8,8 @@ import { useJsonArray, useSubject } from "./subjects.jsx";
 import BankStatus from "./BankStatus.jsx";
 
 export default function Blank() {
-  const { dataFile } = useSubject();
-  const bank = useQuestionBank(dataFile("blanks"));
+  const { dataFile, id: subject } = useSubject();
+  const bank = useQuestionBank(dataFile("blanks"), undefined, { subject, type: "blank" });
   const { q, value: val, setValue: setVal, result, setResult } = bank;
   const { data: notes } = useJsonArray(dataFile("notes"));
   useExamPlay({ q, setVal, setResult, kind: "blank" });
@@ -34,7 +34,7 @@ export default function Blank() {
         <BankStatus bank={bank} />
         {q && cloze && (
           <div className="card q" data-guide="result">
-            <p className="kicker">{q.match === "keywords" ? "핵심어로 문장 완성" : "정확한 용어"}</p>
+            <p className="kicker">{q.match === "keywords" ? "문장 완성" : "정확한 용어"}</p>
             <div className="cloze">
               <span>{cloze.before}</span>
               {result ? (
@@ -53,8 +53,8 @@ export default function Blank() {
               )}
               <span>{cloze.after}</span>
             </div>
-            <ExamBar graded={result} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious} onGrade={grade} gradeDisabled={!q || !val.trim()} />
-            {result && <After q={q} />}
+            <ExamBar graded={result} onRetry={bank.retry} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious} onGrade={grade} gradeDisabled={!q || !val.trim()} />
+            {result && <After q={q} result={result} />}
           </div>
         )}
       </ExamFrame>
