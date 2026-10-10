@@ -7,8 +7,8 @@
     "counts": {
       "notes": 75,
       "concepts": 49,
-      "questions": 249,
-      "blanks": 38,
+      "questions": 252,
+      "blanks": 40,
       "essays": 6,
       "knowledge": 1
     },
@@ -22,7 +22,7 @@
     "counts": {
       "notes": 325,
       "concepts": 9,
-      "questions": 696,
+      "questions": 839,
       "blanks": 167,
       "essays": 33,
       "knowledge": 12
@@ -37,7 +37,7 @@
     "counts": {
       "notes": 404,
       "concepts": 8,
-      "questions": 906,
+      "questions": 1108,
       "blanks": 138,
       "essays": 33,
       "knowledge": 12
@@ -52,7 +52,7 @@
     "counts": {
       "notes": 206,
       "concepts": 8,
-      "questions": 537,
+      "questions": 549,
       "blanks": 158,
       "essays": 33,
       "knowledge": 12
@@ -67,8 +67,8 @@
     "counts": {
       "notes": 157,
       "concepts": 8,
-      "questions": 524,
-      "blanks": 78,
+      "questions": 639,
+      "blanks": 80,
       "essays": 33,
       "knowledge": 12
     },

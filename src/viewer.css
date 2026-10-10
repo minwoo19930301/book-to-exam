@@ -35,3 +35,8 @@
   .viewer-search-controls input { flex-basis: calc(100% - 80px); }
   .viewer-search-controls .ghost { margin-left: auto; }
 }
+.capture-review { margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--line, #d7ded6); border-radius: 12px; background: var(--paper, #fafaf6); }
+.capture-review h2 { margin-top: 0; font-size: 1.1rem; }
+.capture-review blockquote { margin: 1rem 0; padding: .5rem .8rem; border-left: 3px solid #6c8876; }
+.capture-review blockquote p { white-space: pre-wrap; }
+.capture-review small { display: block; margin: .5rem 0; color: #647068; }

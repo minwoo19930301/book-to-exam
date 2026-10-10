@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { clozeAround } from "../src/text.js";
 import { scoreLocal } from "../shared/scoring.js";
+import { exactCloze, usesExactPassage } from "../src/source-excerpts.js";
 
 test("같은 글머리표가 반복돼도 출제된 문장 위치만 빈칸으로 표시", () => {
   const q = { page: "p", before: "① ", answer: "정방", after: "을 폐지하였다." };
@@ -25,9 +26,14 @@ test("게시된 빈칸 전체: 실제 원문 위치를 가리고 정답 입력�
     const data = name => JSON.parse(readFileSync(new URL(`../public/data/${scope}${name}.json`, import.meta.url)));
     const notes = data("notes");
     for (const q of data("blanks")) {
-      const cloze = clozeAround(q, notes);
-      const text = notes.find(n => n.id === q.page).text.replace(/\*\*/g, "");
-      assert.ok(text.includes(cloze.before + q.answer + cloze.after), q.id);
+      const cloze = usesExactPassage(q) ? exactCloze(q) : clozeAround(q, notes);
+      const passage = cloze.before + q.answer + cloze.after;
+      if (q.provenance?.sourceStatus === "capture-compared-excerpt") {
+        assert.ok(q.captureEvidence?.some(source => source.quote.includes(passage)), q.id);
+      } else {
+        const text = notes.find(n => n.id === q.page).text.replace(/\*\*/g, "");
+        assert.ok(text.includes(passage), q.id);
+      }
       assert.equal(scoreLocal(q, q.answer).good, true, q.id);
     }
   }

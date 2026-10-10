@@ -23,13 +23,15 @@ export default function Viewer() {
   const composing = useRef(false);
   const searchInput = useRef(null);
   const spread = useRef(null);
-  const index = useMemo(() => buildViewerIndex(notes), [notes]);
-  const results = useMemo(() => searchViewerNotes(index, query), [index, query]);
   useEffect(() => { setDraft(query); composing.current = false; }, [query, subject]);
   const [zoom, setZoom] = useState(null);
   const [failedImages, setFailedImages] = useState({});
   const [captures, setCaptures] = useState({ pages: {}, loading: true, error: false });
   const [coverage, setCoverage] = useState({});
+  const searchableNotes = useMemo(() => notes.map(note => ({ ...note, text: [note.text,
+    ...(coverage[`${subject}:${note.id}`]?.captureReview?.excerpts || []).map(entry => entry.quote)].join("\n") })), [notes, coverage, subject]);
+  const index = useMemo(() => buildViewerIndex(searchableNotes), [searchableNotes]);
+  const results = useMemo(() => searchViewerNotes(index, query), [index, query]);
   const selectedPage = guide ? null : search.get("page");
   const found = notes.findIndex(note => note.id === selectedPage);
   const idx = found < 0 ? 0 : found;
@@ -140,7 +142,20 @@ export default function Viewer() {
           </div>}
           {!guide && practice?.status === "exception" && <p className="muted source-hint">문제 구성 안내: {practice.reason}</p>}
           <div className={`page-grid source-comparison${images.length ? " has-capture" : ""}`}>
-            <div data-guide="note-text" className="hand" dangerouslySetInnerHTML={{ __html: formatNote(n.text) }} />
+            <div>
+              {!guide && practice?.captureReview && <section className="capture-review" aria-label="원본 캡처 대조 기록">
+                <h2>원본 캡처 대조 발췌</h2>
+                <p className="muted source-hint">문항에 사용한 부분을 AI가 사진과 대조했습니다. 전체 페이지 전사·전문가 검수를 뜻하지 않습니다.</p>
+                <p>{practice.captureReview.summary}</p>
+                {practice.captureReview.excerpts.map((entry, index) => <blockquote key={`${entry.src}-${index}`}>
+                  <p>{entry.quote}</p><small>{entry.location}</small>
+                  <button className="ghost" type="button" onClick={() => setZoom(entry.src)}>해당 원본 캡처 확대</button>
+                </blockquote>)}
+                {practice.captureReview.duplicateOf && <Link to={subjectUrl(`/viewer?page=${encodeURIComponent(practice.captureReview.duplicateOf)}`, subject)}>중복되지 않는 원문 쪽으로 이동 →</Link>}
+              </section>}
+              {!guide && practice?.captureReview && <h2>기존 전사</h2>}
+              <div data-guide="note-text" className="hand" dangerouslySetInnerHTML={{ __html: formatNote(n.text) }} />
+            </div>
             <section className="source-captures" aria-label="원문 캡처">
               <h2>원문 캡처</h2>
               {images.length > 0 && <p className="muted source-hint">눌러서 크게 볼 수 있습니다.</p>}

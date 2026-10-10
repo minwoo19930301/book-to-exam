@@ -48,7 +48,11 @@ export function QuestionCard({ item, number, expanded, onExpanded }) {
         {list(item.criteria).length > 0 && <><h3>채점 기준 · {item.criteria.reduce((sum, criterion) => sum + criterion.max, 0)}점</h3><ol className="bank-criteria">{item.criteria.map((criterion, index) => <Criterion key={criterion.id || index} criterion={criterion} index={index} />)}</ol></>}
         {item.scoreNote && <p className="muted bank-note">{readable(item.scoreNote)}</p>}
         {item.caution && <p className="muted bank-note">{readable(item.caution)}</p>}
-        {evidence.length > 0 && <details className="bank-evidence"><summary>교재 근거 {evidence.length}개</summary>{evidence.map((entry, index) => <blockquote key={`${entry.page}-${index}`} className="evidence-excerpt">{readable(entry.quote)}<br /><Link className="source-link" to={subjectUrl(`/viewer?page=${encodeURIComponent(entry.page)}`, item.subject)}>원문 보기 ↗</Link></blockquote>)}</details>}
+        {evidence.length > 0 && <details className="bank-evidence"><summary>교재 근거 {evidence.length}개</summary>
+          {item.provenance?.sourceStatus === "capture-compared-excerpt" && <p className="muted">원본 사진에서 문항에 사용한 발췌를 AI가 대조했습니다.</p>}
+          {evidence.map((entry, index) => <blockquote key={`${entry.page}-${index}`} className="evidence-excerpt">{readable(entry.quote)}<br /><Link className="source-link" to={subjectUrl(`/viewer?page=${encodeURIComponent(entry.page)}`, item.subject)}>원문 보기 ↗</Link></blockquote>)}
+          {list(item.corroboration).length > 0 && <p>보충 확인: {item.corroboration.map((source, index) => <span key={source.url}>{index > 0 && " · "}<a href={source.url} target="_blank" rel="noreferrer">{source.title}</a></span>)}</p>}
+        </details>}
       </div>
     </details>
     {sources.length > 0 && <div className="bank-source-links">{sources.map((page, index) => <Link key={page} className="source-link" to={subjectUrl(`/viewer?page=${encodeURIComponent(page)}`, item.subject)}>교재 원문{sources.length > 1 ? ` ${index + 1}` : ""} ↗</Link>)}</div>}

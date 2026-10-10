@@ -15460,5 +15460,4259 @@
     },
     "stem": "원문을 바탕으로 개념을 쓰시오.",
     "choices": null
+  },
+  {
+    "id": "gyoyukron-capture-practice-textbook-page-16-1",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-16",
+    "answer": "국정",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "국정제"
+    ],
+    "prompt": "사진의 교과서 발행·공급 제도 표에서 국가나 국가기관이 발행권·공급권을 갖는 제도는 무엇인가?",
+    "keyword": "역사교육론",
+    "explain": "국정은 국가 또는 국가기관이 발행·공급하는 방식으로 제시된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-16",
+        "quote": "국정\n국가, 국가기관"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b510f18706da2a3e422d4bae08d40b201a0f72314625c5646405c53f11030aec.jpg",
+        "sha256": "b510f18706da2a3e422d4bae08d40b201a0f72314625c5646405c53f11030aec",
+        "quote": "국정\n국가, 국가기관",
+        "location": "오른쪽 인쇄 89쪽 (8) 표의 국정 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사교육론",
+      "inputSha256": "a86d4a90208c607337ec2d4632abcdf9ec89cea701d25db3ee37c4ec086a1b90"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-textbook-page-16-2",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-16",
+    "answer": "검정",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "검정제"
+    ],
+    "prompt": "사진의 제도 표에서 민간출판사가 발행하되 국가·국가기관이 미리 정한 기준의 심사를 통과해야 하는 교과서 제도는 무엇인가?",
+    "keyword": "역사교육론",
+    "explain": "민간이 제작하고 국가가 정한 기준에 따라 심사하는 제도를 검정으로 구분한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-16",
+        "quote": "검정\n민간출판사\n국가·국가기관에서 미리 정하고, 기준에 적합한지 심사해서 통과"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b510f18706da2a3e422d4bae08d40b201a0f72314625c5646405c53f11030aec.jpg",
+        "sha256": "b510f18706da2a3e422d4bae08d40b201a0f72314625c5646405c53f11030aec",
+        "quote": "검정\n민간출판사\n국가·국가기관에서 미리 정하고, 기준에 적합한지 심사해서 통과",
+        "location": "오른쪽 인쇄 89쪽 (8) 표의 검정 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사교육론",
+      "inputSha256": "d279f9d2f7e03da7c5a14e7cd716f06742b0da6e9bc43796c6874c143ad437c0"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-textbook-page-16-3",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-16",
+    "answer": "자유발행제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "자유발행"
+    ],
+    "prompt": "사진의 교과서 제도 비교표에서 교과서에 대한 국가 관여를 최소화하는 방식은 무엇인가?",
+    "keyword": "역사교육론",
+    "explain": "표는 자유발행제의 특징을 교과서에 대한 국가 관여 최소화로 제시한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-16",
+        "quote": "자유발행제\n교과서에 대한 국가 관여 최소화"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b510f18706da2a3e422d4bae08d40b201a0f72314625c5646405c53f11030aec.jpg",
+        "sha256": "b510f18706da2a3e422d4bae08d40b201a0f72314625c5646405c53f11030aec",
+        "quote": "자유발행제\n교과서에 대한 국가 관여 최소화",
+        "location": "오른쪽 인쇄 89쪽 교과서 제도의 주요 특징 표 마지막 열"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사교육론",
+      "inputSha256": "41174d293f9b0c779443c245b777b140e215658c189ede3133f6ad2e8685491c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-textbook-page-17-1",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-17",
+    "answer": "NIE",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "신문활용교육",
+      "신문 활용 학습",
+      "nie"
+    ],
+    "prompt": "시사자료를 활용하는 수업 중 신문을 교육에 이용하는 학습 방법의 명칭 또는 영어 약자를 쓰시오.",
+    "keyword": "역사교육론",
+    "explain": "Newspaper In Education의 약자인 NIE는 신문활용 학습을 가리킨다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-17",
+        "quote": "신문활용 학습(NIE - Newspaper In Education)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/3450672d141ba5fa715063e1e61cf1472bed16ea5a393df4fd2fe6f4f29f45f8.jpg",
+        "sha256": "3450672d141ba5fa715063e1e61cf1472bed16ea5a393df4fd2fe6f4f29f45f8",
+        "quote": "신문활용 학습(NIE - Newspaper In Education)",
+        "location": "오른쪽 인쇄 101쪽 상단 시사자료의 유용성"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사교육론",
+      "inputSha256": "7e1946a3d1ad6504270a669ab57bbfcd7445a208b26a7e443174629ec57cc0d2"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-textbook-page-17-3",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-17",
+    "answer": "정보처리능력",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "사진의 디지털 시대 역사교재 설명에서 자료를 수집하고 필요한 정보를 얻는 능력을 어떤 용어로 지칭하는가?",
+    "keyword": "역사교육론",
+    "explain": "디지털 역사학습에서 자료 수집과 필요한 정보의 획득을 위한 정보처리능력을 강조한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-17",
+        "quote": "자료를 수집하고 필요한 정보를 얻을 수 있는 능력인 정보처리능력"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/3450672d141ba5fa715063e1e61cf1472bed16ea5a393df4fd2fe6f4f29f45f8.jpg",
+        "sha256": "3450672d141ba5fa715063e1e61cf1472bed16ea5a393df4fd2fe6f4f29f45f8",
+        "quote": "자료를 수집하고 필요한 정보를 얻을 수 있는 능력인 정보처리능력",
+        "location": "오른쪽 인쇄 101쪽 디지털 시대와 역사교재"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사교육론",
+      "inputSha256": "3480cfecf4cacb705cba788ecff177e755ad026a510c59559a941fa11a711628"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-textbook-page-20-1",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-20",
+    "answer": "교사와 학생의 문제 인식",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "역사수업을 인식론적으로 전환할 때 수업모형이나 학습 방법보다 중요하다고 제시한 것은 무엇인가?",
+    "keyword": "이론의 역할 및 현장과의 관계 / 인식론적 전환의 가능성과 방향",
+    "explain": "수업 기술만 바꾸는 것보다 교사와 학생이 역사학습의 문제를 어떻게 인식하는지 검토해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-20",
+        "quote": "역사를 가르치는 문제에 접근할 때 중요한 것은 수업모형이나 학습 방법이 아니라 교사와 학생의 문제 인식"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ace111a9c98b86ff1e0352ab4a0a29b1c2cbf7b56c6ac886999aa7e51931c7b7.jpg",
+        "sha256": "ace111a9c98b86ff1e0352ab4a0a29b1c2cbf7b56c6ac886999aa7e51931c7b7",
+        "quote": "역사를 가르치는 문제에 접근할 때 중요한 것은 수업모형이나 학습 방법이 아니라 교사와 학생의 문제 인식",
+        "location": "오른쪽 인쇄 121쪽 인식론적 전환 제안 ②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "이론의 역할 및 현장과의 관계 / 인식론적 전환의 가능성과 방향",
+      "inputSha256": "3e8635b56cd0453dd742744b1ee4a639cba61f6c5c864355480b71ee44e18546"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-textbook-page-20-2",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-20",
+    "answer": "비판적 탐구",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "인식론적 전환을 위한 작업은 역사의 학문적 절차와 방법에 대한 어떤 탐구에서 시작한다고 하는가?",
+    "keyword": "이론의 역할 및 현장과의 관계 / 인식론적 전환의 가능성과 방향",
+    "explain": "역사지식이 어떻게 생산되고 유통되는지 다루려면 학문적 절차와 방법 자체를 비판적으로 탐구해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-20",
+        "quote": "이러한 작업은 역사의 학문적 절차와 방법에 대한 비판적 탐구에서 시작"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ace111a9c98b86ff1e0352ab4a0a29b1c2cbf7b56c6ac886999aa7e51931c7b7.jpg",
+        "sha256": "ace111a9c98b86ff1e0352ab4a0a29b1c2cbf7b56c6ac886999aa7e51931c7b7",
+        "quote": "이러한 작업은 역사의 학문적 절차와 방법에 대한 비판적 탐구에서 시작",
+        "location": "오른쪽 인쇄 121쪽 인식론적 전환 제안 ⑤"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "이론의 역할 및 현장과의 관계 / 인식론적 전환의 가능성과 방향",
+      "inputSha256": "805cff061367da3b5e5859a0eb945106984a037dc6c23fd43e2cc517cc238fa5"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-2-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-2",
+    "answer": "교수내용지식",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "PCK",
+      "pck",
+      "교수학적 내용 지식"
+    ],
+    "prompt": "학생이 이해할 수 있도록 교과 내용을 학습자 특성에 맞게 전환하는 교사의 전문 지식을 슐먼의 용어로 쓰시오.",
+    "keyword": "학생 참여 수업과 슐먼의 PCK / 교육과정지식과 와인버그의 사료 읽기",
+    "explain": "교과 내용을 학습자의 이해 수준에 맞추어 표현·전환하는 지식이 교수내용지식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-2",
+        "quote": "수업에 효과적인 것이라는 것은 교사가 가진 내용 지식의 구조를 학습자를 고려하여 전환하는 방식인 교수내용지식에 의존한다는 것이다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/616a4d705f49a6c77a39b14dd921bcf656688a46b05899d392539c8f9e820f92.jpg",
+        "sha256": "616a4d705f49a6c77a39b14dd921bcf656688a46b05899d392539c8f9e820f92",
+        "quote": "수업에 효과적인 것이라는 것은 교사가 가진 내용 지식의 구조를 학습자를 고려하여 전환하는 방식인 교수내용지식에 의존한다는 것이다.",
+        "location": "왼쪽 인쇄 10쪽 예상 답안"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "학생 참여 수업과 슐먼의 PCK / 교육과정지식과 와인버그의 사료 읽기",
+      "inputSha256": "30ec279160718e30338482a6050d403aa81b28d25f4e2c436a5f95862d7cd5be"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-2-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-2",
+    "answer": "교육과정지식",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "특정 과목·주제를 가르치는 데 사용할 프로그램과 관련 자료를 폭넓게 알고 선택하는 교사의 지식을 슐먼의 용어로 쓰시오.",
+    "keyword": "학생 참여 수업과 슐먼의 PCK / 교육과정지식과 와인버그의 사료 읽기",
+    "explain": "교육과정지식은 과목·주제를 가르치기 위한 프로그램과 교육자료에 관한 지식이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-2",
+        "quote": "교과를 가르치기 위해 고안된 일련의 프로그램과 그에 관련된 교육과정 자료를 이용할 수 있는 지식을 말한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/616a4d705f49a6c77a39b14dd921bcf656688a46b05899d392539c8f9e820f92.jpg",
+        "sha256": "616a4d705f49a6c77a39b14dd921bcf656688a46b05899d392539c8f9e820f92",
+        "quote": "교과를 가르치기 위해 고안된 일련의 프로그램과 그에 관련된 교육과정 자료를 이용할 수 있는 지식을 말한다.",
+        "location": "오른쪽 인쇄 11쪽 예상 답안"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "학생 참여 수업과 슐먼의 PCK / 교육과정지식과 와인버그의 사료 읽기",
+      "inputSha256": "1107da1bd21d75c89e62564b13c638e7b5f160e2f837903182a5e77154c7c4b8"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-2-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-2",
+    "answer": "증거",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "역사학습을 고정된 사실의 전달에서 해석적 탐구로 전환할 때, 주장을 뒷받침하도록 검토한 사료는 무엇으로 활용되는가?",
+    "keyword": "학생 참여 수업과 슐먼의 PCK / 교육과정지식과 와인버그의 사료 읽기",
+    "explain": "사료는 그대로 믿는 확정된 사실의 묶음이 아니라 과거에 관한 주장을 뒷받침할 증거로 검토된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-2",
+        "quote": "고정된 사실에서 증거를 바탕으로 한 해석적 탐구과정으로"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/616a4d705f49a6c77a39b14dd921bcf656688a46b05899d392539c8f9e820f92.jpg",
+        "sha256": "616a4d705f49a6c77a39b14dd921bcf656688a46b05899d392539c8f9e820f92",
+        "quote": "고정된 사실에서 증거를 바탕으로 한 해석적 탐구과정으로",
+        "location": "왼쪽 인쇄 10쪽 하단 Note"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "학생 참여 수업과 슐먼의 PCK / 교육과정지식과 와인버그의 사료 읽기",
+      "inputSha256": "f03e34883fb311e634d3b0f9cfcac839a77bea6d847788b2e36bdd95a094c877"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-3-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-3",
+    "answer": "발생적 유형",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "발생적 역사의식",
+      "발생적"
+    ],
+    "prompt": "과거와 현재의 차이·발전을 인식하며 앞으로 더 나은 사회로 바꾸려는 방향을 찾는 학생의 역사의식을 뤼젠의 유형으로 쓰시오.",
+    "keyword": "뤼젠의 역사의식 유형 / 존재의식과 내러티브 역량",
+    "explain": "과거와 현재를 고정된 동일성으로 보지 않고 변화와 발전의 흐름 속에서 삶의 방향을 찾는 발생적 유형이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-3",
+        "quote": "(사례 1)은 발생적 유형이다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/3131bc8ef1987f9fcafbe375e79ddee437a59ac986ebfb9ade76da82821d440c.jpg",
+        "sha256": "3131bc8ef1987f9fcafbe375e79ddee437a59ac986ebfb9ade76da82821d440c",
+        "quote": "(사례 1)은 발생적 유형이다.",
+        "location": "왼쪽 인쇄 14쪽 하단 예상 답안"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "뤼젠의 역사의식 유형 / 존재의식과 내러티브 역량",
+      "inputSha256": "66ff1e7183fd089e6c43e9c470daffa1712d04c3f791e6bb8da45597d8373277"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-3-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-3",
+    "answer": "존재의식",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "교사 대화에서 역사적 변화의 흐름 속에서 자신의 위치와 역할을 깨닫고, 자신의 존재에 의미를 부여하는 의식은 무엇인가?",
+    "keyword": "뤼젠의 역사의식 유형 / 존재의식과 내러티브 역량",
+    "explain": "교재의 예상 답안은 자신의 역사적 위치와 존재 의미에 관련된 의식을 존재의식으로 제시한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-3",
+        "quote": "존재의식"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/3131bc8ef1987f9fcafbe375e79ddee437a59ac986ebfb9ade76da82821d440c.jpg",
+        "sha256": "3131bc8ef1987f9fcafbe375e79ddee437a59ac986ebfb9ade76da82821d440c",
+        "quote": "존재의식",
+        "location": "왼쪽 인쇄 14쪽 하단 예상 답안"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "뤼젠의 역사의식 유형 / 존재의식과 내러티브 역량",
+      "inputSha256": "0b2c34bdd83a4d9162b105a598410a1f793bbc2d8eae37ad9de17d06af2a68ef"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-3-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-3",
+    "answer": "내러티브",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "이야기",
+      "역사 내러티브"
+    ],
+    "prompt": "교사 대화에서 과거에 대한 자신의 이해를 의미 있는 서사로 구성해 표현하는 것을 가리키는 용어는 무엇인가?",
+    "keyword": "뤼젠의 역사의식 유형 / 존재의식과 내러티브 역량",
+    "explain": "과거에 대한 이해를 의미 있는 이야기로 구성해 표현하는 내러티브 역량을 묻는다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-3",
+        "quote": "내러티브(이야기)이다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/3131bc8ef1987f9fcafbe375e79ddee437a59ac986ebfb9ade76da82821d440c.jpg",
+        "sha256": "3131bc8ef1987f9fcafbe375e79ddee437a59ac986ebfb9ade76da82821d440c",
+        "quote": "내러티브(이야기)이다.",
+        "location": "왼쪽 인쇄 14쪽 하단 예상 답안 마지막 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "뤼젠의 역사의식 유형 / 존재의식과 내러티브 역량",
+      "inputSha256": "667264fca20de3954b68eafca53425914f36cede10417053f67adc271ccb9479"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-4-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-4",
+    "answer": "민족지학적 연구",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "문화기술적 연구",
+      "문화기술지 연구",
+      "민족지 연구"
+    ],
+    "prompt": "특정 집단의 문화적 특성을 이해하기 위해 생활 현장에서 자료를 조사·수집·기록·분석하는 질적 연구 방법은 무엇인가?",
+    "keyword": "문화기술적 연구와 교수내용지식 / CHAPTER 02 역사교육의 목적과 목표",
+    "explain": "생활 현장에 들어가 집단의 문화를 이해하려는 민족지학적 연구를 가리킨다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-4",
+        "quote": "민족지학적 연구(Ethnographic Research)는 문화 기술지 연구로 특정 집단의 문화적 특성을 이해하기 위해 생활 현장에서 자료를 조사, 수집, 기록하고 분석하는 연구 방법이다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/491b732d693ddbc9bbdf6e819f5b932fc9c3a573b7fb7394322a2df359e8fc31.jpg",
+        "sha256": "491b732d693ddbc9bbdf6e819f5b932fc9c3a573b7fb7394322a2df359e8fc31",
+        "quote": "민족지학적 연구(Ethnographic Research)는 문화 기술지 연구로 특정 집단의 문화적 특성을 이해하기 위해 생활 현장에서 자료를 조사, 수집, 기록하고 분석하는 연구 방법이다.",
+        "location": "왼쪽 인쇄 18쪽 하단 민족지학적 연구의 의미"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "문화기술적 연구와 교수내용지식 / CHAPTER 02 역사교육의 목적과 목표",
+      "inputSha256": "e0896e8f96564549e6c71759376769296b01fc2fbab5d4a4150331ac89395dd4"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-4-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-4",
+    "answer": "Emic view",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "emic view",
+      "에믹 관점"
+    ],
+    "prompt": "민족지학적 연구에서 연구 대상자의 주관적·내부자적 관점을 가리키는 영어 용어는 무엇인가?",
+    "keyword": "문화기술적 연구와 교수내용지식 / CHAPTER 02 역사교육의 목적과 목표",
+    "explain": "Emic view는 내부자 관점이고 Etic view는 외부자 관점이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-4",
+        "quote": "연구자의 객관적이고 외부자적인 관점(Etic view)과 연구대상자의 주관적이고 내부자적인 관점(Emic view)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/491b732d693ddbc9bbdf6e819f5b932fc9c3a573b7fb7394322a2df359e8fc31.jpg",
+        "sha256": "491b732d693ddbc9bbdf6e819f5b932fc9c3a573b7fb7394322a2df359e8fc31",
+        "quote": "연구자의 객관적이고 외부자적인 관점(Etic view)과 연구대상자의 주관적이고 내부자적인 관점(Emic view)",
+        "location": "왼쪽 인쇄 18쪽 하단 관점의 구분"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "문화기술적 연구와 교수내용지식 / CHAPTER 02 역사교육의 목적과 목표",
+      "inputSha256": "38e48ce2da98a97907a003691b951a087ba4097e61ab948d068190268a0636b5"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-4-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-4",
+    "answer": "참여관찰",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "참여 관찰법"
+    ],
+    "prompt": "민족지학적 연구자가 집단의 생활에 직접 참여하면서 행동·상호작용을 관찰하는 자료 수집 방법은 무엇인가?",
+    "keyword": "문화기술적 연구와 교수내용지식 / CHAPTER 02 역사교육의 목적과 목표",
+    "explain": "연구자는 참여관찰과 심층면접 등을 통해 현장의 문화와 경험을 파악한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-4",
+        "quote": "참여관찰(Participant observation), 심층면접(in-depth interview) 등을 진행한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/491b732d693ddbc9bbdf6e819f5b932fc9c3a573b7fb7394322a2df359e8fc31.jpg",
+        "sha256": "491b732d693ddbc9bbdf6e819f5b932fc9c3a573b7fb7394322a2df359e8fc31",
+        "quote": "참여관찰(Participant observation), 심층면접(in-depth interview) 등을 진행한다.",
+        "location": "왼쪽 인쇄 18쪽 하단 자료 수집 방법"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "문화기술적 연구와 교수내용지식 / CHAPTER 02 역사교육의 목적과 목표",
+      "inputSha256": "8b44563b8905b4192c7ae7670cacbc427be9624c964389c471ec9b53a6ed3560"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-5-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-5",
+    "answer": "교육과정",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "국가 교육과정"
+    ],
+    "prompt": "세계사 내용 구성 표의 (A)처럼 국가가 정한 내용 범위·성취 요구를 제시하는 단계는 무엇인가?",
+    "keyword": "역사교육 내용 조직 기출 경향 / 세계사 내용 구성의 세 단계",
+    "explain": "(A)는 국가 교육과정, (B)는 교과서, (C)는 실제 수업의 내용 구성에 해당한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-5",
+        "quote": "(가)는 교육과정, (나)는 교과서, (다)는 수업 단계의 내용 구성을 파악"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ccbdf5906e100b3fc5b90ab010a417d8fd515b8238002500ef3de1fb7dd7f29f.jpg",
+        "sha256": "ccbdf5906e100b3fc5b90ab010a417d8fd515b8238002500ef3de1fb7dd7f29f",
+        "quote": "(가)는 교육과정, (나)는 교과서, (다)는 수업 단계의 내용 구성을 파악",
+        "location": "오른쪽 인쇄 35쪽 사고 과정 ①"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사교육 내용 조직 기출 경향 / 세계사 내용 구성의 세 단계",
+      "inputSha256": "23bfb1e1aa1663345befa2495d6aeb2cfdec34fac5b6537e59f55548f1c43fb5"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-5-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-5",
+    "answer": "교과서",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "세계사 내용 구성 표의 (B)처럼 단원명·소단원·읽기 자료·탐구 자료·단원 정리를 조직해 놓은 단계의 자료는 무엇인가?",
+    "keyword": "역사교육 내용 조직 기출 경향 / 세계사 내용 구성의 세 단계",
+    "explain": "국가 교육과정의 요구를 학생용 단원과 학습 자료로 조직한 교과서 단계이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-5",
+        "quote": "(가)는 교육과정, (나)는 교과서, (다)는 수업 단계의 내용 구성을 파악"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ccbdf5906e100b3fc5b90ab010a417d8fd515b8238002500ef3de1fb7dd7f29f.jpg",
+        "sha256": "ccbdf5906e100b3fc5b90ab010a417d8fd515b8238002500ef3de1fb7dd7f29f",
+        "quote": "(가)는 교육과정, (나)는 교과서, (다)는 수업 단계의 내용 구성을 파악",
+        "location": "오른쪽 인쇄 35쪽 사고 과정 ①"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사교육 내용 조직 기출 경향 / 세계사 내용 구성의 세 단계",
+      "inputSha256": "7f75629b580afa6d280579f60c517d934f6f715c7758e26c4cda592a87d1d9a3"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-5-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-5",
+    "answer": "수업",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "교수학습",
+      "교수·학습"
+    ],
+    "prompt": "세계사 내용 구성 표의 (C)처럼 차시별 학습 내용과 도입·전개·정리 활동을 구체화하는 단계는 무엇인가?",
+    "keyword": "역사교육 내용 조직 기출 경향 / 세계사 내용 구성의 세 단계",
+    "explain": "교사가 학습 내용과 활동을 실제 차시로 설계한 수업 단계이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-5",
+        "quote": "(가)는 교육과정, (나)는 교과서, (다)는 수업 단계의 내용 구성을 파악"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ccbdf5906e100b3fc5b90ab010a417d8fd515b8238002500ef3de1fb7dd7f29f.jpg",
+        "sha256": "ccbdf5906e100b3fc5b90ab010a417d8fd515b8238002500ef3de1fb7dd7f29f",
+        "quote": "(가)는 교육과정, (나)는 교과서, (다)는 수업 단계의 내용 구성을 파악",
+        "location": "오른쪽 인쇄 35쪽 사고 과정 ①"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사교육 내용 조직 기출 경향 / 세계사 내용 구성의 세 단계",
+      "inputSha256": "a2580712dd672189c829b751b925f17d8217bd7557dbf7916fa5d109574e5811"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-6-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-6",
+    "answer": "상호관련성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "상호연관성"
+    ],
+    "prompt": "지역별 역사를 고립시켜 나열하지 않고 문화 공동체의 성장과 교류를 연결하는 세계사 목차의 공통 조직 원리는 무엇인가?",
+    "keyword": "간지역적 접근과 시대 구분 / CHAPTER 04 역사교육의 교재",
+    "explain": "지역 간 교류와 연결을 중심에 두는 상호관련성 원리이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-6",
+        "quote": "상호관련성/상호연관성"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/e631549f3594a6358d51bbe900addc32a1c4e1ff984e53742a0aa90c10b653fe.jpg",
+        "sha256": "e631549f3594a6358d51bbe900addc32a1c4e1ff984e53742a0aa90c10b653fe",
+        "quote": "상호관련성/상호연관성",
+        "location": "왼쪽 인쇄 56쪽 예상 답안 첫 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "간지역적 접근과 시대 구분 / CHAPTER 04 역사교육의 교재",
+      "inputSha256": "62be4e2847365071ffce1843474f0db8119d10552ca439eabb26a29f11a08725"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-6-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-6",
+    "answer": "간지역적 접근",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "세계사에서 지역·국가 단위의 틀을 넘어 문화·문명의 교류를 통해 여러 지역의 관계를 이해하려는 접근은 무엇인가?",
+    "keyword": "간지역적 접근과 시대 구분 / CHAPTER 04 역사교육의 교재",
+    "explain": "지역과 국가를 고립된 단위로 다루는 것을 넘어 서로의 연결과 교류를 살피는 접근이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-6",
+        "quote": "간지역적 접근을 사용하여 가르치면"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/e631549f3594a6358d51bbe900addc32a1c4e1ff984e53742a0aa90c10b653fe.jpg",
+        "sha256": "e631549f3594a6358d51bbe900addc32a1c4e1ff984e53742a0aa90c10b653fe",
+        "quote": "간지역적 접근을 사용하여 가르치면",
+        "location": "왼쪽 인쇄 56쪽 교사 대화"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "간지역적 접근과 시대 구분 / CHAPTER 04 역사교육의 교재",
+      "inputSha256": "f112265e45a5515fa38138905ee8b255c90a4f47b585588fb9f85204d62ee8df"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-6-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-6",
+    "answer": "세계역사의 이해",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "사진의 교사 대화에서 간지역적 접근을 반영한 사례로 지목하는 2007 개정 교육과정의 과목명은 무엇인가?",
+    "keyword": "간지역적 접근과 시대 구분 / CHAPTER 04 역사교육의 교재",
+    "explain": "교사 대화의 빈칸에는 2007 개정 교육과정의 세계역사의 이해가 들어간다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-6",
+        "quote": "세계역사의 이해"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/e631549f3594a6358d51bbe900addc32a1c4e1ff984e53742a0aa90c10b653fe.jpg",
+        "sha256": "e631549f3594a6358d51bbe900addc32a1c4e1ff984e53742a0aa90c10b653fe",
+        "quote": "세계역사의 이해",
+        "location": "왼쪽 인쇄 56쪽 예상 답안 ②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "간지역적 접근과 시대 구분 / CHAPTER 04 역사교육의 교재",
+      "inputSha256": "c3c6706fc9876bc906cc796ced636efb449af7b342e3ba6897b76d886e3d7488"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-7-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-7",
+    "answer": "구성적 성격",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "구성성",
+      "구성적 특성"
+    ],
+    "prompt": "역사 교과서를 과거 사실의 단순 복제가 아니라 저자의 선택·조직·해석이 개입한 서술로 이해할 때 강조하는 성격은 무엇인가?",
+    "keyword": "교과서의 구성적 성격과 협의 / 교과서 서술의 세 특성",
+    "explain": "교과서의 구성적 성격을 인식해야 서술을 비판적으로 검토할 수 있다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-7",
+        "quote": "역사의 구성적 성격"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/fdb2b50144dd6f6f733ab2c5fbc86d141035a08f5b68c5179cda0734b2ba99c3.jpg",
+        "sha256": "fdb2b50144dd6f6f733ab2c5fbc86d141035a08f5b68c5179cda0734b2ba99c3",
+        "quote": "역사의 구성적 성격",
+        "location": "왼쪽 인쇄 58쪽 자료의 교과서 구성 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "교과서의 구성적 성격과 협의 / 교과서 서술의 세 특성",
+      "inputSha256": "b351e9c29f5a6fb8a02f606ab9c41d1e68628ae298e8fb01f29f63bebc77bb4f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-7-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-7",
+    "answer": "독자적 텍스트",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "readerly text",
+      "독자적 텍스트 유형"
+    ],
+    "prompt": "바르트의 구분에서 저자가 의미를 명료하고 단일하게 전달하여 독자가 그대로 읽도록 하는 텍스트 유형은 무엇인가?",
+    "keyword": "교과서의 구성적 성격과 협의 / 교과서 서술의 세 특성",
+    "explain": "단일한 의미를 전달하는 독자적 텍스트는 독자가 의미를 새로 생산하는 저자적 텍스트와 구별된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-7",
+        "quote": "독자적 텍스트(readerly text)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/fdb2b50144dd6f6f733ab2c5fbc86d141035a08f5b68c5179cda0734b2ba99c3.jpg",
+        "sha256": "fdb2b50144dd6f6f733ab2c5fbc86d141035a08f5b68c5179cda0734b2ba99c3",
+        "quote": "독자적 텍스트(readerly text)",
+        "location": "오른쪽 인쇄 59쪽 하단 텍스트의 유형과 독자"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "교과서의 구성적 성격과 협의 / 교과서 서술의 세 특성",
+      "inputSha256": "aff09af909caa09a0311002f2119e24b063a2a238390d9dfe08f1c8db6773add"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-7-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-7",
+    "answer": "모의독자",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "mock reader"
+    ],
+    "prompt": "바르트의 독자 구분 해설에서 텍스트의 수사적인 장치에 쉽게 영향을 받는 독자를 가리키는 용어는 무엇인가?",
+    "keyword": "교과서의 구성적 성격과 협의 / 교과서 서술의 세 특성",
+    "explain": "사진의 해설은 텍스트의 수사적인 장치에 쉽게 영향을 받는 독자를 모의독자로 구분한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-7",
+        "quote": "텍스트의 수사적인 장치에 쉽게 영향을 받는 독자"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/fdb2b50144dd6f6f733ab2c5fbc86d141035a08f5b68c5179cda0734b2ba99c3.jpg",
+        "sha256": "fdb2b50144dd6f6f733ab2c5fbc86d141035a08f5b68c5179cda0734b2ba99c3",
+        "quote": "텍스트의 수사적인 장치에 쉽게 영향을 받는 독자",
+        "location": "오른쪽 인쇄 59쪽 하단 모의독자 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "교과서의 구성적 성격과 협의 / 교과서 서술의 세 특성",
+      "inputSha256": "56af5b1a8af8f6b23abd48e3a32fca544fea915d526baa89e42fc4c052e28d46"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-8-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-8",
+    "answer": "교육과정 변환",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "교육과정 재구성"
+    ],
+    "prompt": "국가 공통의 교육 내용을 교실 상황과 학생 수준에 맞게 바꾸어 수업에서 구현하는 과정을 무엇이라고 하는가?",
+    "keyword": "교육과정 변환과 교과서 관점 / 역사 교재의 소재 기출 경향",
+    "explain": "국가 수준의 교육과정을 학교와 수업의 맥락에 맞게 변환하는 과정을 말한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-8",
+        "quote": "교실 상황이나 학생 수준을 고려하여"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4be028a37cdd6ddbb31711765f2b356ab3f82d71297de450fef7f4f725afc912.jpg",
+        "sha256": "4be028a37cdd6ddbb31711765f2b356ab3f82d71297de450fef7f4f725afc912",
+        "quote": "교실 상황이나 학생 수준을 고려하여",
+        "location": "왼쪽 인쇄 64쪽 지도교사 첫 발언"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "교육과정 변환과 교과서 관점 / 역사 교재의 소재 기출 경향",
+      "inputSha256": "d8656e150e9414007d011b9b6d9b871a49dbbf210a7e5ea48adb78dde25d38ea"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-8-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-8",
+    "answer": "수업도구",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "예비교사 1은 교과서가 교육과정을 충실히 구현하며 수업에 필요한 지식을 모두 담고 있다고 본다. 이 관점에서 교과서의 역할은 무엇인가?",
+    "keyword": "교육과정 변환과 교과서 관점 / 역사 교재의 소재 기출 경향",
+    "explain": "예비교사 1은 교과서를 교육과정을 구현하는 완결된 수업도구로 본다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-8",
+        "quote": "역사 지식을 모두 담고 있는 수업 도구라고 생각하기 때문입니다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4be028a37cdd6ddbb31711765f2b356ab3f82d71297de450fef7f4f725afc912.jpg",
+        "sha256": "4be028a37cdd6ddbb31711765f2b356ab3f82d71297de450fef7f4f725afc912",
+        "quote": "역사 지식을 모두 담고 있는 수업 도구라고 생각하기 때문입니다.",
+        "location": "왼쪽 인쇄 64쪽 예비교사 1 발언"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "교육과정 변환과 교과서 관점 / 역사 교재의 소재 기출 경향",
+      "inputSha256": "b5bcb0648cc87e79f2758dbe00af7bd1ed33153c9505afa368e2e414d2c3a946"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-8-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-8",
+    "answer": "역사 서술",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "역사서술의 하나"
+    ],
+    "prompt": "예비교사 2는 교과서도 하나의 해석으로 검토하며 다른 자료를 함께 활용한다. 교과서 내용을 무엇의 하나로 본다고 하는가?",
+    "keyword": "교육과정 변환과 교과서 관점 / 역사 교재의 소재 기출 경향",
+    "explain": "교과서도 역사 서술의 하나이므로 다른 자료와 질문을 통해 비판적으로 검토할 수 있다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-8",
+        "quote": "교과서 내용도 역사 서술의 하나"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4be028a37cdd6ddbb31711765f2b356ab3f82d71297de450fef7f4f725afc912.jpg",
+        "sha256": "4be028a37cdd6ddbb31711765f2b356ab3f82d71297de450fef7f4f725afc912",
+        "quote": "교과서 내용도 역사 서술의 하나",
+        "location": "왼쪽 인쇄 64쪽 예비교사 2 발언"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "교육과정 변환과 교과서 관점 / 역사 교재의 소재 기출 경향",
+      "inputSha256": "847cf9a0beaa17eb45911ae1580bc4694fef7777ac62a484338b21589e29577b"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-9-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-9",
+    "answer": "이야기식 설명",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "이야기식 수업"
+    ],
+    "prompt": "갑신정변의 배경·목적·과정을 인물의 입장에서 구성하여 하나의 사건 전개로 전달하는 수업안의 설명 방식은 무엇인가?",
+    "keyword": "갑신정변 이야기식 설명과 사료 / 사료 선정과 역사 글쓰기",
+    "explain": "교사가 사건을 등장인물의 행위와 사건 전개를 중심으로 풀어가는 이야기식 설명이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-9",
+        "quote": "갑신정변에 대한 교사의 이야기식 설명 (15분)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/e01faa85bd8069f1def3c5dc3fb9f2dbbe77177c79b7eac6f4f1b0317c259a5b.jpg",
+        "sha256": "e01faa85bd8069f1def3c5dc3fb9f2dbbe77177c79b7eac6f4f1b0317c259a5b",
+        "quote": "갑신정변에 대한 교사의 이야기식 설명 (15분)",
+        "location": "왼쪽 인쇄 70쪽 수업안 진행 첫 단계"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "갑신정변 이야기식 설명과 사료 / 사료 선정과 역사 글쓰기",
+      "inputSha256": "092e6a67ea346d05e1dd8f156eb92edc78905b1f8e53bdf39bc6eacee1dd050c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-9-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-9",
+    "answer": "능력 단계",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "능력 수준",
+      "학습 능력 수준"
+    ],
+    "prompt": "사료 선정에서 학습자가 내용을 읽고 이해할 수 있는지를 따질 때, 교재는 학생의 흥미와 함께 어떤 수준에 맞아야 한다고 하는가?",
+    "keyword": "갑신정변 이야기식 설명과 사료 / 사료 선정과 역사 글쓰기",
+    "explain": "학생의 흥미뿐 아니라 사료를 해독·이해할 수 있는 능력 단계에 맞추어야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-9",
+        "quote": "학생들의 흥미나 능력 단계에 맞아야 한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/e01faa85bd8069f1def3c5dc3fb9f2dbbe77177c79b7eac6f4f1b0317c259a5b.jpg",
+        "sha256": "e01faa85bd8069f1def3c5dc3fb9f2dbbe77177c79b7eac6f4f1b0317c259a5b",
+        "quote": "학생들의 흥미나 능력 단계에 맞아야 한다.",
+        "location": "왼쪽 인쇄 70쪽 예상 답안 사료 선정 기준"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "갑신정변 이야기식 설명과 사료 / 사료 선정과 역사 글쓰기",
+      "inputSha256": "57f32fe2bda655ab24e870c66f29f5ea4ccae82b997206cf4649edef5c52716c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-9-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-9",
+    "answer": "중요한 내용",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "핵심 내용"
+    ],
+    "prompt": "사료 선정에서 단지 흥미로운 자료라는 이유만으로 고르지 않고, 상대적으로 어떤 내용을 담은 자료를 택해야 한다고 하는가?",
+    "keyword": "갑신정변 이야기식 설명과 사료 / 사료 선정과 역사 글쓰기",
+    "explain": "주제와 관련하여 상대적으로 중요한 내용을 담는지 따져야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-9",
+        "quote": "상대적으로 중요한 내용을 담고 있는 사료를 택해야 한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/e01faa85bd8069f1def3c5dc3fb9f2dbbe77177c79b7eac6f4f1b0317c259a5b.jpg",
+        "sha256": "e01faa85bd8069f1def3c5dc3fb9f2dbbe77177c79b7eac6f4f1b0317c259a5b",
+        "quote": "상대적으로 중요한 내용을 담고 있는 사료를 택해야 한다.",
+        "location": "왼쪽 인쇄 70쪽 예상 답안 사료 선정 기준"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "갑신정변 이야기식 설명과 사료 / 사료 선정과 역사 글쓰기",
+      "inputSha256": "a2f880a802c427ab43f98a8fc6352022cbcbfa7f174102d32777884ec8a66c9d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-10-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-10",
+    "answer": "사실과 견해",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "사료 학습이 학생에게 길러 주는 비판적 읽기 능력으로, 자료의 확인 가능한 주장과 작성자의 생각을 가려내는 것은 무엇과 무엇의 구별인가?",
+    "keyword": "해상 무역 사료와 교사의 역할 / 중세 도시 사료와 사전 활동",
+    "explain": "사료에 적힌 내용을 모두 동일한 사실로 받아들이지 않고 사실과 견해를 구별한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-10",
+        "quote": "역사적 사실과 견해를 구별할 수 있게 한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b2409a8b9be3c70ec1ab2e1a6b642a7d7c35a33e5f3e46296fa88c24902c3dec.jpg",
+        "sha256": "b2409a8b9be3c70ec1ab2e1a6b642a7d7c35a33e5f3e46296fa88c24902c3dec",
+        "quote": "역사적 사실과 견해를 구별할 수 있게 한다.",
+        "location": "왼쪽 인쇄 74쪽 예상 답안 사료 학습의 유용성 첫째"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "해상 무역 사료와 교사의 역할 / 중세 도시 사료와 사전 활동",
+      "inputSha256": "be0ffeabef06c3fbda075bb76a5dd7945a07010cdfd739af0a77f9358e89d5fb"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-10-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-10",
+    "answer": "역사적 상상력",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "사료를 바탕으로 당시 사람의 행위·상황을 재구성할 때 함양할 수 있다고 설명한 역사 사고 능력은 무엇인가?",
+    "keyword": "해상 무역 사료와 교사의 역할 / 중세 도시 사료와 사전 활동",
+    "explain": "사료에 근거하여 과거 상황을 재구성하는 역사적 상상력은 아무 근거 없는 창작과 다르다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-10",
+        "quote": "역사적 상상력의 함양에도 유용하다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b2409a8b9be3c70ec1ab2e1a6b642a7d7c35a33e5f3e46296fa88c24902c3dec.jpg",
+        "sha256": "b2409a8b9be3c70ec1ab2e1a6b642a7d7c35a33e5f3e46296fa88c24902c3dec",
+        "quote": "역사적 상상력의 함양에도 유용하다.",
+        "location": "왼쪽 인쇄 74쪽 예상 답안 사료 학습의 유용성"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "해상 무역 사료와 교사의 역할 / 중세 도시 사료와 사전 활동",
+      "inputSha256": "0b6f1e13d3a0cf79b133025942779ba49900f9db8e06d2dfdd071527a87d5c2f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-11-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-11",
+    "answer": "허구",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "허구성"
+    ],
+    "prompt": "박씨전에서 김자점이 신비한 존재에게 벌받는 장면은 실제 사건 기록이 아니다. 문학자료를 사료로 쓸 때 사실과 구별해야 하는 이 성격은 무엇인가?",
+    "keyword": "박씨전과 문학 자료의 유의점 / 역연대 조직과 전기 활용",
+    "explain": "소설의 허구적 장면과 실제 사건을 구별하면서 그 시대 사람들의 인식·욕망을 읽어야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-11",
+        "quote": "실제로 있었던 일이 아닙니다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b3a5ec5eb572e64426a3a57c7806c4e6c7f8dac99e048099a7e9eb24f9fd2b1a.jpg",
+        "sha256": "b3a5ec5eb572e64426a3a57c7806c4e6c7f8dac99e048099a7e9eb24f9fd2b1a",
+        "quote": "실제로 있었던 일이 아닙니다.",
+        "location": "왼쪽 인쇄 90쪽 (나) 김 교사 설명 마지막 문장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "박씨전과 문학 자료의 유의점 / 역연대 조직과 전기 활용",
+      "inputSha256": "b6a83ea1b939bdbee90c0deee8845756b9a056cee88cf7d1b9a54f4352e9120a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-11-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-11",
+    "answer": "역연대기적 조직",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "역연대기",
+      "역연대적 조직",
+      "역연대기법"
+    ],
+    "prompt": "현대에서 일제 강점기, 근대 개항기, 조선 후기, 조선 전기의 순으로 과거를 거슬러 올라가는 내용 조직 방법은 무엇인가?",
+    "keyword": "박씨전과 문학 자료의 유의점 / 역연대 조직과 전기 활용",
+    "explain": "현재와 가까운 시기부터 먼 과거로 거슬러 올라가는 역연대기적 내용 조직이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-11",
+        "quote": "현대\n일제 강점기\n근대 개항기\n조선 후기\n조선 전기"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b3a5ec5eb572e64426a3a57c7806c4e6c7f8dac99e048099a7e9eb24f9fd2b1a.jpg",
+        "sha256": "b3a5ec5eb572e64426a3a57c7806c4e6c7f8dac99e048099a7e9eb24f9fd2b1a",
+        "quote": "현대\n일제 강점기\n근대 개항기\n조선 후기\n조선 전기",
+        "location": "오른쪽 인쇄 91쪽 수업 계획표 시기 열"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "박씨전과 문학 자료의 유의점 / 역연대 조직과 전기 활용",
+      "inputSha256": "4996ac40380d6bc010ccb00258e33eae11ef4b2b64967602cf5cb9c89536e870"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-11-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-11",
+    "answer": "과장과 왜곡",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "과장·왜곡",
+      "과장, 왜곡"
+    ],
+    "prompt": "전기를 역사교육 자료로 활용할 때 영웅을 전설적·신화적으로 받아들이지 않으려면 서술에 포함된 어떤 두 요소를 경계해야 하는가?",
+    "keyword": "박씨전과 문학 자료의 유의점 / 역연대 조직과 전기 활용",
+    "explain": "전기의 과장과 왜곡을 비판적으로 검토하고 다양한 평가 및 당시 배경과 함께 읽어야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-11",
+        "quote": "과장, 왜곡"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b3a5ec5eb572e64426a3a57c7806c4e6c7f8dac99e048099a7e9eb24f9fd2b1a.jpg",
+        "sha256": "b3a5ec5eb572e64426a3a57c7806c4e6c7f8dac99e048099a7e9eb24f9fd2b1a",
+        "quote": "과장, 왜곡",
+        "location": "오른쪽 인쇄 91쪽 전기 활용 예상 답안 첫째"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "박씨전과 문학 자료의 유의점 / 역연대 조직과 전기 활용",
+      "inputSha256": "40adc26915d62fde458202ad2e0b27738d7c04dc3574e7a856bd22fa19d0d60c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-12-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-12",
+    "answer": "개별성",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "문화대혁명을 마오쩌둥이 처한 당시 중국의 구체적인 상황에서 이해하려는 설명이 강조하는 역사 사건의 성격은 무엇인가?",
+    "keyword": "CHAPTER 05 역사수업의 방법 / 문화대혁명 수업의 설명 관점",
+    "explain": "각 사건의 구체적 조건에 주목하는 것은 역사적 사건의 개별성을 강조하는 것이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-12",
+        "quote": "역사적 사건의 개별성을 강조한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ed67ba7f033004a7a426899de0c4dbab4b5859c079d4b8bbf1365f3cb53627da.jpg",
+        "sha256": "ed67ba7f033004a7a426899de0c4dbab4b5859c079d4b8bbf1365f3cb53627da",
+        "quote": "역사적 사건의 개별성을 강조한다.",
+        "location": "오른쪽 인쇄 95쪽 선택지 ① 및 사고 과정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "CHAPTER 05 역사수업의 방법 / 문화대혁명 수업의 설명 관점",
+      "inputSha256": "4c0f89b76b5636d762e66a5b3779ad8aa53120d9fffc29830617930109fcefa1"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-12-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-12",
+    "answer": "추체험",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "문화대혁명 당시 중국 학생들이 마오쩌둥의 호소를 어떻게 받아들였을지 그들의 처지에서 상상하게 하는 역사 이해의 방법은 무엇인가?",
+    "keyword": "CHAPTER 05 역사수업의 방법 / 문화대혁명 수업의 설명 관점",
+    "explain": "학생들이 당시 사람들의 상황과 생각을 재구성해 보는 추체험을 강조한 장면이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-12",
+        "quote": "추체험을 역사 이해의 방법으로 중시한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ed67ba7f033004a7a426899de0c4dbab4b5859c079d4b8bbf1365f3cb53627da.jpg",
+        "sha256": "ed67ba7f033004a7a426899de0c4dbab4b5859c079d4b8bbf1365f3cb53627da",
+        "quote": "추체험을 역사 이해의 방법으로 중시한다.",
+        "location": "오른쪽 인쇄 95쪽 선택지 ③ 및 사고 과정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "CHAPTER 05 역사수업의 방법 / 문화대혁명 수업의 설명 관점",
+      "inputSha256": "16b37cedf9b04d66e335ded5b48e764eee419c286fc1ef5e9e5324dccf6eb7ab"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-12-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-12",
+    "answer": "목적과 의도",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "목적·의도",
+      "목적 및 의도"
+    ],
+    "prompt": "마오쩌둥이 대중을 동원하고 류사오치 등을 공격한 이유를 밝히려는 교사의 설명은 역사 행위의 무엇을 해명하려는 것인가?",
+    "keyword": "CHAPTER 05 역사수업의 방법 / 문화대혁명 수업의 설명 관점",
+    "explain": "사건 진행의 배후에서 행위자가 무엇을 하려 했는지, 어떤 이유로 행동했는지 밝히는 설명이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-12",
+        "quote": "역사적 행위의 목적과 의도를 밝히는 데 주력한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ed67ba7f033004a7a426899de0c4dbab4b5859c079d4b8bbf1365f3cb53627da.jpg",
+        "sha256": "ed67ba7f033004a7a426899de0c4dbab4b5859c079d4b8bbf1365f3cb53627da",
+        "quote": "역사적 행위의 목적과 의도를 밝히는 데 주력한다.",
+        "location": "오른쪽 인쇄 95쪽 선택지 ⑤ 및 사고 과정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "CHAPTER 05 역사수업의 방법 / 문화대혁명 수업의 설명 관점",
+      "inputSha256": "71712aec6ec2237e6206696902d078dbfcdad68bf64cb3c625642434a2691ff6"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-13-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-13",
+    "answer": "논쟁식 토론",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "논쟁식 토론수업",
+      "논쟁 수업"
+    ],
+    "prompt": "10월 혁명에 대한 서로 다른 설명을 놓고 학생들이 근거를 제시하며 평가하게 할 때, 교사가 계획하는 토론수업의 유형은 무엇인가?",
+    "keyword": "10월 혁명과 논쟁식 토론 / 신석기 혁명과 괴베클리 테페",
+    "explain": "역사적 해석의 차이를 쟁점으로 삼고 서로의 근거를 검토하는 논쟁식 토론이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-13",
+        "quote": "논쟁식 토론수업을 전개하려고 한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/7ab882417d6d4df39aeeb47e84e181930f9f697a7ae8bd853789cedfb50689a5.jpg",
+        "sha256": "7ab882417d6d4df39aeeb47e84e181930f9f697a7ae8bd853789cedfb50689a5",
+        "quote": "논쟁식 토론수업을 전개하려고 한다.",
+        "location": "왼쪽 인쇄 122쪽 문항 4 발문"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "10월 혁명과 논쟁식 토론 / 신석기 혁명과 괴베클리 테페",
+      "inputSha256": "3b203f6c35e6148f159515de923262d729234a5b4df2f14f3ae38264c8f4a6d0"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-13-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-13",
+    "answer": "쟁점",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "서로 다른 고고학 자료 (A)·(B)를 먼저 이해한 다음 비교하는 2단계에서, 논의의 핵심이 되는 의견 대립 지점을 무엇이라고 하는가?",
+    "keyword": "10월 혁명과 논쟁식 토론 / 신석기 혁명과 괴베클리 테페",
+    "explain": "자료들의 어떤 주장·해석이 충돌하는지 쟁점을 찾아야 논쟁과 근거 판단이 가능하다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-13",
+        "quote": "2단계: (A), (B) 자료 비교하여 쟁점 찾기"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/7ab882417d6d4df39aeeb47e84e181930f9f697a7ae8bd853789cedfb50689a5.jpg",
+        "sha256": "7ab882417d6d4df39aeeb47e84e181930f9f697a7ae8bd853789cedfb50689a5",
+        "quote": "2단계: (A), (B) 자료 비교하여 쟁점 찾기",
+        "location": "오른쪽 인쇄 123쪽 교수·학습 과정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "10월 혁명과 논쟁식 토론 / 신석기 혁명과 괴베클리 테페",
+      "inputSha256": "00169283308c9aec785a89725803da67e9c15645ed2b7ead4bbda0b86b57ab0c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-13-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-13",
+    "answer": "근거",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "증거"
+    ],
+    "prompt": "자료 (A)·(B) 중 어느 주장을 지지할지 결정하는 3단계의 글쓰기에서, 개인적 호오 대신 무엇을 바탕으로 판단해야 하는가?",
+    "keyword": "10월 혁명과 논쟁식 토론 / 신석기 혁명과 괴베클리 테페",
+    "explain": "사료와 고고학 자료에서 확인한 근거를 들어 자신의 판단을 뒷받침해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-13",
+        "quote": "3단계: 근거를 바탕으로, (A), (B) 자료 중 하나를 지지하는 글 작성하기"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/7ab882417d6d4df39aeeb47e84e181930f9f697a7ae8bd853789cedfb50689a5.jpg",
+        "sha256": "7ab882417d6d4df39aeeb47e84e181930f9f697a7ae8bd853789cedfb50689a5",
+        "quote": "3단계: 근거를 바탕으로, (A), (B) 자료 중 하나를 지지하는 글 작성하기",
+        "location": "오른쪽 인쇄 123쪽 교수·학습 과정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "10월 혁명과 논쟁식 토론 / 신석기 혁명과 괴베클리 테페",
+      "inputSha256": "5c14a435d1e2156c4f780584b8e9d8df15cf590e065ba49be8e66703013bc67a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-14-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-14",
+    "answer": "합리적 설명",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "합리적 설명 이론"
+    ],
+    "prompt": "드레이가 역사 행위를 당시 행위자의 목적·상황·수단의 관계 속에서 이해하도록 제시한 설명 유형은 무엇인가?",
+    "keyword": "드레이의 합리적 설명 탐구 / 할리치나 사단과 사료의 성격",
+    "explain": "행위자가 처한 조건과 목표에서 선택이 왜 합리적인지를 재구성하는 설명이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-14",
+        "quote": "Dray의 합리적 설명 이론"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d2179231151d9f5ba7a6b3a8cef843541b9431ce07d1d35bc78b13fc974b0dca.jpg",
+        "sha256": "d2179231151d9f5ba7a6b3a8cef843541b9431ce07d1d35bc78b13fc974b0dca",
+        "quote": "Dray의 합리적 설명 이론",
+        "location": "왼쪽 인쇄 130쪽 28번 발문"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "드레이의 합리적 설명 탐구 / 할리치나 사단과 사료의 성격",
+      "inputSha256": "e354066bb11c4c2c21f543dde88372eeb0cbc5040375ac88d082f59e18e12ea2"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-14-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-14",
+    "answer": "목표",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "목적"
+    ],
+    "prompt": "드레이의 탐구 과정에서 가설을 설정할 때, 행위자가 어떤 믿음을 가졌는지와 함께 그가 지향했던 무엇을 생각하는가?",
+    "keyword": "드레이의 합리적 설명 탐구 / 할리치나 사단과 사료의 성격",
+    "explain": "행위자의 목표를 가설로 세운 뒤 당시 상황과 믿음, 선택한 수단을 함께 검토한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-14",
+        "quote": "행위자의 특정한 행위가 지향한 목표가 무엇인지 가설을 설정한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d2179231151d9f5ba7a6b3a8cef843541b9431ce07d1d35bc78b13fc974b0dca.jpg",
+        "sha256": "d2179231151d9f5ba7a6b3a8cef843541b9431ce07d1d35bc78b13fc974b0dca",
+        "quote": "행위자의 특정한 행위가 지향한 목표가 무엇인지 가설을 설정한다.",
+        "location": "왼쪽 인쇄 130쪽 학습 활동 표 가설의 설정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "드레이의 합리적 설명 탐구 / 할리치나 사단과 사료의 성격",
+      "inputSha256": "95d64b0be75dd53deb040d61ce012665704ee211730f275c8ded4434a8a88b37"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-14-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-14",
+    "answer": "보편법칙",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "일반법칙"
+    ],
+    "prompt": "드레이의 행위 이해와 달리, 같은 조건이면 누구나 항상 동일하게 행동한다는 규칙을 적용해 설명할 때 사용하는 법칙의 성격은 무엇인가?",
+    "keyword": "드레이의 합리적 설명 탐구 / 할리치나 사단과 사료의 성격",
+    "explain": "교재는 이 선택지를 부적절한 설명으로 구별한다. 드레이의 합리적 설명을 보편법칙에 대한 포섭으로 환원해서는 안 된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-14",
+        "quote": "일반법칙을 적용하여 행위자의 행위를 이해해야 한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d2179231151d9f5ba7a6b3a8cef843541b9431ce07d1d35bc78b13fc974b0dca.jpg",
+        "sha256": "d2179231151d9f5ba7a6b3a8cef843541b9431ce07d1d35bc78b13fc974b0dca",
+        "quote": "일반법칙을 적용하여 행위자의 행위를 이해해야 한다.",
+        "location": "왼쪽 인쇄 130쪽 선택지 ⑤"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "드레이의 합리적 설명 탐구 / 할리치나 사단과 사료의 성격",
+      "inputSha256": "7ee9dbb3b8141aa3e16eeb71d8cfac2ccd4638660d160b998e34f256290320e3"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-15-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-15",
+    "answer": "내포적 정의",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "개념을 정의할 때 그 개념에 속하는 사례를 나열하는 대신 반드시 갖추어야 할 속성을 제시하는 방식은 무엇인가?",
+    "keyword": "개념학습과 정복 왕조 / 냉전 개념 · 주제학습 · 총괄개념",
+    "explain": "개념을 구성하는 본질적 속성을 밝히는 내포적 정의이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-15",
+        "quote": "내포적 정의"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/34855c6418b6c2cc53f99ecc330ee7f100e753279ce91f4bc479f66ddfe04bee.jpg",
+        "sha256": "34855c6418b6c2cc53f99ecc330ee7f100e753279ce91f4bc479f66ddfe04bee",
+        "quote": "내포적 정의",
+        "location": "오른쪽 인쇄 139쪽 예상 답안 ①"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "개념학습과 정복 왕조 / 냉전 개념 · 주제학습 · 총괄개념",
+      "inputSha256": "3a5bfd2afd1562a6464a4c01c20b03bf0bb3a74cbbbce7d543c9668ea5e40374"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-15-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-15",
+    "answer": "주제학습",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "냉전과 관련된 여러 시기·지역의 사건을 하나의 중심 주제로 묶어 탐구하는 내용 조직 방식은 무엇인가?",
+    "keyword": "개념학습과 정복 왕조 / 냉전 개념 · 주제학습 · 총괄개념",
+    "explain": "하나의 주제를 중심으로 관련 사건과 현상을 조직하는 주제학습이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-15",
+        "quote": "주제학습"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/34855c6418b6c2cc53f99ecc330ee7f100e753279ce91f4bc479f66ddfe04bee.jpg",
+        "sha256": "34855c6418b6c2cc53f99ecc330ee7f100e753279ce91f4bc479f66ddfe04bee",
+        "quote": "주제학습",
+        "location": "오른쪽 인쇄 139쪽 예상 답안 ②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "개념학습과 정복 왕조 / 냉전 개념 · 주제학습 · 총괄개념",
+      "inputSha256": "2f1b2d2e6c8298234c2d5424dafdbddc6132237db6832339ec496727013db61a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-15-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-15",
+    "answer": "총괄개념",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "월시가 제안한 것으로 여러 개별 사건을 하나의 관계 속에서 묶어 이해하도록 하는 개념은 무엇인가?",
+    "keyword": "개념학습과 정복 왕조 / 냉전 개념 · 주제학습 · 총괄개념",
+    "explain": "여러 사건을 냉전 같은 총괄개념으로 묶으면 개별 사건들의 관계를 이해하는 데 도움이 된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-15",
+        "quote": "월시(W. H. Walsh)가 제안한 개념을 수업에 적용"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/34855c6418b6c2cc53f99ecc330ee7f100e753279ce91f4bc479f66ddfe04bee.jpg",
+        "sha256": "34855c6418b6c2cc53f99ecc330ee7f100e753279ce91f4bc479f66ddfe04bee",
+        "quote": "월시(W. H. Walsh)가 제안한 개념을 수업에 적용",
+        "location": "오른쪽 인쇄 139쪽 김 교사의 마지막 발언"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "개념학습과 정복 왕조 / 냉전 개념 · 주제학습 · 총괄개념",
+      "inputSha256": "263ae5567606db9efad0ffdaa81f4e36352e83ccaa9de07321d217c329a2c258"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-16-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-16",
+    "answer": "쟁점 수업",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "쟁점학습",
+      "논쟁수업"
+    ],
+    "prompt": "에스파냐의 아메리카 지배를 옹호하거나 비판하는 서로 다른 사료를 대조하고 근거를 토론하는 수업 유형은 무엇인가?",
+    "keyword": "에스파냐 정복과 쟁점 수업 / 인도 민족운동 수업지도안",
+    "explain": "해석과 가치 판단이 충돌하는 쟁점을 중심으로 자료와 주장을 검토하는 수업이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-16",
+        "quote": "쟁점 수업"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/1f0e730994c95e64816c1532f7072c0499d032eb74bf8c51edae5d77689615c2.jpg",
+        "sha256": "1f0e730994c95e64816c1532f7072c0499d032eb74bf8c51edae5d77689615c2",
+        "quote": "쟁점 수업",
+        "location": "왼쪽 인쇄 144쪽 키워드 정리"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에스파냐 정복과 쟁점 수업 / 인도 민족운동 수업지도안",
+      "inputSha256": "560da44685fbcaabf4ffe116f3afb23830e9f6e3935eeee69918e5355af0d3fc"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-16-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-16",
+    "answer": "민족운동",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "‘세포이 항쟁’이라는 이름이 군인 집단만 강조할 때 충분히 드러나지 않는, 사회 각계각층이 참여한 운동의 성격은 무엇인가?",
+    "keyword": "에스파냐 정복과 쟁점 수업 / 인도 민족운동 수업지도안",
+    "explain": "교재는 참여 주체를 용병에 한정하는 명칭이 폭넓은 민족운동의 성격을 충분히 보여주지 못한다고 지적한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-16",
+        "quote": "민족운동으로서의 성격이 부각되지 못한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/1f0e730994c95e64816c1532f7072c0499d032eb74bf8c51edae5d77689615c2.jpg",
+        "sha256": "1f0e730994c95e64816c1532f7072c0499d032eb74bf8c51edae5d77689615c2",
+        "quote": "민족운동으로서의 성격이 부각되지 못한다.",
+        "location": "오른쪽 인쇄 145쪽 예상 답안 2)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에스파냐 정복과 쟁점 수업 / 인도 민족운동 수업지도안",
+      "inputSha256": "81b53f1fb3fc154136b134a0ed19908de6b04272a4b57eb8bb9f32b684b8739d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-16-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-16",
+    "answer": "비교학습",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "비교 학습법"
+    ],
+    "prompt": "인도·중국·한국에서 전개된 민족운동의 공통점과 차이점을 나란히 분석하게 하는 학습 방법은 무엇인가?",
+    "keyword": "에스파냐 정복과 쟁점 수업 / 인도 민족운동 수업지도안",
+    "explain": "여러 사례의 공통점과 차이점을 파악하는 비교학습이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-16",
+        "quote": "인도, 중국, 한국에서 전개된 민족운동의 공통점과 차이점을 이해한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/1f0e730994c95e64816c1532f7072c0499d032eb74bf8c51edae5d77689615c2.jpg",
+        "sha256": "1f0e730994c95e64816c1532f7072c0499d032eb74bf8c51edae5d77689615c2",
+        "quote": "인도, 중국, 한국에서 전개된 민족운동의 공통점과 차이점을 이해한다.",
+        "location": "오른쪽 인쇄 145쪽 예상 답안 3)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에스파냐 정복과 쟁점 수업 / 인도 민족운동 수업지도안",
+      "inputSha256": "6a546a5131521323b4f958e4517023e3991b1fa179ff35e15d081fb827f535c1"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-17-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-17",
+    "answer": "비교학습",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "보카치오와 에라스뮈스의 작품을 분석하여 두 지역 인문주의의 공통점과 차이점을 찾는 학습 방법은 무엇인가?",
+    "keyword": "르네상스 비교학습 / 역사 신문 만들기와 시대학습",
+    "explain": "지역별 공통성과 특수성을 비교하면서 각각의 역사적 맥락을 이해한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-17",
+        "quote": "공통점과 차이점을 비교할 수 있다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ce3cf0926ef5991bb52c1b77fa7994af2e550aa4e39b0272efdc467f890c0adb.jpg",
+        "sha256": "ce3cf0926ef5991bb52c1b77fa7994af2e550aa4e39b0272efdc467f890c0adb",
+        "quote": "공통점과 차이점을 비교할 수 있다.",
+        "location": "왼쪽 인쇄 150쪽 예상 답안 ①"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "르네상스 비교학습 / 역사 신문 만들기와 시대학습",
+      "inputSha256": "4cdb1839f01c401490bf26b15bf4800c15bcf313dd258162ffeaee2da0b8729f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-17-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-17",
+    "answer": "시대학습",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "시기학습"
+    ],
+    "prompt": "종교 개혁기의 정치·사회·문화를 함께 조사해 역사 신문을 만들며 해당 시기의 전반적 성격을 파악하는 수업 유형은 무엇인가?",
+    "keyword": "르네상스 비교학습 / 역사 신문 만들기와 시대학습",
+    "explain": "특정 시대의 여러 측면을 종합하여 시대의 특징을 파악하는 시대학습이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-17",
+        "quote": "시기/시대학습"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ce3cf0926ef5991bb52c1b77fa7994af2e550aa4e39b0272efdc467f890c0adb.jpg",
+        "sha256": "ce3cf0926ef5991bb52c1b77fa7994af2e550aa4e39b0272efdc467f890c0adb",
+        "quote": "시기/시대학습",
+        "location": "왼쪽 인쇄 150쪽 예상 답안 ③"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "르네상스 비교학습 / 역사 신문 만들기와 시대학습",
+      "inputSha256": "083b12f71ab7eca31a8036a1a0cc2a56af752293c39dffb9f8a4b477c15eafa8"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-17-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-17",
+    "answer": "역사적 사실",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "당시의 역사적 사실"
+    ],
+    "prompt": "신문 제작에서 교사의 피드백은 창의적인 표현뿐 아니라 당시 상황에 맞는지를 확인해야 한다. 형식적 상상과 구별해 정확히 반영해야 할 것은 무엇인가?",
+    "keyword": "르네상스 비교학습 / 역사 신문 만들기와 시대학습",
+    "explain": "학생의 창작물도 당시 역사적 사실과 맥락에 부합하는지 검토해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-17",
+        "quote": "당시의 역사적 사실에 부합하지 않습니다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ce3cf0926ef5991bb52c1b77fa7994af2e550aa4e39b0272efdc467f890c0adb.jpg",
+        "sha256": "ce3cf0926ef5991bb52c1b77fa7994af2e550aa4e39b0272efdc467f890c0adb",
+        "quote": "당시의 역사적 사실에 부합하지 않습니다.",
+        "location": "왼쪽 인쇄 150쪽 예상 답안 ④"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "르네상스 비교학습 / 역사 신문 만들기와 시대학습",
+      "inputSha256": "211c152c61fb7241b3d5259a32023419efe055f25d8bebfe657c6b4249dbc188"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-18-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-18",
+    "answer": "변별도",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "사진의 문항 분석 표에서 0.04로 제시되어 상위 집단과 하위 집단을 잘 구별하지 못함을 나타내는 문항 지표는 무엇인가?",
+    "keyword": "역사과 평가의 실제 기출 경향 / 선다형 문항 분석 · 변별도",
+    "explain": "변별도는 문항이 학습 수준이 다른 집단을 얼마나 구별하는지 나타낸다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-18",
+        "quote": "변별도\n0.04"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/51e0d865f70cf0836989d9eeca433ecc2bfd386fd54a58aea09748027d53e848.jpg",
+        "sha256": "51e0d865f70cf0836989d9eeca433ecc2bfd386fd54a58aea09748027d53e848",
+        "quote": "변별도\n0.04",
+        "location": "오른쪽 인쇄 159쪽 (나) 문항 분석 결과 표"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사과 평가의 실제 기출 경향 / 선다형 문항 분석 · 변별도",
+      "inputSha256": "d819c617e132744fc8b69467673ec349d7ae1be4ff57b9b7813ef1d9f0a7bd5f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-18-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-18",
+    "answer": "정답률",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "문항 분석에서 전체 응시자 중 맞는 답을 선택한 학생의 비율을 백분율로 나타내는 지표는 무엇인가?",
+    "keyword": "역사과 평가의 실제 기출 경향 / 선다형 문항 분석 · 변별도",
+    "explain": "표의 정답률은 65.7%이다. 이는 정답을 선택한 응시자의 비율이며 상·하위 집단을 구별하는 변별도와 다르다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-18",
+        "quote": "정답률(%)\n65.7"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/51e0d865f70cf0836989d9eeca433ecc2bfd386fd54a58aea09748027d53e848.jpg",
+        "sha256": "51e0d865f70cf0836989d9eeca433ecc2bfd386fd54a58aea09748027d53e848",
+        "quote": "정답률(%)\n65.7",
+        "location": "오른쪽 인쇄 159쪽 (나) 문항 분석 결과 표"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사과 평가의 실제 기출 경향 / 선다형 문항 분석 · 변별도",
+      "inputSha256": "866bfb88be1ea057f3a3fb20f116d4f11693ff91234138a769b3dd9ffe58cb96"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-18-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-18",
+    "answer": "종적·횡적 관련성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "종적 횡적 관련성",
+      "종적, 횡적 관련성"
+    ],
+    "prompt": "한국사 사건의 시간적 연결과 같은 시기 동아시아의 관계를 함께 보여주는 연표는 역사적 사실 사이의 어떤 두 방향의 관련성을 평가하는 데 적합한가?",
+    "keyword": "역사과 평가의 실제 기출 경향 / 선다형 문항 분석 · 변별도",
+    "explain": "한 지역의 시간 흐름을 따르는 종적 관련성과 동시대 여러 지역을 비교하는 횡적 관련성을 함께 파악할 수 있다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-18",
+        "quote": "역사적 사실 간의 종적, 횡적 관련성을 파악하는 데 유용한 자료를 활용하였다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/51e0d865f70cf0836989d9eeca433ecc2bfd386fd54a58aea09748027d53e848.jpg",
+        "sha256": "51e0d865f70cf0836989d9eeca433ecc2bfd386fd54a58aea09748027d53e848",
+        "quote": "역사적 사실 간의 종적, 횡적 관련성을 파악하는 데 유용한 자료를 활용하였다.",
+        "location": "오른쪽 인쇄 159쪽 보기 ㄷ"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사과 평가의 실제 기출 경향 / 선다형 문항 분석 · 변별도",
+      "inputSha256": "8bb7b657b332395162443bb109d1087311ca5a75f0e691f4e4d075d398d09815"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-19-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-19",
+    "answer": "내재적 중요성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "본질적 중요성"
+    ],
+    "prompt": "역사 사건을 오늘날 생활에 쓸모 있는지로만 고르지 않고, 사건 자체가 지닌 역사적 의미를 고려할 때의 중요성은 무엇인가?",
+    "keyword": "카드뉴스와 역사 중요성 / 6월 항쟁 수업과 포트폴리오",
+    "explain": "오늘날의 도구적 효용과 구별하여 역사적 사실 자체의 내재적 중요성을 고려해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-19",
+        "quote": "역사적 사실 그 자체가 갖고 있는"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/df062d7f65a89e72e9218e99064e140b77568885e8a19d6a9857722dd88f4fff.jpg",
+        "sha256": "df062d7f65a89e72e9218e99064e140b77568885e8a19d6a9857722dd88f4fff",
+        "quote": "역사적 사실 그 자체가 갖고 있는",
+        "location": "왼쪽 인쇄 168쪽 양 교사 발언"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "카드뉴스와 역사 중요성 / 6월 항쟁 수업과 포트폴리오",
+      "inputSha256": "b9828d0d8ae4868d3c8ac62750dc25dbe9a94d875c47b1ae9b95370cc8860015"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-19-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-19",
+    "answer": "포트폴리오",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "포트폴리오 평가"
+    ],
+    "prompt": "인터뷰 질문의 수정·보완 과정처럼 학생의 점진적인 성장과 변화를 자료로 모아 판단하는 데 적합하다고 제안한 평가 방법은 무엇인가?",
+    "keyword": "카드뉴스와 역사 중요성 / 6월 항쟁 수업과 포트폴리오",
+    "explain": "결과물뿐 아니라 수정 과정과 학습자의 성장 기록을 모아 평가하는 포트폴리오가 적합하다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-19",
+        "quote": "포트폴리오이고"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/df062d7f65a89e72e9218e99064e140b77568885e8a19d6a9857722dd88f4fff.jpg",
+        "sha256": "df062d7f65a89e72e9218e99064e140b77568885e8a19d6a9857722dd88f4fff",
+        "quote": "포트폴리오이고",
+        "location": "오른쪽 인쇄 169쪽 예상 답안"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "카드뉴스와 역사 중요성 / 6월 항쟁 수업과 포트폴리오",
+      "inputSha256": "56a0e63a3bf155e50e969c79f301b6cae3f6c4387ae9eaa8a9f869e7abda5b48"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-19-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-19",
+    "answer": "가치 판단",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "구술 인터뷰에서 ‘최근 논란에 대해 어떻게 생각하느냐’는 식의 질문을 가급적 피하라는 조언은 질문에 어떤 판단이 포함되지 않도록 하라는 뜻인가?",
+    "keyword": "카드뉴스와 역사 중요성 / 6월 항쟁 수업과 포트폴리오",
+    "explain": "자료 수집의 목적에서 벗어나 응답자의 가치 판단을 유도하는 질문을 피하라는 조언이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-19",
+        "quote": "가치 판단이 포함된 질문은 가급적 하지 말 것."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/df062d7f65a89e72e9218e99064e140b77568885e8a19d6a9857722dd88f4fff.jpg",
+        "sha256": "df062d7f65a89e72e9218e99064e140b77568885e8a19d6a9857722dd88f4fff",
+        "quote": "가치 판단이 포함된 질문은 가급적 하지 말 것.",
+        "location": "오른쪽 인쇄 169쪽 A 교사의 조언 세 번째 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "카드뉴스와 역사 중요성 / 6월 항쟁 수업과 포트폴리오",
+      "inputSha256": "19fd1fef129a626a3623a893be8d2d643f90ad95a3c04dba98b1255b80b6c5e9"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-20-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-20",
+    "answer": "종합",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "종합 능력"
+    ],
+    "prompt": "급진개화파·온건개화파와 후대 역사가들의 해석을 비교한 뒤 여러 관점을 함께 고려해 판단하는 능력을 평가 기준 A는 무엇이라고 하는가?",
+    "keyword": "갑신정변 평가 기준 A·B / 자료 선정과 심리주의의 함정",
+    "explain": "각 입장을 개별적으로 확인하는 데서 나아가 다양한 관점과 근거를 종합해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-20",
+        "quote": "관점에 따른 분석 및 온건개화파의 주장과 근거를 종합"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/5cc3fa2b1f7e1572a975e046fb159ad784a11e424fbb087f8753681533e6e6dd.jpg",
+        "sha256": "5cc3fa2b1f7e1572a975e046fb159ad784a11e424fbb087f8753681533e6e6dd",
+        "quote": "관점에 따른 분석 및 온건개화파의 주장과 근거를 종합",
+        "location": "왼쪽 인쇄 176쪽 예상 답안 A"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "갑신정변 평가 기준 A·B / 자료 선정과 심리주의의 함정",
+      "inputSha256": "7cbc24a517fd2069f0824d167895137e8524f9a29115387abd5f4c80693d3653"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-20-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-20",
+    "answer": "논리적 재구성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "논리적으로 재구성"
+    ],
+    "prompt": "온건개화파·급진개화파와 역사가의 관점을 토대로 학생 자신의 판단을 논증하도록 하는 평가 기준 B의 핵심은 무엇인가?",
+    "keyword": "갑신정변 평가 기준 A·B / 자료 선정과 심리주의의 함정",
+    "explain": "자료와 다양한 해석을 토대로 자신의 판단을 논리적으로 재구성했는지 평가한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-20",
+        "quote": "논리적으로 재구성했는가이다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/5cc3fa2b1f7e1572a975e046fb159ad784a11e424fbb087f8753681533e6e6dd.jpg",
+        "sha256": "5cc3fa2b1f7e1572a975e046fb159ad784a11e424fbb087f8753681533e6e6dd",
+        "quote": "논리적으로 재구성했는가이다.",
+        "location": "왼쪽 인쇄 176쪽 예상 답안 B"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "갑신정변 평가 기준 A·B / 자료 선정과 심리주의의 함정",
+      "inputSha256": "fc18e3ec9a4f0c46a99675773c5e9f82b3ced04389f039fb2e643b381ee1889a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-20-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-20",
+    "answer": "속음청사",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "續陰晴史"
+    ],
+    "prompt": "갑신정변 수업의 자료 표에서 고종실록과 함께 제시된 개인의 기록으로, 온건개화파 입장을 검토하는 데 사용한 문헌의 이름은 무엇인가?",
+    "keyword": "갑신정변 평가 기준 A·B / 자료 선정과 심리주의의 함정",
+    "explain": "자료 표의 나에는 고종실록과 속음청사가 제시되어 있다. 당시 인물의 기록과 후대 역사가의 평가를 구별하며 읽는다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-20",
+        "quote": "「고종실록」, 「속음청사」"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/5cc3fa2b1f7e1572a975e046fb159ad784a11e424fbb087f8753681533e6e6dd.jpg",
+        "sha256": "5cc3fa2b1f7e1572a975e046fb159ad784a11e424fbb087f8753681533e6e6dd",
+        "quote": "「고종실록」, 「속음청사」",
+        "location": "왼쪽 인쇄 176쪽 자료 읽기 표 나 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "갑신정변 평가 기준 A·B / 자료 선정과 심리주의의 함정",
+      "inputSha256": "b8626be2c708de2429b50a3aedf7494e3f466df4d32520e19fe31c85aac8c7bd"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-21-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-21",
+    "answer": "국민학교규정",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "사진의 2025학년도 기출 자료에서 ‘황국의 도를 연성’한다는 목적에 따라 1941년 제정된 학교 규정의 명칭은 무엇인가?",
+    "keyword": "일제의 역사교육·유신 체제와 국사 교과서",
+    "explain": "1941년 국민학교규정에 관한 사료이다. 해방 이후 대한민국 교육과정과 구별해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-21",
+        "quote": "국민학교규정"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/bf52032a1a42ace6302f6b527e4c20483fae0f7f165982406f70bb2b702286b6.jpg",
+        "sha256": "bf52032a1a42ace6302f6b527e4c20483fae0f7f165982406f70bb2b702286b6",
+        "quote": "국민학교규정",
+        "location": "오른쪽 인쇄 183쪽 예상 답안 ①"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "일제의 역사교육·유신 체제와 국사 교과서",
+      "inputSha256": "3af57f189746ab835579fd0816964940a198a305bb631ca89c65e1e2bf7d3ebe"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-21-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-21",
+    "answer": "시련과 극복",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "1972년판과 1973년판의 국사 교과서 비교에서 10월 유신 전후 서술 변화를 확인하는 단원의 제목은 무엇인가?",
+    "keyword": "일제의 역사교육·유신 체제와 국사 교과서",
+    "explain": "시련과 극복 단원의 서술을 비교하여 정치적 변화가 국사 교과서에 반영되는 방식을 살핀다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-21",
+        "quote": "1972년판 「시련과 극복」\n1973년판 이후의 「시련과 극복」"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/bf52032a1a42ace6302f6b527e4c20483fae0f7f165982406f70bb2b702286b6.jpg",
+        "sha256": "bf52032a1a42ace6302f6b527e4c20483fae0f7f165982406f70bb2b702286b6",
+        "quote": "1972년판 「시련과 극복」\n1973년판 이후의 「시련과 극복」",
+        "location": "오른쪽 인쇄 183쪽 하단 비교표 제목 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "일제의 역사교육·유신 체제와 국사 교과서",
+      "inputSha256": "b261278aa4b1a0a83f56eadebd093b6e86a9bea5a9eacf6dd97a73e0cd67c35f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-21-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-21",
+    "answer": "유신",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "유신체제",
+      "10월 유신"
+    ],
+    "prompt": "1973년판 국사 교과서가 ‘10월’의 정치 변동을 긍정적으로 설명하는 자료에서 정당화하려는 1972년의 정치 체제는 무엇인가?",
+    "keyword": "일제의 역사교육·유신 체제와 국사 교과서",
+    "explain": "당시 교과서의 유신 체제 정당화 서술을 분석하는 문항이다. 인용문의 가치 판단을 객관적 평가로 받아들이는 문제는 아니다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-21",
+        "quote": "10월 유신은 자유민주주의"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/bf52032a1a42ace6302f6b527e4c20483fae0f7f165982406f70bb2b702286b6.jpg",
+        "sha256": "bf52032a1a42ace6302f6b527e4c20483fae0f7f165982406f70bb2b702286b6",
+        "quote": "10월 유신은 자유민주주의",
+        "location": "오른쪽 인쇄 183쪽 하단 비교표 오른쪽 둘째 단락"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "일제의 역사교육·유신 체제와 국사 교과서",
+      "inputSha256": "a9c2f2018568a2254c1bc949f7c4f4e691bf947f1857a5ec0540224df5721969"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-22-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-22",
+    "answer": "수시 개정",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "부분 개정",
+      "수시·부분 개정"
+    ],
+    "prompt": "사진의 해설에서 제7차 교육과정 이후 변화하는 환경에 대응하여 전면 개정 대신 활용했다고 설명하는 개정 방식은 무엇인가?",
+    "keyword": "제7차 교육과정 역사 영역 / 개정 교육과정 기출 경향",
+    "explain": "교재는 제7차 교육과정 이후의 개정을 수시 또는 부분 개정의 방식으로 설명한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-22",
+        "quote": "수시 또는 부분 개정의 방식"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/70ce6b644512fe2778e4cc07947133812c987780f920819e2574fef08c003f0d.jpg",
+        "sha256": "70ce6b644512fe2778e4cc07947133812c987780f920819e2574fef08c003f0d",
+        "quote": "수시 또는 부분 개정의 방식",
+        "location": "오른쪽 인쇄 191쪽 기출 경향 분석 첫 문단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "제7차 교육과정 역사 영역 / 개정 교육과정 기출 경향",
+      "inputSha256": "f90c085c1f36b79a58b7f74e725888d88c5a385e20b5f9ac44f4ab730f145939"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-22-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-22",
+    "answer": "동아시아 역사 기행",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "2022 개정 교육과정에서 교재가 동아시아사와 비교하도록 제시하는, 지역의 과거를 탐방하는 성격의 과목명은 무엇인가?",
+    "keyword": "제7차 교육과정 역사 영역 / 개정 교육과정 기출 경향",
+    "explain": "동아시아 역사 기행은 이전 동아시아사 과목과 성격·내용을 비교해 살필 수 있는 2022 개정 과목이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-22",
+        "quote": "동아시아 역사 기행"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/70ce6b644512fe2778e4cc07947133812c987780f920819e2574fef08c003f0d.jpg",
+        "sha256": "70ce6b644512fe2778e4cc07947133812c987780f920819e2574fef08c003f0d",
+        "quote": "동아시아 역사 기행",
+        "location": "오른쪽 인쇄 191쪽 기출 경향 분석 마지막 문단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "제7차 교육과정 역사 영역 / 개정 교육과정 기출 경향",
+      "inputSha256": "75342022fd4786db2037b50cf75020b4f2dafcd657c525f0f5e1e7beb39127cb"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-22-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-22",
+    "answer": "역사로 탐구하는 현대세계",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "2022 개정 교육과정의 과목으로, 현재 세계의 과제를 과거와 연결해 탐구하는 과목의 명칭은 무엇인가?",
+    "keyword": "제7차 교육과정 역사 영역 / 개정 교육과정 기출 경향",
+    "explain": "사진의 해설은 역사로 탐구하는 현대세계의 성격과 논쟁적 역사수업·생태환경 등의 주제를 함께 언급한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-22",
+        "quote": "역사로 탐구하는 현대세계"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/70ce6b644512fe2778e4cc07947133812c987780f920819e2574fef08c003f0d.jpg",
+        "sha256": "70ce6b644512fe2778e4cc07947133812c987780f920819e2574fef08c003f0d",
+        "quote": "역사로 탐구하는 현대세계",
+        "location": "오른쪽 인쇄 191쪽 기출 경향 분석 마지막 문단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "제7차 교육과정 역사 영역 / 개정 교육과정 기출 경향",
+      "inputSha256": "b2dd3c2423dc13eb0b6bd6d140b04828f590ff314d8c8cb06b5c90dc12f49505"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-23-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-23",
+    "answer": "문화사",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "2009 개정 중학교 역사 과목 설명에서 정치사의 흐름과 함께 학습 흥미를 유발하고 창의적 사고력을 함양하도록 제시한 분야는 무엇인가?",
+    "keyword": "2009 개정 고려사 내용 체계 / 2015 중학교 역사의 세계사·한국사",
+    "explain": "교재의 답안은 정치사 중심의 흐름에 문화사를 함께 다루는 구성을 제시한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-23",
+        "quote": "문화사"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/96df35c998273bccd2837ed2491f8829942614ab45f9db20093908a0bdf834b4.jpg",
+        "sha256": "96df35c998273bccd2837ed2491f8829942614ab45f9db20093908a0bdf834b4",
+        "quote": "문화사",
+        "location": "왼쪽 인쇄 196쪽 예상 답안 ①",
+        "quoteKind": "label"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "2009 개정 고려사 내용 체계 / 2015 중학교 역사의 세계사·한국사",
+      "inputSha256": "ad86401839c8b77cd8a8f29e88ade4670ca292c4eb196543ce01d5292ac4863f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-23-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-23",
+    "answer": "계열성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "계열화"
+    ],
+    "prompt": "중학교와 고등학교의 역사 학습이 같은 내용을 그대로 반복하지 않고 학습 수준과 범위를 달리하도록 연결하는 원리는 무엇인가?",
+    "keyword": "2009 개정 고려사 내용 체계 / 2015 중학교 역사의 세계사·한국사",
+    "explain": "학교급 사이의 역사 학습 내용과 수준을 적절히 연결하고 심화하는 계열성의 원리이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-23",
+        "quote": "계열성(화)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/96df35c998273bccd2837ed2491f8829942614ab45f9db20093908a0bdf834b4.jpg",
+        "sha256": "96df35c998273bccd2837ed2491f8829942614ab45f9db20093908a0bdf834b4",
+        "quote": "계열성(화)",
+        "location": "왼쪽 인쇄 196쪽 예상 답안 ②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "2009 개정 고려사 내용 체계 / 2015 중학교 역사의 세계사·한국사",
+      "inputSha256": "a9b72b7bc58f51f615d9be961f229fd4cb77f40f6a68a1682bb7060dbab42805"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-23-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-23",
+    "answer": "정치사적 흐름",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "정치사 흐름",
+      "정치사"
+    ],
+    "prompt": "2009 개정 고등학교 한국사에서 사회·경제적 요인, 사상·문화, 대외 관계를 이해하도록 하는 중심적인 역사 서술의 흐름은 무엇인가?",
+    "keyword": "2009 개정 고려사 내용 체계 / 2015 중학교 역사의 세계사·한국사",
+    "explain": "자료는 정치사적 흐름 속에서 여러 분야와 관계를 함께 이해하도록 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-23",
+        "quote": "각 시대의 사상과 문화, 대외 관계를 정치사적 흐름 속에서 이해할 수 있게 한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/96df35c998273bccd2837ed2491f8829942614ab45f9db20093908a0bdf834b4.jpg",
+        "sha256": "96df35c998273bccd2837ed2491f8829942614ab45f9db20093908a0bdf834b4",
+        "quote": "각 시대의 사상과 문화, 대외 관계를 정치사적 흐름 속에서 이해할 수 있게 한다.",
+        "location": "왼쪽 인쇄 196쪽 (나) 한국사 과목 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "2009 개정 고려사 내용 체계 / 2015 중학교 역사의 세계사·한국사",
+      "inputSha256": "ac618ba94edf3b8c01d72c473e026609581d4a4e7ad2d51a71960651f0677c44"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-24-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-24",
+    "answer": "주제 중심 구성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "주제별 구성",
+      "분야별 구성",
+      "분야사적 구성"
+    ],
+    "prompt": "고등학교 한국사의 전근대 영역을 정치·경제·사회·문화로 나누어 재구성한 교사의 단원 조직 방식은 무엇인가?",
+    "keyword": "2015 한국사 계열화와 주제 조직 / 2022 개정 과목 편제와 세계사",
+    "explain": "각 분야를 중심으로 내용들을 묶어 살피는 주제 중심의 재구성이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-24",
+        "quote": "전근대 한국의 정치\n전근대 한국의 경제\n전근대 한국의 사회\n전근대 한국의 문화"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ada963a7bfa4d303051e1923e3dab3830b5d0e53e8bf0c923586f86de6f9cdde.jpg",
+        "sha256": "ada963a7bfa4d303051e1923e3dab3830b5d0e53e8bf0c923586f86de6f9cdde",
+        "quote": "전근대 한국의 정치\n전근대 한국의 경제\n전근대 한국의 사회\n전근대 한국의 문화",
+        "location": "왼쪽 인쇄 200쪽 내용 재구성 개요 표"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "2015 한국사 계열화와 주제 조직 / 2022 개정 과목 편제와 세계사",
+      "inputSha256": "1c45547d2387764f3c2616a19cf6b037ab7f904a592ab0b74b90d600f41518cf"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-24-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-24",
+    "answer": "국민 국가의 형성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "국민 국가 형성"
+    ],
+    "prompt": "2022 세계사 내용 체계에서 미국·프랑스 혁명, 산업 혁명과 제국주의, 국가 건설 운동을 함께 다루는 내용 요소는 무엇인가?",
+    "keyword": "2015 한국사 계열화와 주제 조직 / 2022 개정 과목 편제와 세계사",
+    "explain": "표는 혁명·산업화·국가 건설 운동 등을 국민 국가의 형성 범주에 배치한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-24",
+        "quote": "국민 국가의 형성"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ada963a7bfa4d303051e1923e3dab3830b5d0e53e8bf0c923586f86de6f9cdde.jpg",
+        "sha256": "ada963a7bfa4d303051e1923e3dab3830b5d0e53e8bf0c923586f86de6f9cdde",
+        "quote": "국민 국가의 형성",
+        "location": "오른쪽 인쇄 201쪽 2022 세계사 내용 체계 표 마지막 범주"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "2015 한국사 계열화와 주제 조직 / 2022 개정 과목 편제와 세계사",
+      "inputSha256": "186f4f1b07fd674be466122364dc180a6cabd99a570f087f57ea8435b9739c7c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-24-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-24",
+    "answer": "한국사 1·2",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "한국사1과 한국사2",
+      "한국사 1, 2",
+      "한국사1·한국사2"
+    ],
+    "prompt": "2022 개정 교육과정의 편제에서 이전 한국사 과목이 나뉜 두 공통 과목의 명칭을 함께 쓰시오.",
+    "keyword": "2015 한국사 계열화와 주제 조직 / 2022 개정 과목 편제와 세계사",
+    "explain": "2022 개정 과목 편제에서는 한국사 1과 한국사 2로 나뉜다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-24",
+        "quote": "한국사 1, 2"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ada963a7bfa4d303051e1923e3dab3830b5d0e53e8bf0c923586f86de6f9cdde.jpg",
+        "sha256": "ada963a7bfa4d303051e1923e3dab3830b5d0e53e8bf0c923586f86de6f9cdde",
+        "quote": "한국사 1, 2",
+        "location": "오른쪽 인쇄 201쪽 예상 답안 ①"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "2015 한국사 계열화와 주제 조직 / 2022 개정 과목 편제와 세계사",
+      "inputSha256": "e91df26fb4e7b3c9eab470eb35fcd29839c82c75b12fbcc92a6ababd8192d3ce"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-25-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-25",
+    "answer": "시대 구분",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "역사 변화의 흐름을 이해하기 위해 일정한 특징을 기준으로 과거의 시간을 나누는 작업은 무엇인가?",
+    "keyword": "CHAPTER 역사학과 역사교육 / 시대 구분과 수업 전략",
+    "explain": "시대 구분은 역사 변화의 특징을 파악하기 위한 해석적 작업이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-25",
+        "quote": "시대 구분"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/8c3d929468d224971af218615ca685857eee18245e5e31b8ee9fdced8b2da67b.jpg",
+        "sha256": "8c3d929468d224971af218615ca685857eee18245e5e31b8ee9fdced8b2da67b",
+        "quote": "시대 구분",
+        "location": "왼쪽 인쇄 208쪽 역사학의 쟁점 기출 내용 표"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "CHAPTER 역사학과 역사교육 / 시대 구분과 수업 전략",
+      "inputSha256": "ae0d2392289a6df1cf5899f1589ecf56ca1457f9dcd62b25ac5a4e358e539143"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-25-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-25",
+    "answer": "우연성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "우연적 성격"
+    ],
+    "prompt": "역사 발전을 미리 정해진 한 방향으로만 보지 않을 때, 의도하지 않은 사건이 이후 변화에 영향을 주는 성격은 무엇인가?",
+    "keyword": "CHAPTER 역사학과 역사교육 / 시대 구분과 수업 전략",
+    "explain": "의도된 행위뿐 아니라 우연적인 사건이 역사에 영향을 미치는 것을 고려해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-25",
+        "quote": "우연적인 것이 역사에 미친 영향을"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/8c3d929468d224971af218615ca685857eee18245e5e31b8ee9fdced8b2da67b.jpg",
+        "sha256": "8c3d929468d224971af218615ca685857eee18245e5e31b8ee9fdced8b2da67b",
+        "quote": "우연적인 것이 역사에 미친 영향을",
+        "location": "오른쪽 인쇄 209쪽 보기 ㄹ"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "CHAPTER 역사학과 역사교육 / 시대 구분과 수업 전략",
+      "inputSha256": "5a4f6d421bef004dc40d959cd9ac0a2d59be5284bec7ee8bc7770213c706870d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-25-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-25",
+    "answer": "삼분법",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "시대 삼분법"
+    ],
+    "prompt": "정치·경제·사회·문화적 사실에 기초하여 역사를 고대·중세·근대의 세 시대로 구분하는 방식을 무엇이라 하는가?",
+    "keyword": "CHAPTER 역사학과 역사교육 / 시대 구분과 수업 전략",
+    "explain": "고대·중세·근대의 세 시대로 구분하는 삼분법이다. 사진은 단순한 왕조 변화보다 정치·경제·사회·문화적 사실에 기초하는 구분임을 설명한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-25",
+        "quote": "고대, 중세, 근대의 삼분법"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/8c3d929468d224971af218615ca685857eee18245e5e31b8ee9fdced8b2da67b.jpg",
+        "sha256": "8c3d929468d224971af218615ca685857eee18245e5e31b8ee9fdced8b2da67b",
+        "quote": "고대, 중세, 근대의 삼분법",
+        "location": "오른쪽 인쇄 209쪽 보기 ㅁ"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "CHAPTER 역사학과 역사교육 / 시대 구분과 수업 전략",
+      "inputSha256": "18b811936876848d2a9e2595b78533b235d6efd2fb13e3e5a077a067490441be"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-26-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-26",
+    "answer": "연역적·법칙적 설명",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "연역적 법칙적 설명",
+      "연역법칙적 설명",
+      "연역적-법칙적 설명",
+      "연역적-법칙적 모형",
+      "연역적·법칙적 모형",
+      "연역적 법칙적 모형"
+    ],
+    "prompt": "설명할 사건을 일반법칙과 초기 조건에서 논리적으로 도출하여 이해하는 헴펠의 역사 설명 모형은 무엇인가?",
+    "keyword": "헴펠 · 화이트 · 대응론 / 신문화사와 두꺼운 기술",
+    "explain": "일반법칙과 조건에서 설명할 사건을 도출하는 연역적·법칙적 설명이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-26",
+        "quote": "연역적-법칙적 모형, 귀납적-확률적 모형"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ab4384cd8f3e5eba8f8f4d86bfd2dd95ca146a095c8acfbf625b7d4b4492e079.jpg",
+        "sha256": "ab4384cd8f3e5eba8f8f4d86bfd2dd95ca146a095c8acfbf625b7d4b4492e079",
+        "quote": "연역적-법칙적 모형, 귀납적-확률적 모형",
+        "location": "왼쪽 인쇄 220쪽 자료 (가)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "헴펠 · 화이트 · 대응론 / 신문화사와 두꺼운 기술",
+      "inputSha256": "daa61a14483c8ebd852601e963fb150e93db5cf847d123eb0a2be3be0267f4a8"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-26-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-26",
+    "answer": "화이트",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "헤이든 화이트",
+      "Hayden White"
+    ],
+    "prompt": "역사적 이야기의 구성이 문학적 형식·수사와 연관된다고 보고 『메타 역사』를 쓴 학자는 누구인가?",
+    "keyword": "헴펠 · 화이트 · 대응론 / 신문화사와 두꺼운 기술",
+    "explain": "헤이든 화이트는 역사 서술의 문학적·서사적 구성 방식을 분석했다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-26",
+        "quote": "「메타 역사: 19세기 유럽의 역사적 상상력」"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ab4384cd8f3e5eba8f8f4d86bfd2dd95ca146a095c8acfbf625b7d4b4492e079.jpg",
+        "sha256": "ab4384cd8f3e5eba8f8f4d86bfd2dd95ca146a095c8acfbf625b7d4b4492e079",
+        "quote": "「메타 역사: 19세기 유럽의 역사적 상상력」",
+        "location": "왼쪽 인쇄 220쪽 자료 (나) 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "헴펠 · 화이트 · 대응론 / 신문화사와 두꺼운 기술",
+      "inputSha256": "1726a0b6cd5aca4a4859fb4aeb750c58703f38c97a528dd776040ce760ad0b8e"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-26-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-26",
+    "answer": "대응론",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "대응설",
+      "진리대응설",
+      "상응론"
+    ],
+    "prompt": "역사 서술의 진실성을 실제로 존재했던 사건·행위와 일치하는지에 따라 판단하는 진리관은 무엇인가?",
+    "keyword": "헴펠 · 화이트 · 대응론 / 신문화사와 두꺼운 기술",
+    "explain": "역사 서술과 과거 실재의 대응 관계를 기준으로 삼는 대응론이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-26",
+        "quote": "실제로 존재했던 사건과 실제로 일어났던 행위를 보여준다는 진리대응설"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ab4384cd8f3e5eba8f8f4d86bfd2dd95ca146a095c8acfbf625b7d4b4492e079.jpg",
+        "sha256": "ab4384cd8f3e5eba8f8f4d86bfd2dd95ca146a095c8acfbf625b7d4b4492e079",
+        "quote": "실제로 존재했던 사건과 실제로 일어났던 행위를 보여준다는 진리대응설",
+        "location": "왼쪽 인쇄 220쪽 자료 (다)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "헴펠 · 화이트 · 대응론 / 신문화사와 두꺼운 기술",
+      "inputSha256": "04f1059e2bf85ac3c21ddd0c97aaf4530aae44e44281aaa5d14fafc553053b2e"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-26-4",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-26",
+    "answer": "두꺼운 기술",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "thick description"
+    ],
+    "prompt": "기어츠가 제안한 것으로 행위의 표면만 묘사하지 않고 그 문화적 의미와 맥락을 촘촘하게 해석하는 기술 방법은 무엇인가?",
+    "keyword": "헴펠 · 화이트 · 대응론 / 신문화사와 두꺼운 기술",
+    "explain": "두꺼운 기술은 행위의 문화적 의미를 맥락 속에서 해석하는 방법으로 신문화사의 연구에 영향을 주었다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-26",
+        "quote": "기어츠(C. Geertz)는 두꺼운 기술(thick description)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ab4384cd8f3e5eba8f8f4d86bfd2dd95ca146a095c8acfbf625b7d4b4492e079.jpg",
+        "sha256": "ab4384cd8f3e5eba8f8f4d86bfd2dd95ca146a095c8acfbf625b7d4b4492e079",
+        "quote": "기어츠(C. Geertz)는 두꺼운 기술(thick description)",
+        "location": "오른쪽 인쇄 221쪽 자료 상단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "헴펠 · 화이트 · 대응론 / 신문화사와 두꺼운 기술",
+      "inputSha256": "0f22e1c4f15919175d5e7d502d77bc580271e7cccc74a2319d47605519c619fa"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-27-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-27",
+    "answer": "인과관계",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "원인과 결과의 관계",
+      "인과성"
+    ],
+    "prompt": "프랑스의 사회 구조적 모순과 사상적 배경을 혁명 발생에 연결하여 설명하는 역사 서술을 읽을 때 중심적으로 파악하는 관계는 무엇인가?",
+    "keyword": "CHAPTER 역사이해와 역사교육 / 서술 유형과 역사적 상상",
+    "explain": "사건의 배경과 발생 사이의 원인·결과, 곧 인과관계를 파악하는 활동이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-27",
+        "quote": "구제도의 모순으로 말미암아 프랑스 혁명이 일어났다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/367a3ba8c9ad74d2622f3190fe4d662b6ebf25600165087e10090a6fe862abd7.jpg",
+        "sha256": "367a3ba8c9ad74d2622f3190fe4d662b6ebf25600165087e10090a6fe862abd7",
+        "quote": "구제도의 모순으로 말미암아 프랑스 혁명이 일어났다.",
+        "location": "오른쪽 인쇄 223쪽 본문 B"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "CHAPTER 역사이해와 역사교육 / 서술 유형과 역사적 상상",
+      "inputSha256": "10366a402361b23c7f57d1e51a902751b7910e41339d3d18f966400bda7e3760"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-27-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-27",
+    "answer": "감정이입",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "추체험"
+    ],
+    "prompt": "역사 서술 속 인물이 처한 상황과 믿음을 파악하여 그 사람의 관점에서 행위·동기를 재구성하는 역사적 상상 방법은 무엇인가?",
+    "keyword": "CHAPTER 역사이해와 역사교육 / 서술 유형과 역사적 상상",
+    "explain": "증거와 당시 맥락을 바탕으로 행위자의 관점에서 이해하는 감정이입이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-27",
+        "quote": "감정이입(추체험)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/367a3ba8c9ad74d2622f3190fe4d662b6ebf25600165087e10090a6fe862abd7.jpg",
+        "sha256": "367a3ba8c9ad74d2622f3190fe4d662b6ebf25600165087e10090a6fe862abd7",
+        "quote": "감정이입(추체험)",
+        "location": "오른쪽 인쇄 223쪽 예상 답안의 역사적 상상 방법"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "CHAPTER 역사이해와 역사교육 / 서술 유형과 역사적 상상",
+      "inputSha256": "570cc2db8ddf99f2e40f35f5614d2a778f9694935c6bede6dba5ca3a7f745054"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-27-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-27",
+    "answer": "극화학습",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "역할놀이",
+      "역할극",
+      "극화식 수업"
+    ],
+    "prompt": "학생이 과거 인물의 입장을 맡아 그 시대의 상황·관점에 맞게 대사와 행동을 구성해 공연하는 교수·학습 활동은 무엇인가?",
+    "keyword": "CHAPTER 역사이해와 역사교육 / 서술 유형과 역사적 상상",
+    "explain": "극화학습은 역사적 인물과 상황을 연극의 형태로 재구성하는 활동이다. 학생의 창작도 역사적 근거와 맥락에 부합해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-27",
+        "quote": "극화학습"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/367a3ba8c9ad74d2622f3190fe4d662b6ebf25600165087e10090a6fe862abd7.jpg",
+        "sha256": "367a3ba8c9ad74d2622f3190fe4d662b6ebf25600165087e10090a6fe862abd7",
+        "quote": "극화학습",
+        "location": "오른쪽 인쇄 223쪽 예상 답안의 교수·학습 활동 유형"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "CHAPTER 역사이해와 역사교육 / 서술 유형과 역사적 상상",
+      "inputSha256": "270b5e3bc59dfe17274523fb6dcaae35161d3db184752f3b79ed2dc4408657e6"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-34-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-34",
+    "answer": "식민사관",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "식민주의 사관"
+    ],
+    "prompt": "조선의 당쟁을 혈연적 파벌의 의미 없는 대립으로 규정하여 일본의 지배를 정당화한 역사관을, 당파성론을 포함하는 큰 사관의 범주로 쓰시오.",
+    "keyword": "드레이크 사고와 붕당 사료 / 임오군란 탐구와 출처 확인",
+    "explain": "교재는 당쟁을 조선 사회의 파벌성으로 설명하는 자료 (가)의 관점을 식민사관으로 비판한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-34",
+        "quote": "식민사관에 입각"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f46fee1183f05729d175bc85ce3d110854d1904aefef897d16310789a6788378.jpg",
+        "sha256": "f46fee1183f05729d175bc85ce3d110854d1904aefef897d16310789a6788378",
+        "quote": "식민사관에 입각",
+        "location": "왼쪽 인쇄 282쪽 예상 답안의 자료 (가) 검토"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "드레이크 사고와 붕당 사료 / 임오군란 탐구와 출처 확인",
+      "inputSha256": "1ed18e2256f4d934ab14496e26e054b7c8abaccce209b654c94f2e3a08088f6d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-34-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-34",
+    "answer": "공론 정치",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "당쟁의 상호 비판과 견제가 특정 개인·집단의 권력 독점을 막는다고 평가하는 『한국사』 자료에서 지향한 정치 형태는 무엇인가?",
+    "keyword": "드레이크 사고와 붕당 사료 / 임오군란 탐구와 출처 확인",
+    "explain": "자료 (나)는 상대 세력과 공존하면서 상호 비판과 견제로 운영하는 공론 정치를 강조한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-34",
+        "quote": "상대 세력과의 공존을 토대로 한 공론 정치의 실현"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f46fee1183f05729d175bc85ce3d110854d1904aefef897d16310789a6788378.jpg",
+        "sha256": "f46fee1183f05729d175bc85ce3d110854d1904aefef897d16310789a6788378",
+        "quote": "상대 세력과의 공존을 토대로 한 공론 정치의 실현",
+        "location": "왼쪽 인쇄 282쪽 자료 (나) 첫 문장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "드레이크 사고와 붕당 사료 / 임오군란 탐구와 출처 확인",
+      "inputSha256": "6234c853e760092c00debf30e46b3630ce4f83dcb1def99aefafa25ade9c6206"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-34-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-34",
+    "answer": "맥락화",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "역사적 맥락화",
+      "contextualization"
+    ],
+    "prompt": "드레이크의 역사적 사고 과정에서 사료의 내용을 그것이 생산된 당시의 시대 상황·배경과 연결해 이해하는 단계를 무엇이라 하는가?",
+    "keyword": "드레이크 사고와 붕당 사료 / 임오군란 탐구와 출처 확인",
+    "explain": "사료를 생산된 시대의 조건과 배경 속에 놓고 해석하는 맥락화이다. 사료끼리 일치하는지 확인하는 활동과 구별한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-34",
+        "quote": "확증 - 맥락화 - 비교적 사고"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f46fee1183f05729d175bc85ce3d110854d1904aefef897d16310789a6788378.jpg",
+        "sha256": "f46fee1183f05729d175bc85ce3d110854d1904aefef897d16310789a6788378",
+        "quote": "확증 - 맥락화 - 비교적 사고",
+        "location": "왼쪽 인쇄 282쪽 조건 상자의 역사적 사고 과정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "드레이크 사고와 붕당 사료 / 임오군란 탐구와 출처 확인",
+      "inputSha256": "c6f94a85b43cef07d4013eb81f6cd439a354a646b01ca87f026fb57cf47bc456"
+    },
+    "corroboration": [
+      {
+        "url": "https://americancultures.berkeley.edu/sites/default/files/historical_thinking_chart-5.pdf",
+        "title": "Stanford History Education Group, Historical Thinking Chart"
+      }
+    ],
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-35-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-35",
+    "answer": "유추적 설명",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "유추에 의한 설명",
+      "유추적 역사 설명"
+    ],
+    "prompt": "역사수업에서 학생이 이미 알고 있거나 친숙한 사례와 새로 배우는 사건의 공통점을 활용해 이해를 돕는 설명 방식은 무엇인가?",
+    "keyword": "역사 인식과 수업 유형 논술 / 역사적으로 사고하기 기출 경향",
+    "explain": "기왕의 친숙한 사례에 빗대어 낯선 사건을 이해시키는 유추적 설명이다. 두 사례의 차이도 함께 확인해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-35",
+        "quote": "유추적 설명"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/eda2d40d49d988b7e6ec778d8feadb479a0a0c1a36b2272c4a57e8683d62a7f3.jpg",
+        "sha256": "eda2d40d49d988b7e6ec778d8feadb479a0a0c1a36b2272c4a57e8683d62a7f3",
+        "quote": "유추적 설명",
+        "location": "왼쪽 인쇄 290쪽 사고 과정의 설명식 수업 해설"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사 인식과 수업 유형 논술 / 역사적으로 사고하기 기출 경향",
+      "inputSha256": "17a243508a44757869ec30ee002bf6db9daa0f9c6c5a272e2f0d73f4743a6c4c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-35-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-35",
+    "answer": "감정이입",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "역사적 감정이입",
+      "추체험"
+    ],
+    "prompt": "과거 인물이 왜 특정 행동을 했는지 이해하기 위해 그 인물의 입장이 되어 당시 상황과 믿음을 고려하는 역사적 상상 활동은 무엇인가?",
+    "keyword": "역사 인식과 수업 유형 논술 / 역사적으로 사고하기 기출 경향",
+    "explain": "당시 인물의 관점과 상황을 고려하며 행위의 이유를 재구성하는 감정이입이다. 현재의 감정만을 과거 인물에게 투사해서는 안 된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-35",
+        "quote": "역사 속 인물이 되어 왜 그런 행동을 하였을까 추론해 보거나"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/eda2d40d49d988b7e6ec778d8feadb479a0a0c1a36b2272c4a57e8683d62a7f3.jpg",
+        "sha256": "eda2d40d49d988b7e6ec778d8feadb479a0a0c1a36b2272c4a57e8683d62a7f3",
+        "quote": "역사 속 인물이 되어 왜 그런 행동을 하였을까 추론해 보거나",
+        "location": "왼쪽 인쇄 290쪽 김 교사의 수업 활동 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사 인식과 수업 유형 논술 / 역사적으로 사고하기 기출 경향",
+      "inputSha256": "612670599dc94893cf5004c25f2e95c1ffa27a0e87f8bdc79bb276db2e3c1ebd"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-35-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-35",
+    "answer": "지구사",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "지구사적 접근",
+      "글로벌 히스토리"
+    ],
+    "prompt": "교사 대화에서 일국사적인 시각을 벗어나 여러 지역의 상호 연관 속에 세계사 내용을 재구성하려는 접근은 무엇인가?",
+    "keyword": "역사 인식과 수업 유형 논술 / 역사적으로 사고하기 기출 경향",
+    "explain": "한 국가의 틀을 넘어 지역 간 관계와 연결을 살피는 지구사적 접근이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-35",
+        "quote": "내용을 지구사적으로 재구성해 가르치는 선생님들도 계시더군요."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/eda2d40d49d988b7e6ec778d8feadb479a0a0c1a36b2272c4a57e8683d62a7f3.jpg",
+        "sha256": "eda2d40d49d988b7e6ec778d8feadb479a0a0c1a36b2272c4a57e8683d62a7f3",
+        "quote": "내용을 지구사적으로 재구성해 가르치는 선생님들도 계시더군요.",
+        "location": "왼쪽 인쇄 290쪽 첫 번째 김 교사 발언"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사 인식과 수업 유형 논술 / 역사적으로 사고하기 기출 경향",
+      "inputSha256": "2c805575ba0b15b57b5e1e8a7d26af839e8337037b887f80bd51071aca4bffb4"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-36-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-36",
+    "answer": "출처 확인",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "출처 파악",
+      "sourcing"
+    ],
+    "prompt": "같은 사건을 기리는 두 비석을 읽기 전에 누가 세웠으며 어떤 목적으로 제작했는지 확인하는 사료 읽기 전략은 무엇인가?",
+    "keyword": "관동대지진 회고록과 추념비 / 표면적 읽기와 역사적 읽기",
+    "explain": "제작 주체와 목적을 살펴 자료의 관점·신뢰성을 판단하는 출처 확인이다. 비석도 제작 시점과 주체를 가진 역사 자료로 읽는다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-36",
+        "quote": "누가 세웠을까?"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4acc46bd05c2fc4b1f41468ce8dcf038ddf153e9ae797f9474e97dc9b8f7fed0.jpg",
+        "sha256": "4acc46bd05c2fc4b1f41468ce8dcf038ddf153e9ae797f9474e97dc9b8f7fed0",
+        "quote": "누가 세웠을까?",
+        "location": "왼쪽 인쇄 298쪽 예상 답안의 두 추념비 질문"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "관동대지진 회고록과 추념비 / 표면적 읽기와 역사적 읽기",
+      "inputSha256": "54098704caabe525f946d1b780fdbd080495dfeeb554631303f08b37426ccb6f"
+    },
+    "corroboration": [
+      {
+        "url": "https://americancultures.berkeley.edu/sites/default/files/historical_thinking_chart-5.pdf",
+        "title": "Stanford History Education Group, Historical Thinking Chart"
+      }
+    ],
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-36-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-36",
+    "answer": "회고록",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "회상록"
+    ],
+    "prompt": "『동경이 불탈 때』처럼 사건을 겪은 사람이 훗날 자신의 과거 경험을 되돌아보며 서술한 기록의 형식은 무엇인가?",
+    "keyword": "관동대지진 회고록과 추념비 / 표면적 읽기와 역사적 읽기",
+    "explain": "회고록은 경험 당사자가 나중에 과거를 돌아보며 쓴 기록이다. 사건 발생 시점과 기록 작성 시점을 구별해 읽어야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-36",
+        "quote": "회고록을 바탕으로 역사적 상황 파악하기"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4acc46bd05c2fc4b1f41468ce8dcf038ddf153e9ae797f9474e97dc9b8f7fed0.jpg",
+        "sha256": "4acc46bd05c2fc4b1f41468ce8dcf038ddf153e9ae797f9474e97dc9b8f7fed0",
+        "quote": "회고록을 바탕으로 역사적 상황 파악하기",
+        "location": "왼쪽 인쇄 298쪽 학습 과정 1단계"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "관동대지진 회고록과 추념비 / 표면적 읽기와 역사적 읽기",
+      "inputSha256": "11632e6301bf61f323a3b6c5bbcd6b6619d9b6eaa7285ccc91e9947bbc16f711"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-36-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-36",
+    "answer": "상호 대조",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "상호 비교",
+      "교차 검증",
+      "교차 확인",
+      "상호 확인",
+      "확증",
+      "corroboration"
+    ],
+    "prompt": "관동대지진을 다룬 회고록과 두 추념비의 서술을 서로 견주어 일치·차이·누락을 검토하는 활동을 사료 읽기 전략의 용어로 쓰시오.",
+    "keyword": "관동대지진 회고록과 추념비 / 표면적 읽기와 역사적 읽기",
+    "explain": "서로 다른 자료의 서술을 대조하여 일치점과 차이, 빠진 정보를 검토하는 상호 대조이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-36",
+        "quote": "추념비를 비교·분석하기"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4acc46bd05c2fc4b1f41468ce8dcf038ddf153e9ae797f9474e97dc9b8f7fed0.jpg",
+        "sha256": "4acc46bd05c2fc4b1f41468ce8dcf038ddf153e9ae797f9474e97dc9b8f7fed0",
+        "quote": "추념비를 비교·분석하기",
+        "location": "왼쪽 인쇄 298쪽 학습 과정 2단계"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "관동대지진 회고록과 추념비 / 표면적 읽기와 역사적 읽기",
+      "inputSha256": "3f51d7feed066a4161457bf182319390217a94f722da33fa73769277807a658f"
+    },
+    "corroboration": [
+      {
+        "url": "https://americancultures.berkeley.edu/sites/default/files/historical_thinking_chart-5.pdf",
+        "title": "Stanford History Education Group, Historical Thinking Chart"
+      }
+    ],
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-37-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-37",
+    "answer": "개연성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "개연적 관계"
+    ],
+    "prompt": "역사 내러티브는 두 사건 사이를 반드시 일어날 수밖에 없는 필연적 인과로 단정하기보다 어떤 성격의 연결로 제시하는가?",
+    "keyword": "밍크·화이트의 역사 내러티브 / 화이트의 플롯과 서사",
+    "explain": "역사 내러티브는 사건을 설득력 있고 그럴듯한 연결 속에서 구성하는 개연성을 강조한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-37",
+        "quote": "두 사건 간의 개연성을 강조한다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/be35e51f0e3c452b675abdef5ceef06462134f39087dbdd0ba16b9c30efc63dc.jpg",
+        "sha256": "be35e51f0e3c452b675abdef5ceef06462134f39087dbdd0ba16b9c30efc63dc",
+        "quote": "두 사건 간의 개연성을 강조한다.",
+        "location": "왼쪽 인쇄 306쪽 보기 ㄴ"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "밍크·화이트의 역사 내러티브 / 화이트의 플롯과 서사",
+      "inputSha256": "a36072ee6f09306849791e813363275bd6d70eb99c52c31f654645f2fff6bc95"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-37-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-37",
+    "answer": "은유",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "metaphor"
+    ],
+    "prompt": "화이트가 역사 서술의 비유적 언어로 든 기법 중 한 대상을 다른 대상에 빗대어 표현하는 기법은 무엇인가?",
+    "keyword": "밍크·화이트의 역사 내러티브 / 화이트의 플롯과 서사",
+    "explain": "은유는 한 대상을 다른 대상에 빗대어 의미를 표현하는 기법이다. 화이트는 역사 서술의 언어가 비유적 의미를 지닌다고 보았다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-37",
+        "quote": "은유(metaphor)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/be35e51f0e3c452b675abdef5ceef06462134f39087dbdd0ba16b9c30efc63dc.jpg",
+        "sha256": "be35e51f0e3c452b675abdef5ceef06462134f39087dbdd0ba16b9c30efc63dc",
+        "quote": "은유(metaphor)",
+        "location": "오른쪽 인쇄 307쪽 보기 ㄱ"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "밍크·화이트의 역사 내러티브 / 화이트의 플롯과 서사",
+      "inputSha256": "3e9999369a91e3812729a6e784665863030c033f8505ac33145e459c6134b3a2"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-37-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-37",
+    "answer": "서사",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "내러티브",
+      "역사 서사",
+      "서사 구조"
+    ],
+    "prompt": "화이트에 따르면 역사적 사실 자체에 내재하는 것이 아니라 역사가가 사건에 부여하여 의미 있는 이야기로 구성하는 것은 무엇인가?",
+    "keyword": "밍크·화이트의 역사 내러티브 / 화이트의 플롯과 서사",
+    "explain": "화이트는 사건 자체가 하나의 이야기를 제공하는 것이 아니라 역사가의 구성 과정을 통해 서사가 만들어진다고 보았다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-37",
+        "quote": "서사는 역사가가 역사적 사실에 부여하는 것이며, 역사적 사실 자체에 내재하는 것은 아니라고 보았다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/be35e51f0e3c452b675abdef5ceef06462134f39087dbdd0ba16b9c30efc63dc.jpg",
+        "sha256": "be35e51f0e3c452b675abdef5ceef06462134f39087dbdd0ba16b9c30efc63dc",
+        "quote": "서사는 역사가가 역사적 사실에 부여하는 것이며, 역사적 사실 자체에 내재하는 것은 아니라고 보았다.",
+        "location": "오른쪽 인쇄 307쪽 보기 ㄹ"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "밍크·화이트의 역사 내러티브 / 화이트의 플롯과 서사",
+      "inputSha256": "9014d0920805518c84b826d9261f48971225b60ca8d9322e9bb54172a41303fb"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g28-late-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-28",
+    "answer": "극화 수업",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "극화 학습",
+      "극화식 수업",
+      "역할극 수업"
+    ],
+    "prompt": "3·1운동 자료를 조사한 학생들이 참가자와 일본군 등의 배역을 나누고 대본을 공연하는 수업 방식은?",
+    "keyword": "극화 수업",
+    "explain": "역할을 맡아 대본으로 역사적 상황을 표현하는 극화 수업이다. 단순한 사실 암기와 구별하며 공연 전 자료 조사와 상황 파악이 제시된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-28",
+        "quote": "이 두 가지를 활용한 대표적인 역사 수업 방법에는 극화 수업이 있다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/85776a72b68d5fdffb7ea13788bc5b99302da62f1b3b474e9273318598f4ba2c.jpg",
+        "sha256": "85776a72b68d5fdffb7ea13788bc5b99302da62f1b3b474e9273318598f4ba2c",
+        "quote": "이 두 가지를 활용한 대표적인 역사 수업 방법에는 극화 수업이 있다",
+        "location": "오른쪽 233쪽 (가) 마지막 문장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "극화 수업",
+      "inputSha256": "ad1770f8b7d780a4be6813aa8887ee70615a6c51171e6ad925ea08eecab82a46"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g28-late-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-28",
+    "answer": "상호 평가",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "동료 평가"
+    ],
+    "prompt": "3·1운동 모둠별 공연을 마친 뒤 학생들이 체크리스트로 서로의 활동을 판단하도록 한 평가 방식은?",
+    "keyword": "상호 평가",
+    "explain": "교사만 점수를 주는 것이 아니라 학생들이 서로의 활동을 평가하므로 상호 평가이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-28",
+        "quote": "학생들의 상호 평가(체크리스트 활용)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/85776a72b68d5fdffb7ea13788bc5b99302da62f1b3b474e9273318598f4ba2c.jpg",
+        "sha256": "85776a72b68d5fdffb7ea13788bc5b99302da62f1b3b474e9273318598f4ba2c",
+        "quote": "학생들의 상호 평가(체크리스트 활용)",
+        "location": "오른쪽 233쪽 수업 사례 표 마지막 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "상호 평가",
+      "inputSha256": "b37717660fa964c8cfd354653946b1d7266f85a3dbbc0164081bb3cc32818c36"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g28-late-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-28",
+    "answer": "상황의 맥락적 재구성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "맥락적 재구성"
+    ],
+    "prompt": "당시 사람들이 처한 제도·사회조건을 자료로 복원한 다음 그들의 행위를 이해하려는 활동을 왼쪽 사고 활동 목록의 용어로 쓰시오.",
+    "keyword": "상황의 맥락적 재구성",
+    "explain": "행위자의 선택을 현재의 상식만으로 판단하지 않고 당시의 조건을 복원하는 활동이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-28",
+        "quote": "상황의 맥락적 재구성"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/85776a72b68d5fdffb7ea13788bc5b99302da62f1b3b474e9273318598f4ba2c.jpg",
+        "sha256": "85776a72b68d5fdffb7ea13788bc5b99302da62f1b3b474e9273318598f4ba2c",
+        "quote": "상황의 맥락적 재구성",
+        "location": "왼쪽 232쪽 (가) 사고 활동 ②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "상황의 맥락적 재구성",
+      "inputSha256": "035c7d305a65ce3ebb72a85ad8ac521f5bc7eae87bfcc44be7ecf3dd395da286"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g29-late-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-29",
+    "answer": "총괄개념",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "총괄적 개념"
+    ],
+    "prompt": "농업 기술의 변화·판매 작물 재배·노동 고용처럼 서로 다른 사실을 하나의 역사적 현상으로 묶어 이름 붙이는 개념을 무엇이라 하는가?",
+    "keyword": "총괄개념",
+    "explain": "여러 구체적 사실을 하나의 의미 있는 역사적 현상으로 묶는 것이 총괄개념의 역할이다. 여기서는 묶는 명칭의 정답 자체보다 개념의 기능을 구별한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-29",
+        "quote": "총괄개념(colligatory concept)으로 묶어서"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ef663f908a67e12e985fa1ab47ff14d54b7675fb17a8af91690fdc52726c2ab9.jpg",
+        "sha256": "ef663f908a67e12e985fa1ab47ff14d54b7675fb17a8af91690fdc52726c2ab9",
+        "quote": "총괄개념(colligatory concept)으로 묶어서",
+        "location": "오른쪽 237쪽 질문 1의 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "총괄개념",
+      "inputSha256": "c884100d853971352029da17042037fe9ebcb4c7c7d415c0de3524aea895747e"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g29-late-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-29",
+    "answer": "상업적 농업",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "상업 농업"
+    ],
+    "prompt": "농민이 자급용 생산을 넘어 시장에 팔 작물을 재배해 가계 수입을 늘리는 농업의 성격을 무엇이라 하는가?",
+    "keyword": "상업적 농업",
+    "explain": "시장 판매를 목적으로 생산하는 농업이므로 상업적 농업이다. 모든 조선 후기 농민이 이런 경영을 했다는 뜻은 아니다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-29",
+        "quote": "농민들은 시장에 팔기 위한 작물을 재배하여 가계 수입을 증가시키기도 하였다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ef663f908a67e12e985fa1ab47ff14d54b7675fb17a8af91690fdc52726c2ab9.jpg",
+        "sha256": "ef663f908a67e12e985fa1ab47ff14d54b7675fb17a8af91690fdc52726c2ab9",
+        "quote": "농민들은 시장에 팔기 위한 작물을 재배하여 가계 수입을 증가시키기도 하였다",
+        "location": "오른쪽 237쪽 자료 1 둘째 항목"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "상업적 농업",
+      "inputSha256": "03c8a75c354fde10018a012e50a4c17bfe1e8c6812455edacee45d61bb2fddff"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g29-late-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-29",
+    "answer": "소작쟁의",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "경작권을 확보하거나 지불할 소작료를 낮추기 위해 소작농들이 지주를 상대로 벌인 집단행동은?",
+    "keyword": "소작쟁의",
+    "explain": "경작 조건을 둘러싼 소작인과 지주 사이의 분쟁이다. 사진의 자료는 경작권과 소작료를 구체적인 요구로 제시한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-29",
+        "quote": "소작쟁의를 벌여 경작권을 확보하거나 소작료를 낮추었다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ef663f908a67e12e985fa1ab47ff14d54b7675fb17a8af91690fdc52726c2ab9.jpg",
+        "sha256": "ef663f908a67e12e985fa1ab47ff14d54b7675fb17a8af91690fdc52726c2ab9",
+        "quote": "소작쟁의를 벌여 경작권을 확보하거나 소작료를 낮추었다",
+        "location": "오른쪽 237쪽 자료 2 조선사회의 변화"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "소작쟁의",
+      "inputSha256": "ebe8228a87ec685dda6dcb89cbbc9d5ec3e97aef80f66ad1eb0596144b0571d0"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g30-late-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-30",
+    "answer": "초기 조건",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "햄펠의 설명에서 보편적 법칙과 함께 제시되어 개별 사건을 연역하는 출발점이 되는, 사건 이전의 구체적 사정을 무엇이라 하는가?",
+    "keyword": "초기 조건",
+    "explain": "보편 법칙만으로 특정 사건을 설명할 수 없으므로 구체적인 초기 조건이 함께 필요하다. 법칙과 개별 전제를 구별하는 문항이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-30",
+        "quote": "초기 조건을 제시하고 법칙을 제시하여 사건을 연역해 내는"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/88843fdc68a24dce715bbb5f1a4b615c4a3eb4bfb8031d5c592b614df0906f56.jpg",
+        "sha256": "88843fdc68a24dce715bbb5f1a4b615c4a3eb4bfb8031d5c592b614df0906f56",
+        "quote": "초기 조건을 제시하고 법칙을 제시하여 사건을 연역해 내는",
+        "location": "왼쪽 250쪽 B 첫 부분"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "초기 조건",
+      "inputSha256": "6033cc8e025716e82b27fb955fe3a0386217bf0d98a944cfc2f696021d53a70a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g30-late-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-30",
+    "answer": "목적론적 설명",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "목적론적 역사 설명"
+    ],
+    "prompt": "한 정치가의 행동을 그가 이루려던 목표와 선택한 수단의 관계로 이해할 때, 이 페이지가 사용하는 설명의 성격은 무엇인가?",
+    "keyword": "목적론적 설명",
+    "explain": "행위의 목표를 이해하는 데 초점을 맞추므로 목적론적 설명이다. 행위자가 지향한 목적을 이해하는 것은 그 행동을 도덕적으로 옳다고 인정하는 것과 구별된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-30",
+        "quote": "행위자의 동기나 목적을 이해하는 데 초점을 맞추는 목적론적 설명이다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/88843fdc68a24dce715bbb5f1a4b615c4a3eb4bfb8031d5c592b614df0906f56.jpg",
+        "sha256": "88843fdc68a24dce715bbb5f1a4b615c4a3eb4bfb8031d5c592b614df0906f56",
+        "quote": "행위자의 동기나 목적을 이해하는 데 초점을 맞추는 목적론적 설명이다",
+        "location": "왼쪽 250쪽 B 중간"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "목적론적 설명",
+      "inputSha256": "bd0c1969d4e112bbb9bb97f7ca917732bd644da7eec3a6f077f791823fa5b191"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g30-late-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-30",
+    "answer": "실학운동",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "실학"
+    ],
+    "prompt": "조선 후기 사회의 모순을 해결하려고 역사·지리 등 여러 분야의 연구가 전개된 경향을 사진의 사례는 어떤 이름으로 묶는가?",
+    "keyword": "실학운동",
+    "explain": "서로 다른 연구 분야의 활동을 하나의 경향으로 묶은 이름을 읽는 문항이다. 개별 학자의 모든 학문을 동일한 단일 학파로 간주하는 것은 아니다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-30",
+        "quote": "이러한 경향을 실학 운동이라고 한다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/88843fdc68a24dce715bbb5f1a4b615c4a3eb4bfb8031d5c592b614df0906f56.jpg",
+        "sha256": "88843fdc68a24dce715bbb5f1a4b615c4a3eb4bfb8031d5c592b614df0906f56",
+        "quote": "이러한 경향을 실학 운동이라고 한다",
+        "location": "오른쪽 251쪽 보기 ㄴ 마지막 문장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "실학운동",
+      "inputSha256": "b92343881e0ba1420ee692dbdcefc93b1679c1f31a57ba8510637109f5ee1104"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g31-late-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-31",
+    "answer": "신념",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "행위 설명에서 어떤 사람이 원한 목표와 별개로 “이 방법이 조국을 지킬 수 있다고 믿었다”는 내용을 가리키는 용어는?",
+    "keyword": "신념",
+    "explain": "신념은 행위자가 당시 무엇을 사실이거나 가능하다고 믿었는지를 뜻한다. 원하는 결과인 목표와 구별하며 그 믿음의 사실 여부나 도덕적 정당성까지 보증하지 않는다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-31",
+        "quote": "동기, 목적, 의도, 신념, 적절함"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/5334a676a2ac3039e61c5f0460faf22fa0d02d4bbb28ade5dc1bb5aedb083833.jpg",
+        "sha256": "5334a676a2ac3039e61c5f0460faf22fa0d02d4bbb28ade5dc1bb5aedb083833",
+        "quote": "동기, 목적, 의도, 신념, 적절함",
+        "location": "왼쪽 252쪽 기출 경향 분석 둘째 항목"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "신념",
+      "inputSha256": "e4c7ca2fd34b79e4f8d358c09dd6f3aa0faf8868d34d01a6bc036f549d26fdaa"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g31-late-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-31",
+    "answer": "관점",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "서술 관점",
+      "역사적 관점"
+    ],
+    "prompt": "같은 집단을 한 자료는 조국의 수호자로, 다른 자료는 전쟁 범죄자로 서술한다. 수업 설계가 서로 다르다고 명시한 서술의 시각은 무엇인가?",
+    "keyword": "관점",
+    "explain": "자료가 행위를 선택하고 평가하는 관점의 차이를 확인한다. 차이가 있다는 사실만으로 두 주장이 모두 참이거나 사실 확인이 불가능하다고 결론짓지 않는다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-31",
+        "quote": "서로 다른 관점을 보여주는"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/5334a676a2ac3039e61c5f0460faf22fa0d02d4bbb28ade5dc1bb5aedb083833.jpg",
+        "sha256": "5334a676a2ac3039e61c5f0460faf22fa0d02d4bbb28ade5dc1bb5aedb083833",
+        "quote": "서로 다른 관점을 보여주는",
+        "location": "오른쪽 253쪽 김 교사의 수업 설계 첫 문단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "관점",
+      "inputSha256": "c3df1ec2f3c1e2c2157dade9768cbfe782e83967795aeb85144a3cc04d9ca913"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g31-late-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-31",
+    "answer": "증거",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "서로 다른 자료를 수집한 뒤 그 신뢰성과 관련성을 따져 결론의 근거로 쓸 수 있는지 검토할 때, 탐구 절차에서 가치 평가의 대상이 되는 것은?",
+    "keyword": "증거",
+    "explain": "자료를 모으는 데서 끝내지 않고 그 자료가 주장을 뒷받침하는 증거로 적절한지 평가해야 한다. 자료의 관점 차이를 확인하는 활동과 증거 가치를 판단하는 활동은 구별된다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-31",
+        "quote": "증거의 가치 평가"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/5334a676a2ac3039e61c5f0460faf22fa0d02d4bbb28ade5dc1bb5aedb083833.jpg",
+        "sha256": "5334a676a2ac3039e61c5f0460faf22fa0d02d4bbb28ade5dc1bb5aedb083833",
+        "quote": "증거의 가치 평가",
+        "location": "오른쪽 253쪽 역사적 탐구력과 탐구 수업 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "증거",
+      "inputSha256": "2e94725aaae1d27f6cef386997c5e3d0809f1c8c2afc1c77b425a558d5300233"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g32-late-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-32",
+    "answer": "영역고유 인지이론",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "영역 고유적 인지 이론"
+    ],
+    "prompt": "같은 연령 학생도 배운 역사 주제에 따라 추론 수준이 달라지는 현상을, 해당 교과의 지식 구조와 과제 특성을 고려해 이해하는 인지 이론은?",
+    "keyword": "영역고유 인지이론",
+    "explain": "연령에 따른 일반 단계만으로 역사 사고를 판단하지 않고 영역의 지식과 과제 특성을 고려한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-32",
+        "quote": "영역고유 인지이론(domain-specific cognitive theory)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/61115973eea1896ba17bfb87cbf2cca452800274c670552ad156fda7876365da.jpg",
+        "sha256": "61115973eea1896ba17bfb87cbf2cca452800274c670552ad156fda7876365da",
+        "quote": "영역고유 인지이론(domain-specific cognitive theory)",
+        "location": "왼쪽 272쪽 07번 도입 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "영역고유 인지이론",
+      "inputSha256": "2ea5c01482f6e06d627677159b38a34d9f706283a37cd5a288cf134dba56b54e"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g32-late-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-32",
+    "answer": "선행지식",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "아프리카사를 이미 풍부하게 알고 있는 학생에게 여러 왕국의 흥망을 비교하는 과제를 주려 한다. 이 수업 설계가 활용한 학생의 기존 지식을 무엇이라 하는가?",
+    "keyword": "선행지식",
+    "explain": "새 과제에 앞서 학습자가 갖고 있는 지식이다. 영역고유 인지이론이라는 설명 틀과 실제 학습자의 지식 자원을 구별한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-32",
+        "quote": "아프리카 역사에 대한 선행 지식이 풍부한"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/61115973eea1896ba17bfb87cbf2cca452800274c670552ad156fda7876365da.jpg",
+        "sha256": "61115973eea1896ba17bfb87cbf2cca452800274c670552ad156fda7876365da",
+        "quote": "아프리카 역사에 대한 선행 지식이 풍부한",
+        "location": "왼쪽 272쪽 보기 ㄷ"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "선행지식",
+      "inputSha256": "af3ae3d2501d1cce2b8a2b174ad48b8d5215f1b1ffef00a28c805b971abe2abc"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g32-late-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-32",
+    "answer": "메타인지",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "상위인지",
+      "초인지"
+    ],
+    "prompt": "역사 자료를 읽다가 “내가 이 내용을 정말 이해했는가”를 점검하고 독해 전략을 조절하는, 자신의 인지에 대한 인지 능력은?",
+    "keyword": "메타인지",
+    "explain": "자신의 이해 상태와 사고 전략을 점검·조절하는 메타인지이다. 특정 시대의 사실을 많이 알고 있는 선행지식과는 다른 기능이다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-32",
+        "quote": "자신의 생각이나 감정, 지식 등을 객관적으로 인지하고 조절하는 능력"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/61115973eea1896ba17bfb87cbf2cca452800274c670552ad156fda7876365da.jpg",
+        "sha256": "61115973eea1896ba17bfb87cbf2cca452800274c670552ad156fda7876365da",
+        "quote": "자신의 생각이나 감정, 지식 등을 객관적으로 인지하고 조절하는 능력",
+        "location": "왼쪽 272쪽 하단 Note 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "메타인지",
+      "inputSha256": "3ee59250f6a15c0c61df97ed9f658f47659f3a8c3d8e34bdd9f8e89115c339d9"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g33-late-1",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-33",
+    "answer": "성취기준",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "단원 설계에 앞서 (9역04-03)처럼 코드와 함께 제시되어 학습자가 설명할 수 있어야 할 도달 내용을 정하는 교육과정 문장은?",
+    "keyword": "성취기준",
+    "explain": "학습자가 도달해야 할 내용을 진술하는 성취기준이다. 특정 교사가 만든 개별 수업 질문과 구별한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-33",
+        "quote": "성취기준 선정"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/79728df4ea2da32e58ff27bf1e78c8586ad1ea857c3cc53536d7d00ef5f3e896.jpg",
+        "sha256": "79728df4ea2da32e58ff27bf1e78c8586ad1ea857c3cc53536d7d00ef5f3e896",
+        "quote": "성취기준 선정",
+        "location": "오른쪽 279쪽 학교 교육과정 및 교과서 분석 표 첫 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "성취기준",
+      "inputSha256": "9d7043b7f8356232b94be4b2cd443919768635987b47be3f573b349b6dbfb8fe"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g33-late-2",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-33",
+    "answer": "핵심 질문",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "핵심 탐구 질문"
+    ],
+    "prompt": "“은의 도시에서는 무슨 일이 일어났나”처럼 단원 전체의 탐구를 이끌도록 두 예비 교사의 설계표가 맨 위에 둔 질문의 유형은?",
+    "keyword": "핵심 질문",
+    "explain": "핵심 질문은 단원의 학습 내용을 관통하는 탐구 문제이다. 하위의 세부 질문과 연결하여 학습 활동을 조직한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-33",
+        "quote": "핵심 질문"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/79728df4ea2da32e58ff27bf1e78c8586ad1ea857c3cc53536d7d00ef5f3e896.jpg",
+        "sha256": "79728df4ea2da32e58ff27bf1e78c8586ad1ea857c3cc53536d7d00ef5f3e896",
+        "quote": "핵심 질문",
+        "location": "오른쪽 279쪽 예비 교사 1·2의 교육과정 설계 표"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "핵심 질문",
+      "inputSha256": "5b2f14dea5be543306c30ac7a6abb56374ab436d296bb98d31a98b6ed8dd3878"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "gyoyukron-capture-practice-g33-late-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-33",
+    "answer": "포토시",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "세계교역망의 형성과 아메리카 원주민 노동을 탐구하는 수업에서, 거대한 은광과 연결하여 예비 교사 2가 핵심 질문에 넣은 도시는?",
+    "keyword": "포토시",
+    "explain": "사진의 수업안은 포토시 은광과 원주민 노동을 통해 세계교역망 형성의 영향을 탐구하도록 구성한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-33",
+        "quote": "은의 도시 포토시에서는 무슨 일이 일어났나?"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/79728df4ea2da32e58ff27bf1e78c8586ad1ea857c3cc53536d7d00ef5f3e896.jpg",
+        "sha256": "79728df4ea2da32e58ff27bf1e78c8586ad1ea857c3cc53536d7d00ef5f3e896",
+        "quote": "은의 도시 포토시에서는 무슨 일이 일어났나?",
+        "location": "오른쪽 279쪽 예비 교사 2의 핵심 질문"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "포토시",
+      "inputSha256": "25bb9ac2b75e7b5a507ca1955a1e20487a6a56c693cd8b4e869ac1792e33ee85"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
   }
 ]

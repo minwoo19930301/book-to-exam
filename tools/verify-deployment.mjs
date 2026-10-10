@@ -49,6 +49,17 @@ for (const [subject, total] of Object.entries(expectedCounts)) {
   assert.equal(result.total, total, subject);
   assert.ok(result.items.every(item => item.subject === subject));
 }
+const coverage = readData('public/data/page-practice-coverage.json');
+assert.deepEqual(await get('/data/page-practice-coverage.json'), coverage, 'live viewer coverage and capture reviews');
+for (const report of coverage.subjects.filter(subject => subject.captureReviewedPages)) {
+  const additions = await get(`/api/practice-bank?${new URLSearchParams({ subject: report.subject, q: '-capture-practice-', pageSize: '100' })}`);
+  assert.equal(additions.total, Object.values(report.captureAdded).reduce((sum, count) => sum + count, 0), report.subject);
+  assert.ok(additions.items.every(item => item.provenance?.sourceStatus === 'capture-compared-excerpt' && item.captureEvidence.length));
+  const sample = additions.items[0];
+  const scoped = await get(`/api/practice-bank?${new URLSearchParams({ subject: report.subject, sourcePage: sample.page })}`);
+  assert.equal(scoped.total, report.pages.find(page => page.page === sample.page).count);
+  assert.deepEqual(scoped.items.find(item => item.id === sample.id).captureEvidence, sample.captureEvidence);
+}
 const research = await get("/api/practice-bank?type=research&pageSize=100");
 assert.equal(research.total, expectedResearch);
 const researchItems = [...research.items];

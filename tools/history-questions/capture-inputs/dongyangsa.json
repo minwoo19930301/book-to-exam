@@ -1,0 +1,835 @@
+{
+  "schemaVersion": 1,
+  "subject": "dongyangsa",
+  "reviews": [
+    {
+      "page": "dongyangsa-textbook-page-1",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/273a95d89cd3eb74c49274b3332deead9b9f9bce2111ea2ffa94fa0b8e257011.jpg",
+          "sha256": "273a95d89cd3eb74c49274b3332deead9b9f9bce2111ea2ffa94fa0b8e257011"
+        }
+      ],
+      "summary": "왼쪽 교재 표지와 오른쪽 저자 소개·약력이다.",
+      "reason": "표지·차례·서지 안내로서 새 역사 개념 문항을 뒷받침하는 독립 설명이 없다."
+    },
+    {
+      "page": "dongyangsa-textbook-page-3",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/0d6779c1d8be1892c309fce702b9c87b352bb6d506aa35cd26a23679a90aae8d.jpg",
+          "sha256": "0d6779c1d8be1892c309fce702b9c87b352bb6d506aa35cd26a23679a90aae8d"
+        }
+      ],
+      "summary": "중국사·일본사 차례와 각 단원의 쪽수이다.",
+      "reason": "표지·차례·서지 안내로서 새 역사 개념 문항을 뒷받침하는 독립 설명이 없다."
+    },
+    {
+      "page": "dongyangsa-textbook-page-4",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/7ffdf642ecf86a0d7863630765dc316378c20d6728d7a3531f7e909cc5884189.jpg",
+          "sha256": "7ffdf642ecf86a0d7863630765dc316378c20d6728d7a3531f7e909cc5884189"
+        }
+      ],
+      "summary": "인도사·동남아시아사 차례와 단원 쪽수이다.",
+      "reason": "표지·차례·서지 안내로서 새 역사 개념 문항을 뒷받침하는 독립 설명이 없다."
+    },
+    {
+      "page": "dongyangsa-textbook-page-6",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/afbc93cca8b7357b67ee6ace03fbcc59f49dd7ae73688087b91b58b637c56d2d.jpg",
+          "sha256": "afbc93cca8b7357b67ee6ace03fbcc59f49dd7ae73688087b91b58b637c56d2d"
+        }
+      ],
+      "summary": "중국의 역사라는 부문 표지와 단원 시작면이다.",
+      "reason": "표지·차례·서지 안내로서 새 역사 개념 문항을 뒷받침하는 독립 설명이 없다."
+    },
+    {
+      "page": "dongyangsa-textbook-page-308",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/8a2306790679f336986eeefcb465672f4a60427a5b84fa78ed07554214e4c902.jpg",
+          "sha256": "8a2306790679f336986eeefcb465672f4a60427a5b84fa78ed07554214e4c902"
+        }
+      ],
+      "summary": "왼쪽 참고문헌 목록과 오른쪽 발행 정보·판권면이다. 전사 제목의 동남아시아사 개관에 해당하는 독립 본문은 사진에 없다.",
+      "reason": "표지·차례·서지 안내로서 새 역사 개념 문항을 뒷받침하는 독립 설명이 없다."
+    },
+    {
+      "page": "dongyangsa-textbook-page-48",
+      "status": "content",
+      "captures": [
+        {
+          "src": "/source-pages/be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535.jpg",
+          "sha256": "be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535"
+        }
+      ],
+      "summary": "사진은 원제·성제·애제의 통치와 한전제, 왕망의 왕전제·사속 명칭을 담는다. 과거의 근거 부족 예외와 달리 좌우 본문 및 사료 상자에서 짧은 근거를 직접 판독했다."
+    },
+    {
+      "page": "dongyangsa-textbook-page-173",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/d6f445c3da4b73269d97ae3f129f2162081bff97704e216680e9234ad7070332.jpg",
+          "sha256": "d6f445c3da4b73269d97ae3f129f2162081bff97704e216680e9234ad7070332"
+        }
+      ],
+      "summary": "대부분 단원 학습 요소와 기출 주제표지만 오른쪽 상단 연표는 1861년 총리각국사무아문, 1901년 외무부를 분명히 표시한다. 이 두 기관 변화는 문항화했다.",
+      "reason": "추가 표의 작은 세부 문구는 안정적으로 판독하기 어렵고, 주제 이름을 독립적인 역사 설명으로 확대하지 않아 2문항만 작성했다."
+    },
+    {
+      "page": "dongyangsa-textbook-page-176",
+      "status": "content",
+      "captures": [
+        {
+          "src": "/source-pages/7f52a8b3541b03a82c372dfd67b7c45ea77e2e4ccc2c7790d682797d31571fd9.jpg",
+          "sha256": "7f52a8b3541b03a82c372dfd67b7c45ea77e2e4ccc2c7790d682797d31571fd9"
+        }
+      ],
+      "summary": "실제 사진에는 제2차 아편 전쟁의 배경·애로호 사건·톈진 조약 원문이 좌우로 이어진다. 기존 전사보다 많은 본문이 보이며 짧은 표제와 사건 설명을 직접 읽었다."
+    },
+    {
+      "page": "dongyangsa-textbook-page-265",
+      "status": "duplicate",
+      "captures": [
+        {
+          "src": "/source-pages/d9a4d904a797099ed1ff14ec73ff682bc3f4b7a265b49b1c8b775ddce2345b2f.jpg",
+          "sha256": "d9a4d904a797099ed1ff14ec73ff682bc3f4b7a265b49b1c8b775ddce2345b2f"
+        }
+      ],
+      "summary": "하마구치 내각·쌀 소동·관동 대지진·만주사변이 실린 펼침면이다. 264쪽과 동일한 JPEG 바이트·SHA-256이며 같은 원본면을 재등록한 기록이다.",
+      "reason": "동일 원본 캡처와 역사 내용은 264쪽에서 다루므로 별도 문항을 복제하지 않는다.",
+      "duplicateOf": "dongyangsa-textbook-page-264"
+    },
+    {
+      "page": "dongyangsa-textbook-page-268",
+      "status": "duplicate",
+      "captures": [
+        {
+          "src": "/source-pages/d9a4d904a797099ed1ff14ec73ff682bc3f4b7a265b49b1c8b775ddce2345b2f.jpg",
+          "sha256": "d9a4d904a797099ed1ff14ec73ff682bc3f4b7a265b49b1c8b775ddce2345b2f"
+        }
+      ],
+      "summary": "하마구치 내각·쌀 소동·관동 대지진·만주사변이 실린 펼침면이다. 264쪽과 동일한 JPEG 바이트·SHA-256이며 같은 원본면을 재등록한 기록이다.",
+      "reason": "동일 원본 캡처와 역사 내용은 264쪽에서 다루므로 별도 문항을 복제하지 않는다.",
+      "duplicateOf": "dongyangsa-textbook-page-264"
+    },
+    {
+      "page": "dongyangsa-gichul-page-1",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/2f07e195acc4711a3737cb5a663dfbb4e713c9b964469fc685a929942de6dc8e.jpg",
+          "sha256": "2f07e195acc4711a3737cb5a663dfbb4e713c9b964469fc685a929942de6dc8e"
+        }
+      ],
+      "summary": "머리말과 교재 활용 안내이다.",
+      "reason": "머리말·단원 표지·출제 목록·판권 안내이므로 이를 역사적 사실 설명으로 확대해 문항을 만들지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-2",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/69a314a90a0b0b6641f88e919ab547a3006eb925330b2d5588ef6dcd9a13f0e9.jpg",
+          "sha256": "69a314a90a0b0b6641f88e919ab547a3006eb925330b2d5588ef6dcd9a13f0e9"
+        }
+      ],
+      "summary": "단원 표지와 기출 연도·주제·배점의 목록표이다. 역사 설명 본문이 아니라 출제 위치를 안내한다.",
+      "reason": "머리말·단원 표지·출제 목록·판권 안내이므로 이를 역사적 사실 설명으로 확대해 문항을 만들지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-5",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/5d2b67d255a3341ce9329bb4881a3e68b039bcd8d4d942456830393867696ad8.jpg",
+          "sha256": "5d2b67d255a3341ce9329bb4881a3e68b039bcd8d4d942456830393867696ad8"
+        }
+      ],
+      "summary": "단원 표지와 기출 연도·주제·배점의 목록표이다. 역사 설명 본문이 아니라 출제 위치를 안내한다.",
+      "reason": "머리말·단원 표지·출제 목록·판권 안내이므로 이를 역사적 사실 설명으로 확대해 문항을 만들지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-8",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/04e6aff41ca38b448c048510eccf6a340aec4772bae9dcafaee026fe8e4bb349.jpg",
+          "sha256": "04e6aff41ca38b448c048510eccf6a340aec4772bae9dcafaee026fe8e4bb349"
+        }
+      ],
+      "summary": "단원 표지와 기출 연도·주제·배점의 목록표이다. 역사 설명 본문이 아니라 출제 위치를 안내한다.",
+      "reason": "머리말·단원 표지·출제 목록·판권 안내이므로 이를 역사적 사실 설명으로 확대해 문항을 만들지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-12",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/7a840395b4dc09f1b7e84cd10d836e41980623c1db3d011d4e3b47d13a2368f3.jpg",
+          "sha256": "7a840395b4dc09f1b7e84cd10d836e41980623c1db3d011d4e3b47d13a2368f3"
+        }
+      ],
+      "summary": "단원 표지와 기출 연도·주제·배점의 목록표이다. 역사 설명 본문이 아니라 출제 위치를 안내한다.",
+      "reason": "머리말·단원 표지·출제 목록·판권 안내이므로 이를 역사적 사실 설명으로 확대해 문항을 만들지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-18",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/12af5d56b7728f6b50b219315eeea69e1f69df39145f0d604cf5de57a367c93c.jpg",
+          "sha256": "12af5d56b7728f6b50b219315eeea69e1f69df39145f0d604cf5de57a367c93c"
+        }
+      ],
+      "summary": "단원 표지와 기출 연도·주제·배점의 목록표이다. 역사 설명 본문이 아니라 출제 위치를 안내한다.",
+      "reason": "머리말·단원 표지·출제 목록·판권 안내이므로 이를 역사적 사실 설명으로 확대해 문항을 만들지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-22",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/c5d5ec77dc5cc4985b1acaf685a9c6bd738db5cc5ff93a222f5b48e45ca8c71c.jpg",
+          "sha256": "c5d5ec77dc5cc4985b1acaf685a9c6bd738db5cc5ff93a222f5b48e45ca8c71c"
+        }
+      ],
+      "summary": "단원 표지와 기출 연도·주제·배점의 목록표이다. 역사 설명 본문이 아니라 출제 위치를 안내한다.",
+      "reason": "머리말·단원 표지·출제 목록·판권 안내이므로 이를 역사적 사실 설명으로 확대해 문항을 만들지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-25",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/c85fa4080140ef38d6a4a3048a96d11c6f58ac4247937ac973fa2af9adbbf46d.jpg",
+          "sha256": "c85fa4080140ef38d6a4a3048a96d11c6f58ac4247937ac973fa2af9adbbf46d"
+        }
+      ],
+      "summary": "단원 표지와 기출 연도·주제·배점의 목록표이다. 역사 설명 본문이 아니라 출제 위치를 안내한다.",
+      "reason": "머리말·단원 표지·출제 목록·판권 안내이므로 이를 역사적 사실 설명으로 확대해 문항을 만들지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-29",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/68620e557ca820798a518a7ad58bb7d86aae9aec38b8445e702f63e653a7d07d.jpg",
+          "sha256": "68620e557ca820798a518a7ad58bb7d86aae9aec38b8445e702f63e653a7d07d"
+        }
+      ],
+      "summary": "단원 표지와 기출 연도·주제·배점의 목록표이다. 역사 설명 본문이 아니라 출제 위치를 안내한다.",
+      "reason": "머리말·단원 표지·출제 목록·판권 안내이므로 이를 역사적 사실 설명으로 확대해 문항을 만들지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-30",
+      "status": "non-content",
+      "captures": [
+        {
+          "src": "/source-pages/d070309821595572adfcc7b32f52e711c557c52b84d3ae9e0fde1866548cd0ed.jpg",
+          "sha256": "d070309821595572adfcc7b32f52e711c557c52b84d3ae9e0fde1866548cd0ed"
+        }
+      ],
+      "summary": "참고문헌과 발행 정보·판권면이다.",
+      "reason": "머리말·단원 표지·출제 목록·판권 안내이므로 이를 역사적 사실 설명으로 확대해 문항을 만들지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-3",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/c6c892c2ae3808ff8596081fecffa5928f33714342b0b80616b79e6ec108285d.jpg",
+          "sha256": "c6c892c2ae3808ff8596081fecffa5928f33714342b0b80616b79e6ec108285d"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-4",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/16ffbccd6e9ad3ef41cf4e942859cb9062155a64b3da01057f012677ad719397.jpg",
+          "sha256": "16ffbccd6e9ad3ef41cf4e942859cb9062155a64b3da01057f012677ad719397"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-6",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/2b437087b7192fc8b9f3e2ef0859a1a339be29fe6c83a96b384cb9c7177bf0ea.jpg",
+          "sha256": "2b437087b7192fc8b9f3e2ef0859a1a339be29fe6c83a96b384cb9c7177bf0ea"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-7",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/37983a88d0bd23eba45587d4e374b2c1d9c7a7fce7c51a028a4eb0df6d3c9db0.jpg",
+          "sha256": "37983a88d0bd23eba45587d4e374b2c1d9c7a7fce7c51a028a4eb0df6d3c9db0"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-9",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/648ca01d1c798d4563e6339e3a5c8d2773f0c49af744b2c699e930f9bb385e71.jpg",
+          "sha256": "648ca01d1c798d4563e6339e3a5c8d2773f0c49af744b2c699e930f9bb385e71"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-10",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/a299430488076eee4ce797565d8584527bd4658c6703b7f480e557d5dd99c4a5.jpg",
+          "sha256": "a299430488076eee4ce797565d8584527bd4658c6703b7f480e557d5dd99c4a5"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-11",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/4e9c2505a45df0166decd33155d877a09dd4d09f8e4242f18467623157daec52.jpg",
+          "sha256": "4e9c2505a45df0166decd33155d877a09dd4d09f8e4242f18467623157daec52"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-13",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/417b71ca356d522eb75b76ee2884632b29a864302d36ff7e1fee2e8889f10fc0.jpg",
+          "sha256": "417b71ca356d522eb75b76ee2884632b29a864302d36ff7e1fee2e8889f10fc0"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다. 두 지도 모두 중국에서 동남아시아·인도양으로 이어지는 항로 그림이며, 기존 두 번째 제목의 명·청 강역 지도와 다르다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-14",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/89d633645b1ae8468e58c02c2f29548b319969d7fc6d307545451b33b79c6037.jpg",
+          "sha256": "89d633645b1ae8468e58c02c2f29548b319969d7fc6d307545451b33b79c6037"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-15",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/2ecb61ee31d20127eca796a81c3e10ad4b7cad9d61f6340c98c900954e02759b.jpg",
+          "sha256": "2ecb61ee31d20127eca796a81c3e10ad4b7cad9d61f6340c98c900954e02759b"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-16",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/20dfffbbcad3f91f66c44a5407cf6f12c26ad742af28b89695e234321cfb3818.jpg",
+          "sha256": "20dfffbbcad3f91f66c44a5407cf6f12c26ad742af28b89695e234321cfb3818"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다. 사진의 문항 번호는 23·24로 기존 제목의 23·26과 다르다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-17",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/10551824c40307612a66eb784fe0d5d26225e2eb483b6b9cef04bd2dc0efdc8f.jpg",
+          "sha256": "10551824c40307612a66eb784fe0d5d26225e2eb483b6b9cef04bd2dc0efdc8f"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다. 오른쪽 지도는 중국의 여러 옛 수도 위치를 문자로 표시하며, 기존 제목의 청 강역 지도와 다르다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-19",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/97c6fed6e964315207bc6b04dbcaaa0ec95b71aa945eb4c49556c3ce34cfe75f.jpg",
+          "sha256": "97c6fed6e964315207bc6b04dbcaaa0ec95b71aa945eb4c49556c3ce34cfe75f"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-20",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/c586fed134e60e4aea6eb6f40708fa4b16a2e5c01cd18ceca38875cd66b7b880.jpg",
+          "sha256": "c586fed134e60e4aea6eb6f40708fa4b16a2e5c01cd18ceca38875cd66b7b880"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-21",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/f8b5437b22c5a1cc054914f729d8c71e8ae22d51890fe16a1ea1794431696df0.jpg",
+          "sha256": "f8b5437b22c5a1cc054914f729d8c71e8ae22d51890fe16a1ea1794431696df0"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-23",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/9184f4f2bcfe72f72cb1c188ba984b8a310f2d97b716deac63160d26d41028cf.jpg",
+          "sha256": "9184f4f2bcfe72f72cb1c188ba984b8a310f2d97b716deac63160d26d41028cf"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-24",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/7538eb3002595070d6cc2a3dde67bacda9245fe3f33e2dc3ecb3a3986c67fd51.jpg",
+          "sha256": "7538eb3002595070d6cc2a3dde67bacda9245fe3f33e2dc3ecb3a3986c67fd51"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-27",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/fa229a6acfc173864437719f1d600a1056e8aa9b97edb7e51e438d74d0d56113.jpg",
+          "sha256": "fa229a6acfc173864437719f1d600a1056e8aa9b97edb7e51e438d74d0d56113"
+        }
+      ],
+      "summary": "기출 문제·사료 상자·해설이 있는 실제 내용면이다. 1280×720 원본과 원비율 확대본을 모두 살폈으나 움직임 흐림과 낮은 문자 해상도로 정답을 뒷받침할 안정적인 발췌를 확정하지 못했다. 일본 근대의 헌정·대외관계 사료와 해설이 있으나 작은 문장을 확정하기 어렵다.",
+      "reason": "기출 또는 유추 복원 여부가 아니라 원본 사진의 판독 한계로 보류했다. 외부 지식이나 기존 전사문을 사진에서 읽었다고 대신 기록하지 않는다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-26",
+      "status": "capture-mismatch",
+      "captures": [
+        {
+          "src": "/source-pages/cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434.jpg",
+          "sha256": "cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434"
+        }
+      ],
+      "summary": "사진 왼쪽은 고대 일본 수도 이동 지도이며 694년 A, 710년 B, 784년 중간 지점, 794년 C가 보인다. 기존 전사 제목인 에도 막번·산킨코타이와 일치하지 않는다. 작은 해설은 사용하지 않고 지도 연도·지점과 일본 공공기관의 수도 연혁을 대조했다.",
+      "reason": "기존 전사와 사진 내용이 달라 새 문항 근거는 지도 라벨과 공적 연혁의 결합으로 한정했다."
+    },
+    {
+      "page": "dongyangsa-gichul-page-28",
+      "status": "unreadable",
+      "captures": [
+        {
+          "src": "/source-pages/7e94beeaea01c089017282e4a8ac6dfd371d70fe95486937b54d4a1af2e4403b.jpg",
+          "sha256": "7e94beeaea01c089017282e4a8ac6dfd371d70fe95486937b54d4a1af2e4403b"
+        }
+      ],
+      "summary": "동남아시아의 문화유산 그림·건축물 사진 세 장과 지도가 있다. 가운데 사진의 앙코르와트 유적 표제는 읽을 수 있어 한 문항을 작성했다. 위·아래 사진의 작은 명칭과 옆 해설은 확정하지 않았다.",
+      "reason": "확실히 읽은 가운데 유적 표제에 근거한 1문항만 작성했다. 나머지 문화유산 명칭과 설명은 추측하여 채우지 않았다."
+    }
+  ],
+  "questions": [
+    {
+      "id": "dongyangsa-capture-practice-textbook-48-yuandi",
+      "page": "dongyangsa-textbook-page-48",
+      "kind": "short",
+      "prompt": "전한에서 소망지와 공우 등을 중용하며 왕도정치를 지향했고, 재위 기간이 기원전 48~33년인 황제는?",
+      "answer": "원제",
+      "acceptedAnswers": [
+        "한 원제",
+        "전한 원제",
+        "元帝"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-48",
+          "quote": "원제(元帝, B.C. 48~33년)"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535.jpg",
+          "sha256": "be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535",
+          "quote": "원제(元帝, B.C. 48~33년)",
+          "location": "왼쪽 면 맨 위 소제목"
+        }
+      ],
+      "explain": "사진의 원제 항목 아래에는 소망지·공우 중용과 왕도정치가 제시되어 있다.",
+      "topic": "원제"
+    },
+    {
+      "id": "dongyangsa-capture-practice-textbook-48-limited-land",
+      "page": "dongyangsa-textbook-page-48",
+      "kind": "short",
+      "prompt": "애제 때 사단이 제안하여 토지 소유 면적을 30경으로 제한하려 한 제도의 명칭은?",
+      "answer": "한전제",
+      "acceptedAnswers": [
+        "한전법",
+        "限田制"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-48",
+          "quote": "사단(師丹)의 한전제(限田制) 발포"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535.jpg",
+          "sha256": "be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535",
+          "quote": "사단(師丹)의 한전제(限田制) 발포",
+          "location": "왼쪽 면 중하단 애제 항목 두 번째 줄"
+        }
+      ],
+      "explain": "사진은 한전제 아래에 토지 소유 면적 30경 제한과 신분별 노비 소유 제한을 열거한다.",
+      "topic": "한전제"
+    },
+    {
+      "id": "dongyangsa-capture-practice-textbook-48-royal-land",
+      "page": "dongyangsa-textbook-page-48",
+      "kind": "short",
+      "prompt": "왕망이 전국 토지를 국유화하고 토지 매매를 금지하려 한 토지 제도의 명칭은?",
+      "answer": "왕전제",
+      "acceptedAnswers": [
+        "왕전 제도",
+        "王田制"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-48",
+          "quote": "왕전제(王田制)"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535.jpg",
+          "sha256": "be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535",
+          "quote": "왕전제(王田制)",
+          "location": "오른쪽 면 중하단 주례에 입각한 개혁 첫 항목"
+        }
+      ],
+      "explain": "사진의 왕전제 항목에 전국 토지 국유화와 토지 매매 금지가 명시되어 있다.",
+      "topic": "왕전제"
+    },
+    {
+      "id": "dongyangsa-capture-practice-textbook-48-private-dependents",
+      "page": "dongyangsa-textbook-page-48",
+      "kind": "short",
+      "prompt": "왕망이 토지와 함께 노비의 매매도 금지하면서 노비를 새로 부르도록 한 명칭은?",
+      "answer": "사속",
+      "acceptedAnswers": [
+        "私屬"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-48",
+          "quote": "노비들은 사속(私屬)이라 부르며, 두 가지 모두 매매할 수 없다."
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535.jpg",
+          "sha256": "be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535",
+          "quote": "노비들은 사속(私屬)이라 부르며, 두 가지 모두 매매할 수 없다.",
+          "location": "오른쪽 아래 왕전제 실시 사료 상자 첫 문장 중간"
+        }
+      ],
+      "explain": "왕망은 토지를 왕전, 노비를 사속이라 부르고 양자의 매매를 금지했다.",
+      "topic": "사속"
+    },
+    {
+      "id": "dongyangsa-capture-practice-textbook-173-zongli-yamen",
+      "page": "dongyangsa-textbook-page-173",
+      "kind": "short",
+      "prompt": "청이 1861년에 설치했고 사진의 연표에서 1901년 외무부 이전 단계에 표시된 외교 전담 기구는?",
+      "answer": "총리각국사무아문",
+      "acceptedAnswers": [
+        "총리아문"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-173",
+          "quote": "총리각국사무아문"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/d6f445c3da4b73269d97ae3f129f2162081bff97704e216680e9234ad7070332.jpg",
+          "sha256": "d6f445c3da4b73269d97ae3f129f2162081bff97704e216680e9234ad7070332",
+          "quote": "총리각국사무아문",
+          "location": "오른쪽 맨 위 연표 1861년 표지 오른쪽 아래"
+        }
+      ],
+      "explain": "연표에는 1861년 총리각국사무아문이 표시되어 있다. 총리아문은 그 약칭이다.",
+      "topic": "총리각국사무아문"
+    },
+    {
+      "id": "dongyangsa-capture-practice-textbook-173-foreign-ministry",
+      "page": "dongyangsa-textbook-page-173",
+      "kind": "short",
+      "prompt": "사진의 청 말 외교 기구 변천 연표에서 1901년 이후 총리각국사무아문을 대신한 관서는?",
+      "answer": "외무부",
+      "acceptedAnswers": [],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-173",
+          "quote": "1901년"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/d6f445c3da4b73269d97ae3f129f2162081bff97704e216680e9234ad7070332.jpg",
+          "sha256": "d6f445c3da4b73269d97ae3f129f2162081bff97704e216680e9234ad7070332",
+          "quote": "1901년",
+          "location": "오른쪽 맨 위 연표 마지막 연도와 그 오른쪽 외무부 표지"
+        }
+      ],
+      "explain": "연표는 1901년을 경계로 외무부를 표시한다.",
+      "topic": "외무부"
+    },
+    {
+      "id": "dongyangsa-capture-practice-textbook-176-arrow",
+      "page": "dongyangsa-textbook-page-176",
+      "kind": "short",
+      "prompt": "중국인 승무원을 해적 혐의로 연행한 선박 문제를 영국이 제2차 아편 전쟁의 구실로 삼은 사건은?",
+      "answer": "애로호 사건",
+      "acceptedAnswers": [
+        "애로호",
+        "애로 사건",
+        "애로우호 사건",
+        "애로우호"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-176",
+          "quote": "애로호의 중국인 승무원 해적 혐의 연행"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/7f52a8b3541b03a82c372dfd67b7c45ea77e2e4ccc2c7790d682797d31571fd9.jpg",
+          "sha256": "7f52a8b3541b03a82c372dfd67b7c45ea77e2e4ccc2c7790d682797d31571fd9",
+          "quote": "애로호의 중국인 승무원 해적 혐의 연행",
+          "location": "오른쪽 면 상단 전쟁의 발발 아래 첫 사건 설명"
+        }
+      ],
+      "explain": "사진은 애로호 사건을 중국인 승무원 연행과 영국의 항의로 설명한다.",
+      "topic": "애로호 사건"
+    },
+    {
+      "id": "dongyangsa-capture-practice-textbook-176-tianjin",
+      "page": "dongyangsa-textbook-page-176",
+      "kind": "short",
+      "prompt": "제2차 아편 전쟁 중인 1858년 6월 체결되어 영국 사절의 수도 파견 등을 규정한 조약은?",
+      "answer": "톈진 조약",
+      "acceptedAnswers": [
+        "천진 조약",
+        "天津條約"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-176",
+          "quote": "톈진 조약의 체결(1858.6)"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/7f52a8b3541b03a82c372dfd67b7c45ea77e2e4ccc2c7790d682797d31571fd9.jpg",
+          "sha256": "7f52a8b3541b03a82c372dfd67b7c45ea77e2e4ccc2c7790d682797d31571fd9",
+          "quote": "톈진 조약의 체결(1858.6)",
+          "location": "오른쪽 면 하단 사료탐구 상자 표제"
+        }
+      ],
+      "explain": "사진의 사료 상자는 1858년 톈진 조약을 제시하며 제2조에서 외교관의 파견을 규정한다.",
+      "topic": "톈진 조약"
+    },
+    {
+      "id": "dongyangsa-capture-practice-gichul-26-fujiwara",
+      "page": "dongyangsa-gichul-page-26",
+      "kind": "short",
+      "prompt": "일본 고대 수도 이동 지도에서 694년으로 표시된 A 지점에 조성되어 710년까지 수도였던 도성은?",
+      "answer": "후지와라쿄",
+      "acceptedAnswers": [
+        "후지와라 경",
+        "藤原京"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-gichul-page-26",
+          "quote": "694년"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434.jpg",
+          "sha256": "cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434",
+          "quote": "694년",
+          "location": "왼쪽 지도 남쪽 A 지점의 연도 표지"
+        }
+      ],
+      "explain": "지도 A의 694년과 가시하라시 공식 연혁의 694~710년 후지와라쿄를 대조했다.",
+      "topic": "후지와라쿄",
+      "corroboration": [
+        {
+          "url": "https://www.city.kashihara.nara.jp/pr/asobu/2/12523.html",
+          "title": "가시하라시 공식: 후지와라궁터와 694~710년 수도 연혁"
+        }
+      ]
+    },
+    {
+      "id": "dongyangsa-capture-practice-gichul-26-heijo",
+      "page": "dongyangsa-gichul-page-26",
+      "kind": "short",
+      "prompt": "일본 고대 수도 이동 지도에서 710년으로 표시된 B 지점으로 옮겨 나라 시대의 중심지가 된 도성은?",
+      "answer": "헤이조쿄",
+      "acceptedAnswers": [
+        "헤이조 경",
+        "평성경",
+        "平城京"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-gichul-page-26",
+          "quote": "710년"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434.jpg",
+          "sha256": "cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434",
+          "quote": "710년",
+          "location": "왼쪽 지도 중앙 B 지점으로 향하는 화살표 옆 연도"
+        }
+      ],
+      "explain": "지도 B의 710년과 국토교통성의 헤이조쿄 천도 연혁을 대조했다.",
+      "topic": "헤이조쿄",
+      "corroboration": [
+        {
+          "url": "https://www.kkr.mlit.go.jp/asuka/initiatives-heijo/history.html",
+          "title": "일본 국토교통성: 헤이조쿄 역사·수도 이전 연표"
+        }
+      ]
+    },
+    {
+      "id": "dongyangsa-capture-practice-gichul-26-heian",
+      "page": "dongyangsa-gichul-page-26",
+      "kind": "short",
+      "prompt": "일본 고대 수도 이동 지도에서 784년의 중간 수도를 거친 뒤 794년에 도달한 C 도성은?",
+      "answer": "헤이안쿄",
+      "acceptedAnswers": [
+        "헤이안 경",
+        "평안경",
+        "平安京"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-gichul-page-26",
+          "quote": "794년"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434.jpg",
+          "sha256": "cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434",
+          "quote": "794년",
+          "location": "왼쪽 지도 북쪽 C 지점으로 향하는 화살표 옆 연도"
+        }
+      ],
+      "explain": "지도 C의 794년은 공적 연표에 나타난 헤이안쿄 천도 연도와 일치한다.",
+      "topic": "헤이안쿄",
+      "corroboration": [
+        {
+          "url": "https://www.kkr.mlit.go.jp/asuka/initiatives-heijo/history.html",
+          "title": "일본 국토교통성: 헤이조쿄 역사·수도 이전 연표"
+        }
+      ]
+    },
+    {
+      "id": "dongyangsa-capture-practice-gichul-28-angkor",
+      "page": "dongyangsa-gichul-page-28",
+      "kind": "short",
+      "prompt": "캄보디아에서 수리야바르만 2세가 12세기에 세웠으며, 처음에는 비슈누를 모시는 힌두교 사원이었던 크메르의 대표 유적은?",
+      "answer": "앙코르와트",
+      "acceptedAnswers": [
+        "Angkor Wat"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-gichul-page-28",
+          "quote": "앙코르와트의 유적"
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/source-pages/7e94beeaea01c089017282e4a8ac6dfd371d70fe95486937b54d4a1af2e4403b.jpg",
+          "sha256": "7e94beeaea01c089017282e4a8ac6dfd371d70fe95486937b54d4a1af2e4403b",
+          "quote": "앙코르와트의 유적",
+          "location": "왼쪽 면 세 사진 중 가운데 사진 바로 아래 표제"
+        }
+      ],
+      "explain": "사진의 표제로 앙코르와트를 확인하고 캄보디아 APSARA 국가기구의 건립 시기·건립자·종교 설명으로 발문의 단서를 보충했다.",
+      "topic": "앙코르와트",
+      "corroboration": [
+        {
+          "url": "https://apsaraauthority.gov.kh/2021/06/14/angkor-wat/",
+          "title": "캄보디아 APSARA 국가기구: 앙코르와트"
+        }
+      ]
+    }
+  ]
+}

@@ -105,7 +105,8 @@ def generate(subject: str, root: Path, *, include_expansion: bool = True) -> dic
         from shorts import extend_generated
         from source_cloze import extend_generated as extend_source_cloze
         from page_practice import extend_generated as extend_page_practice
-        return extend_page_practice(subject, root, extend_source_cloze(subject, root, extend_generated(subject, root, expand_generated(subject, root, outputs))))
+        from capture_practice import extend_generated as extend_capture_practice
+        return extend_capture_practice(subject, root, extend_page_practice(subject, root, extend_source_cloze(subject, root, extend_generated(subject, root, expand_generated(subject, root, outputs)))))
     return outputs
 
 

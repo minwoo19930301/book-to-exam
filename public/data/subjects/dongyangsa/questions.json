@@ -16085,5 +16085,484 @@
     },
     "stem": "원문을 바탕으로 개념을 쓰시오.",
     "choices": null
+  },
+  {
+    "id": "dongyangsa-capture-practice-textbook-48-yuandi",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-48",
+    "answer": "원제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "한 원제",
+      "전한 원제",
+      "元帝"
+    ],
+    "prompt": "전한에서 소망지와 공우 등을 중용하며 왕도정치를 지향했고, 재위 기간이 기원전 48~33년인 황제는?",
+    "keyword": "원제",
+    "explain": "사진의 원제 항목 아래에는 소망지·공우 중용과 왕도정치가 제시되어 있다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-48",
+        "quote": "원제(元帝, B.C. 48~33년)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535.jpg",
+        "sha256": "be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535",
+        "quote": "원제(元帝, B.C. 48~33년)",
+        "location": "왼쪽 면 맨 위 소제목"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "원제",
+      "inputSha256": "ab874707c7499b6570e56aa3a34fd3b67fb3b29f0b8f8725b86fdfa325a77257"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-textbook-48-limited-land",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-48",
+    "answer": "한전제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "한전법",
+      "限田制"
+    ],
+    "prompt": "애제 때 사단이 제안하여 토지 소유 면적을 30경으로 제한하려 한 제도의 명칭은?",
+    "keyword": "한전제",
+    "explain": "사진은 한전제 아래에 토지 소유 면적 30경 제한과 신분별 노비 소유 제한을 열거한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-48",
+        "quote": "사단(師丹)의 한전제(限田制) 발포"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535.jpg",
+        "sha256": "be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535",
+        "quote": "사단(師丹)의 한전제(限田制) 발포",
+        "location": "왼쪽 면 중하단 애제 항목 두 번째 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "한전제",
+      "inputSha256": "3ad13a8e75e102e20198f4c5fb01068c3ff8e2cec66457fb9de715b23d9f7e91"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-textbook-48-royal-land",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-48",
+    "answer": "왕전제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "왕전 제도",
+      "王田制"
+    ],
+    "prompt": "왕망이 전국 토지를 국유화하고 토지 매매를 금지하려 한 토지 제도의 명칭은?",
+    "keyword": "왕전제",
+    "explain": "사진의 왕전제 항목에 전국 토지 국유화와 토지 매매 금지가 명시되어 있다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-48",
+        "quote": "왕전제(王田制)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535.jpg",
+        "sha256": "be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535",
+        "quote": "왕전제(王田制)",
+        "location": "오른쪽 면 중하단 주례에 입각한 개혁 첫 항목"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "왕전제",
+      "inputSha256": "da7928eedb4bc2a4afc4481a4993c16039d6381e0cb2319580e9a1c14ddff046"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-textbook-48-private-dependents",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-48",
+    "answer": "사속",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "私屬"
+    ],
+    "prompt": "왕망이 토지와 함께 노비의 매매도 금지하면서 노비를 새로 부르도록 한 명칭은?",
+    "keyword": "사속",
+    "explain": "왕망은 토지를 왕전, 노비를 사속이라 부르고 양자의 매매를 금지했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-48",
+        "quote": "노비들은 사속(私屬)이라 부르며, 두 가지 모두 매매할 수 없다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535.jpg",
+        "sha256": "be19480d93eb9b38355e8a0b7fc5984bf074c3c1dbe458b309c7c73ad14af535",
+        "quote": "노비들은 사속(私屬)이라 부르며, 두 가지 모두 매매할 수 없다.",
+        "location": "오른쪽 아래 왕전제 실시 사료 상자 첫 문장 중간"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "사속",
+      "inputSha256": "cb123ca7722363a5ac005d68697ccb742e8e2de5e882a79f533b1867e255dc33"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-textbook-173-zongli-yamen",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-173",
+    "answer": "총리각국사무아문",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "총리아문"
+    ],
+    "prompt": "청이 1861년에 설치했고 사진의 연표에서 1901년 외무부 이전 단계에 표시된 외교 전담 기구는?",
+    "keyword": "총리각국사무아문",
+    "explain": "연표에는 1861년 총리각국사무아문이 표시되어 있다. 총리아문은 그 약칭이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-173",
+        "quote": "총리각국사무아문"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d6f445c3da4b73269d97ae3f129f2162081bff97704e216680e9234ad7070332.jpg",
+        "sha256": "d6f445c3da4b73269d97ae3f129f2162081bff97704e216680e9234ad7070332",
+        "quote": "총리각국사무아문",
+        "location": "오른쪽 맨 위 연표 1861년 표지 오른쪽 아래"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "총리각국사무아문",
+      "inputSha256": "736f388d0e8f6b6a3d0dd92ee9e4b1e5d5d7ec4b2f80392fe59e16ad44b4d2d8"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-textbook-173-foreign-ministry",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-173",
+    "answer": "외무부",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "사진의 청 말 외교 기구 변천 연표에서 1901년 이후 총리각국사무아문을 대신한 관서는?",
+    "keyword": "외무부",
+    "explain": "연표는 1901년을 경계로 외무부를 표시한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-173",
+        "quote": "1901년"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d6f445c3da4b73269d97ae3f129f2162081bff97704e216680e9234ad7070332.jpg",
+        "sha256": "d6f445c3da4b73269d97ae3f129f2162081bff97704e216680e9234ad7070332",
+        "quote": "1901년",
+        "location": "오른쪽 맨 위 연표 마지막 연도와 그 오른쪽 외무부 표지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "외무부",
+      "inputSha256": "8ea25cc9dd08e006f0af029f1120d96168c13e2bfb2f3e3e4e528609409abfd3"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-textbook-176-arrow",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-176",
+    "answer": "애로호 사건",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "애로호",
+      "애로 사건",
+      "애로우호 사건",
+      "애로우호"
+    ],
+    "prompt": "중국인 승무원을 해적 혐의로 연행한 선박 문제를 영국이 제2차 아편 전쟁의 구실로 삼은 사건은?",
+    "keyword": "애로호 사건",
+    "explain": "사진은 애로호 사건을 중국인 승무원 연행과 영국의 항의로 설명한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-176",
+        "quote": "애로호의 중국인 승무원 해적 혐의 연행"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/7f52a8b3541b03a82c372dfd67b7c45ea77e2e4ccc2c7790d682797d31571fd9.jpg",
+        "sha256": "7f52a8b3541b03a82c372dfd67b7c45ea77e2e4ccc2c7790d682797d31571fd9",
+        "quote": "애로호의 중국인 승무원 해적 혐의 연행",
+        "location": "오른쪽 면 상단 전쟁의 발발 아래 첫 사건 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "애로호 사건",
+      "inputSha256": "162dfa83fbc2687c6d23342df9121f89e91e0d0bc5804a3a2a0921e65dfa7af7"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-textbook-176-tianjin",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-176",
+    "answer": "톈진 조약",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "천진 조약",
+      "天津條約"
+    ],
+    "prompt": "제2차 아편 전쟁 중인 1858년 6월 체결되어 영국 사절의 수도 파견 등을 규정한 조약은?",
+    "keyword": "톈진 조약",
+    "explain": "사진의 사료 상자는 1858년 톈진 조약을 제시하며 제2조에서 외교관의 파견을 규정한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-176",
+        "quote": "톈진 조약의 체결(1858.6)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/7f52a8b3541b03a82c372dfd67b7c45ea77e2e4ccc2c7790d682797d31571fd9.jpg",
+        "sha256": "7f52a8b3541b03a82c372dfd67b7c45ea77e2e4ccc2c7790d682797d31571fd9",
+        "quote": "톈진 조약의 체결(1858.6)",
+        "location": "오른쪽 면 하단 사료탐구 상자 표제"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "톈진 조약",
+      "inputSha256": "257c17abc4c0cbdfc6d727cadf520985e19224d93883b48830228a46b014dcc5"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-gichul-26-fujiwara",
+    "type": "blank",
+    "page": "dongyangsa-gichul-page-26",
+    "answer": "후지와라쿄",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "후지와라 경",
+      "藤原京"
+    ],
+    "prompt": "일본 고대 수도 이동 지도에서 694년으로 표시된 A 지점에 조성되어 710년까지 수도였던 도성은?",
+    "keyword": "후지와라쿄",
+    "explain": "지도 A의 694년과 가시하라시 공식 연혁의 694~710년 후지와라쿄를 대조했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-gichul-page-26",
+        "quote": "694년"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434.jpg",
+        "sha256": "cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434",
+        "quote": "694년",
+        "location": "왼쪽 지도 남쪽 A 지점의 연도 표지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "후지와라쿄",
+      "inputSha256": "29986ed935af2838935ca6fe9a1eb41eda7db672a96c6f305535da3118e7361e"
+    },
+    "corroboration": [
+      {
+        "url": "https://www.city.kashihara.nara.jp/pr/asobu/2/12523.html",
+        "title": "가시하라시 공식: 후지와라궁터와 694~710년 수도 연혁"
+      }
+    ],
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-gichul-26-heijo",
+    "type": "blank",
+    "page": "dongyangsa-gichul-page-26",
+    "answer": "헤이조쿄",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "헤이조 경",
+      "평성경",
+      "平城京"
+    ],
+    "prompt": "일본 고대 수도 이동 지도에서 710년으로 표시된 B 지점으로 옮겨 나라 시대의 중심지가 된 도성은?",
+    "keyword": "헤이조쿄",
+    "explain": "지도 B의 710년과 국토교통성의 헤이조쿄 천도 연혁을 대조했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-gichul-page-26",
+        "quote": "710년"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434.jpg",
+        "sha256": "cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434",
+        "quote": "710년",
+        "location": "왼쪽 지도 중앙 B 지점으로 향하는 화살표 옆 연도"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "헤이조쿄",
+      "inputSha256": "3e56c4bf273ebfcedf12f47e949ddbb6e058a5a5b212f9f1aadd7984faa6881d"
+    },
+    "corroboration": [
+      {
+        "url": "https://www.kkr.mlit.go.jp/asuka/initiatives-heijo/history.html",
+        "title": "일본 국토교통성: 헤이조쿄 역사·수도 이전 연표"
+      }
+    ],
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-gichul-26-heian",
+    "type": "blank",
+    "page": "dongyangsa-gichul-page-26",
+    "answer": "헤이안쿄",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "헤이안 경",
+      "평안경",
+      "平安京"
+    ],
+    "prompt": "일본 고대 수도 이동 지도에서 784년의 중간 수도를 거친 뒤 794년에 도달한 C 도성은?",
+    "keyword": "헤이안쿄",
+    "explain": "지도 C의 794년은 공적 연표에 나타난 헤이안쿄 천도 연도와 일치한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-gichul-page-26",
+        "quote": "794년"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434.jpg",
+        "sha256": "cb387bd181ac4c9f806f67b5b251c21423be1f4f2b97a016c3cc6e0bc899f434",
+        "quote": "794년",
+        "location": "왼쪽 지도 북쪽 C 지점으로 향하는 화살표 옆 연도"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "헤이안쿄",
+      "inputSha256": "89261b753616b32a39c1bdc71ae5bfdd8dcbd742276b345cc178dd81518c319e"
+    },
+    "corroboration": [
+      {
+        "url": "https://www.kkr.mlit.go.jp/asuka/initiatives-heijo/history.html",
+        "title": "일본 국토교통성: 헤이조쿄 역사·수도 이전 연표"
+      }
+    ],
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "dongyangsa-capture-practice-gichul-28-angkor",
+    "type": "blank",
+    "page": "dongyangsa-gichul-page-28",
+    "answer": "앙코르와트",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "Angkor Wat"
+    ],
+    "prompt": "캄보디아에서 수리야바르만 2세가 12세기에 세웠으며, 처음에는 비슈누를 모시는 힌두교 사원이었던 크메르의 대표 유적은?",
+    "keyword": "앙코르와트",
+    "explain": "사진의 표제로 앙코르와트를 확인하고 캄보디아 APSARA 국가기구의 건립 시기·건립자·종교 설명으로 발문의 단서를 보충했다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-gichul-page-28",
+        "quote": "앙코르와트의 유적"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/7e94beeaea01c089017282e4a8ac6dfd371d70fe95486937b54d4a1af2e4403b.jpg",
+        "sha256": "7e94beeaea01c089017282e4a8ac6dfd371d70fe95486937b54d4a1af2e4403b",
+        "quote": "앙코르와트의 유적",
+        "location": "왼쪽 면 세 사진 중 가운데 사진 바로 아래 표제"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "앙코르와트",
+      "inputSha256": "1d2033bb2a3380b8e9ad728468b822b394e1613713e09ba4104788bfeee8ffb9"
+    },
+    "corroboration": [
+      {
+        "url": "https://apsaraauthority.gov.kh/2021/06/14/angkor-wat/",
+        "title": "캄보디아 APSARA 국가기구: 앙코르와트"
+      }
+    ],
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
   }
 ]

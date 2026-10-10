@@ -2010,5 +2010,79 @@
     "match": "exact",
     "keywordGroups": [],
     "rejectPatterns": []
+  },
+  {
+    "id": "gyoyukron-capture-practice-textbook-page-17-2",
+    "type": "blank",
+    "page": "gyoyukron-textbook-page-17",
+    "answer": "사실과 견해",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "교사가 보도내용의 진실성과 정확성을 충분히 확인하고 수업을 진행\n_____를 구별하는 데 중점",
+    "keyword": "역사교육론",
+    "explain": "신문·방송 자료에서는 확인할 수 있는 사실과 필자 또는 매체의 견해를 구별해야 한다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-textbook-page-17",
+        "quote": "교사가 보도내용의 진실성과 정확성을 충분히 확인하고 수업을 진행\n사실과 견해를 구별하는 데 중점"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/3450672d141ba5fa715063e1e61cf1472bed16ea5a393df4fd2fe6f4f29f45f8.jpg",
+        "sha256": "3450672d141ba5fa715063e1e61cf1472bed16ea5a393df4fd2fe6f4f29f45f8",
+        "quote": "교사가 보도내용의 진실성과 정확성을 충분히 확인하고 수업을 진행\n사실과 견해를 구별하는 데 중점",
+        "location": "오른쪽 인쇄 101쪽 시사자료 사용 시 유의점 ①·②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "역사교육론",
+      "inputSha256": "07d5ae85f99292d25eef7a8dfdc182d8035c5aaab703aa45f512e1455cdca5b6"
+    },
+    "stem": "원본 캡처 발췌문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "교사가 보도내용의 진실성과 정확성을 충분히 확인하고 수업을 진행\n",
+    "after": "를 구별하는 데 중점",
+    "passage": "교사가 보도내용의 진실성과 정확성을 충분히 확인하고 수업을 진행\n사실과 견해를 구별하는 데 중점",
+    "passageMode": "full"
+  },
+  {
+    "id": "gyoyukron-capture-practice-gichul-page-10-3",
+    "type": "blank",
+    "page": "gyoyukron-gichul-page-10",
+    "answer": "학생 수준",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "교사는 내용을 검토해서 _____에 적합하도록 표현을 바꾸고",
+    "keyword": "해상 무역 사료와 교사의 역할 / 중세 도시 사료와 사전 활동",
+    "explain": "사료의 낯선 표현을 학생 수준에 맞추어 제시하는 사전 지원이 필요하다.",
+    "evidence": [
+      {
+        "page": "gyoyukron-gichul-page-10",
+        "quote": "교사는 내용을 검토해서 학생 수준에 적합하도록 표현을 바꾸고"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b2409a8b9be3c70ec1ab2e1a6b642a7d7c35a33e5f3e46296fa88c24902c3dec.jpg",
+        "sha256": "b2409a8b9be3c70ec1ab2e1a6b642a7d7c35a33e5f3e46296fa88c24902c3dec",
+        "quote": "교사는 내용을 검토해서 학생 수준에 적합하도록 표현을 바꾸고",
+        "location": "오른쪽 인쇄 75쪽 예상 답안 첫째"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "해상 무역 사료와 교사의 역할 / 중세 도시 사료와 사전 활동",
+      "inputSha256": "c323729ba14a2d56be45b869ef721bff084b7d49aca2c33f99753b3e979f3a8d"
+    },
+    "stem": "원본 캡처 발췌문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "교사는 내용을 검토해서 ",
+    "after": "에 적합하도록 표현을 바꾸고",
+    "passage": "교사는 내용을 검토해서 학생 수준에 적합하도록 표현을 바꾸고",
+    "passageMode": "full"
   }
 ]

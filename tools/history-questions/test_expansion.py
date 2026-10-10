@@ -217,12 +217,14 @@ class ExpansionTests(unittest.TestCase):
         with patch.object(bank, "expand_generated", return_value={}) as hook, \
                 patch("shorts.extend_generated", side_effect=lambda subject, root, outputs: outputs) as short_hook, \
                 patch("source_cloze.extend_generated", side_effect=lambda subject, root, outputs: outputs) as source_hook, \
-                patch("page_practice.extend_generated", side_effect=lambda subject, root, outputs: outputs) as page_hook:
+                patch("page_practice.extend_generated", side_effect=lambda subject, root, outputs: outputs) as page_hook, \
+                patch("capture_practice.extend_generated", side_effect=lambda subject, root, outputs: outputs) as capture_hook:
             self.assertEqual(generate.generate(self.subject, generate.ROOT), {})
             hook.assert_called_once()
             short_hook.assert_called_once_with(self.subject, generate.ROOT, {})
             source_hook.assert_called_once_with(self.subject, generate.ROOT, {})
             page_hook.assert_called_once_with(self.subject, generate.ROOT, {})
+            capture_hook.assert_called_once_with(self.subject, generate.ROOT, {})
 
 
 if __name__ == "__main__":

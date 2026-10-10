@@ -112,6 +112,12 @@ def prepare(root, subjects=SUBJECTS):
     for subject in subjects:
         path = root / 'tools/history-questions/page-inputs' / f'{subject}.json'
         changed, report = prepare_subject(root, subject, read_json(path))
+        capture_path = root / 'tools/history-questions/capture-inputs' / f'{subject}.json'
+        if capture_path.exists():
+            from capture_practice import prepare_subject as prepare_captures, update_report
+            capture_changed, capture_report = prepare_captures(root, subject, read_json(capture_path), baseline_outputs=changed)
+            changed.update(capture_changed)
+            update_report(report, capture_report)
         outputs.update(changed); reports.append(report)
         entry = next(e for e in manifest if e['id'] == subject)
         folder = folder_for(root, subject)

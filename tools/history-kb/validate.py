@@ -6,11 +6,17 @@ from hashlib import sha256
 import json
 from pathlib import Path
 import re
+import sys
 from urllib.parse import parse_qs, urlparse
 
 from build import ROOT, SUBJECTS, DOM, outer_wrappers
 from compact import META
 from figures import load_figures, matches_source
+
+# Reuse the publication compiler's byte hashes, page ownership and review gate.
+# The input path still comes from the root being validated, including fixtures.
+sys.path.append(str(Path(__file__).resolve().parents[1] / "history-questions"))
+from capture_practice import ORIGIN as CAPTURE_ORIGIN, STATUS as CAPTURE_STATUS, folder_for, prepare_subject as prepare_captures
 
 
 def read_json(path):
@@ -23,7 +29,41 @@ def exact_evidence(owner, evidence, notes):
         assert item["quote"] and item["quote"] in notes[item["page"]]["text"], f'nonverbatim evidence: {owner}'
 
 
+def validate_capture_banks(root, subject, files):
+    """Return only capture IDs rebuilt exactly from the reviewed author input.
+
+    A sourceStatus label alone must never exempt a question from OCR evidence
+    checks. Recompilation also detects missing, extra or edited published rows.
+    This establishes traceability; it does not independently read the pixels.
+    """
+    prefix = f"{subject}-capture-practice-"
+    claimed = []
+    for name in ("facts", "questions", "blanks", "essays"):
+        for item in files[name]:
+            provenance = item.get("provenance", {})
+            if (item.get("id", "").startswith(prefix) or "captureEvidence" in item
+                    or provenance.get("origin") == CAPTURE_ORIGIN
+                    or provenance.get("sourceStatus") == CAPTURE_STATUS):
+                claimed.append((name, item))
+    path = root / "tools/history-questions/capture-inputs" / f"{subject}.json"
+    if not path.exists():
+        assert not claimed, f'capture input missing: {subject}'
+        return set()
+    folder = folder_for(root, subject)
+    baseline = {folder / f"{name}.json": files[name] for name in ("questions", "blanks", "essays")}
+    outputs, _ = prepare_captures(root, subject, read_json(path), baseline_outputs=baseline, require_complete=True)
+    expected = {}
+    for name in ("questions", "blanks"):
+        rebuilt = outputs[folder / f"{name}.json"]
+        assert rebuilt == files[name], f'published capture bank differs from reviewed input: {subject} / {name}'
+        expected.update({item["id"]: (name, item) for item in rebuilt if item["id"].startswith(prefix)})
+    for name, item in claimed:
+        assert expected.get(item.get("id")) == (name, item), f'unverified capture provenance: {item.get("id")}'
+    return set(expected)
+
+
 def validate_banks(root, subject, files, notes):
+    capture_ids = validate_capture_banks(root, subject, files)
     question_ids = set()
     for name in ["facts", "questions", "blanks"]:
         for item in files[name]:
@@ -31,7 +71,8 @@ def validate_banks(root, subject, files, notes):
             assert item["page"] in notes, f'missing question source: {owner}'
             if subject != "hand-memo":
                 assert item.get("evidence"), f'missing authored evidence: {owner}'
-            exact_evidence(owner, item.get("evidence", []), notes)
+            if owner not in capture_ids:
+                exact_evidence(owner, item.get("evidence", []), notes)
             if name == "facts":
                 continue
             assert item["id"] not in question_ids, f'duplicate question id: {item["id"]}'
@@ -44,7 +85,10 @@ def validate_banks(root, subject, files, notes):
                 assert type(item["answer"]) is int and 0 <= item["answer"] < len(choices), owner
             if "before" in item:
                 cloze = item["before"] + str(item["answer"]) + item.get("after", "")
-                assert cloze in notes[item["page"]]["text"].replace("**", ""), f'cloze differs from source: {owner}'
+                if owner in capture_ids:
+                    assert any(cloze in e["quote"] for e in item["captureEvidence"]), f'cloze differs from reviewed capture: {owner}'
+                else:
+                    assert cloze in notes[item["page"]]["text"].replace("**", ""), f'cloze differs from source: {owner}'
     private_dir = root / "functions/_data"
     if subject != "hand-memo":
         private_dir /= "subjects/" + subject

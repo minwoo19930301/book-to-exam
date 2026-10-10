@@ -580,5 +580,79 @@
     "keywordGroups": [],
     "rejectPatterns": [],
     "explain": "72. 역사교육 목적과 미디어 — * 이인호 : 바람직한 인간성의 함양 / 설화, 이야기로서의 역사.\n* 정현백 : 역사교육의 비판적 기능 중시, 인간해방 /\n사회과학적 이론과의 관련 속에서 전체 사회사적인 결정요인들을 설명.\n* 화이트 : 학교교육의 목적 중시 (민주시민의 덕목을 기르는 교육)\n리 : 역사는 내재적 가치를 가지고 있음. 정치적 목적에 이용 되어서는 안됨.\n<인식론적인 전환> \"교사는 어떻게 가르친 내용을 문제화하는가\"\n* 미디어 : 통합적, 총체화, 감수성, 통찰력.\nㄴ 객관적이고 공평하게 과거를 전부 그대로 재현하는 것이 아니라 여러가지\n표현방식을 통해 선택적으로 역사화한다.\n깊이, 전문성에서도 차이가 난다.\n정보의 생산과 전파에 관한 배경과 경로를 의문시할 수 있어야하고, 가치있는 정보를 창출해야 함."
+  },
+  {
+    "id": "hand-memo-capture-practice-p24-1",
+    "type": "blank",
+    "page": "p24",
+    "answer": "역사적 사고력",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "_____ 같은 추상적인 능력에 관한 학습목표를 제시하는데는 부적절하다.",
+    "keyword": "24. 행동목표와 구현목표",
+    "explain": "관찰 가능한 지식·기능의 목표와 달리 추상적인 역사적 사고력은 행동목표만으로 제시하기 어렵다는 설명이다.",
+    "evidence": [
+      {
+        "page": "p24",
+        "quote": "역사적 사고력 같은 추상적인 능력에 관한 학습목표를 제시하는데는 부적절하다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/pages/page_024_235s.jpg",
+        "sha256": "bec13f154fbcba2059d9de2ba93e1bb7c02eb8744f333138169831418a9e270c",
+        "quote": "역사적 사고력 같은 추상적인 능력에 관한 학습목표를 제시하는데는 부적절하다.",
+        "location": "행동목표 한계의 두 번째 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "24. 행동목표와 구현목표",
+      "inputSha256": "33e61d0d0c8aaa035090037aa9c88350bcddb3130fdd9c5fc9bcab05be620327"
+    },
+    "stem": "원본 캡처 발췌문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "",
+    "after": " 같은 추상적인 능력에 관한 학습목표를 제시하는데는 부적절하다.",
+    "passage": "역사적 사고력 같은 추상적인 능력에 관한 학습목표를 제시하는데는 부적절하다.",
+    "passageMode": "full"
+  },
+  {
+    "id": "hand-memo-capture-practice-p35-1",
+    "type": "blank",
+    "page": "p35",
+    "answer": "비판적 관점",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "자료나 사건에 대해 분석적, _____이 투영되기 어렵다.",
+    "keyword": "35. 이야기식 수업",
+    "explain": "이야기에 몰입하면서 교사의 해석을 그대로 받아들이는 한계를 보완하려면 자료와 사건을 비판적으로 검토해야 한다.",
+    "evidence": [
+      {
+        "page": "p35",
+        "quote": "자료나 사건에 대해 분석적, 비판적 관점이 투영되기 어렵다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/pages/page_035_341s.jpg",
+        "sha256": "1ca108ad773040da775f8cda0e0788380f621389e8b6049f386416e088e110ab",
+        "quote": "자료나 사건에 대해 분석적, 비판적 관점이 투영되기 어렵다.",
+        "location": "중앙 빨간 글씨의 두 번째 한계"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "35. 이야기식 수업",
+      "inputSha256": "daed417cec3cf4de95ffc3b749c7ad10230dc47d9ce08d85cc0b2b9f37b4a90c"
+    },
+    "stem": "원본 캡처 발췌문의 빈칸에 들어갈 개념을 쓰시오.",
+    "before": "자료나 사건에 대해 분석적, ",
+    "after": "이 투영되기 어렵다.",
+    "passage": "자료나 사건에 대해 분석적, 비판적 관점이 투영되기 어렵다.",
+    "passageMode": "full"
   }
 ]

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "subject": "hand-memo",
+  "reviews": [
+    {
+      "page": "p17",
+      "status": "content",
+      "captures": [
+        {
+          "src": "/pages/page_017_167s.jpg",
+          "sha256": "401b06930ad3847e11b3aed98151a00b26344fc056981d2eb4eacd265e5fc3f7"
+        }
+      ],
+      "summary": "시대사 방법론의 대상 학생, 내용 선정 기준, 장점과 한계를 사진에서 확인했다. 기존 2문항과 겹치지 않는 학습자 조건을 추가했다."
+    },
+    {
+      "page": "p24",
+      "status": "content",
+      "captures": [
+        {
+          "src": "/pages/page_024_235s.jpg",
+          "sha256": "bec13f154fbcba2059d9de2ba93e1bb7c02eb8744f333138169831418a9e270c"
+        }
+      ],
+      "summary": "행동목표·구현목표의 정의와 한계를 원본에서 확인했다. 기존 두 목표 식별 외에 행동목표로 진술하기 어려운 능력을 추가했다."
+    },
+    {
+      "page": "p35",
+      "status": "content",
+      "captures": [
+        {
+          "src": "/pages/page_035_341s.jpg",
+          "sha256": "1ca108ad773040da775f8cda0e0788380f621389e8b6049f386416e088e110ab"
+        }
+      ],
+      "summary": "이야기식 수업의 효과와 한계·구조화 방법을 사진에서 확인했다. 기존 수업 유형·맥락적 이해와 별개로 비판적 관점의 한계를 추가했다."
+    },
+    {
+      "page": "p44",
+      "status": "content",
+      "captures": [
+        {
+          "src": "/pages/page_044_414s.jpg",
+          "sha256": "7e0e6f4093f25b7269c0a54e13eab0fd827bb7733210b6b92fc82f74466e9518"
+        }
+      ],
+      "summary": "상단 사건학습과 하단 인물학습 유의점을 모두 확인했다. 기존 사건학습·인과성 문제 외에 인물학습의 맥락을 추가했다."
+    },
+    {
+      "page": "p54",
+      "status": "content",
+      "captures": [
+        {
+          "src": "/pages/page_054_496s.jpg",
+          "sha256": "c44ee0e6e64ab07dcedd8138e0eb07e4341f1e4d75180900ad6d560d68b34afa"
+        }
+      ],
+      "summary": "발생적 설명의 정의·단계별 법칙·교육적 효과를 확인했다. 기존 설명 방식·연속성 외에 다단계 인과 설명의 효과를 추가했다."
+    },
+    {
+      "page": "p46",
+      "status": "duplicate",
+      "captures": [
+        {
+          "src": "/pages/page_046_425s.jpg",
+          "sha256": "4f3fc4cea23b5016621911c33bde645e242f473291e89714be9e644f6dcd4e15"
+        }
+      ],
+      "summary": "p46와 p45의 원본 사진을 각각 열어 제목·문장·밑줄 위치까지 같은 손메모임을 확인했다.",
+      "reason": "인물학습의 동일한 손메모를 연속 촬영한 중복 페이지다. p45의 문제로 학습한다.",
+      "duplicateOf": "p45"
+    },
+    {
+      "page": "p49",
+      "status": "duplicate",
+      "captures": [
+        {
+          "src": "/pages/page_049_451s.jpg",
+          "sha256": "06a86e9c2f9857d731e5b450da61778a65346839fbf98b773613544920904250"
+        }
+      ],
+      "summary": "p49와 p48의 원본 사진을 각각 열어 제목·문장·밑줄 위치까지 같은 손메모임을 확인했다.",
+      "reason": "시기학습의 동일한 손메모를 연속 촬영한 중복 페이지다. p48의 문제로 학습한다.",
+      "duplicateOf": "p48"
+    },
+    {
+      "page": "p60",
+      "status": "duplicate",
+      "captures": [
+        {
+          "src": "/pages/page_060_538s.jpg",
+          "sha256": "bc59a90e75cf3223d1f39c2d1d87bcd06060d74832406d03ce035ccda4e605d9"
+        }
+      ],
+      "summary": "p60와 p59의 원본 사진을 각각 열어 제목·문장·밑줄 위치까지 같은 손메모임을 확인했다.",
+      "reason": "역사이해의 방식의 동일한 손메모를 연속 촬영한 중복 페이지다. p59의 문제로 학습한다.",
+      "duplicateOf": "p59"
+    }
+  ],
+  "questions": [
+    {
+      "id": "hand-memo-capture-practice-p17-1",
+      "page": "p17",
+      "kind": "short",
+      "prompt": "시대사 방법론은 사회 전체를 조감한 뒤 어떻게 해석할 수 있는 능력을 갖춘 학생에게 적합한가? 메모의 표현으로 쓰시오.",
+      "answer": "종합적으로 해석",
+      "acceptedAnswers": [
+        "종합적 해석"
+      ],
+      "evidence": [
+        {
+          "page": "p17",
+          "quote": "사회 전체를 조감하여 종합적으로 해석할 수 있는 능력을 갖춘 학생에게 적합하다."
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/pages/page_017_167s.jpg",
+          "sha256": "401b06930ad3847e11b3aed98151a00b26344fc056981d2eb4eacd265e5fc3f7",
+          "quote": "사회 전체를 조감하여 종합적으로 해석할 수 있는 능력을 갖춘 학생에게 적합하다.",
+          "location": "상단 제목 오른쪽 주석"
+        }
+      ],
+      "explain": "여러 분야와 관점을 함께 다루므로 사회 전체를 종합적으로 해석하는 능력이 학습자 조건으로 제시된다.",
+      "topic": "17. 시대사 방법론"
+    },
+    {
+      "id": "hand-memo-capture-practice-p24-1",
+      "page": "p24",
+      "kind": "cloze",
+      "prompt": "_____ 같은 추상적인 능력에 관한 학습목표를 제시하는데는 부적절하다.",
+      "answer": "역사적 사고력",
+      "acceptedAnswers": [],
+      "evidence": [
+        {
+          "page": "p24",
+          "quote": "역사적 사고력 같은 추상적인 능력에 관한 학습목표를 제시하는데는 부적절하다."
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/pages/page_024_235s.jpg",
+          "sha256": "bec13f154fbcba2059d9de2ba93e1bb7c02eb8744f333138169831418a9e270c",
+          "quote": "역사적 사고력 같은 추상적인 능력에 관한 학습목표를 제시하는데는 부적절하다.",
+          "location": "행동목표 한계의 두 번째 줄"
+        }
+      ],
+      "explain": "관찰 가능한 지식·기능의 목표와 달리 추상적인 역사적 사고력은 행동목표만으로 제시하기 어렵다는 설명이다.",
+      "topic": "24. 행동목표와 구현목표",
+      "passage": "역사적 사고력 같은 추상적인 능력에 관한 학습목표를 제시하는데는 부적절하다."
+    },
+    {
+      "id": "hand-memo-capture-practice-p35-1",
+      "page": "p35",
+      "kind": "cloze",
+      "prompt": "자료나 사건에 대해 분석적, _____이 투영되기 어렵다.",
+      "answer": "비판적 관점",
+      "acceptedAnswers": [],
+      "evidence": [
+        {
+          "page": "p35",
+          "quote": "자료나 사건에 대해 분석적, 비판적 관점이 투영되기 어렵다."
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/pages/page_035_341s.jpg",
+          "sha256": "1ca108ad773040da775f8cda0e0788380f621389e8b6049f386416e088e110ab",
+          "quote": "자료나 사건에 대해 분석적, 비판적 관점이 투영되기 어렵다.",
+          "location": "중앙 빨간 글씨의 두 번째 한계"
+        }
+      ],
+      "explain": "이야기에 몰입하면서 교사의 해석을 그대로 받아들이는 한계를 보완하려면 자료와 사건을 비판적으로 검토해야 한다.",
+      "topic": "35. 이야기식 수업",
+      "passage": "자료나 사건에 대해 분석적, 비판적 관점이 투영되기 어렵다."
+    },
+    {
+      "id": "hand-memo-capture-practice-p44-1",
+      "page": "p44",
+      "kind": "short",
+      "prompt": "인물학습에서 개인의 성향이나 개성에만 주목할 때 간과하기 쉬운, 인물이 처했던 역사적 조건을 메모의 표현으로 쓰시오.",
+      "answer": "시대적 배경",
+      "acceptedAnswers": [
+        "시대 배경"
+      ],
+      "evidence": [
+        {
+          "page": "p44",
+          "quote": "인물의 성향이나 개성에만 주목하여 인물이 처했던 시대적 배경을 간과해서는 안된다."
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/pages/page_044_414s.jpg",
+          "sha256": "7e0e6f4093f25b7269c0a54e13eab0fd827bb7733210b6b92fc82f74466e9518",
+          "quote": "인물의 성향이나 개성에만 주목하여 인물이 처했던 시대적 배경을 간과해서는 안된다.",
+          "location": "하단 인물학습 유의점 첫 번째 줄"
+        }
+      ],
+      "explain": "개인의 성격만으로 행위를 설명하면 그 인물이 처했던 시대적 배경을 놓치게 된다.",
+      "topic": "44. 사건학습"
+    },
+    {
+      "id": "hand-memo-capture-practice-p54-1",
+      "page": "p54",
+      "kind": "short",
+      "prompt": "발생적 설명에서 사건을 기원부터 최종 단계까지 발달적 계열로 파악하면, 원인과 결과의 관계가 단순하지 않다는 어떤 성격을 깨닫게 되는가?",
+      "answer": "인과관계의 복합성",
+      "acceptedAnswers": [
+        "인과적 복합성"
+      ],
+      "evidence": [
+        {
+          "page": "p54",
+          "quote": "역사적 사건을 기원부터 최종 단계까지 발달적 계열의 선상에서 파악하게 함으로써 인과관계의 복합성을 깨닫게 하고, 이를 통해 역사의식을 함양할 수 있다."
+        }
+      ],
+      "captureEvidence": [
+        {
+          "src": "/pages/page_054_496s.jpg",
+          "sha256": "c44ee0e6e64ab07dcedd8138e0eb07e4341f1e4d75180900ad6d560d68b34afa",
+          "quote": "역사적 사건을 기원부터 최종 단계까지 발달적 계열의 선상에서 파악하게 함으로써 인과관계의 복합성을 깨닫게 하고, 이를 통해 역사의식을 함양할 수 있다.",
+          "location": "상단 파란 글씨의 교육적 효과"
+        }
+      ],
+      "explain": "사건의 발전을 여러 단계와 조건으로 설명하면서 인과관계의 복합성을 이해하게 된다.",
+      "topic": "54. 발생적 설명"
+    }
+  ]
+}

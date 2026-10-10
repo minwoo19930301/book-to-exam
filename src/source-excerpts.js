@@ -16,9 +16,10 @@ export function maskExcerpt(text, question) {
 }
 
 export function shortExcerpts(question) {
+  const compared = question.provenance?.sourceStatus === "capture-compared-excerpt";
   const selected = (question.evidence || []).filter(entry => typeof entry?.quote === "string" && entry.quote.trim().length >= 25 && entry.page);
   const hasSource = selected.some(entry => /사료탐구|『|「|제\d+조|서문|선언|칙령/.test(entry.quote));
-  const enoughContext = selected.reduce((sum, entry) => sum + excerptText(entry.quote).trim().length, 0) >= 80;
+  const enoughContext = selected.reduce((sum, entry) => sum + excerptText(entry.quote).trim().length, 0) >= (compared ? 25 : 80);
   if (!enoughContext || !(hasSource || question.provenance?.skill === "source-analysis" || question.contextMode === "source-excerpt")) return [];
   return selected.map(entry => ({ page: entry.page, text: excerptText(entry.quote) }));
 }

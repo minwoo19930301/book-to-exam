@@ -20586,5 +20586,5239 @@
     },
     "stem": "원문을 바탕으로 개념을 쓰시오.",
     "choices": null
+  },
+  {
+    "id": "seoyangsa-capture-practice-4-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-4",
+    "answer": "함무라비",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "기원전 18세기 전반 고바빌로니아의 전성기를 이끈 왕으로 진단평가가 제시하는 인물은?",
+    "keyword": "함무라비",
+    "explain": "함무라비: BCE 18세기 전반 바빌로니아는 함무라비(Hammurabi)에 이르러 전성기를 맞이하였다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-4",
+        "quote": "BCE 18세기 전반 바빌로니아는 함무라비(Hammurabi)에 이르러 전성기를 맞이하였다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/bac3fd026157c5af228db7fe604c8203bf959e4fc9a6a13dcbc183efa3f7ab98.jpg",
+        "sha256": "bac3fd026157c5af228db7fe604c8203bf959e4fc9a6a13dcbc183efa3f7ab98",
+        "quote": "BCE 18세기 전반 바빌로니아는 함무라비(Hammurabi)에 이르러 전성기를 맞이하였다.",
+        "location": "오른쪽 13쪽 진단평가 02 첫 문장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "함무라비",
+      "inputSha256": "e73d2d4776f15faa53289787ad18b05cfc7e6b76ac7cd2ca4d1df6e6022546c3"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-4-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-4",
+    "answer": "하트셉수트",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "신왕국 시대 이집트의 여성 파라오로 진단평가에서 통치 방식을 묻는 대상이 된 인물은?",
+    "keyword": "하트셉수트",
+    "explain": "하트셉수트: 이집트 신왕국 시기 여자 파라오인 하트셉수트(Hatshepsut)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-4",
+        "quote": "이집트 신왕국 시기 여자 파라오인 하트셉수트(Hatshepsut)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/bac3fd026157c5af228db7fe604c8203bf959e4fc9a6a13dcbc183efa3f7ab98.jpg",
+        "sha256": "bac3fd026157c5af228db7fe604c8203bf959e4fc9a6a13dcbc183efa3f7ab98",
+        "quote": "이집트 신왕국 시기 여자 파라오인 하트셉수트(Hatshepsut)",
+        "location": "오른쪽 13쪽 진단평가 08 첫 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "하트셉수트",
+      "inputSha256": "7664c967edfc868db2abded1ef3c6fc6965e41fa14c61b2aca7f2908e2540ea2"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-4-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-4",
+    "answer": "네페르티티",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "종교개혁을 추진한 아멘호테프 4세와 함께 진단평가에 등장하는 이집트 왕비는?",
+    "keyword": "네페르티티",
+    "explain": "사진의 해당 문항은 아멘호테프 4세와 왕비 네페르티티를 함께 제시한다. 조언의 구체적 역할은 새 정답으로 요구하지 않는다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-4",
+        "quote": "왕비 네페르티티(Nefertiti)의 조언을 받아 시도한 종교개혁"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/bac3fd026157c5af228db7fe604c8203bf959e4fc9a6a13dcbc183efa3f7ab98.jpg",
+        "sha256": "bac3fd026157c5af228db7fe604c8203bf959e4fc9a6a13dcbc183efa3f7ab98",
+        "quote": "왕비 네페르티티(Nefertiti)의 조언을 받아 시도한 종교개혁",
+        "location": "오른쪽 13쪽 진단평가 09 첫째·둘째 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "네페르티티",
+      "inputSha256": "cd664a8d0d333ebe1a6ba0ac9c89ca8746e96d5e933e1b7ea27c3938a7f54eec"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-27-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-27",
+    "answer": "에피알테스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "기원전 462년 아테네의 급진 민주정 개혁을 다루는 진단평가에서 개혁 주체로 제시한 인물은?",
+    "keyword": "에피알테스",
+    "explain": "에피알테스: 기원전 462년 급진적인 민주주의자였던 에피알테스(Ephialtes)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-27",
+        "quote": "기원전 462년 급진적인 민주주의자였던 에피알테스(Ephialtes)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/646bb15fc5d777c70456d81e66ff82ae7451ee6a3737b5d38e450ccd1af2adc5.jpg",
+        "sha256": "646bb15fc5d777c70456d81e66ff82ae7451ee6a3737b5d38e450ccd1af2adc5",
+        "quote": "기원전 462년 급진적인 민주주의자였던 에피알테스(Ephialtes)",
+        "location": "오른쪽 57쪽 진단평가 06"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에피알테스",
+      "inputSha256": "1cf0e42bf7e342f7a9b6f6a97af585b0b503ded23eec35a43d57d7782bc39a0f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-27-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-27",
+    "answer": "알키비아데스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "기원전 415년 아테네의 시칠리아 대원정 추진과 연결되는 지휘자로 진단평가에 제시된 인물은?",
+    "keyword": "알키비아데스",
+    "explain": "알키비아데스: 기원전 415년, 알키비아데스 지휘 아래 진행된 시칠리아 대원정",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-27",
+        "quote": "기원전 415년, 알키비아데스 지휘 아래 진행된 시칠리아 대원정"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/646bb15fc5d777c70456d81e66ff82ae7451ee6a3737b5d38e450ccd1af2adc5.jpg",
+        "sha256": "646bb15fc5d777c70456d81e66ff82ae7451ee6a3737b5d38e450ccd1af2adc5",
+        "quote": "기원전 415년, 알키비아데스 지휘 아래 진행된 시칠리아 대원정",
+        "location": "오른쪽 57쪽 진단평가 10 첫 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "알키비아데스",
+      "inputSha256": "8d8083b5de8445748a404c95f85f8a34cdf31c5d37bd1172f954a6b89c5829c3"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-27-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-27",
+    "answer": "필리포스 2세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "기원전 4세기 중엽 마케도니아를 강국으로 키우고 그리스 통합을 추진한 알렉산드로스의 아버지는?",
+    "keyword": "필리포스 2세",
+    "explain": "필리포스 2세: 마케도니아의 필리포스 2세",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-27",
+        "quote": "마케도니아의 필리포스 2세"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/646bb15fc5d777c70456d81e66ff82ae7451ee6a3737b5d38e450ccd1af2adc5.jpg",
+        "sha256": "646bb15fc5d777c70456d81e66ff82ae7451ee6a3737b5d38e450ccd1af2adc5",
+        "quote": "마케도니아의 필리포스 2세",
+        "location": "오른쪽 57쪽 진단평가 14 첫 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "필리포스 2세",
+      "inputSha256": "71833d609bcc3477ca1cc0f6aae02a440d37c2f3b1ce082fceb52f9c70043230"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-38-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-38",
+    "answer": "기원전 509년",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "BCE 509년",
+      "BCE 509",
+      "BC 509년",
+      "기원전509"
+    ],
+    "prompt": "로마가 에트루리아 왕을 추방하고 공화정을 세운 전통적 연대로 진단평가가 제시하는 해는?",
+    "keyword": "기원전 509년",
+    "explain": "기원전 509년: 기원전 6세기 말(BCE 509로 전함)에는 에트루리아의 왕을 추방하고 공화정을 수립하였다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-38",
+        "quote": "기원전 6세기 말(BCE 509로 전함)에는 에트루리아의 왕을 추방하고 공화정을 수립하였다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ec9bde8e85d9c763346fc846db82635617e8e684180d6234dbcbae6901a7340e.jpg",
+        "sha256": "ec9bde8e85d9c763346fc846db82635617e8e684180d6234dbcbae6901a7340e",
+        "quote": "기원전 6세기 말(BCE 509로 전함)에는 에트루리아의 왕을 추방하고 공화정을 수립하였다.",
+        "location": "오른쪽 87쪽 진단평가 02 첫 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "기원전 509년",
+      "inputSha256": "5a00dae6b15684a347fb469816282d4601304ec0b8c598f54e6a284221ba1a05"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-38-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-38",
+    "answer": "호민관",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "트리부누스"
+    ],
+    "prompt": "로마의 독특한 관직으로 진단평가에 등장하는 tribunus의 한국어 명칭을 쓰시오.",
+    "keyword": "호민관",
+    "explain": "호민관: 호민관(tribunus",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-38",
+        "quote": "호민관(tribunus"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ec9bde8e85d9c763346fc846db82635617e8e684180d6234dbcbae6901a7340e.jpg",
+        "sha256": "ec9bde8e85d9c763346fc846db82635617e8e684180d6234dbcbae6901a7340e",
+        "quote": "호민관(tribunus",
+        "location": "오른쪽 87쪽 진단평가 03 첫 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "호민관",
+      "inputSha256": "1bf5f240c7979c8f8a8631dcf22c339f7800248ca4706fe61bc4d1cf7b6ea6b1"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-38-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-38",
+    "answer": "호르텐시우스법",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "로마의 신분투쟁을 정리하는 맥락에서 기원전 287년에 제정되었다고 제시하는 법의 이름은?",
+    "keyword": "호르텐시우스법",
+    "explain": "호르텐시우스법: 기원전 3세기 초(BCE 287) 제정된 호르텐시우스(Hortensius)법",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-38",
+        "quote": "기원전 3세기 초(BCE 287) 제정된 호르텐시우스(Hortensius)법"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ec9bde8e85d9c763346fc846db82635617e8e684180d6234dbcbae6901a7340e.jpg",
+        "sha256": "ec9bde8e85d9c763346fc846db82635617e8e684180d6234dbcbae6901a7340e",
+        "quote": "기원전 3세기 초(BCE 287) 제정된 호르텐시우스(Hortensius)법",
+        "location": "오른쪽 87쪽 진단평가 07 첫 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "호르텐시우스법",
+      "inputSha256": "8aa6ac227ea2ab4a22d4c2cb3b0ad4c6158039662df1f0fcaa5ecb523cba06fe"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-276-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-276",
+    "answer": "378년",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "서기 378년"
+    ],
+    "prompt": "서고트족이 비잔틴 군대를 격파한 아드리아노플 전투를 이동 연표는 어느 해에 배치하는가?",
+    "keyword": "378년",
+    "explain": "378년: 378 아드리아노플 전투, 서고트족이 비잔틴 군대 격파",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-276",
+        "quote": "378 아드리아노플 전투, 서고트족이 비잔틴 군대 격파"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/0165050e5cf8f5a3e987a8207c3944d683cd1006eb559456e2addf841b6ec52f.jpg",
+        "sha256": "0165050e5cf8f5a3e987a8207c3944d683cd1006eb559456e2addf841b6ec52f",
+        "quote": "378 아드리아노플 전투, 서고트족이 비잔틴 군대 격파",
+        "location": "오른쪽 141쪽 연표 첫 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "378년",
+      "inputSha256": "2d15737aee182ee65c9ee1ac0ffaae5adcc300340e29009ee75ad766640c477c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-276-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-276",
+    "answer": "아일랜드",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "민족 이동 연표에서 461년에 사망한 성 패트릭이 개종시킨 사람들의 지역으로 제시한 곳은?",
+    "keyword": "아일랜드",
+    "explain": "아일랜드: 아일랜드인을 개종시킨 성 패트릭(St. Patrick) 사망",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-276",
+        "quote": "아일랜드인을 개종시킨 성 패트릭(St. Patrick) 사망"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/0165050e5cf8f5a3e987a8207c3944d683cd1006eb559456e2addf841b6ec52f.jpg",
+        "sha256": "0165050e5cf8f5a3e987a8207c3944d683cd1006eb559456e2addf841b6ec52f",
+        "quote": "아일랜드인을 개종시킨 성 패트릭(St. Patrick) 사망",
+        "location": "오른쪽 141쪽 연표 461년 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "아일랜드",
+      "inputSha256": "a66c076296bbb94caf75a956ad35120bc88eb678d852909f1897595020a406ae"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-276-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-276",
+    "answer": "테오도리크",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "테오도리쿠스"
+    ],
+    "prompt": "493~526년의 통치 기간과 함께 이탈리아의 동고트 왕국 건설로 연결되는 인물은?",
+    "keyword": "테오도리크",
+    "explain": "테오도리크: 테오도리크 통치, 동고트 왕국을 이탈리아에 세움",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-276",
+        "quote": "테오도리크 통치, 동고트 왕국을 이탈리아에 세움"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/0165050e5cf8f5a3e987a8207c3944d683cd1006eb559456e2addf841b6ec52f.jpg",
+        "sha256": "0165050e5cf8f5a3e987a8207c3944d683cd1006eb559456e2addf841b6ec52f",
+        "quote": "테오도리크 통치, 동고트 왕국을 이탈리아에 세움",
+        "location": "오른쪽 141쪽 연표 마지막 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "테오도리크",
+      "inputSha256": "bafd6af03af4b36bd67b5a047106003029b4075b8e76a6e0148ff7ddd593526f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-67-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-67",
+    "answer": "카누트",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "크누트",
+      "크누트 대왕",
+      "카누트 대왕"
+    ],
+    "prompt": "1016년 영국에 침입해 왕위에 오른 덴마크 왕으로 이 페이지가 제시하는 인물은?",
+    "keyword": "카누트",
+    "explain": "카누트: 1016년 덴마크 왕 카누트(Canute 또는 Knut)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-67",
+        "quote": "1016년 덴마크 왕 카누트(Canute 또는 Knut)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/a8d3801f3c1489b0b04b6ec917a9fa48427213570858a23d252f7dc37a594208.jpg",
+        "sha256": "a8d3801f3c1489b0b04b6ec917a9fa48427213570858a23d252f7dc37a594208",
+        "quote": "1016년 덴마크 왕 카누트(Canute 또는 Knut)",
+        "location": "오른쪽 165쪽 진단평가 06"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "카누트",
+      "inputSha256": "958419ceb7e4ddea2e0186cc0ac73e97abf9fd66ad5d854cdcc79374facde0ce"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-67-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-67",
+    "answer": "루이 5세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "프랑스 카롤링거 왕조의 마지막 왕으로 986~987년 재위가 제시된 인물은?",
+    "keyword": "루이 5세",
+    "explain": "루이 5세: 카롤링거 왕조의 마지막 왕인 루이 5세(986~987)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-67",
+        "quote": "카롤링거 왕조의 마지막 왕인 루이 5세(986~987)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/a8d3801f3c1489b0b04b6ec917a9fa48427213570858a23d252f7dc37a594208.jpg",
+        "sha256": "a8d3801f3c1489b0b04b6ec917a9fa48427213570858a23d252f7dc37a594208",
+        "quote": "카롤링거 왕조의 마지막 왕인 루이 5세(986~987)",
+        "location": "오른쪽 165쪽 진단평가 09"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "루이 5세",
+      "inputSha256": "150b92e06e0f526e5a01da2bbac028e54426240b7a3269f9f2c6f41a65bac9d4"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-67-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-67",
+    "answer": "키릴과 메토디우스",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "키릴과 메토디오스",
+      "키릴 메토디우스",
+      "메토디우스와 키릴"
+    ],
+    "prompt": "9세기 모라비아의 슬라브족 선교와 관련해 진단평가에 등장하는 형제 두 사람을 쓰시오.",
+    "keyword": "키릴과 메토디우스",
+    "explain": "키릴과 메토디우스: 키릴(Cyril)과 메토디우스(Methodius) 형제",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-67",
+        "quote": "키릴(Cyril)과 메토디우스(Methodius) 형제"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/a8d3801f3c1489b0b04b6ec917a9fa48427213570858a23d252f7dc37a594208.jpg",
+        "sha256": "a8d3801f3c1489b0b04b6ec917a9fa48427213570858a23d252f7dc37a594208",
+        "quote": "키릴(Cyril)과 메토디우스(Methodius) 형제",
+        "location": "오른쪽 165쪽 진단평가 13"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "키릴과 메토디우스",
+      "inputSha256": "c150b10661d0a40293277bf90c30b809caeed0c07941cef284fe5a1202b35f14"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-333-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-333",
+    "answer": "가톨릭",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "로마 가톨릭",
+      "천주교"
+    ],
+    "prompt": "남슬라브족의 종교 수용을 정리한 본문에서 크로아티아가 수용한 종교 계통은?",
+    "keyword": "가톨릭",
+    "explain": "가톨릭: 크로아티아(가톨릭), 세르비아(그리스 정교)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-333",
+        "quote": "크로아티아(가톨릭), 세르비아(그리스 정교)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/6bb06e3f176e9b9fc014d88a0aa22d868069c4abac4ecee71e638dee185e34f4.jpg",
+        "sha256": "6bb06e3f176e9b9fc014d88a0aa22d868069c4abac4ecee71e638dee185e34f4",
+        "quote": "크로아티아(가톨릭), 세르비아(그리스 정교)",
+        "location": "왼쪽 178쪽 02 비잔틴 제국의 영향 (2) 종교적 변화"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "가톨릭",
+      "inputSha256": "29397e1ed0adbecb300c2c0ad1dade60ce4ba384e526adbc3a4f97f6f5eac8b9"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-85-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-85",
+    "answer": "제노바와 피사",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "피사와 제노바",
+      "제노바 피사"
+    ],
+    "prompt": "11세기 이슬람권과의 관계를 비교하도록 제시된 두 이탈리아 상업 도시를 쓰시오.",
+    "keyword": "제노바와 피사",
+    "explain": "제노바와 피사: 제노바(Genoa)나 피사(Pisa)와 같은 상업 도시",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-85",
+        "quote": "제노바(Genoa)나 피사(Pisa)와 같은 상업 도시"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/66141083c79ae228e9087fb6da01e5ddcfb69b63e9505f8cbcbda9153324c32f.jpg",
+        "sha256": "66141083c79ae228e9087fb6da01e5ddcfb69b63e9505f8cbcbda9153324c32f",
+        "quote": "제노바(Genoa)나 피사(Pisa)와 같은 상업 도시",
+        "location": "왼쪽 206쪽 진단평가 02"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "제노바와 피사",
+      "inputSha256": "bb7d755f78afef5cbc55ed5e7df20f520bde0b114cd0425e818b716b1321ccb4"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-85-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-85",
+    "answer": "샹파뉴",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "샹파뉴 지방",
+      "샴페인"
+    ],
+    "prompt": "중세 원거리 교역에서 정기시의 중요성과 쇠퇴 원인을 연속하여 묻는 프랑스 지역은?",
+    "keyword": "샹파뉴",
+    "explain": "샹파뉴: 프랑스의 샹파뉴(Champagne)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-85",
+        "quote": "프랑스의 샹파뉴(Champagne)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/66141083c79ae228e9087fb6da01e5ddcfb69b63e9505f8cbcbda9153324c32f.jpg",
+        "sha256": "66141083c79ae228e9087fb6da01e5ddcfb69b63e9505f8cbcbda9153324c32f",
+        "quote": "프랑스의 샹파뉴(Champagne)",
+        "location": "왼쪽 206쪽 진단평가 03~04"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "샹파뉴",
+      "inputSha256": "3edeebf88bed25760848e4219c0531becd91bbbab0e00c761e86957a7d466975"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-85-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-85",
+    "answer": "독일 기사단",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "튜턴 기사단"
+    ],
+    "prompt": "종교적 군사 단체 가운데 Teutonic Knights라는 이름으로 13세기 이후 활동을 묻는 단체는?",
+    "keyword": "독일 기사단",
+    "explain": "독일 기사단: 독일 기사단(Teutonic Knights)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-85",
+        "quote": "독일 기사단(Teutonic Knights)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/66141083c79ae228e9087fb6da01e5ddcfb69b63e9505f8cbcbda9153324c32f.jpg",
+        "sha256": "66141083c79ae228e9087fb6da01e5ddcfb69b63e9505f8cbcbda9153324c32f",
+        "quote": "독일 기사단(Teutonic Knights)",
+        "location": "오른쪽 207쪽 진단평가 20"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "독일 기사단",
+      "inputSha256": "59146468d0419fa8a74e2e8510a917050a0d454257c5f58c385e14694a61a6c8"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-9-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-9",
+    "answer": "이르네리우스",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "이르네리오"
+    ],
+    "prompt": "볼로냐 대학에서 로마법을 강의하고 유스티니아누스 법전 연구와 연결되는 법학자는?",
+    "keyword": "이르네리우스",
+    "explain": "사진은 이르네리우스 아래에 유스티니아누스 법전 연구와 볼로냐 대학의 로마법 강의를 열거한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-9",
+        "quote": "이르네리우스(Irnerius, 1055?~1140?)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d45c59b79f1847ee9ae6a290a7c2441488fee77fe971277665e6d802484c85c7.jpg",
+        "sha256": "d45c59b79f1847ee9ae6a290a7c2441488fee77fe971277665e6d802484c85c7",
+        "quote": "이르네리우스(Irnerius, 1055?~1140?)",
+        "location": "오른쪽 237쪽 (3) 로마법의 부활과 교회법"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "이르네리우스",
+      "inputSha256": "e4efa5ea4dd84473fe9c967c851fa7a7b6b4e0f1069912c6aa731201811576dd"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-9-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-9",
+    "answer": "그라티아누스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "12세기 교회법을 연구하고 『교회법집성』으로 교회법 체계화에 기여한 인물은?",
+    "keyword": "그라티아누스",
+    "explain": "사진은 그라티아누스 아래에 교회법 연구 및 『교회법집성』을 설명한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-9",
+        "quote": "그라티아누스(Gratianus, ?~1158)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d45c59b79f1847ee9ae6a290a7c2441488fee77fe971277665e6d802484c85c7.jpg",
+        "sha256": "d45c59b79f1847ee9ae6a290a7c2441488fee77fe971277665e6d802484c85c7",
+        "quote": "그라티아누스(Gratianus, ?~1158)",
+        "location": "오른쪽 237쪽 교회법 항목"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "그라티아누스",
+      "inputSha256": "180a16049e857e27f9a25cff759d5ebff3ea3ccaf5c96c2697c219979d3e9edb"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-9-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-9",
+    "answer": "공정 가격",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "정당 가격"
+    ],
+    "prompt": "중세 경제사상에서 라틴어 just price라는 표기로 상품·생산비·생계를 고려한 정당한 교환 기준을 가리키는 개념은?",
+    "keyword": "공정 가격",
+    "explain": "공정 가격: 공정 가격(just price) 이론",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-9",
+        "quote": "공정 가격(just price) 이론"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d45c59b79f1847ee9ae6a290a7c2441488fee77fe971277665e6d802484c85c7.jpg",
+        "sha256": "d45c59b79f1847ee9ae6a290a7c2441488fee77fe971277665e6d802484c85c7",
+        "quote": "공정 가격(just price) 이론",
+        "location": "왼쪽 236쪽 04 사상과 과학의 발달 (1) 경제사상"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "공정 가격",
+      "inputSha256": "1fc4d559f0ac3ad9e07e6f0426ec735e53e24cc675d09401cc37480e166b51b1"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-322-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-322",
+    "answer": "피렌체",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "1378년 치옴피의 반란이 발생했다고 진단평가에 명시한 이탈리아 도시는?",
+    "keyword": "피렌체",
+    "explain": "피렌체: 1378년에 피렌체에서 발생한 치옴피(Ciompi)의 반란",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-322",
+        "quote": "1378년에 피렌체에서 발생한 치옴피(Ciompi)의 반란"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/12665ddc4c53eac802bf7489b1a9ef484492c6fee43f7045f940c2d978c92977.jpg",
+        "sha256": "12665ddc4c53eac802bf7489b1a9ef484492c6fee43f7045f940c2d978c92977",
+        "quote": "1378년에 피렌체에서 발생한 치옴피(Ciompi)의 반란",
+        "location": "왼쪽 244쪽 진단평가 10"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "피렌체",
+      "inputSha256": "d4aa29a56910995972465076598d503ce717ef647f262ca15a36c5e178fbafb9"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-322-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-322",
+    "answer": "에드워드 3세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "백년전쟁 전후의 영국을 다루는 진단평가에서 재위 1327~1377년으로 표시한 왕은?",
+    "keyword": "에드워드 3세",
+    "explain": "에드워드 3세: 에드워드 3세(1327~1377)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-322",
+        "quote": "에드워드 3세(1327~1377)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/12665ddc4c53eac802bf7489b1a9ef484492c6fee43f7045f940c2d978c92977.jpg",
+        "sha256": "12665ddc4c53eac802bf7489b1a9ef484492c6fee43f7045f940c2d978c92977",
+        "quote": "에드워드 3세(1327~1377)",
+        "location": "오른쪽 245쪽 진단평가 14"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에드워드 3세",
+      "inputSha256": "091169f4568bc678a72ca82b53bc48a83ac6f191e6d5130f1e7906352faa6e79"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-322-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-322",
+    "answer": "아쟁쿠르 전투",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "아쟁쿠르",
+      "아진쿠르 전투",
+      "아진쿠르"
+    ],
+    "prompt": "헨리 5세의 대프랑스 전쟁을 다루며 1415년의 전투로 제시한 사건은?",
+    "keyword": "아쟁쿠르 전투",
+    "explain": "아쟁쿠르 전투: 아쟁쿠르(Agincourt)의 전투(1415)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-322",
+        "quote": "아쟁쿠르(Agincourt)의 전투(1415)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/12665ddc4c53eac802bf7489b1a9ef484492c6fee43f7045f940c2d978c92977.jpg",
+        "sha256": "12665ddc4c53eac802bf7489b1a9ef484492c6fee43f7045f940c2d978c92977",
+        "quote": "아쟁쿠르(Agincourt)의 전투(1415)",
+        "location": "오른쪽 245쪽 진단평가 19"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "아쟁쿠르 전투",
+      "inputSha256": "e7f153eb6bd7a4eb7c25f7da6b6ee17aca4c770929b042ad9d67e713391ca8ff"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-115-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-115",
+    "answer": "카스틸리오네",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "발다사레 카스틸리오네"
+    ],
+    "prompt": "1528년 『궁정인』에서 이상적인 궁정인의 모습을 제시한 이탈리아 저술가는?",
+    "keyword": "카스틸리오네",
+    "explain": "카스틸리오네: 카스틸리오네(Castiglione)의 『궁정인』",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-115",
+        "quote": "카스틸리오네(Castiglione)의 『궁정인』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b4b05232bc06d73f58f6cb8b0132d72a12d64b4dd5b21cd4e62a02383a9c130c.jpg",
+        "sha256": "b4b05232bc06d73f58f6cb8b0132d72a12d64b4dd5b21cd4e62a02383a9c130c",
+        "quote": "카스틸리오네(Castiglione)의 『궁정인』",
+        "location": "왼쪽 268쪽 진단평가 10"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "카스틸리오네",
+      "inputSha256": "0116a40f73422d77c867a3533ac522a694eb0b2cf267f17982990b493de56a59"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-115-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-115",
+    "answer": "포르투갈과 에스파냐",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "에스파냐와 포르투갈",
+      "포르투갈과 스페인",
+      "스페인과 포르투갈"
+    ],
+    "prompt": "토르데시야스 조약을 체결한 두 이베리아 국가를 모두 쓰시오.",
+    "keyword": "포르투갈과 에스파냐",
+    "explain": "포르투갈과 에스파냐: 포르투갈과 에스파냐, 두 나라 간에 체결된 토르데시야스(Tordesillas) 조약",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-115",
+        "quote": "포르투갈과 에스파냐, 두 나라 간에 체결된 토르데시야스(Tordesillas) 조약"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b4b05232bc06d73f58f6cb8b0132d72a12d64b4dd5b21cd4e62a02383a9c130c.jpg",
+        "sha256": "b4b05232bc06d73f58f6cb8b0132d72a12d64b4dd5b21cd4e62a02383a9c130c",
+        "quote": "포르투갈과 에스파냐, 두 나라 간에 체결된 토르데시야스(Tordesillas) 조약",
+        "location": "오른쪽 269쪽 진단평가 16"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "포르투갈과 에스파냐",
+      "inputSha256": "d19de5c07aa79dbac473ed810d2a6bfaadc5c6ec3ac7856b9d45a7719ebe3971"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-115-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-115",
+    "answer": "1529년",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "태평양 방면의 세력권과 관련된 사라고사 조약의 체결 연도로 이 페이지가 제시하는 해는?",
+    "keyword": "1529년",
+    "explain": "1529년: 1529년 사라고사(Saragossa) 조약",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-115",
+        "quote": "1529년 사라고사(Saragossa) 조약"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/b4b05232bc06d73f58f6cb8b0132d72a12d64b4dd5b21cd4e62a02383a9c130c.jpg",
+        "sha256": "b4b05232bc06d73f58f6cb8b0132d72a12d64b4dd5b21cd4e62a02383a9c130c",
+        "quote": "1529년 사라고사(Saragossa) 조약",
+        "location": "오른쪽 269쪽 진단평가 17"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "1529년",
+      "inputSha256": "b8b32def37e2596c30cc38e732e2cc6eb62dca210476760ff0cc6365df70dbad"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-310-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-310",
+    "answer": "종속문화",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "종교개혁의 민중문화 변모 항목에서 반문화였던 민중문화가 지배적 규율 아래 어떤 문화로 변했다고 설명하는가?",
+    "keyword": "종속문화",
+    "explain": "종속문화: 민중문화를 반문화에서 종속문화로 변형",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-310",
+        "quote": "민중문화를 반문화에서 종속문화로 변형"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/c6c9f96308eb98e22d7c253fc7c8db3ab96afceb808bd9548072e05bfe4ca9de.jpg",
+        "sha256": "c6c9f96308eb98e22d7c253fc7c8db3ab96afceb808bd9548072e05bfe4ca9de",
+        "quote": "민중문화를 반문화에서 종속문화로 변형",
+        "location": "오른쪽 303쪽 (2) 종교개혁의 영향 ③ 민중문화의 변모"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "종속문화",
+      "inputSha256": "cef2719fcc4eb2b28a57fd3d4395ce779474a0f4b49cfd373178becf1a773508"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-310-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-310",
+    "answer": "가부장제도",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "가부장제"
+    ],
+    "prompt": "종교개혁 이후 여성에 대한 영향을 설명할 때 사유재산권과 함께 강화되는 남성 중심 가족 권위의 제도는?",
+    "keyword": "가부장제도",
+    "explain": "가부장제도: 가부장제도와 사유재산권",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-310",
+        "quote": "가부장제도와 사유재산권"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/c6c9f96308eb98e22d7c253fc7c8db3ab96afceb808bd9548072e05bfe4ca9de.jpg",
+        "sha256": "c6c9f96308eb98e22d7c253fc7c8db3ab96afceb808bd9548072e05bfe4ca9de",
+        "quote": "가부장제도와 사유재산권",
+        "location": "오른쪽 303쪽 ③ 민중문화의 변모 아래 16~18세기 여성 관련 항목"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "가부장제도",
+      "inputSha256": "e8f18b1806e33aaf7031b0012ba014ff380615da18329faf0c3c6ecabb499178"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-134-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-134",
+    "answer": "카를로스 2세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "후계자 없이 사망해 에스파냐 왕위 계승 전쟁으로 이어진, 1665~1700년 재위의 합스부르크 왕은?",
+    "keyword": "카를로스 2세",
+    "explain": "카를로스 2세: 에스파냐의 카를로스 2세(1665~1700)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-134",
+        "quote": "에스파냐의 카를로스 2세(1665~1700)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/cbc5891acf0a87629cdddf136ac0daeb498b9884d76b926f7f6d74dfe78e1c7b.jpg",
+        "sha256": "cbc5891acf0a87629cdddf136ac0daeb498b9884d76b926f7f6d74dfe78e1c7b",
+        "quote": "에스파냐의 카를로스 2세(1665~1700)",
+        "location": "오른쪽 307쪽 진단평가 13"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "카를로스 2세",
+      "inputSha256": "2c215cdffab13e42df6ed1b688ea78b996e0c7daf9b27bcfcbd2885d2707afa8"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-134-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-134",
+    "answer": "아우크스부르크 동맹 전쟁",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "9년 전쟁"
+    ],
+    "prompt": "루이 14세 시기 1688~1697년에 일어난 전쟁으로 진단평가가 제시하는 명칭은?",
+    "keyword": "아우크스부르크 동맹 전쟁",
+    "explain": "아우크스부르크 동맹 전쟁: 아우크스부르크 동맹 전쟁(1688~1697)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-134",
+        "quote": "아우크스부르크 동맹 전쟁(1688~1697)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/cbc5891acf0a87629cdddf136ac0daeb498b9884d76b926f7f6d74dfe78e1c7b.jpg",
+        "sha256": "cbc5891acf0a87629cdddf136ac0daeb498b9884d76b926f7f6d74dfe78e1c7b",
+        "quote": "아우크스부르크 동맹 전쟁(1688~1697)",
+        "location": "오른쪽 307쪽 진단평가 12"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "아우크스부르크 동맹 전쟁",
+      "inputSha256": "75c89563a0dd6f2a45e011c39a06be4391e889e7654585bd5204dfb67ecef806"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-134-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-134",
+    "answer": "카를 6세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "마리아 테레지아의 왕위 계승을 확보하기 위한 조치와 연결되는, 1711~1740년 재위의 오스트리아 황제는?",
+    "keyword": "카를 6세",
+    "explain": "카를 6세: 카를 6세(1711~1740)가 딸 마리아 테레지아",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-134",
+        "quote": "카를 6세(1711~1740)가 딸 마리아 테레지아"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/cbc5891acf0a87629cdddf136ac0daeb498b9884d76b926f7f6d74dfe78e1c7b.jpg",
+        "sha256": "cbc5891acf0a87629cdddf136ac0daeb498b9884d76b926f7f6d74dfe78e1c7b",
+        "quote": "카를 6세(1711~1740)가 딸 마리아 테레지아",
+        "location": "오른쪽 307쪽 진단평가 17"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "카를 6세",
+      "inputSha256": "266dae5dff2d368cee0da54a2095fb0e7d71452181559154cb635beaa999f3ac"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-316-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-316",
+    "answer": "푸가초프",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "예멜리얀 푸가초프"
+    ],
+    "prompt": "1773년 코사크와 농노가 참여한 러시아의 대반란에서 지도자로 등장하는 인물은?",
+    "keyword": "푸가초프",
+    "explain": "푸가초프: 푸가초프(Pugachov)의 대반란",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-316",
+        "quote": "푸가초프(Pugachov)의 대반란"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/e37810ddf9efe30e3a154b31ce3691c31b3110291fc08bdd4c650bd38c1c0ecb.jpg",
+        "sha256": "e37810ddf9efe30e3a154b31ce3691c31b3110291fc08bdd4c650bd38c1c0ecb",
+        "quote": "푸가초프(Pugachov)의 대반란",
+        "location": "왼쪽 308쪽 진단평가 25"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "푸가초프",
+      "inputSha256": "ddf8ca177958113e72efc2b4e8240a14bc0797cd0ab7f230ffaab7b9df954139"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-137-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-137",
+    "answer": "테르시오",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "테르시오 진형"
+    ],
+    "prompt": "근대 초기 전투에서 장창병과 화승총병 등을 결합하여 운용하던 보병 대형으로 사진의 도해 제목에 제시된 것은?",
+    "keyword": "테르시오",
+    "explain": "테르시오: 테르시오(tercio) 진형",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-137",
+        "quote": "테르시오(tercio) 진형"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/0e8b2d48fd04b4b0ef3a3db0c7dc5c5ab43d4f83749289717839621e4794882f.jpg",
+        "sha256": "0e8b2d48fd04b4b0ef3a3db0c7dc5c5ab43d4f83749289717839621e4794882f",
+        "quote": "테르시오(tercio) 진형",
+        "location": "오른쪽 313쪽 군사혁명 내용 ③과 도해 제목"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "테르시오",
+      "inputSha256": "3422343a17a669f9fdfa62a19a723674ef37f4ff2753fb27136a4dc51feaf340"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-156-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-156",
+    "answer": "연설할 권리",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "정치적 연설의 권리",
+      "연설권"
+    ],
+    "prompt": "구주는 여성이 단두대에서 처형될 수 있다는 점과 대비하여 회의의 연단에서 남성과 동등하게 어떤 권리를 가져야 한다고 주장했는가?",
+    "keyword": "연설할 권리",
+    "explain": "연설할 권리: 연단에서 연설할 권리도 남성과 똑같이 가질 수 있다",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-156",
+        "quote": "연단에서 연설할 권리도 남성과 똑같이 가질 수 있다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4bc7521743f8fb2b0f201908d702831b6cdbbb3f30b46a83bbc2d0011ddf0ec2.jpg",
+        "sha256": "4bc7521743f8fb2b0f201908d702831b6cdbbb3f30b46a83bbc2d0011ddf0ec2",
+        "quote": "연단에서 연설할 권리도 남성과 똑같이 가질 수 있다",
+        "location": "왼쪽 350쪽 올랭프 드 구주 여성선언 제10조 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "연설할 권리",
+      "inputSha256": "6d898372c63a17805730e97a39e534a438a527a4f4c5d1981c4f92f0df1b4af7"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-157-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-157",
+    "answer": "공리주의",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "영국 계몽주의의 후대 영향을 정리한 표에서 벤담과 연결해 제시하는 윤리·정치 사상의 명칭은?",
+    "keyword": "공리주의",
+    "explain": "공리주의: 벤담의 공리주의의 영향",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-157",
+        "quote": "벤담의 공리주의의 영향"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/c357e8ac1481f797af7542cb54d166a4d64de74002567dc90b95de84365e91b4.jpg",
+        "sha256": "c357e8ac1481f797af7542cb54d166a4d64de74002567dc90b95de84365e91b4",
+        "quote": "벤담의 공리주의의 영향",
+        "location": "왼쪽 352쪽 성과 표의 영국 행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "공리주의",
+      "inputSha256": "0b1d1c76b6e2720bfa178c1b343fb5ed2de698da515d5031227a4ea0593def3e"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-280-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-280",
+    "answer": "제임스 6세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "잉글랜드 왕 제임스 1세와 동일 인물인 스코틀랜드 왕의 이름을 스코틀랜드의 대수로 쓰시오.",
+    "keyword": "제임스 6세",
+    "explain": "제임스 6세: 스코틀랜드 왕 제임스 6세가 영국 왕 제임스 1세(1603~1625)로",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-280",
+        "quote": "스코틀랜드 왕 제임스 6세가 영국 왕 제임스 1세(1603~1625)로"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/db318baaead7db1bdb77d107c6914d7fa7bffed6342fd391b4779b6ab0f26af5.jpg",
+        "sha256": "db318baaead7db1bdb77d107c6914d7fa7bffed6342fd391b4779b6ab0f26af5",
+        "quote": "스코틀랜드 왕 제임스 6세가 영국 왕 제임스 1세(1603~1625)로",
+        "location": "오른쪽 355쪽 진단평가 02"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "제임스 6세",
+      "inputSha256": "7d6992ac2ccbf55a80fed64d098c8af445cb87d8320297b94f190d6822bc183f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-280-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-280",
+    "answer": "젠트리",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "크롬웰의 출신 계층으로 진단평가에 명시된 영국 지방의 지주 신사층을 쓰시오.",
+    "keyword": "젠트리",
+    "explain": "젠트리: 의회파인 동부의 젠트리 출신인 크롬웰",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-280",
+        "quote": "의회파인 동부의 젠트리 출신인 크롬웰"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/db318baaead7db1bdb77d107c6914d7fa7bffed6342fd391b4779b6ab0f26af5.jpg",
+        "sha256": "db318baaead7db1bdb77d107c6914d7fa7bffed6342fd391b4779b6ab0f26af5",
+        "quote": "의회파인 동부의 젠트리 출신인 크롬웰",
+        "location": "오른쪽 355쪽 진단평가 05"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "젠트리",
+      "inputSha256": "399ca79b65fa58b94c930fbfa66bb3f24f59b3b9c23ba085231f0adc43242393"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-280-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-280",
+    "answer": "장기의회",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "1640년에 열려 1653년까지 사실상 존속한 의회로, 사진에 Long Parliament라고 제시된 것은?",
+    "keyword": "장기의회",
+    "explain": "장기의회: 1653년에 가서야 정식으로 해산되는 장기의회(Long Parliament)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-280",
+        "quote": "1653년에 가서야 정식으로 해산되는 장기의회(Long Parliament)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/db318baaead7db1bdb77d107c6914d7fa7bffed6342fd391b4779b6ab0f26af5.jpg",
+        "sha256": "db318baaead7db1bdb77d107c6914d7fa7bffed6342fd391b4779b6ab0f26af5",
+        "quote": "1653년에 가서야 정식으로 해산되는 장기의회(Long Parliament)",
+        "location": "오른쪽 355쪽 진단평가 04"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "장기의회",
+      "inputSha256": "e128a3d6946671a46e312d2337482defd88b95eb5d3019f6ae4e28691c1dd711"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-158-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-158",
+    "answer": "앤 여왕",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "앤",
+      "앤 스튜어트"
+    ],
+    "prompt": "1707년 잉글랜드와 스코틀랜드의 통합법이 이루어진 때의 군주로 사진에 명시된 인물은?",
+    "keyword": "앤 여왕",
+    "explain": "앤 여왕: 앤 여왕 치세에 마련된 통합법(Act of Union, 1707)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-158",
+        "quote": "앤 여왕 치세에 마련된 통합법(Act of Union, 1707)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/fa0a3ca504055cd64619dcbf63382023234bb090920fb7eebb96a9e0eb66d9cb.jpg",
+        "sha256": "fa0a3ca504055cd64619dcbf63382023234bb090920fb7eebb96a9e0eb66d9cb",
+        "quote": "앤 여왕 치세에 마련된 통합법(Act of Union, 1707)",
+        "location": "왼쪽 356쪽 진단평가 14"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "앤 여왕",
+      "inputSha256": "0205b51d4192bffdd2192262a4c4c34dffc41664ea76387800ee34eee3e6a627"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-158-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-158",
+    "answer": "필라델피아",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "제1차 대륙회의가 개최되었다고 진단평가 문장에 명시한 북아메리카 도시는?",
+    "keyword": "필라델피아",
+    "explain": "필라델피아: 필라델피아에서 개최된 제1차 대륙회의(Continental Congress)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-158",
+        "quote": "필라델피아에서 개최된 제1차 대륙회의(Continental Congress)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/fa0a3ca504055cd64619dcbf63382023234bb090920fb7eebb96a9e0eb66d9cb.jpg",
+        "sha256": "fa0a3ca504055cd64619dcbf63382023234bb090920fb7eebb96a9e0eb66d9cb",
+        "quote": "필라델피아에서 개최된 제1차 대륙회의(Continental Congress)",
+        "location": "왼쪽 356쪽 진단평가 20"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "필라델피아",
+      "inputSha256": "a1efc1f39d02644f14d3236ab14d3f768ebb60528207d804b18bc344f4b987de"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-158-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-158",
+    "answer": "베르사유",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "베르사유 궁전"
+    ],
+    "prompt": "1789년 5월 삼부회의가 소집된 장소로 진단평가에 제시된 도시는?",
+    "keyword": "베르사유",
+    "explain": "베르사유: 1789년 5월 베르사유에 소집된 삼부회의",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-158",
+        "quote": "1789년 5월 베르사유에 소집된 삼부회의"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/fa0a3ca504055cd64619dcbf63382023234bb090920fb7eebb96a9e0eb66d9cb.jpg",
+        "sha256": "fa0a3ca504055cd64619dcbf63382023234bb090920fb7eebb96a9e0eb66d9cb",
+        "quote": "1789년 5월 베르사유에 소집된 삼부회의",
+        "location": "오른쪽 357쪽 진단평가 28"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "베르사유",
+      "inputSha256": "0642e5c670fb53cafa781b4f364cce3fe9255e4c6c60391e51aa4a452dbb2526"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-167-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-167",
+    "answer": "대배심",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "미국 수정헌법 제5조에서 중죄의 고발·기소 절차와 관련해 grand jury라고 제시한 제도는?",
+    "keyword": "대배심",
+    "explain": "대배심: 대배심(grand jury)에 의한 고발 또는 기소",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-167",
+        "quote": "대배심(grand jury)에 의한 고발 또는 기소"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/26aa1979464f6bf1a7779e3055fd2ec9805a2f703093b9aaac2dc247645d02af.jpg",
+        "sha256": "26aa1979464f6bf1a7779e3055fd2ec9805a2f703093b9aaac2dc247645d02af",
+        "quote": "대배심(grand jury)에 의한 고발 또는 기소",
+        "location": "왼쪽 374쪽 사료탐구 수정 제5조"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "대배심",
+      "inputSha256": "c4f0695f47e670a7dfa54ff800a0852b82885a2df33fecf95f7c173073ee90c7"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-178-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-178",
+    "answer": "정통파",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "정통주의",
+      "정통주의적 해석"
+    ],
+    "prompt": "프랑스 혁명을 전형적 시민혁명이자 부르주아 혁명으로 파악하는 관점은 사진의 평가 표에서 무엇이라 부르는가?",
+    "keyword": "정통파",
+    "explain": "표는 이 평가를 정통파 열에 놓고 수정주의의 평가와 대비한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-178",
+        "quote": "프랑스 혁명은 전형적인 시민혁명, 부르주아 혁명"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/8cc71d76307c3a2ca40e5544f25fb8b9ba8fdaca420e0064758d5bbba29bd798.jpg",
+        "sha256": "8cc71d76307c3a2ca40e5544f25fb8b9ba8fdaca420e0064758d5bbba29bd798",
+        "quote": "프랑스 혁명은 전형적인 시민혁명, 부르주아 혁명",
+        "location": "왼쪽 396쪽 프랑스 혁명의 평가 표 정통파 열"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "정통파",
+      "inputSha256": "0c44734de67f3996e136f9fd2816a9953468aa17144a15cc697a533b9df364ac"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-178-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-178",
+    "answer": "수정주의",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "수정주의적 해석"
+    ],
+    "prompt": "부르주아지를 균질한 혁명 주도 계급으로 보는 설명을 비판하며 혁명 전 부르주아의 지위 추구를 지적하는 관점은?",
+    "keyword": "수정주의",
+    "explain": "사진의 수정주의 열은 부르주아지의 범위와 혁명에서의 역할에 대한 단순한 계급 설명을 비판한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-178",
+        "quote": "부르주아지를 신분사회에서 자본가적 역할을 수행하는 비귀족집단으로 한정"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/8cc71d76307c3a2ca40e5544f25fb8b9ba8fdaca420e0064758d5bbba29bd798.jpg",
+        "sha256": "8cc71d76307c3a2ca40e5544f25fb8b9ba8fdaca420e0064758d5bbba29bd798",
+        "quote": "부르주아지를 신분사회에서 자본가적 역할을 수행하는 비귀족집단으로 한정",
+        "location": "왼쪽 396쪽 평가 표 수정주의 열"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "수정주의",
+      "inputSha256": "4d2776a5d0557324fd95a8890ece8788605d1f1742e066059ff2f0854e6c999d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-282-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-282",
+    "answer": "폴리냐크",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "1830년 7월 25일 샤를 10세 아래에서 칙령을 반포한 프랑스 총리로 사진에 제시된 인물은?",
+    "keyword": "폴리냐크",
+    "explain": "폴리냐크: 1830년 7월 25일 샤를 10세의 총리였던 폴리냐크",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-282",
+        "quote": "1830년 7월 25일 샤를 10세의 총리였던 폴리냐크"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f0faae099896b489e4221020bec0637b7c325501d21cdbc52af44623b1d4b6ee.jpg",
+        "sha256": "f0faae099896b489e4221020bec0637b7c325501d21cdbc52af44623b1d4b6ee",
+        "quote": "1830년 7월 25일 샤를 10세의 총리였던 폴리냐크",
+        "location": "오른쪽 407쪽 진단평가 07"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "폴리냐크",
+      "inputSha256": "094b6b19aac52572d7e6ba55fa2d083c4973099e211246ccc6031bb386698876"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-282-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-282",
+    "answer": "제임스 먼로",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "먼로"
+    ],
+    "prompt": "1817~1825년 재임 중 1823년 의회에 대외정책 교서를 보낸 미국 대통령은?",
+    "keyword": "제임스 먼로",
+    "explain": "제임스 먼로: 미국 대통령 먼로(1817~1825)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-282",
+        "quote": "미국 대통령 먼로(1817~1825)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f0faae099896b489e4221020bec0637b7c325501d21cdbc52af44623b1d4b6ee.jpg",
+        "sha256": "f0faae099896b489e4221020bec0637b7c325501d21cdbc52af44623b1d4b6ee",
+        "quote": "미국 대통령 먼로(1817~1825)",
+        "location": "오른쪽 407쪽 진단평가 04"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "제임스 먼로",
+      "inputSha256": "2ffd51bfa8d094cc9e71b3b891e00b02a5099719e2c3ec9c14e08fc593bc451a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-282-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-282",
+    "answer": "메테르니히",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "학생운동을 무정부 상태의 위험으로 보고 독일 군주들과 카를스바트 결의를 추진한 오스트리아 정치가는?",
+    "keyword": "메테르니히",
+    "explain": "메테르니히: 학생운동을 몹시 못마땅하게 생각하던 메테르니히",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-282",
+        "quote": "학생운동을 몹시 못마땅하게 생각하던 메테르니히"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f0faae099896b489e4221020bec0637b7c325501d21cdbc52af44623b1d4b6ee.jpg",
+        "sha256": "f0faae099896b489e4221020bec0637b7c325501d21cdbc52af44623b1d4b6ee",
+        "quote": "학생운동을 몹시 못마땅하게 생각하던 메테르니히",
+        "location": "오른쪽 407쪽 진단평가 02"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "메테르니히",
+      "inputSha256": "ab2b74f97ca1dfa0592a8e1def99f95d13e3df8db64fafc652350340f2684307"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-2-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-2",
+    "answer": "존 스튜어트 밀",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "J. S. 밀",
+      "밀"
+    ],
+    "prompt": "산업화 문제의 개혁을 강조한 인물로 이 페이지가 맬서스·리카도와 대비하여 제시한 영국 자유주의 사상가는?",
+    "keyword": "존 스튜어트 밀",
+    "explain": "해당 진단평가는 맬서스·리카도와 대비하여 산업화 문제에 관한 밀의 개혁 주장을 묻는다. 오른쪽의 부르주아라는 인쇄어를 프루동이라는 인명으로 읽지 않는다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-2",
+        "quote": "정책 개혁을 강조했던 밀의 주장"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/df5d28a042e6b470d7d069a17f1f501593fe5069c77df73d676793f17acb2561.jpg",
+        "sha256": "df5d28a042e6b470d7d069a17f1f501593fe5069c77df73d676793f17acb2561",
+        "quote": "정책 개혁을 강조했던 밀의 주장",
+        "location": "왼쪽 408쪽 진단평가 16 마지막 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "존 스튜어트 밀",
+      "inputSha256": "3fed76a368c3c346b2d5a36776b3d4a0b798a0642b3c154e06a51f76e905b5a1"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-2-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-2",
+    "answer": "샤를 푸리에",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "푸리에"
+    ],
+    "prompt": "1772~1837년의 생몰년과 함께 공상적 사회주의자로 제시된 프랑스 사상가는?",
+    "keyword": "샤를 푸리에",
+    "explain": "샤를 푸리에: 공상적 사회주의자로 평가받는 샤를 푸리에(Charles Fourier, 1772~1837)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-2",
+        "quote": "공상적 사회주의자로 평가받는 샤를 푸리에(Charles Fourier, 1772~1837)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/df5d28a042e6b470d7d069a17f1f501593fe5069c77df73d676793f17acb2561.jpg",
+        "sha256": "df5d28a042e6b470d7d069a17f1f501593fe5069c77df73d676793f17acb2561",
+        "quote": "공상적 사회주의자로 평가받는 샤를 푸리에(Charles Fourier, 1772~1837)",
+        "location": "왼쪽 408쪽 진단평가 18"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "샤를 푸리에",
+      "inputSha256": "0ac5de5b83a02a375eb79d885317a9ec76ce01e7cb4cb13f80e54f2848489bdd"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-2-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-2",
+    "answer": "미하일 바쿠닌",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "바쿠닌"
+    ],
+    "prompt": "1814~1876년에 살았으며 러시아 귀족 출신의 무정부주의자로 제시된 사상가는?",
+    "keyword": "미하일 바쿠닌",
+    "explain": "미하일 바쿠닌: 러시아의 귀족 출신인 바쿠닌(Michael Bakunin, 1814~1876)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-2",
+        "quote": "러시아의 귀족 출신인 바쿠닌(Michael Bakunin, 1814~1876)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/df5d28a042e6b470d7d069a17f1f501593fe5069c77df73d676793f17acb2561.jpg",
+        "sha256": "df5d28a042e6b470d7d069a17f1f501593fe5069c77df73d676793f17acb2561",
+        "quote": "러시아의 귀족 출신인 바쿠닌(Michael Bakunin, 1814~1876)",
+        "location": "왼쪽 408쪽 진단평가 19"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "미하일 바쿠닌",
+      "inputSha256": "1b353e38e48c639af056667633c6e2991dca3d281d8a59cfe458410aaf82b25a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-213-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-213",
+    "answer": "존 홉슨",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "홉슨",
+      "J. A. 홉슨"
+    ],
+    "prompt": "제국주의 논의와 관련해 영국 노동당 좌파에 속한다고 진단평가가 소개하는 사상가는?",
+    "keyword": "존 홉슨",
+    "explain": "사진은 홉슨의 제국주의론을 묻기에 앞서 그의 정치적 입장을 소개한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-213",
+        "quote": "영국의 노동당 좌파에 속하는 홉슨(J. A. Hobson)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/71e943ab86be28833eb561addb1c0468d7535b8f37d9be19972afef7c0cc397b.jpg",
+        "sha256": "71e943ab86be28833eb561addb1c0468d7535b8f37d9be19972afef7c0cc397b",
+        "quote": "영국의 노동당 좌파에 속하는 홉슨(J. A. Hobson)",
+        "location": "왼쪽 472쪽 진단평가 01"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "존 홉슨",
+      "inputSha256": "df3c39cf8862275ff1488f2852a362609a3b5ed44280eef3e518b86dc2f23ac9"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-213-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-213",
+    "answer": "케렌스키",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "알렉산드르 케렌스키"
+    ],
+    "prompt": "볼셰비키의 집권을 설명하는 문항에서 볼셰비키가 무너뜨린 임시정부의 지도자로 등장하는 인물은?",
+    "keyword": "케렌스키",
+    "explain": "케렌스키: 케렌스키 정부를 와해시키고, 볼셰비키로 하여금",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-213",
+        "quote": "케렌스키 정부를 와해시키고, 볼셰비키로 하여금"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/71e943ab86be28833eb561addb1c0468d7535b8f37d9be19972afef7c0cc397b.jpg",
+        "sha256": "71e943ab86be28833eb561addb1c0468d7535b8f37d9be19972afef7c0cc397b",
+        "quote": "케렌스키 정부를 와해시키고, 볼셰비키로 하여금",
+        "location": "오른쪽 473쪽 진단평가 18"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "케렌스키",
+      "inputSha256": "29fe7daf7d9eb6532d3d0d14faaa8ac69ffb3aaed632e4354d6fa9fc4552e07e"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-213-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-213",
+    "answer": "영국",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "제1차 세계대전의 갈리폴리 작전을 중심이 되어 추진했다고 사진에 명시된 국가는?",
+    "keyword": "영국",
+    "explain": "영국: 제1차 세계대전 중 영국이 중심이 되어 추진한",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-213",
+        "quote": "제1차 세계대전 중 영국이 중심이 되어 추진한"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/71e943ab86be28833eb561addb1c0468d7535b8f37d9be19972afef7c0cc397b.jpg",
+        "sha256": "71e943ab86be28833eb561addb1c0468d7535b8f37d9be19972afef7c0cc397b",
+        "quote": "제1차 세계대전 중 영국이 중심이 되어 추진한",
+        "location": "오른쪽 473쪽 진단평가 13 갈리폴리 작전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "영국",
+      "inputSha256": "b9dae86fbc5a23789e6f00d6d6ef12586bc0131c2044c96ff396525f6f6c4a75"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-215-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-215",
+    "answer": "대지의 저주받은 사람들",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "지상의 저주받은 사람들",
+      "대지의 저주받은 자들",
+      "지상의 저주받은 자들"
+    ],
+    "prompt": "프란츠 파농이 식민주의가 피식민 사회를 비인간화하는 폭력을 비판한 저술로 사진에 표시된 책은?",
+    "keyword": "대지의 저주받은 사람들",
+    "explain": "대지의 저주받은 사람들: 프란츠 파농(F. Fanon)은 『대지의 저주받은 사람들』",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-215",
+        "quote": "프란츠 파농(F. Fanon)은 『대지의 저주받은 사람들』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4021eec26c79634240e02aa0953618b402969d2da96c40bfdfc441c4bf0015bb.jpg",
+        "sha256": "4021eec26c79634240e02aa0953618b402969d2da96c40bfdfc441c4bf0015bb",
+        "quote": "프란츠 파농(F. Fanon)은 『대지의 저주받은 사람들』",
+        "location": "오른쪽 477쪽 식민주의의 개념 ④"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "대지의 저주받은 사람들",
+      "inputSha256": "faaba7066b0cb67b948411a0ba7fb13204b4bfff79a48a688401b71c7f44fe2c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-228-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-228",
+    "answer": "에베르트",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "프리드리히 에베르트"
+    ],
+    "prompt": "1919년 독일 제헌 국민의회가 대통령으로 선출했다고 진단평가에 제시된 사회민주당 지도자는?",
+    "keyword": "에베르트",
+    "explain": "에베르트: 사회민주당의 에베르트(F. Ebert, 1871~1925)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-228",
+        "quote": "사회민주당의 에베르트(F. Ebert, 1871~1925)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ec6e6c55f6a97745c13e0004574486330ac805904100474e8c37654a34376dc3.jpg",
+        "sha256": "ec6e6c55f6a97745c13e0004574486330ac805904100474e8c37654a34376dc3",
+        "quote": "사회민주당의 에베르트(F. Ebert, 1871~1925)",
+        "location": "왼쪽 506쪽 진단평가 07"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에베르트",
+      "inputSha256": "befadd23c8faecc7776c4d66b9d5b771356fb8497d91413be60d006f160fc4fc"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-228-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-228",
+    "answer": "20세",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "만 20세"
+    ],
+    "prompt": "1919년 독일 제헌 국민의회 선거에서 남녀 보통선거의 최소 연령으로 사진에 명시된 나이는?",
+    "keyword": "20세",
+    "explain": "20세: 20세 이상의 남녀 보통선거로",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-228",
+        "quote": "20세 이상의 남녀 보통선거로"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ec6e6c55f6a97745c13e0004574486330ac805904100474e8c37654a34376dc3.jpg",
+        "sha256": "ec6e6c55f6a97745c13e0004574486330ac805904100474e8c37654a34376dc3",
+        "quote": "20세 이상의 남녀 보통선거로",
+        "location": "왼쪽 506쪽 진단평가 07"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "20세",
+      "inputSha256": "8b043e47e3066101b329768aa8ae99862357875e043f40088c8e1cad7a99f614"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-228-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-228",
+    "answer": "라인란트",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "베르사유 조약에서 비무장지대로 규정되었으나 독일군 재주둔 문제가 발생한 지역으로 이 페이지가 제시하는 곳은?",
+    "keyword": "라인란트",
+    "explain": "라인란트: 베르사유 조약에서 비무장지대로 규정된 라인란트",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-228",
+        "quote": "베르사유 조약에서 비무장지대로 규정된 라인란트"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ec6e6c55f6a97745c13e0004574486330ac805904100474e8c37654a34376dc3.jpg",
+        "sha256": "ec6e6c55f6a97745c13e0004574486330ac805904100474e8c37654a34376dc3",
+        "quote": "베르사유 조약에서 비무장지대로 규정된 라인란트",
+        "location": "오른쪽 507쪽 진단평가 15"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "라인란트",
+      "inputSha256": "b63050eb1bc731b92853a9abf78df45508bb55d48f8b038f8517277809d49360"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-242-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-242",
+    "answer": "DM",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "독일 마르크",
+      "도이체 마르크"
+    ],
+    "prompt": "전후 서방 점령 독일의 화폐개혁을 다룬 문항에서 새 통화의 이름을 괄호 안에 어떤 두 글자 약칭으로 적었는가?",
+    "keyword": "DM",
+    "explain": "DM: 새로운 통화(DM)를 발행하기로 하자",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-242",
+        "quote": "새로운 통화(DM)를 발행하기로 하자"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/9777cd2ff37aaa8c4e5f1c46cd6d2f4e71938ffe7aa91168b9604d75dd31ddfe.jpg",
+        "sha256": "9777cd2ff37aaa8c4e5f1c46cd6d2f4e71938ffe7aa91168b9604d75dd31ddfe",
+        "quote": "새로운 통화(DM)를 발행하기로 하자",
+        "location": "오른쪽 넘어가는 면 진단평가 02"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "DM",
+      "inputSha256": "842e2f4f842f385560c15b1589329efc1286e27940ac613f0f471427f5ad09f1"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-243-1",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-243",
+    "answer": "린든 존슨",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "존슨",
+      "린든 B. 존슨"
+    ],
+    "prompt": "케네디를 계승했으며 1963~1969년 재임으로 제시된 미국 대통령은?",
+    "keyword": "린든 존슨",
+    "explain": "린든 존슨: 케네디의 뒤를 계승한 존슨(재임 1963~1969)",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-243",
+        "quote": "케네디의 뒤를 계승한 존슨(재임 1963~1969)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/2db682143c36270f3501a5f726fc0416bf1aa2e8e466f08c38401cafbe19aa27.jpg",
+        "sha256": "2db682143c36270f3501a5f726fc0416bf1aa2e8e466f08c38401cafbe19aa27",
+        "quote": "케네디의 뒤를 계승한 존슨(재임 1963~1969)",
+        "location": "왼쪽 538쪽 진단평가 12"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "린든 존슨",
+      "inputSha256": "b328ee98e90f74c71d044504705db3de94bef08612d7a7a07efb6197f265977a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-243-2",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-243",
+    "answer": "바티스타",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "풀헨시오 바티스타"
+    ],
+    "prompt": "1959년 카스트로의 혁명군이 무너뜨린 쿠바의 집권자로 진단평가에 명시된 인물은?",
+    "keyword": "바티스타",
+    "explain": "바티스타: 카스트로(Fidel Castro)는 바티스타 세력을",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-243",
+        "quote": "카스트로(Fidel Castro)는 바티스타 세력을"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/2db682143c36270f3501a5f726fc0416bf1aa2e8e466f08c38401cafbe19aa27.jpg",
+        "sha256": "2db682143c36270f3501a5f726fc0416bf1aa2e8e466f08c38401cafbe19aa27",
+        "quote": "카스트로(Fidel Castro)는 바티스타 세력을",
+        "location": "왼쪽 538쪽 진단평가 14"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "바티스타",
+      "inputSha256": "9138f60fee99461bb11cc9bc486ceb3dbe39f50a38ec84af1a79e34c0b8f4051"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-243-3",
+    "type": "blank",
+    "page": "seoyangsa-textbook-page-243",
+    "answer": "1975년",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "브란트의 동방정책과 긴장 완화 흐름을 설명한 진단평가에서 헬싱키 협정으로 이어진 해는?",
+    "keyword": "1975년",
+    "explain": "1975년: 1975년에 헬싱키 협정으로 이어졌다",
+    "evidence": [
+      {
+        "page": "seoyangsa-textbook-page-243",
+        "quote": "1975년에 헬싱키 협정으로 이어졌다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/2db682143c36270f3501a5f726fc0416bf1aa2e8e466f08c38401cafbe19aa27.jpg",
+        "sha256": "2db682143c36270f3501a5f726fc0416bf1aa2e8e466f08c38401cafbe19aa27",
+        "quote": "1975년에 헬싱키 협정으로 이어졌다",
+        "location": "오른쪽 539쪽 진단평가 25"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "1975년",
+      "inputSha256": "d11f46b1728598de1b23e3a054f371e7746bb09a5b4a092c89c690ccc8415679"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g2-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-2",
+    "answer": "아텐",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "아톤"
+    ],
+    "prompt": "아멘호테프 4세가 전통적 다신교를 억제하며 유일한 최고신으로 숭배하도록 한 태양신의 이름은?",
+    "keyword": "아텐",
+    "explain": "아텐: 유일신으로 태양신 아텐(Aten)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-2",
+        "quote": "유일신으로 태양신 아텐(Aten)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/c6856bb8d6d3ca230fc4417dea3ec7a308b1b350961b10137aecf8f49e7ed850.jpg",
+        "sha256": "c6856bb8d6d3ca230fc4417dea3ec7a308b1b350961b10137aecf8f49e7ed850",
+        "quote": "유일신으로 태양신 아텐(Aten)",
+        "location": "오른쪽 9쪽 예상답안 ①"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "아텐",
+      "inputSha256": "6ddc5e901f71f46084ba946568eb30fb47cc09097bbba0be00e2fe04de13a503"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g2-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-2",
+    "answer": "아케나텐",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "아크나톤",
+      "아크나텐"
+    ],
+    "prompt": "아멘호테프 4세가 새로운 신앙을 나타내기 위해 바꾼 자신의 이름은?",
+    "keyword": "아케나텐",
+    "explain": "아케나텐: 자신의 이름을 아케나텐으로 바꾸기도 하였다",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-2",
+        "quote": "자신의 이름을 아케나텐으로 바꾸기도 하였다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/c6856bb8d6d3ca230fc4417dea3ec7a308b1b350961b10137aecf8f49e7ed850.jpg",
+        "sha256": "c6856bb8d6d3ca230fc4417dea3ec7a308b1b350961b10137aecf8f49e7ed850",
+        "quote": "자신의 이름을 아케나텐으로 바꾸기도 하였다",
+        "location": "오른쪽 9쪽 사료 첫 문단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "아케나텐",
+      "inputSha256": "69ce630a8ff24344e4c466dce0290e6f1c7fb975bc5e1c9cdc36ba9c5187c131"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g2-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-2",
+    "answer": "아마르나 양식",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "아마르나 미술",
+      "아마르나 미술 양식"
+    ],
+    "prompt": "아멘호테프 4세 시기에 더 자유로운 구도와 사실적·다양한 표현을 보인 미술 양식을 수도의 이름을 따서 부르는 명칭은?",
+    "keyword": "아마르나 양식",
+    "explain": "아마르나 양식: 이집트 예술 양식 → 수도의 이름 → 아마르나",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-2",
+        "quote": "이집트 예술 양식 → 수도의 이름 → 아마르나"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/c6856bb8d6d3ca230fc4417dea3ec7a308b1b350961b10137aecf8f49e7ed850.jpg",
+        "sha256": "c6856bb8d6d3ca230fc4417dea3ec7a308b1b350961b10137aecf8f49e7ed850",
+        "quote": "이집트 예술 양식 → 수도의 이름 → 아마르나",
+        "location": "오른쪽 9쪽 사고과정 ②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "아마르나 양식",
+      "inputSha256": "c7dab4120807901ed44f4345a3c2514425c0827886aba7beeaed491d9f78d765"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g3-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-3",
+    "answer": "이사고라스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "지역 부족을 재편한 클레이스테네스가 대립한 정적으로, 사료가 티산드로스의 아들이라고 소개하는 인물은?",
+    "keyword": "이사고라스",
+    "explain": "이사고라스: 티산드로스의 아들 이사고라스",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-3",
+        "quote": "티산드로스의 아들 이사고라스"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f45d044f7046c674c562493e03ae2ab1b98aa9355aef1a079284f263349f4dbe.jpg",
+        "sha256": "f45d044f7046c674c562493e03ae2ab1b98aa9355aef1a079284f263349f4dbe",
+        "quote": "티산드로스의 아들 이사고라스",
+        "location": "오른쪽 15쪽 사료 첫 문단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "이사고라스",
+      "inputSha256": "90c4a65cc1d7b8cd691228c495a89b249b8222811823ca54a34fa105e8b6eb8c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g3-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-3",
+    "answer": "판아테나이아",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "판아테나이아 축제"
+    ],
+    "prompt": "페이시스트라토스의 국가적 종교 축제로 정리된 아테나 여신의 축제 이름은?",
+    "keyword": "판아테나이아",
+    "explain": "판아테나이아: 판아테나이아와 디오니시아를 국가적 종교 축제로",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-3",
+        "quote": "판아테나이아와 디오니시아를 국가적 종교 축제로"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f45d044f7046c674c562493e03ae2ab1b98aa9355aef1a079284f263349f4dbe.jpg",
+        "sha256": "f45d044f7046c674c562493e03ae2ab1b98aa9355aef1a079284f263349f4dbe",
+        "quote": "판아테나이아와 디오니시아를 국가적 종교 축제로",
+        "location": "오른쪽 15쪽 사고과정 ④"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "판아테나이아",
+      "inputSha256": "3bd1cb65aa3dbc39792160d8cff61f18e1e3460960b5eb479cbb6b7744be81e6"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g3-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-3",
+    "answer": "디오니소스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "고대 그리스의 디오니시아 축제가 기리던 포도주의 신을 쓰시오.",
+    "keyword": "디오니소스",
+    "explain": "디오니소스: 포도주의 신인 디오니소스",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-3",
+        "quote": "포도주의 신인 디오니소스"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f45d044f7046c674c562493e03ae2ab1b98aa9355aef1a079284f263349f4dbe.jpg",
+        "sha256": "f45d044f7046c674c562493e03ae2ab1b98aa9355aef1a079284f263349f4dbe",
+        "quote": "포도주의 신인 디오니소스",
+        "location": "오른쪽 15쪽 팩트체크 03"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "디오니소스",
+      "inputSha256": "9e21118430fd5b8915ac6d41cf3cb3df448e7b148a9c0a5e1d770f497f8bcd93"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g4-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-4",
+    "answer": "마르도니오스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "기원전 492년 페르시아 군대를 이끌고 이오니아에 도착한 뒤 에레트리아·아테네 쪽으로 진군한 지휘관은?",
+    "keyword": "마르도니오스",
+    "explain": "마르도니오스: 기원전 492년 ( ㉠ )의 명령을 좇아 마르도니오스가",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-4",
+        "quote": "기원전 492년 ( ㉠ )의 명령을 좇아 마르도니오스가"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/268b7b558558e04b4977fe119d1f6f9d8e9f3c4a68847545bc483cf3cc65cc3e.jpg",
+        "sha256": "268b7b558558e04b4977fe119d1f6f9d8e9f3c4a68847545bc483cf3cc65cc3e",
+        "quote": "기원전 492년 ( ㉠ )의 명령을 좇아 마르도니오스가",
+        "location": "왼쪽 18쪽 (나) 사료 첫 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "마르도니오스",
+      "inputSha256": "1dc5fc52615a8651f8beeabdc98eedd07c29ff12fcf4964d70d8dd49f1f8149c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g4-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-4",
+    "answer": "헤로도토스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "오타네스 등의 페르시아 정치체제 논쟁과 마르도니오스 원정을 함께 전하는 두 사료의 저자는?",
+    "keyword": "헤로도토스",
+    "explain": "헤로도토스: 헤로도토스, 『역사』",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-4",
+        "quote": "헤로도토스, 『역사』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/268b7b558558e04b4977fe119d1f6f9d8e9f3c4a68847545bc483cf3cc65cc3e.jpg",
+        "sha256": "268b7b558558e04b4977fe119d1f6f9d8e9f3c4a68847545bc483cf3cc65cc3e",
+        "quote": "헤로도토스, 『역사』",
+        "location": "왼쪽 18쪽 (가)·(나) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "헤로도토스",
+      "inputSha256": "0df49052b6ee419d7db8661093063e6e03ffa01ef5980287c5be4799f1a641f0"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g4-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-4",
+    "answer": "아테네인의 국가",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "아테네인들의 국가",
+      "아테네인의 정체"
+    ],
+    "prompt": "솔론의 개혁을 설명하는 사료가 인용된 아리스토텔레스의 아테네 정치제도 저술은?",
+    "keyword": "아테네인의 국가",
+    "explain": "아테네인의 국가: 아리스토텔레스, 『아테네인의 국가』",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-4",
+        "quote": "아리스토텔레스, 『아테네인의 국가』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/268b7b558558e04b4977fe119d1f6f9d8e9f3c4a68847545bc483cf3cc65cc3e.jpg",
+        "sha256": "268b7b558558e04b4977fe119d1f6f9d8e9f3c4a68847545bc483cf3cc65cc3e",
+        "quote": "아리스토텔레스, 『아테네인의 국가』",
+        "location": "오른쪽 19쪽 (가) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "아테네인의 국가",
+      "inputSha256": "c6b371b06eaac6b57738e8d33d5243f97b558cc95d64066391c1e283009f266b"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g5-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-5",
+    "answer": "에라토스테네스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "알렉산드리아 도서관과 연결되며 지구 둘레를 정밀하게 계산한 헬레니즘 학자는?",
+    "keyword": "에라토스테네스",
+    "explain": "에라토스테네스: 에라토스테네스는 그의 『지리학』에서 지구의 둘레 값을",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-5",
+        "quote": "에라토스테네스는 그의 『지리학』에서 지구의 둘레 값을"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/47ea5125dc7c3a4eeed04aaf168b44f6e45b8a8dbe333022d7621bd183016f43.jpg",
+        "sha256": "47ea5125dc7c3a4eeed04aaf168b44f6e45b8a8dbe333022d7621bd183016f43",
+        "quote": "에라토스테네스는 그의 『지리학』에서 지구의 둘레 값을",
+        "location": "왼쪽 30쪽 (가) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에라토스테네스",
+      "inputSha256": "3dc51cc89294621e8ac3c7c09457e529744c57b5f5a370ce653cf39070a5db5a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g5-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-5",
+    "answer": "키케로",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "세계가 신들과 인간들의 공통 도시라는 스토아적 관점을 인용한 『최고선의 문제』의 로마 저자는?",
+    "keyword": "키케로",
+    "explain": "키케로: 키케로, 『최고선의 문제』",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-5",
+        "quote": "키케로, 『최고선의 문제』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/47ea5125dc7c3a4eeed04aaf168b44f6e45b8a8dbe333022d7621bd183016f43.jpg",
+        "sha256": "47ea5125dc7c3a4eeed04aaf168b44f6e45b8a8dbe333022d7621bd183016f43",
+        "quote": "키케로, 『최고선의 문제』",
+        "location": "왼쪽 30쪽 (다) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "키케로",
+      "inputSha256": "04e24231a4b14da5fa729e8382c5352d8865a63dba3b2da8b5c2a9019b5939d8"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g5-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-5",
+    "answer": "파피루스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "알렉산드리아 도서관의 두루마리와 관련해 팩트체크가 제시하는 고대 이집트의 서사 재료는?",
+    "keyword": "파피루스",
+    "explain": "사진의 팩트체크는 헬레니즘 시대 알렉산드리아 도서관과 파피루스 두루마리를 연결한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-5",
+        "quote": "파피루스"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/47ea5125dc7c3a4eeed04aaf168b44f6e45b8a8dbe333022d7621bd183016f43.jpg",
+        "sha256": "47ea5125dc7c3a4eeed04aaf168b44f6e45b8a8dbe333022d7621bd183016f43",
+        "quote": "파피루스",
+        "location": "왼쪽 30쪽 팩트체크 01"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "파피루스",
+      "inputSha256": "c713ec9ed7744e9390968aa280ed4e56642d6ae2190afa7fa786a44900d58f8b"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g6-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-6",
+    "answer": "유게라",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "로마 공유지 점유 상한 500이라는 수치 뒤에 사용된 토지 면적의 단위는?",
+    "keyword": "유게라",
+    "explain": "유게라: 공유지 500유게라 상한선을",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-6",
+        "quote": "공유지 500유게라 상한선을"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/183a51d665a920e9e149a215b3670b9bb9de2fa0e441187dadf4c38ec7249e4f.jpg",
+        "sha256": "183a51d665a920e9e149a215b3670b9bb9de2fa0e441187dadf4c38ec7249e4f",
+        "quote": "공유지 500유게라 상한선을",
+        "location": "오른쪽 35쪽 예상답안 ②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "유게라",
+      "inputSha256": "b544420667cdc51bdb0dd871f5f07f243f3f179278058fcc9e326654394e8239"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g6-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-6",
+    "answer": "병농일치",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "그라쿠스 개혁의 목적을 설명하는 해설에서 자영농의 회복을 로마 군대의 충원과 연결하는 체제는?",
+    "keyword": "병농일치",
+    "explain": "병농일치: 병농일치체제의 붕괴를",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-6",
+        "quote": "병농일치체제의 붕괴를"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/183a51d665a920e9e149a215b3670b9bb9de2fa0e441187dadf4c38ec7249e4f.jpg",
+        "sha256": "183a51d665a920e9e149a215b3670b9bb9de2fa0e441187dadf4c38ec7249e4f",
+        "quote": "병농일치체제의 붕괴를",
+        "location": "오른쪽 35쪽 예상답안 ②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "병농일치",
+      "inputSha256": "cc1e165588b5f8ea4fae1553c6109c973871aac3f6c7c7bb3aba8fa5a1a6b636"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g6-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-6",
+    "answer": "푸블리카니",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "푸블리카누스"
+    ],
+    "prompt": "로마의 국가 수입 징수 등을 도급받아 영업한 징세 청부업자를 가리키는 라틴어 계열 용어는?",
+    "keyword": "푸블리카니",
+    "explain": "사진의 팩트체크는 국가 사업을 도급받은 푸블리카니와 로마의 징세·수입 구조를 설명한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-6",
+        "quote": "푸블리카니"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/183a51d665a920e9e149a215b3670b9bb9de2fa0e441187dadf4c38ec7249e4f.jpg",
+        "sha256": "183a51d665a920e9e149a215b3670b9bb9de2fa0e441187dadf4c38ec7249e4f",
+        "quote": "푸블리카니",
+        "location": "왼쪽 34쪽 팩트체크 02"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "푸블리카니",
+      "inputSha256": "f392c9ec49f19a1fc89b9b597388f95b0c9c83cb92b0f01371e7fd487e176086"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g7-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-7",
+    "answer": "파트로누스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "로마의 보호관계 도해에서 법정·경제적 보호를 제공하는 부유한 시민 쪽에 붙은 라틴어 명칭은?",
+    "keyword": "파트로누스",
+    "explain": "사진의 도해는 부유한 보호자를 파트로누스, 그 보호를 받는 쪽을 클리엔스로 구별한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-7",
+        "quote": "가장 부유한 시민 (파트로누스) 보호자"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/2ea8707e9129b77e9aa968d0c5775bbfa76e848befb9cc31c719ec1aace61f52.jpg",
+        "sha256": "2ea8707e9129b77e9aa968d0c5775bbfa76e848befb9cc31c719ec1aace61f52",
+        "quote": "가장 부유한 시민 (파트로누스) 보호자",
+        "location": "왼쪽 38쪽 아래 사회구조 도해"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "파트로누스",
+      "inputSha256": "603499e3c3ed283fb5ff6551b9feda45d7198615d4e83b20bae0fa8b9fda7ac6"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g7-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-7",
+    "answer": "무산 시민",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "무산자",
+      "무산 시민층"
+    ],
+    "prompt": "마리우스의 군대 모집 변화에서 재산 자격을 갖춘 시민 이외에 받아들인 계층을, 재산 보유 여부를 드러내는 말로 쓰시오.",
+    "keyword": "무산 시민",
+    "explain": "무산 시민: 무산 시민에게도 군에 참여할 수 있도록",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-7",
+        "quote": "무산 시민에게도 군에 참여할 수 있도록"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/2ea8707e9129b77e9aa968d0c5775bbfa76e848befb9cc31c719ec1aace61f52.jpg",
+        "sha256": "2ea8707e9129b77e9aa968d0c5775bbfa76e848befb9cc31c719ec1aace61f52",
+        "quote": "무산 시민에게도 군에 참여할 수 있도록",
+        "location": "왼쪽 38쪽 예상답안 ②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "무산 시민",
+      "inputSha256": "d94ee4600bc75a14e28ff807142b2f1cce61fde3343cea876f1a4c634938b6d1"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g7-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-7",
+    "answer": "군인 정치가",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "병사들이 국가보다 지휘관 개인에게 충성하는 경향이 강화되면서 등장했다고 사료가 설명하는 정치가 유형은?",
+    "keyword": "군인 정치가",
+    "explain": "군인 정치가: 공화정 후기에 군인 정치가들이",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-7",
+        "quote": "공화정 후기에 군인 정치가들이"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/2ea8707e9129b77e9aa968d0c5775bbfa76e848befb9cc31c719ec1aace61f52.jpg",
+        "sha256": "2ea8707e9129b77e9aa968d0c5775bbfa76e848befb9cc31c719ec1aace61f52",
+        "quote": "공화정 후기에 군인 정치가들이",
+        "location": "왼쪽 38쪽 두 번째 사료 마지막 부분"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "군인 정치가",
+      "inputSha256": "167dbe10b271618d3bd621af2012faf3c43fd3532194c06bb39ccd9d23e5d271"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g8-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-8",
+    "answer": "니코메디아",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "디오클레티아누스가 행정 중심으로 삼은 소아시아 도시로 이 페이지에 제시된 곳은?",
+    "keyword": "니코메디아",
+    "explain": "니코메디아: 제국의 행정 중심을 소아시아 니코메디아로",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-8",
+        "quote": "제국의 행정 중심을 소아시아 니코메디아로"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ed3823659615efcb3cf20436c3ba913e029ef3daf05af25d091556895afd529a.jpg",
+        "sha256": "ed3823659615efcb3cf20436c3ba913e029ef3daf05af25d091556895afd529a",
+        "quote": "제국의 행정 중심을 소아시아 니코메디아로",
+        "location": "왼쪽 44쪽 31번 ⑤선지와 사고과정"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "니코메디아",
+      "inputSha256": "506e24a878a94d9c8255094da4124032904d3a1b443fe9cf3dcbe351840617fb"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g8-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-8",
+    "answer": "락탄티우스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "『박해자들의 죽음에 관해서』를 써 기독교 박해 황제들을 비판한 저자로 사진에 제시된 인물은?",
+    "keyword": "락탄티우스",
+    "explain": "락탄티우스: 락탄티우스, 『박해자들의 죽음에 관해서』",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-8",
+        "quote": "락탄티우스, 『박해자들의 죽음에 관해서』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ed3823659615efcb3cf20436c3ba913e029ef3daf05af25d091556895afd529a.jpg",
+        "sha256": "ed3823659615efcb3cf20436c3ba913e029ef3daf05af25d091556895afd529a",
+        "quote": "락탄티우스, 『박해자들의 죽음에 관해서』",
+        "location": "왼쪽 44쪽 사료 출전과 하단 보충설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "락탄티우스",
+      "inputSha256": "ed11eda14def96192c7adbb17ff0857234bfba1105482d2a41a005c1bd4bc185"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g8-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-8",
+    "answer": "디아스포라",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "팔레스타인 밖으로 흩어져 거주한 유대인 집단을 지칭하는 말로 팩트체크에 소개된 용어는?",
+    "keyword": "디아스포라",
+    "explain": "디아스포라: 디아스포라 유대인",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-8",
+        "quote": "디아스포라 유대인"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/ed3823659615efcb3cf20436c3ba913e029ef3daf05af25d091556895afd529a.jpg",
+        "sha256": "ed3823659615efcb3cf20436c3ba913e029ef3daf05af25d091556895afd529a",
+        "quote": "디아스포라 유대인",
+        "location": "오른쪽 45쪽 팩트체크 02"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "디아스포라",
+      "inputSha256": "5d123a1aafb85a92f41e45f21ddd9a4d9c13803040878bd339e091540798045d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g9-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-9",
+    "answer": "투르의 그레고리우스",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "그레고리우스",
+      "그레고리"
+    ],
+    "prompt": "클로비스의 세례와 프랑크족의 전쟁을 인용한 『10권의 역사』의 저자는?",
+    "keyword": "투르의 그레고리우스",
+    "explain": "투르의 그레고리우스: 투르의 그레고리우스, 『10권의 역사』",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-9",
+        "quote": "투르의 그레고리우스, 『10권의 역사』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/259edf1ce8bbc775af976b993a44368a7e631f5991e446c0fa7571d1d0b1e098.jpg",
+        "sha256": "259edf1ce8bbc775af976b993a44368a7e631f5991e446c0fa7571d1d0b1e098",
+        "quote": "투르의 그레고리우스, 『10권의 역사』",
+        "location": "오른쪽 51쪽 (가) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "투르의 그레고리우스",
+      "inputSha256": "414ed6d659fcd4cd5d20e96523be5e82a6bc802cff312045621c87e3a5f8f0ae"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g9-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-9",
+    "answer": "오도아케르",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "동고트족의 테오도리크가 이탈리아에 들어가 제거한 군사 지도자로 사료에 제시된 인물은?",
+    "keyword": "오도아케르",
+    "explain": "오도아케르: 이탈리아에 가서 오도아케르를 제거했다",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-9",
+        "quote": "이탈리아에 가서 오도아케르를 제거했다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/259edf1ce8bbc775af976b993a44368a7e631f5991e446c0fa7571d1d0b1e098.jpg",
+        "sha256": "259edf1ce8bbc775af976b993a44368a7e631f5991e446c0fa7571d1d0b1e098",
+        "quote": "이탈리아에 가서 오도아케르를 제거했다",
+        "location": "오른쪽 51쪽 (나) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "오도아케르",
+      "inputSha256": "b4d4a5bde2def7496e941a96730ac0ef64655d1ec3615de2c01f06e21dc9579e"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g9-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-9",
+    "answer": "라벤나",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "테오도리크가 이탈리아를 통치하면서 기반으로 삼았다고 사료에 명시된 도시는?",
+    "keyword": "라벤나",
+    "explain": "라벤나: 그 후 라벤나를 기반으로 삼고",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-9",
+        "quote": "그 후 라벤나를 기반으로 삼고"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/259edf1ce8bbc775af976b993a44368a7e631f5991e446c0fa7571d1d0b1e098.jpg",
+        "sha256": "259edf1ce8bbc775af976b993a44368a7e631f5991e446c0fa7571d1d0b1e098",
+        "quote": "그 후 라벤나를 기반으로 삼고",
+        "location": "오른쪽 51쪽 (나) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "라벤나",
+      "inputSha256": "8437d1dcb79a1c23ad51b16784ef4e14220187b2b33cf74c9c8cb447b2f05296"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g10-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-10",
+    "answer": "알프레드",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "알프레드 대왕"
+    ],
+    "prompt": "웨섹스의 왕으로 노르만인과 화의를 맺은 인물이라고 사료에 제시된 군주는?",
+    "keyword": "알프레드",
+    "explain": "알프레드: 웨섹스의 알프레드 왕과 화의조약을",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-10",
+        "quote": "웨섹스의 알프레드 왕과 화의조약을"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/9a63fe0aa0021a8811ecca71de74fde8517bc3922f7c96214766a1b173bcc4ed.jpg",
+        "sha256": "9a63fe0aa0021a8811ecca71de74fde8517bc3922f7c96214766a1b173bcc4ed",
+        "quote": "웨섹스의 알프레드 왕과 화의조약을",
+        "location": "오른쪽 59쪽 (가) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "알프레드",
+      "inputSha256": "4475cd661464e24f71929389028739b3310ac8df858462550e26a3caf5e18144"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g10-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-10",
+    "answer": "롤로",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "롤롱"
+    ],
+    "prompt": "서프랑크 왕에게 북부 해안의 방위를 맡고 그리스도교로 개종한 노르만 지도자는?",
+    "keyword": "롤로",
+    "explain": "롤로: 노르만인 롤로는 10세기 초",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-10",
+        "quote": "노르만인 롤로는 10세기 초"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/9a63fe0aa0021a8811ecca71de74fde8517bc3922f7c96214766a1b173bcc4ed.jpg",
+        "sha256": "9a63fe0aa0021a8811ecca71de74fde8517bc3922f7c96214766a1b173bcc4ed",
+        "quote": "노르만인 롤로는 10세기 초",
+        "location": "오른쪽 59쪽 (나) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "롤로",
+      "inputSha256": "02b2c9e9214f671f3cf12ec551f9c60068c39bd17836583dd42455318b022b79"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g10-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-10",
+    "answer": "에드워드",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "참회왕 에드워드",
+      "에드워드 참회왕"
+    ],
+    "prompt": "덴마크 노르만 지배 뒤 잉글랜드의 성직자·귀족들이 선출했다고 사료에 명시된 웨섹스 왕조의 왕은?",
+    "keyword": "에드워드",
+    "explain": "에드워드: 웨섹스 왕조 출신인 에드워드를 왕으로 선출했다",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-10",
+        "quote": "웨섹스 왕조 출신인 에드워드를 왕으로 선출했다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/9a63fe0aa0021a8811ecca71de74fde8517bc3922f7c96214766a1b173bcc4ed.jpg",
+        "sha256": "9a63fe0aa0021a8811ecca71de74fde8517bc3922f7c96214766a1b173bcc4ed",
+        "quote": "웨섹스 왕조 출신인 에드워드를 왕으로 선출했다",
+        "location": "오른쪽 59쪽 (다) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에드워드",
+      "inputSha256": "1102f364db00fb08e8974605915d777c20a92b33aa2c25da655124a75a81f71d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g11-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-11",
+    "answer": "아키텐 공 윌리엄",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "아키텐 공 기욤",
+      "기욤 1세",
+      "아키텐의 기욤",
+      "아키텐의 윌리엄"
+    ],
+    "prompt": "10세기 초 클뤼니 수도원 설립을 후원하고 설립인가장에서 외부 간섭을 제한한 아키텐 공은?",
+    "keyword": "아키텐 공 윌리엄",
+    "explain": "아키텐 공 윌리엄: 아키텐느공 윌리엄(William of Aquitaine)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-11",
+        "quote": "아키텐느공 윌리엄(William of Aquitaine)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/2d34b83c93f98100c4418edfe1a27e25cb61fac1cf790b8ef5b6969b93df8765.jpg",
+        "sha256": "2d34b83c93f98100c4418edfe1a27e25cb61fac1cf790b8ef5b6969b93df8765",
+        "quote": "아키텐느공 윌리엄(William of Aquitaine)",
+        "location": "오른쪽 61쪽 하단 클뤼니 수도원 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "아키텐 공 윌리엄",
+      "inputSha256": "3cdff200307f22a84455e0071203d6814f96634c7262748334097b96e1a8c2cc"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g11-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-11",
+    "answer": "베네딕트 계율",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "베네딕트 규율",
+      "베네딕투스 규칙",
+      "베네딕트 규칙"
+    ],
+    "prompt": "클뤼니 수도원이 엄격히 준수하여 수도원 생활의 개혁을 추진했다고 사진에 제시된 규칙은?",
+    "keyword": "베네딕트 계율",
+    "explain": "베네딕트 계율: 클뤼니 수도원은 엄격한 베네딕트 규율을 지키고",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-11",
+        "quote": "클뤼니 수도원은 엄격한 베네딕트 규율을 지키고"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/2d34b83c93f98100c4418edfe1a27e25cb61fac1cf790b8ef5b6969b93df8765.jpg",
+        "sha256": "2d34b83c93f98100c4418edfe1a27e25cb61fac1cf790b8ef5b6969b93df8765",
+        "quote": "클뤼니 수도원은 엄격한 베네딕트 규율을 지키고",
+        "location": "오른쪽 61쪽 하단 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "베네딕트 계율",
+      "inputSha256": "47513300e72b80d89235672ca48ca3e58ce25011f846b7352a124b2759b35d13"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g11-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-11",
+    "answer": "하인리히 4세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "교황을 향해 황제권을 교황에게서 받은 것이 아니라며 퇴위를 요구하는 서신을 보낸 신성로마 황제는?",
+    "keyword": "하인리히 4세",
+    "explain": "하인리히 4세: 나 하인리히는 모든 주교와 함께 그대에게 엄숙히 명한다. 퇴위하라!",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-11",
+        "quote": "나 하인리히는 모든 주교와 함께 그대에게 엄숙히 명한다. 퇴위하라!"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/2d34b83c93f98100c4418edfe1a27e25cb61fac1cf790b8ef5b6969b93df8765.jpg",
+        "sha256": "2d34b83c93f98100c4418edfe1a27e25cb61fac1cf790b8ef5b6969b93df8765",
+        "quote": "나 하인리히는 모든 주교와 함께 그대에게 엄숙히 명한다. 퇴위하라!",
+        "location": "오른쪽 61쪽 (나) 사료 끝"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "하인리히 4세",
+      "inputSha256": "293e4281b26d4c325348466dd6e333a0bfbd4caa36d89ad3344da958c90728f9"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g12-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-12",
+    "answer": "베네치아",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "베니스"
+    ],
+    "prompt": "제4차 십자군 원정도에서 함대가 출발하여 달마티아 해안 등을 지나가는 이탈리아 항구 도시는?",
+    "keyword": "베네치아",
+    "explain": "베네치아: 베네치아에서 출발한",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-12",
+        "quote": "베네치아에서 출발한"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f4cacb5a90cbf59a721e3b2239c39abf03904f8567ddbdba8b37a982a14953c6.jpg",
+        "sha256": "f4cacb5a90cbf59a721e3b2239c39abf03904f8567ddbdba8b37a982a14953c6",
+        "quote": "베네치아에서 출발한",
+        "location": "왼쪽 66쪽 사고과정 ①"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "베네치아",
+      "inputSha256": "9e9cdae01a9236531e5f7f27d6ccbba4be91c47a00bcb74834be5bdf79a0be5a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g12-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-12",
+    "answer": "발도파",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "발덴스파",
+      "왈도파"
+    ],
+    "prompt": "청빈을 지향한 발도의 추종자들로, 보충설명에서 알비파와 구별하여 소개하는 종교 운동은?",
+    "keyword": "발도파",
+    "explain": "발도파: 발도파(Waldenses)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-12",
+        "quote": "발도파(Waldenses)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f4cacb5a90cbf59a721e3b2239c39abf03904f8567ddbdba8b37a982a14953c6.jpg",
+        "sha256": "f4cacb5a90cbf59a721e3b2239c39abf03904f8567ddbdba8b37a982a14953c6",
+        "quote": "발도파(Waldenses)",
+        "location": "오른쪽 67쪽 이단의 확산 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "발도파",
+      "inputSha256": "05eed19a5e26832186710074077ecd9655b73c5d564ff89ff2f8c4d54f52bc23"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g13-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-13",
+    "answer": "브뤼주",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "브뤼헤"
+    ],
+    "prompt": "베네치아의 상인이 힐데브란트 베킹후젠에게 보낸 서신에서 수신자의 소재지로 제시된 플랑드르 도시는?",
+    "keyword": "브뤼주",
+    "explain": "브뤼주: 브뤼주에 있는 거래처의 힐데브란트 베킹후젠",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-13",
+        "quote": "브뤼주에 있는 거래처의 힐데브란트 베킹후젠"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/856ce5b1c0c6c45e9ff7a6c7b4f020c0a7c7747de1c0c4d42142fd48eb7f0e87.jpg",
+        "sha256": "856ce5b1c0c6c45e9ff7a6c7b4f020c0a7c7747de1c0c4d42142fd48eb7f0e87",
+        "quote": "브뤼주에 있는 거래처의 힐데브란트 베킹후젠",
+        "location": "오른쪽 73쪽 (라) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "브뤼주",
+      "inputSha256": "eff0d40f2cb140882604be564156095765a3c9ff838aa1d7867b1eae8433ce06"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g13-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-13",
+    "answer": "두카트",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "베네치아 상인의 편지에서 1만 및 12,000이라는 액수 뒤에 사용한 금화 단위는?",
+    "keyword": "두카트",
+    "explain": "두카트: 1만 두카트(ducat)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-13",
+        "quote": "1만 두카트(ducat)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/856ce5b1c0c6c45e9ff7a6c7b4f020c0a7c7747de1c0c4d42142fd48eb7f0e87.jpg",
+        "sha256": "856ce5b1c0c6c45e9ff7a6c7b4f020c0a7c7747de1c0c4d42142fd48eb7f0e87",
+        "quote": "1만 두카트(ducat)",
+        "location": "오른쪽 73쪽 (라) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "두카트",
+      "inputSha256": "9ed8ad70c5e870724f39b3f57afd50e81cfda8eaae8d63dc5f8109afb584cf9b"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g13-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-13",
+    "answer": "뤼베크",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "상인들의 창고·상관 설립과 관련한 특허장이 사료 출전으로 제시된 한자 도시를 쓰시오.",
+    "keyword": "뤼베크",
+    "explain": "뤼베크: 뤼베크 특허장",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-13",
+        "quote": "뤼베크 특허장"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/856ce5b1c0c6c45e9ff7a6c7b4f020c0a7c7747de1c0c4d42142fd48eb7f0e87.jpg",
+        "sha256": "856ce5b1c0c6c45e9ff7a6c7b4f020c0a7c7747de1c0c4d42142fd48eb7f0e87",
+        "quote": "뤼베크 특허장",
+        "location": "오른쪽 73쪽 (가) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "뤼베크",
+      "inputSha256": "7584fd85868be16bba95b6e04838113a51242dc76de61655aae5c5db893ab627"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g14-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-14",
+    "answer": "보편논쟁",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "실재론과 유명론이 보편 개념의 존재 방식을 놓고 대립한 중세 철학 논쟁의 명칭은?",
+    "keyword": "보편논쟁",
+    "explain": "보편논쟁: 보편논쟁은 보편의 존재 여부에 관한 실재론",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-14",
+        "quote": "보편논쟁은 보편의 존재 여부에 관한 실재론"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f1470fda8dd096a0b4f8b9d9721eacce22d4cd2588bd5543e42884c9ee746ff0.jpg",
+        "sha256": "f1470fda8dd096a0b4f8b9d9721eacce22d4cd2588bd5543e42884c9ee746ff0",
+        "quote": "보편논쟁은 보편의 존재 여부에 관한 실재론",
+        "location": "왼쪽 84쪽 보편논쟁 설명 첫 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "보편논쟁",
+      "inputSha256": "480ab4ff7b6aa2049bfc108a50a3b1f834ca9e28ee8ad87a62ffd0a910011d55"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g14-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-14",
+    "answer": "아리스토텔레스",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "『범주론』의 번역이 중세 보편논쟁의 계기가 되었다고 사진의 보충설명에 제시된 고대 철학자는?",
+    "keyword": "아리스토텔레스",
+    "explain": "아리스토텔레스: 아리스토텔레스의 『범주론』",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-14",
+        "quote": "아리스토텔레스의 『범주론』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f1470fda8dd096a0b4f8b9d9721eacce22d4cd2588bd5543e42884c9ee746ff0.jpg",
+        "sha256": "f1470fda8dd096a0b4f8b9d9721eacce22d4cd2588bd5543e42884c9ee746ff0",
+        "quote": "아리스토텔레스의 『범주론』",
+        "location": "왼쪽 84쪽 보편논쟁 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "아리스토텔레스",
+      "inputSha256": "889d19b0c0a06937b18d2de1c89a9272aaadc8b761dcc69fc5bdbf7a2cbb22e8"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g14-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-14",
+    "answer": "민네징거",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "미네징거"
+    ],
+    "prompt": "프랑스 남부의 트루바두르와 나란히 언급되며 독일에서 사랑을 노래한 서정시인을 가리키는 말은?",
+    "keyword": "민네징거",
+    "explain": "민네징거: 사랑을 노래하는 서정시인(Minnesinger)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-14",
+        "quote": "사랑을 노래하는 서정시인(Minnesinger)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f1470fda8dd096a0b4f8b9d9721eacce22d4cd2588bd5543e42884c9ee746ff0.jpg",
+        "sha256": "f1470fda8dd096a0b4f8b9d9721eacce22d4cd2588bd5543e42884c9ee746ff0",
+        "quote": "사랑을 노래하는 서정시인(Minnesinger)",
+        "location": "오른쪽 85쪽 사료 둘째 항목"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "민네징거",
+      "inputSha256": "684494783c9f7f620496c29d84b6e323ebd80549b9f37effe0348b83df59cd26"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g15-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-15",
+    "answer": "아드리아해",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "르네상스기 베네치아가 무역으로 부를 축적한 주요 해역으로 사진의 사료에 제시된 바다는?",
+    "keyword": "아드리아해",
+    "explain": "아드리아해: 아드리아해 무역을",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-15",
+        "quote": "아드리아해 무역을"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d32ae33bab6865b1e297a81db84fec25e54deb166e74ef0ea92917bba221268b.jpg",
+        "sha256": "d32ae33bab6865b1e297a81db84fec25e54deb166e74ef0ea92917bba221268b",
+        "quote": "아드리아해 무역을",
+        "location": "오른쪽 95쪽 사료 첫째 항목"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "아드리아해",
+      "inputSha256": "d772e01dce3d947e9f8fa63cc2276687037f8e276aa9f87247298eef64a53679"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g15-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-15",
+    "answer": "도제",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "총독"
+    ],
+    "prompt": "베네치아 대회의에서 선출한 국가 수반을 가리키며 doge로 표기한 관직은?",
+    "keyword": "도제",
+    "explain": "베네치아의 총독을 도제라고 한다. 이 페이지는 총독 선출과 별도로 십인위원회의 실권을 구분한다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-15",
+        "quote": "대회의에서 총독(doge)을 선출하고"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d32ae33bab6865b1e297a81db84fec25e54deb166e74ef0ea92917bba221268b.jpg",
+        "sha256": "d32ae33bab6865b1e297a81db84fec25e54deb166e74ef0ea92917bba221268b",
+        "quote": "대회의에서 총독(doge)을 선출하고",
+        "location": "오른쪽 95쪽 ③선지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "도제",
+      "inputSha256": "374c837cef670c6473509344d94caae919628c38a54b8149e9396ec6236c700c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g15-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-15",
+    "answer": "십인위원회",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "베네치아에서 명목상 국가 수반인 총독과 구별하여 실질적인 권력을 행사한 위원회는?",
+    "keyword": "십인위원회",
+    "explain": "십인위원회: 실질적으로 핵심적인 기구는 십인 위원회였다",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-15",
+        "quote": "실질적으로 핵심적인 기구는 십인 위원회였다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d32ae33bab6865b1e297a81db84fec25e54deb166e74ef0ea92917bba221268b.jpg",
+        "sha256": "d32ae33bab6865b1e297a81db84fec25e54deb166e74ef0ea92917bba221268b",
+        "quote": "실질적으로 핵심적인 기구는 십인 위원회였다",
+        "location": "오른쪽 95쪽 ③선지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "십인위원회",
+      "inputSha256": "e5b963d66dc0f3662c6899aa1aba3898699a177524070d1688d3c44f8646b28f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g16-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-16",
+    "answer": "코무네",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "콤무네",
+      "코뮌"
+    ],
+    "prompt": "중북부 이탈리아에 발달한 자치적 도시 공화국을 가리키는 명칭으로 팩트체크에 제시된 용어는?",
+    "keyword": "코무네",
+    "explain": "코무네: 도시 공화국(코무네)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-16",
+        "quote": "도시 공화국(코무네)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f10f74bda5856fca69a45ba9a0b0bfea807fae449ba40bde471e75fdbbe832c3.jpg",
+        "sha256": "f10f74bda5856fca69a45ba9a0b0bfea807fae449ba40bde471e75fdbbe832c3",
+        "quote": "도시 공화국(코무네)",
+        "location": "왼쪽 96쪽 팩트체크 02"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "코무네",
+      "inputSha256": "a6fdf7d6f4eb331acbd11663aaaff63fdabf9e5caea6597d95902c5761b3b9fc"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g16-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-16",
+    "answer": "피렌체사",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "마키아벨리가 메디치 가문의 요청으로 1520년 집필에 착수한 역사서로 하단 보충설명에 제시된 책은?",
+    "keyword": "피렌체사",
+    "explain": "피렌체사: 책의 제목은 『피렌체사』이다",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-16",
+        "quote": "책의 제목은 『피렌체사』이다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f10f74bda5856fca69a45ba9a0b0bfea807fae449ba40bde471e75fdbbe832c3.jpg",
+        "sha256": "f10f74bda5856fca69a45ba9a0b0bfea807fae449ba40bde471e75fdbbe832c3",
+        "quote": "책의 제목은 『피렌체사』이다",
+        "location": "오른쪽 97쪽 하단 보충설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "피렌체사",
+      "inputSha256": "4627915b89b0952f53ccf7d74c2a346796fbc1942868e7426a696c46e9329ee3"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g16-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-16",
+    "answer": "로렌초 데 메디치",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "로렌초",
+      "로렌초 메디치"
+    ],
+    "prompt": "코시모의 손자로서 15세기 후반 피렌체의 예술·학문 후원으로 알려진 메디치 가문 인물은?",
+    "keyword": "로렌초 데 메디치",
+    "explain": "로렌초 데 메디치: 코시모의 손자 로렌초 데 메디치는",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-16",
+        "quote": "코시모의 손자 로렌초 데 메디치는"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/f10f74bda5856fca69a45ba9a0b0bfea807fae449ba40bde471e75fdbbe832c3.jpg",
+        "sha256": "f10f74bda5856fca69a45ba9a0b0bfea807fae449ba40bde471e75fdbbe832c3",
+        "quote": "코시모의 손자 로렌초 데 메디치는",
+        "location": "오른쪽 97쪽 팩트체크 03"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "로렌초 데 메디치",
+      "inputSha256": "70940b36b2e3acd195b31a945cd544602ecea33d6a26e310a1dd304cb831422b"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g17-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-17",
+    "answer": "페르디난트 2세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "보헤미아 신교도의 종교 자유를 제한하여 갈등을 격화시킨 신성로마 황제로 이 페이지가 소개하는 인물은?",
+    "keyword": "페르디난트 2세",
+    "explain": "페르디난트 2세: 신성 로마 제국의 황제인 페르디난트 2세는",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-17",
+        "quote": "신성 로마 제국의 황제인 페르디난트 2세는"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4937be4e156f42f413ed9aecbfc19169c0ea11afd1721785fcd3125262a693d8.jpg",
+        "sha256": "4937be4e156f42f413ed9aecbfc19169c0ea11afd1721785fcd3125262a693d8",
+        "quote": "신성 로마 제국의 황제인 페르디난트 2세는",
+        "location": "왼쪽 114쪽 사료 아래 보충설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "페르디난트 2세",
+      "inputSha256": "46fad992d5d8be2d7473e4f3d6a87747d5cd165fd9853b0dcd61dbb7513b028f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g17-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-17",
+    "answer": "프라하",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "1618년 보헤미아 신교도들이 집정관들을 창밖으로 던진 사건이 일어난 도시는?",
+    "keyword": "프라하",
+    "explain": "프라하: 프라하의 인간 투척 사건",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-17",
+        "quote": "프라하의 인간 투척 사건"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4937be4e156f42f413ed9aecbfc19169c0ea11afd1721785fcd3125262a693d8.jpg",
+        "sha256": "4937be4e156f42f413ed9aecbfc19169c0ea11afd1721785fcd3125262a693d8",
+        "quote": "프라하의 인간 투척 사건",
+        "location": "왼쪽 114쪽 보충설명 가운데"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "프라하",
+      "inputSha256": "5a5923c3f593e3a0d016f5ce8778e217f1f1a9b025709871f697bc96ac092469"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g17-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-17",
+    "answer": "오스나브뤼크",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "오스나브루크"
+    ],
+    "prompt": "베스트팔렌 강화의 두 협상 도시 중 스웨덴 측 협정과 연결되는 도시로 보충설명에 제시된 곳은?",
+    "keyword": "오스나브뤼크",
+    "explain": "오스나브뤼크: 스웨덴과 오스나브뤼크에서",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-17",
+        "quote": "스웨덴과 오스나브뤼크에서"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/4937be4e156f42f413ed9aecbfc19169c0ea11afd1721785fcd3125262a693d8.jpg",
+        "sha256": "4937be4e156f42f413ed9aecbfc19169c0ea11afd1721785fcd3125262a693d8",
+        "quote": "스웨덴과 오스나브뤼크에서",
+        "location": "오른쪽 115쪽 베스트팔렌 조약 설명 첫 문장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "오스나브뤼크",
+      "inputSha256": "9c96cd46cb14517487121aefa87ae4d796e4bdd467cb92cb4b15564e6ce9373c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g18-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-18",
+    "answer": "피에르 비레",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "비레"
+    ],
+    "prompt": "신은 인정하지만 그리스도교의 사도·성서 이야기는 거부하는 사람들을 언급한 『그리스도교 교육에 대한 서신』의 저자는?",
+    "keyword": "피에르 비레",
+    "explain": "피에르 비레: 피에르 비레, 『그리스도교 교육에 대한 서신』",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-18",
+        "quote": "피에르 비레, 『그리스도교 교육에 대한 서신』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/902cd5aeaea4092224f038e7308a8d55b4028f040d6ceac55f6a22799c61cd83.jpg",
+        "sha256": "902cd5aeaea4092224f038e7308a8d55b4028f040d6ceac55f6a22799c61cd83",
+        "quote": "피에르 비레, 『그리스도교 교육에 대한 서신』",
+        "location": "오른쪽 123쪽 (다) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "피에르 비레",
+      "inputSha256": "9189b0f221f523988ab14108a50e5a7dfdca15bd1b8d381c97892d304231eb90"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g18-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-18",
+    "answer": "콩도르세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "볼테르·몽테스키외·로크 등 계몽사상가들이 편견과 진리의 장애에 맞섰다고 평가한 「인간 정신 진보사 개관」의 저자는?",
+    "keyword": "콩도르세",
+    "explain": "콩도르세: 콩도르세, 「인간 정신 진보사 개관」",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-18",
+        "quote": "콩도르세, 「인간 정신 진보사 개관」"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/902cd5aeaea4092224f038e7308a8d55b4028f040d6ceac55f6a22799c61cd83.jpg",
+        "sha256": "902cd5aeaea4092224f038e7308a8d55b4028f040d6ceac55f6a22799c61cd83",
+        "quote": "콩도르세, 「인간 정신 진보사 개관」",
+        "location": "오른쪽 123쪽 (가) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "콩도르세",
+      "inputSha256": "4b71bdc6c896dfd42a6e974eabead193d158c012ce3dcf98528586fe73826010"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g19-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-19",
+    "answer": "제임스 매디슨",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "제임스 메디슨",
+      "매디슨",
+      "메디슨"
+    ],
+    "prompt": "1787년 제헌회의 논의를 기록하며 공화국 안의 노예제 모순을 지적하는 자료의 출전 저자는?",
+    "keyword": "제임스 매디슨",
+    "explain": "제임스 매디슨: 제임스 메디슨(James Madison)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-19",
+        "quote": "제임스 메디슨(James Madison)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/60f0c00184d419ae269f9b648e6239c7106740d0190cf96b42ddc6e1878b19af.jpg",
+        "sha256": "60f0c00184d419ae269f9b648e6239c7106740d0190cf96b42ddc6e1878b19af",
+        "quote": "제임스 메디슨(James Madison)",
+        "location": "오른쪽 125쪽 (다) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "제임스 매디슨",
+      "inputSha256": "7786538fdbd2f331eb32ddc7bcdf7588e9f1ca7078a1eee2815357523a8328a3"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g19-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-19",
+    "answer": "장자크 루소",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "루소"
+    ],
+    "prompt": "울스턴크래프트의 『여성의 권리 옹호』 전반부가 여성의 이성과 교육에 관한 주장을 비판한 사상가로 보충설명에 제시된 사람은?",
+    "keyword": "장자크 루소",
+    "explain": "장자크 루소: 장 자크 루소(Jean-Jacques Rousseau)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-19",
+        "quote": "장 자크 루소(Jean-Jacques Rousseau)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/60f0c00184d419ae269f9b648e6239c7106740d0190cf96b42ddc6e1878b19af.jpg",
+        "sha256": "60f0c00184d419ae269f9b648e6239c7106740d0190cf96b42ddc6e1878b19af",
+        "quote": "장 자크 루소(Jean-Jacques Rousseau)",
+        "location": "왼쪽 124쪽 여성의 권리 옹호 보충설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "장자크 루소",
+      "inputSha256": "c86a137f2a8fe8837e9f9531b238690103bc2b42da156ef974996fe489295000"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g19-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-19",
+    "answer": "드니 디드로",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "디드로"
+    ],
+    "prompt": "인간의 자유는 양도할 수 없으며 노예도 자유를 회복할 수 있다고 주장한 사료의 저자로 제시된 백과전서 편찬자는?",
+    "keyword": "드니 디드로",
+    "explain": "드니 디드로: 드니 디드로(Denis Diderot)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-19",
+        "quote": "드니 디드로(Denis Diderot)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/60f0c00184d419ae269f9b648e6239c7106740d0190cf96b42ddc6e1878b19af.jpg",
+        "sha256": "60f0c00184d419ae269f9b648e6239c7106740d0190cf96b42ddc6e1878b19af",
+        "quote": "드니 디드로(Denis Diderot)",
+        "location": "오른쪽 125쪽 (나) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "드니 디드로",
+      "inputSha256": "ebd13cb81e46eb3e9bfe3402d735803cb37f045e17fae94df42238aa13a7c426"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g20-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-20",
+    "answer": "국민의회",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "국민제헌의회",
+      "제헌국민의회"
+    ],
+    "prompt": "프랑스 혁명 초기에 봉건제 폐지를 추진한 의회로 사진의 1789년 설명에 명시된 기관은?",
+    "keyword": "국민의회",
+    "explain": "국민의회: 국민의회는 1789년부터 봉건제 폐지",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-20",
+        "quote": "국민의회는 1789년부터 봉건제 폐지"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/0018a467d4adf19b6ed7b39fd4aa98be3f5988b32a97f3ebd5685d2649cdeb69.jpg",
+        "sha256": "0018a467d4adf19b6ed7b39fd4aa98be3f5988b32a97f3ebd5685d2649cdeb69",
+        "quote": "국민의회는 1789년부터 봉건제 폐지",
+        "location": "왼쪽 136쪽 사료 첫 문단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "국민의회",
+      "inputSha256": "92f21a79e3cc64d73d36c287878801dbd216f6d46523ccdb6ef24c464f775ae4"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g20-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-20",
+    "answer": "프랑스 혁명에 관한 성찰",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "프랑스 혁명에 대한 성찰"
+    ],
+    "prompt": "버크가 1790년에 프랑스 혁명의 급진적 변화와 전통 단절을 비판하며 출판한 저술의 제목은?",
+    "keyword": "프랑스 혁명에 관한 성찰",
+    "explain": "프랑스 혁명에 관한 성찰: 에드먼드 버크의 『프랑스 혁명에 관한 성찰』",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-20",
+        "quote": "에드먼드 버크의 『프랑스 혁명에 관한 성찰』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/0018a467d4adf19b6ed7b39fd4aa98be3f5988b32a97f3ebd5685d2649cdeb69.jpg",
+        "sha256": "0018a467d4adf19b6ed7b39fd4aa98be3f5988b32a97f3ebd5685d2649cdeb69",
+        "quote": "에드먼드 버크의 『프랑스 혁명에 관한 성찰』",
+        "location": "오른쪽 137쪽 하단 보충설명 제목"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "프랑스 혁명에 관한 성찰",
+      "inputSha256": "a285cb6d03feb59cf15adcacb0ecb9ac5ccd28803bf5ed03cae7a144d6415466"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g21-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-21",
+    "answer": "바르트부르크",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "바르트부르크성"
+    ],
+    "prompt": "루터의 독일어 성서 번역과 연결되며 독일 학생들이 1817년 기념 축제를 연 성의 이름은?",
+    "keyword": "바르트부르크",
+    "explain": "바르트부르크: 바르트부르크 성에서 1817년 10월",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-21",
+        "quote": "바르트부르크 성에서 1817년 10월"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/71937007651154ca9851614fe2b74104cba8373eefb025de7e14d2bb00ba86a2.jpg",
+        "sha256": "71937007651154ca9851614fe2b74104cba8373eefb025de7e14d2bb00ba86a2",
+        "quote": "바르트부르크 성에서 1817년 10월",
+        "location": "오른쪽 143쪽 (나) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "바르트부르크",
+      "inputSha256": "dac08e981c9a73796ed3285403fb2ee80dcb31b028e9ac0a9b42c373c4d09133"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g21-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-21",
+    "answer": "부르셴샤프트",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "부르쉔샤프트"
+    ],
+    "prompt": "독일의 자유주의·통일운동에서 대학생들이 결성한 학생조합으로 이 페이지의 사고과정에 제시된 명칭은?",
+    "keyword": "부르셴샤프트",
+    "explain": "부르셴샤프트: 부르셴샤프트",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-21",
+        "quote": "부르셴샤프트"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/71937007651154ca9851614fe2b74104cba8373eefb025de7e14d2bb00ba86a2.jpg",
+        "sha256": "71937007651154ca9851614fe2b74104cba8373eefb025de7e14d2bb00ba86a2",
+        "quote": "부르셴샤프트",
+        "location": "오른쪽 143쪽 사고과정 ②"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "부르셴샤프트",
+      "inputSha256": "6c08c0b1b196102ca669dc015e0c9b81e6c7febdc3b6feabdc78d5708e5d26b8"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g22-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-22",
+    "answer": "에이브러햄 다비",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "다비",
+      "아브라함 다비"
+    ],
+    "prompt": "18세기 초 석탄에서 만든 연료를 이용하여 선철을 생산하는 제철 방식과 연결된 기술자는?",
+    "keyword": "에이브러햄 다비",
+    "explain": "에이브러햄 다비: 18세기 초에 다비가",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-22",
+        "quote": "18세기 초에 다비가"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/38cfa3d36e754753e38c55fca2c5da9fd0bebabc154149485b8e2ad6850d8460.jpg",
+        "sha256": "38cfa3d36e754753e38c55fca2c5da9fd0bebabc154149485b8e2ad6850d8460",
+        "quote": "18세기 초에 다비가",
+        "location": "왼쪽 148쪽 사료 중간"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에이브러햄 다비",
+      "inputSha256": "6cba3d8d550cccde31f13d2a18a0006ef56c220c5efc87e38940ff5efce826e8"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g22-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-22",
+    "answer": "헨리 코트",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "코트"
+    ],
+    "prompt": "18세기 말 석탄을 연료로 사용하는 효율적 제철 방법의 발명자로 사진 사료에 제시된 기술자는?",
+    "keyword": "헨리 코트",
+    "explain": "헨리 코트: 18세기 말에는 코트가",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-22",
+        "quote": "18세기 말에는 코트가"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/38cfa3d36e754753e38c55fca2c5da9fd0bebabc154149485b8e2ad6850d8460.jpg",
+        "sha256": "38cfa3d36e754753e38c55fca2c5da9fd0bebabc154149485b8e2ad6850d8460",
+        "quote": "18세기 말에는 코트가",
+        "location": "왼쪽 148쪽 사료 중간"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "헨리 코트",
+      "inputSha256": "4b577d34519e30f71c2bb1c4f98893ca505b42fdf832382e4350108b5025500c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g22-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-22",
+    "answer": "석탄",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "제철업의 발달과 증기기관의 보급으로 수요가 증가하여 사료가 영국 산업혁명의 총아라고 평가하는 광물 연료는?",
+    "keyword": "석탄",
+    "explain": "석탄: 석탄은 영국 산업혁명의 총아였다",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-22",
+        "quote": "석탄은 영국 산업혁명의 총아였다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/38cfa3d36e754753e38c55fca2c5da9fd0bebabc154149485b8e2ad6850d8460.jpg",
+        "sha256": "38cfa3d36e754753e38c55fca2c5da9fd0bebabc154149485b8e2ad6850d8460",
+        "quote": "석탄은 영국 산업혁명의 총아였다",
+        "location": "왼쪽 148쪽 사료 마지막 문장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "석탄",
+      "inputSha256": "4a7ac4d2c9a2272676751c3a0862d3ab74b4319705a1605b0655d0027a343900"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g23-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-23",
+    "answer": "대독일주의",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "독일 통일 과정에서 오스트리아를 포함한 독일권의 통합을 지향한 노선은?",
+    "keyword": "대독일주의",
+    "explain": "대독일주의: 오스트리아를 중심으로 하는 대독일주의",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-23",
+        "quote": "오스트리아를 중심으로 하는 대독일주의"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d4b650f2842138ba6d58e11eb50e9851e7d58819e92831c50c2c2b588e911d8e.jpg",
+        "sha256": "d4b650f2842138ba6d58e11eb50e9851e7d58819e92831c50c2c2b588e911d8e",
+        "quote": "오스트리아를 중심으로 하는 대독일주의",
+        "location": "왼쪽 156쪽 소독일주의와 대독일주의 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "대독일주의",
+      "inputSha256": "be0019a70844bc97d1542a0692c573bc5b746d8ba0b36204da25079dc632b97d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g23-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-23",
+    "answer": "소독일주의",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "독일 통일 논쟁에서 오스트리아를 배제하고 프로이센을 중심으로 통합하려 한 노선은?",
+    "keyword": "소독일주의",
+    "explain": "소독일주의: 프로이센을 중심으로 하는 소독일주의",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-23",
+        "quote": "프로이센을 중심으로 하는 소독일주의"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d4b650f2842138ba6d58e11eb50e9851e7d58819e92831c50c2c2b588e911d8e.jpg",
+        "sha256": "d4b650f2842138ba6d58e11eb50e9851e7d58819e92831c50c2c2b588e911d8e",
+        "quote": "프로이센을 중심으로 하는 소독일주의",
+        "location": "왼쪽 156쪽 소독일주의와 대독일주의 설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "소독일주의",
+      "inputSha256": "b5e321b4c705600b26134ef480d41e47566addd302703e49c129e692b03166c7"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g23-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-23",
+    "answer": "보호관세",
+    "match": "aliases",
+    "acceptedAnswers": [],
+    "prompt": "비스마르크가 자유무역에서 전환하여 1879년 국내 산업·농업의 보호를 위해 수입품에 부과한 조치는?",
+    "keyword": "보호관세",
+    "explain": "보호관세: 보호관세를 제정하였다",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-23",
+        "quote": "보호관세를 제정하였다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/d4b650f2842138ba6d58e11eb50e9851e7d58819e92831c50c2c2b588e911d8e.jpg",
+        "sha256": "d4b650f2842138ba6d58e11eb50e9851e7d58819e92831c50c2c2b588e911d8e",
+        "quote": "보호관세를 제정하였다",
+        "location": "오른쪽 157쪽 비스마르크 보충설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "보호관세",
+      "inputSha256": "b4371effdd7fb2bca8e14c393b1db2c24d80f0e0075f2f2716b4ca953b77bf2b"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g24-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-24",
+    "answer": "권력분립",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "삼권분립",
+      "3권분립"
+    ],
+    "prompt": "프로이센 헌법 설명에서 입법·행정·사법을 각각 다른 기관에 배분한 구조를 가리키는 원칙은?",
+    "keyword": "권력분립",
+    "explain": "권력분립: 3권분립의 규정이 있으며",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-24",
+        "quote": "3권분립의 규정이 있으며"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/a4b4cfa088adb980476567e25b1161bd5248ee9517ae80ae34d02267e529ca32.jpg",
+        "sha256": "a4b4cfa088adb980476567e25b1161bd5248ee9517ae80ae34d02267e529ca32",
+        "quote": "3권분립의 규정이 있으며",
+        "location": "왼쪽 160쪽 프로이센 헌법 보충설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "권력분립",
+      "inputSha256": "a1c2002a8b0ebc76d6a4a20605d35f89da896779b23ada7a29004f176f3a4b7d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g24-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-24",
+    "answer": "제퍼슨 데이비스",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "데이비스"
+    ],
+    "prompt": "미국 남부의 분리 독립으로 결성된 아메리카 연합국의 대통령으로 해설에 명시된 인물은?",
+    "keyword": "제퍼슨 데이비스",
+    "explain": "제퍼슨 데이비스: 제퍼슨 데이비스(Jefferson Davis",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-24",
+        "quote": "제퍼슨 데이비스(Jefferson Davis"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/a4b4cfa088adb980476567e25b1161bd5248ee9517ae80ae34d02267e529ca32.jpg",
+        "sha256": "a4b4cfa088adb980476567e25b1161bd5248ee9517ae80ae34d02267e529ca32",
+        "quote": "제퍼슨 데이비스(Jefferson Davis",
+        "location": "오른쪽 161쪽 사고과정 ①"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "제퍼슨 데이비스",
+      "inputSha256": "30f5d446fd931f48c444782824e8ad7aed23eaf9e3412a8ee88d43ff223b6f57"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g24-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-24",
+    "answer": "표현의 자유",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "언론 출판의 자유",
+      "언론의 자유"
+    ],
+    "prompt": "1849년 독일 헌법 조문에서 언론·저술·출판·서화를 통해 의견을 드러낼 권리를 통틀어 가리키는 자유는?",
+    "keyword": "표현의 자유",
+    "explain": "표현의 자유: 언론, 저술, 출판, 서화를 통해 자신의 의견을 자유롭게 표현할 권리를 가지고 있다",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-24",
+        "quote": "언론, 저술, 출판, 서화를 통해 자신의 의견을 자유롭게 표현할 권리를 가지고 있다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/a4b4cfa088adb980476567e25b1161bd5248ee9517ae80ae34d02267e529ca32.jpg",
+        "sha256": "a4b4cfa088adb980476567e25b1161bd5248ee9517ae80ae34d02267e529ca32",
+        "quote": "언론, 저술, 출판, 서화를 통해 자신의 의견을 자유롭게 표현할 권리를 가지고 있다",
+        "location": "왼쪽 160쪽 제4조 143항"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "표현의 자유",
+      "inputSha256": "b2265b4a3960fc12ed252b5fe3f90f8b0d8c9153cb6d8553bab7005f4f83a57f"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g25-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-25",
+    "answer": "레오폴드 2세",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "레오폴 2세"
+    ],
+    "prompt": "콩고를 사적으로 지배하며 원료 채취를 강요한 벨기에 국왕으로 해설에 명시된 인물은?",
+    "keyword": "레오폴드 2세",
+    "explain": "레오폴드 2세: 레오폴드 2세는",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-25",
+        "quote": "레오폴드 2세는"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/29a92615e9e466942419096bfbc7462bb5a91329368b8ada8655cf3dc8a19e9e.jpg",
+        "sha256": "29a92615e9e466942419096bfbc7462bb5a91329368b8ada8655cf3dc8a19e9e",
+        "quote": "레오폴드 2세는",
+        "location": "왼쪽 170쪽 베를린 회의 보충설명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "레오폴드 2세",
+      "inputSha256": "644a1fb6b46f24252b2b703e99e53211def1dacc347a106eb75b32dda3cd58b4"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g25-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-25",
+    "answer": "에드먼드 모렐",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "모렐",
+      "에드먼드 딘 모렐"
+    ],
+    "prompt": "콩고의 고무 채취 강제와 식민 통치 수입을 비판한 『흑인의 짐』의 저자는?",
+    "keyword": "에드먼드 모렐",
+    "explain": "에드먼드 모렐: 에드먼드 모렐(E. Morel), 『흑인의 짐』",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-25",
+        "quote": "에드먼드 모렐(E. Morel), 『흑인의 짐』"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/29a92615e9e466942419096bfbc7462bb5a91329368b8ada8655cf3dc8a19e9e.jpg",
+        "sha256": "29a92615e9e466942419096bfbc7462bb5a91329368b8ada8655cf3dc8a19e9e",
+        "quote": "에드먼드 모렐(E. Morel), 『흑인의 짐』",
+        "location": "오른쪽 171쪽 (가) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에드먼드 모렐",
+      "inputSha256": "7639e02620482f13b5f5f29e0de725763e543556a3ff90f96247f407d976fafe"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g27-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-27",
+    "answer": "리벤트로프",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "요아힘 폰 리벤트로프",
+      "요아힘 리벤트로프"
+    ],
+    "prompt": "독소 불가침조약으로 이어진 독일 외교를 설명한 슈미트의 회고에서 외무장관으로 등장하는 인물은?",
+    "keyword": "리벤트로프",
+    "explain": "리벤트로프: 외무장관 리벤트로프",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-27",
+        "quote": "외무장관 리벤트로프"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/0da41d55486855ed7ada5e8937432221a785bd30bcc60cb2f303819c3a74621e.jpg",
+        "sha256": "0da41d55486855ed7ada5e8937432221a785bd30bcc60cb2f303819c3a74621e",
+        "quote": "외무장관 리벤트로프",
+        "location": "왼쪽 188쪽 슈미트의 회고 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "리벤트로프",
+      "inputSha256": "195b010ff68e31a2496e22ee63b8dd4a57be7b6c192b1d4955f16159abc4e7ec"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g27-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-27",
+    "answer": "에두아르 달라디에",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "달라디에",
+      "에두아르 달라디에르"
+    ],
+    "prompt": "1938년 뮌헨 협정 말미 서명자 중 프랑스를 대표한 정치가는?",
+    "keyword": "에두아르 달라디에",
+    "explain": "에두아르 달라디에: 에두아르 달라디에",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-27",
+        "quote": "에두아르 달라디에"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/0da41d55486855ed7ada5e8937432221a785bd30bcc60cb2f303819c3a74621e.jpg",
+        "sha256": "0da41d55486855ed7ada5e8937432221a785bd30bcc60cb2f303819c3a74621e",
+        "quote": "에두아르 달라디에",
+        "location": "왼쪽 188쪽 뮌헨 협정 맨 아래 서명"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에두아르 달라디에",
+      "inputSha256": "2399b995dab0894f3a9f7b723eb4958314ee9caa630cc30a53616d5922759a16"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g27-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-27",
+    "answer": "수데텐",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "주데텐",
+      "수데텐란트"
+    ],
+    "prompt": "1938년 뮌헨 협정이 독일로 이양하도록 한 체코슬로바키아의 독일계 주민 거주 지역은?",
+    "keyword": "수데텐",
+    "explain": "수데텐: 독일 민족거주지역인 수데텐의 독일 이양을 위해",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-27",
+        "quote": "독일 민족거주지역인 수데텐의 독일 이양을 위해"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/0da41d55486855ed7ada5e8937432221a785bd30bcc60cb2f303819c3a74621e.jpg",
+        "sha256": "0da41d55486855ed7ada5e8937432221a785bd30bcc60cb2f303819c3a74621e",
+        "quote": "독일 민족거주지역인 수데텐의 독일 이양을 위해",
+        "location": "왼쪽 188쪽 뮌헨 협정 첫 문장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "수데텐",
+      "inputSha256": "bc3d90aa8e80d695ed53b160f51dbe02416bbe11677ca26aab9fbfc68f96128d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g28-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-28",
+    "answer": "여성사회정치연합",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "WSPU",
+      "wspu",
+      "여성 사회 정치 동맹"
+    ],
+    "prompt": "에멀린 팽크허스트가 1903년 조직하여 영국 여성의 참정권을 요구한 단체의 이름은?",
+    "keyword": "여성사회정치연합",
+    "explain": "여성사회정치연합: 여성사회정치연합",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-28",
+        "quote": "여성사회정치연합"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/8f33c942196d13abfe1b70cbaef4ceb8a140921c77e7654a350566244d0a8fec.jpg",
+        "sha256": "8f33c942196d13abfe1b70cbaef4ceb8a140921c77e7654a350566244d0a8fec",
+        "quote": "여성사회정치연합",
+        "location": "오른쪽 199쪽 (가) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "여성사회정치연합",
+      "inputSha256": "cf5c5ca686e86eeedacf91ebe5a5d6c1dbba886e7a601e317d906602dc2f3f0b"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g28-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-28",
+    "answer": "에밀리 데이비슨",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "에밀리 와일딩 데이비슨",
+      "데이비슨"
+    ],
+    "prompt": "1913년 더비 경마에서 국왕의 말 앞으로 나서 영국 여성 참정권 운동의 희생을 상징하게 된 활동가는?",
+    "keyword": "에밀리 데이비슨",
+    "explain": "에밀리 데이비슨: 에밀리 데이비슨(Emily Davison)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-28",
+        "quote": "에밀리 데이비슨(Emily Davison)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/8f33c942196d13abfe1b70cbaef4ceb8a140921c77e7654a350566244d0a8fec.jpg",
+        "sha256": "8f33c942196d13abfe1b70cbaef4ceb8a140921c77e7654a350566244d0a8fec",
+        "quote": "에밀리 데이비슨(Emily Davison)",
+        "location": "오른쪽 199쪽 (가) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "에밀리 데이비슨",
+      "inputSha256": "e8cbdfcbae784fb416c3653a7ddf3a8724d9aeae716d9b662def6e14b60f9e91"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g28-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-28",
+    "answer": "베티 프리단",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "베티 프리댄",
+      "프리단",
+      "프리댄"
+    ],
+    "prompt": "여성의 삶을 가정주부·어머니 역할로 한정하는 통념을 비판한 『여성의 신비』의 저자는?",
+    "keyword": "베티 프리단",
+    "explain": "베티 프리단: 베티 프리단의",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-28",
+        "quote": "베티 프리단의"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/8f33c942196d13abfe1b70cbaef4ceb8a140921c77e7654a350566244d0a8fec.jpg",
+        "sha256": "8f33c942196d13abfe1b70cbaef4ceb8a140921c77e7654a350566244d0a8fec",
+        "quote": "베티 프리단의",
+        "location": "오른쪽 199쪽 사고과정 ③"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "베티 프리단",
+      "inputSha256": "7acf4fac17d56a022987e66cd4a2eb3fec3e6f76a48b47d5ed966838e8195c4d"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g29-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-29",
+    "answer": "로널드 레이건",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "레이건",
+      "로날드 레이건"
+    ],
+    "prompt": "1981년 미국 대통령으로 취임했으며 정부의 누적 적자가 미래를 저당 잡는다고 비판한 연설의 발신자는?",
+    "keyword": "로널드 레이건",
+    "explain": "로널드 레이건: 레이건 대통령 취임 연설",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-29",
+        "quote": "레이건 대통령 취임 연설"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/38a0515b3f0c4e83bb846c474064c4191d3ed655d738c42c1dadff31d18b28d6.jpg",
+        "sha256": "38a0515b3f0c4e83bb846c474064c4191d3ed655d738c42c1dadff31d18b28d6",
+        "quote": "레이건 대통령 취임 연설",
+        "location": "왼쪽 202쪽 (나) 사료 출전"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "로널드 레이건",
+      "inputSha256": "65753f0cbb8525bbcd209977a4f5a98730cb5ab8b2297a62025e803b137985ec"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g29-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-29",
+    "answer": "재정적자",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "적자재정"
+    ],
+    "prompt": "정부 지출이 수입보다 커서 부족분이 누적되는 상태로, 사진의 취임 연설이 반복하여 쌓는다고 비판한 것은?",
+    "keyword": "재정적자",
+    "explain": "재정적자: 적자 재정 위에 또 다른 적자를 쌓아 왔던 것입니다",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-29",
+        "quote": "적자 재정 위에 또 다른 적자를 쌓아 왔던 것입니다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/38a0515b3f0c4e83bb846c474064c4191d3ed655d738c42c1dadff31d18b28d6.jpg",
+        "sha256": "38a0515b3f0c4e83bb846c474064c4191d3ed655d738c42c1dadff31d18b28d6",
+        "quote": "적자 재정 위에 또 다른 적자를 쌓아 왔던 것입니다",
+        "location": "왼쪽 202쪽 (나) 사료 마지막 문장"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "재정적자",
+      "inputSha256": "7c7a9107129d4d1a40104c6db098b97aa95d66f2c2c686aafdf2c0ba14682345"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g30-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-30",
+    "answer": "이레네",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "이리니",
+      "이레네 여제"
+    ],
+    "prompt": "787년 공의회에서 성상 파괴를 부정하는 방향을 지지했고 이후 아들 콘스탄티누스 6세와 권력투쟁을 벌인 비잔틴 여성 통치자는?",
+    "keyword": "이레네",
+    "explain": "이레네: 섭정 이레네가 참석한 니케아 공의회에서는",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-30",
+        "quote": "섭정 이레네가 참석한 니케아 공의회에서는"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/a051b3c83e2c4b1e09034def93e683ee3e0cd32addc64e2b3f7c8c6c8f8f915c.jpg",
+        "sha256": "a051b3c83e2c4b1e09034def93e683ee3e0cd32addc64e2b3f7c8c6c8f8f915c",
+        "quote": "섭정 이레네가 참석한 니케아 공의회에서는",
+        "location": "왼쪽 210쪽 (나) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "이레네",
+      "inputSha256": "f9c99127fcf39117571aead85eaf460bcaeab51ee4fabf0066301d4000159602"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g30-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-30",
+    "answer": "제2차 니케아 공의회",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "니케아 공의회",
+      "제2차 니카이아 공의회",
+      "니카이아 공의회"
+    ],
+    "prompt": "787년에 성상 파괴를 이단으로 규정한 교회 회의의 명칭은?",
+    "keyword": "제2차 니케아 공의회",
+    "explain": "제2차 니케아 공의회: 니케아 공의회에서는",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-30",
+        "quote": "니케아 공의회에서는"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/a051b3c83e2c4b1e09034def93e683ee3e0cd32addc64e2b3f7c8c6c8f8f915c.jpg",
+        "sha256": "a051b3c83e2c4b1e09034def93e683ee3e0cd32addc64e2b3f7c8c6c8f8f915c",
+        "quote": "니케아 공의회에서는",
+        "location": "왼쪽 210쪽 (나) 사료"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "제2차 니케아 공의회",
+      "inputSha256": "3375342023303860ba6a4539fe273c2c1991d8657de4f2cbb1331f2a3c2cad6e"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g31-1",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-31",
+    "answer": "압둘 메지드 1세",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "압둘메지드",
+      "압둘 마지드",
+      "압둘 마지드 1세",
+      "압뒬메지드 1세"
+    ],
+    "prompt": "마흐무트 2세에 이어 1839년에 즉위하여 오스만의 근대화 개혁을 이어간 술탄은?",
+    "keyword": "압둘 메지드 1세",
+    "explain": "압둘 메지드 1세: 압둘 마지드(1839~1861)",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-31",
+        "quote": "압둘 마지드(1839~1861)"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/50b948d1f826dbeeb82fca6aafe75f3a5102b7861bc4e36f23a15d924c28bacd.jpg",
+        "sha256": "50b948d1f826dbeeb82fca6aafe75f3a5102b7861bc4e36f23a15d924c28bacd",
+        "quote": "압둘 마지드(1839~1861)",
+        "location": "왼쪽 216쪽 탄지마트 보충설명 중간"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "압둘 메지드 1세",
+      "inputSha256": "d6581055cc2ff3a67d09f6be6adc6034e69865863b86ff4707d05ae36d9a150c"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g31-2",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-31",
+    "answer": "미드하트 파샤",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "미드하트"
+    ],
+    "prompt": "1876년 오스만 헌법 제정을 이끌었다고 보충설명에 명시된 재상은?",
+    "keyword": "미드하트 파샤",
+    "explain": "미드하트 파샤: 재상 미드하트 파샤",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-31",
+        "quote": "재상 미드하트 파샤"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/50b948d1f826dbeeb82fca6aafe75f3a5102b7861bc4e36f23a15d924c28bacd.jpg",
+        "sha256": "50b948d1f826dbeeb82fca6aafe75f3a5102b7861bc4e36f23a15d924c28bacd",
+        "quote": "재상 미드하트 파샤",
+        "location": "왼쪽 216쪽 탄지마트 설명 마지막 문단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "미드하트 파샤",
+      "inputSha256": "cd6b0d1319dbf398b5adf85aae3bcf54abd71474f3e5459e1809d9a175896151"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "seoyangsa-capture-practice-g31-3",
+    "type": "blank",
+    "page": "seoyangsa-gichul-page-31",
+    "answer": "입헌군주국",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "입헌군주제 국가"
+    ],
+    "prompt": "1876년 헌법 제정 뒤 오스만 제국의 국가 형태를 보충설명은 무엇이라고 표현하는가?",
+    "keyword": "입헌군주국",
+    "explain": "사진은 1876년 헌법 제정 뒤 입헌 군주국이 되었다고 설명한다. 이어 주권재민의 부재와 술탄의 강한 지위도 덧붙이므로 완성된 의회 민주주의를 뜻하지 않는다.",
+    "evidence": [
+      {
+        "page": "seoyangsa-gichul-page-31",
+        "quote": "오스만 제국은 입헌 군주국이 된 것이다"
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/source-pages/50b948d1f826dbeeb82fca6aafe75f3a5102b7861bc4e36f23a15d924c28bacd.jpg",
+        "sha256": "50b948d1f826dbeeb82fca6aafe75f3a5102b7861bc4e36f23a15d924c28bacd",
+        "quote": "오스만 제국은 입헌 군주국이 된 것이다",
+        "location": "왼쪽 216쪽 탄지마트 설명 마지막 문단"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "입헌군주국",
+      "inputSha256": "49894ed553e9601677dac7c7ca1b0133ceaba7d3474251cfff1947917ca87a20"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
   }
 ]

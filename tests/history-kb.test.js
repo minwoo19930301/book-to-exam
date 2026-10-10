@@ -78,7 +78,11 @@ test("subject banks keep source-backed questions while internal knowledge is com
         assert.ok(q.answer >= 0 && q.answer < q.choices.length, q.id);
       }
       if (q.before !== undefined) {
-        assert.ok(notes.get(q.page).text.replace(/\*\*/g, "").includes(q.before + q.answer + q.after), q.id);
+        const passage = q.before + q.answer + q.after;
+        if (q.provenance?.sourceStatus === "capture-compared-excerpt") {
+          assert.ok(q.captureEvidence?.some(source => source.quote.includes(passage)), q.id);
+          assert.ok(q.evidence.every(source => source.page === q.page && q.captureEvidence.some(capture => capture.quote === source.quote)), q.id);
+        } else assert.ok(notes.get(q.page).text.replace(/\*\*/g, "").includes(passage), q.id);
       }
     }
     assert.deepEqual(load(subject, "essays"), publicEssays(subject));

@@ -5551,5 +5551,116 @@
     },
     "stem": "원문을 바탕으로 개념을 쓰시오.",
     "choices": null
+  },
+  {
+    "id": "hand-memo-capture-practice-p17-1",
+    "type": "blank",
+    "page": "p17",
+    "answer": "종합적으로 해석",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "종합적 해석"
+    ],
+    "prompt": "시대사 방법론은 사회 전체를 조감한 뒤 어떻게 해석할 수 있는 능력을 갖춘 학생에게 적합한가? 메모의 표현으로 쓰시오.",
+    "keyword": "17. 시대사 방법론",
+    "explain": "여러 분야와 관점을 함께 다루므로 사회 전체를 종합적으로 해석하는 능력이 학습자 조건으로 제시된다.",
+    "evidence": [
+      {
+        "page": "p17",
+        "quote": "사회 전체를 조감하여 종합적으로 해석할 수 있는 능력을 갖춘 학생에게 적합하다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/pages/page_017_167s.jpg",
+        "sha256": "401b06930ad3847e11b3aed98151a00b26344fc056981d2eb4eacd265e5fc3f7",
+        "quote": "사회 전체를 조감하여 종합적으로 해석할 수 있는 능력을 갖춘 학생에게 적합하다.",
+        "location": "상단 제목 오른쪽 주석"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "17. 시대사 방법론",
+      "inputSha256": "162cc3b8a0e8437703aad148842615231ddedaa2af947877dc0f8c79eda5161a"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "hand-memo-capture-practice-p44-1",
+    "type": "blank",
+    "page": "p44",
+    "answer": "시대적 배경",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "시대 배경"
+    ],
+    "prompt": "인물학습에서 개인의 성향이나 개성에만 주목할 때 간과하기 쉬운, 인물이 처했던 역사적 조건을 메모의 표현으로 쓰시오.",
+    "keyword": "44. 사건학습",
+    "explain": "개인의 성격만으로 행위를 설명하면 그 인물이 처했던 시대적 배경을 놓치게 된다.",
+    "evidence": [
+      {
+        "page": "p44",
+        "quote": "인물의 성향이나 개성에만 주목하여 인물이 처했던 시대적 배경을 간과해서는 안된다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/pages/page_044_414s.jpg",
+        "sha256": "7e0e6f4093f25b7269c0a54e13eab0fd827bb7733210b6b92fc82f74466e9518",
+        "quote": "인물의 성향이나 개성에만 주목하여 인물이 처했던 시대적 배경을 간과해서는 안된다.",
+        "location": "하단 인물학습 유의점 첫 번째 줄"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "44. 사건학습",
+      "inputSha256": "05b4826a3cc5ba70244897bc1ccf62c102e5ad28b5d75e4ab5f8dfe770f71728"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
+  },
+  {
+    "id": "hand-memo-capture-practice-p54-1",
+    "type": "blank",
+    "page": "p54",
+    "answer": "인과관계의 복합성",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "인과적 복합성"
+    ],
+    "prompt": "발생적 설명에서 사건을 기원부터 최종 단계까지 발달적 계열로 파악하면, 원인과 결과의 관계가 단순하지 않다는 어떤 성격을 깨닫게 되는가?",
+    "keyword": "54. 발생적 설명",
+    "explain": "사건의 발전을 여러 단계와 조건으로 설명하면서 인과관계의 복합성을 이해하게 된다.",
+    "evidence": [
+      {
+        "page": "p54",
+        "quote": "역사적 사건을 기원부터 최종 단계까지 발달적 계열의 선상에서 파악하게 함으로써 인과관계의 복합성을 깨닫게 하고, 이를 통해 역사의식을 함양할 수 있다."
+      }
+    ],
+    "captureEvidence": [
+      {
+        "src": "/pages/page_054_496s.jpg",
+        "sha256": "c44ee0e6e64ab07dcedd8138e0eb07e4341f1e4d75180900ad6d560d68b34afa",
+        "quote": "역사적 사건을 기원부터 최종 단계까지 발달적 계열의 선상에서 파악하게 함으로써 인과관계의 복합성을 깨닫게 하고, 이를 통해 역사의식을 함양할 수 있다.",
+        "location": "상단 파란 글씨의 교육적 효과"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-capture-practice",
+      "version": "history-capture-practice.1",
+      "sourceStatus": "capture-compared-excerpt",
+      "topic": "54. 발생적 설명",
+      "inputSha256": "14e9a7f10062ba41b96e3b41b2d6356ddeb4d930906e60e9eab821851d4f12c1"
+    },
+    "stem": "원본 캡처를 바탕으로 개념을 쓰시오.",
+    "choices": null,
+    "contextMode": "source-excerpt"
   }
 ]
