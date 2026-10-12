@@ -25,6 +25,13 @@ await compareBank('subject=hanguksa&sourcePage=hanguksa-textbook-page-5');
 await compareBank('sourcePage=../bad');
 const researchRequest=new Request(`${origin}/api/research?subject=seoyangsa`);
 assert.deepEqual(await (await response('/api/research?subject=seoyangsa')).json(),await research({request:researchRequest}).json());
+for (const department of ['history', 'education', 'missing']) {
+ const path=`/api/research?department=${department}`;
+ const expected=research({request:new Request(origin+path)});
+ const actual=await response(path);
+ assert.equal(actual.status,expected.status);
+ assert.deepEqual(await actual.json(),await expected.json());
+}
 const init={method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({jsonrpc:'2.0',id:1,method:'tools/list',params:{}})};
 const expectedMcp=await handleMcp({request:new Request(`${origin}/api/mcp`,init),env:{},params:{id:'public'}},'public');
 assert.deepEqual(await (await response('/api/mcp',init)).json(),await expectedMcp.json());

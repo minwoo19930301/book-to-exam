@@ -16087,6 +16087,647 @@
     "choices": null
   },
   {
+    "id": "dongyangsa-page-practice-review20261013-001",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-112",
+    "answer": "등록법",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "등록법(謄錄法)",
+      "謄錄法"
+    ],
+    "prompt": "송대 과거에서 답안의 이름을 가리는 조치와 함께, 필체로 응시자를 알아보지 못하도록 답안을 옮겨 쓰게 한 제도는?",
+    "keyword": "등록법",
+    "explain": "이름을 가리는 호명법과 필체를 감추는 답안 전사 제도를 구별한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-112",
+        "quote": "공정성 확보 : 호명법(糊名法)·등록법(謄錄法) 시행, 쇄원(鎖院)의 제도"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "등록법",
+      "inputSha256": "0fcb7d824c378b8688fc49b2a1b35762075d3a8233b3e6fd28dcad90d36d2315"
+    },
+    "corroboration": [
+      {
+        "url": "https://www.zjskw.gov.cn/art/2023/6/11/art_1229501970_52717.html",
+        "title": "저장성 사회과학연합회 — 송대 과거의 답안 전사 제도"
+      }
+    ],
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-002",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-118",
+    "answer": "거경궁리",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "거경궁리(居敬窮理)"
+    ],
+    "prompt": "주희의 성리학에서 마음을 경건하게 유지하는 수양과 사물의 이치를 탐구하는 공부를 병행하는 방법을 쓰시오.",
+    "keyword": "거경궁리",
+    "explain": "마음의 수양과 이치 탐구를 함께 제시하는 수양론이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-118",
+        "quote": "거경궁리 : 마음 수양과 사물 탐구를 병행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "거경궁리",
+      "inputSha256": "6a63ab6b6de5a3f9253e57a6fc405876e71449096a3aec822d9e536f0958a01a"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-003",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-118",
+    "answer": "근사록",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "근사록(近思錄)",
+      "『근사록』"
+    ],
+    "prompt": "주희 등이 북송 네 유학자의 주요 글을 뽑아 성리학 입문을 위해 편찬한 책은?",
+    "keyword": "근사록",
+    "explain": "아동의 예절 입문서 소학, 경전 주석서 사서집주와 구별한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-118",
+        "quote": "근사록 : 북송 네 선생의 핵심 글을 뽑아 편찬"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "근사록",
+      "inputSha256": "10c2efd2f62ec698ec2def1827e7be7201f53d5098e3176c537e8f93e0ce6a5a"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-004",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-122",
+    "answer": "통지",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "통지(通志)",
+      "『통지』"
+    ],
+    "prompt": "정초가 삼황부터 수까지를 기전체 통사로 서술하고 학술·전장 제도를 정리한 20약을 포함한 저술은?",
+    "keyword": "통지",
+    "explain": "사건별 전개를 묶은 원추의 통감기사본말과 구별한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-122",
+        "quote": "정초의 『통지(通志)』"
+      },
+      {
+        "page": "dongyangsa-textbook-page-122",
+        "quote": "삼황(三皇) 이후 수(隋)에 이르기까지 기전체로 된 통사(通史) 저술"
+      },
+      {
+        "page": "dongyangsa-textbook-page-122",
+        "quote": "20약(略)\n- 내용 : 학술·전장(典章)을 분류하여 정리"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "통지",
+      "inputSha256": "ef00dc847505a99b4d7123b6dbd36a7b0f4fdf017cb3a3282f1649608bb2008c"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-005",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-122",
+    "answer": "기사본말체",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "기사본말",
+      "기사본말체(紀事本末體)"
+    ],
+    "prompt": "원추가 자치통감을 재구성하면서 사건마다 별도 표제를 달아 그 시작과 끝을 한데 모아 서술한 편찬 방식은?",
+    "keyword": "기사본말체",
+    "explain": "연대별로만 배열하는 편년체, 인물·제도 등을 나누는 기전체와 구별하여 사건의 전말을 중심으로 묶는 방식이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-122",
+        "quote": "원추는 스스로 하나의 새로운 체제를 생각해내어 사마광의 『자치통감』을 본받아 항목을 구별하여 배열하였다. 사건마다 각각 시작과 끝이 상세하며, 각기 하나의 표제를 달아 편마다 각각 연월을 기록함으로써 자체적으로 수미를 갖추도록 했다."
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "기사본말체",
+      "inputSha256": "0cff8451da733b0c9995131a117f7922a4e8c321e71287534f22bfd617fcb098"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-006",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-133",
+    "answer": "자삭",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "자사크",
+      "야사",
+      "대자삭",
+      "Jasaq"
+    ],
+    "prompt": "칭기즈 칸 시대 몽골 제국에서 행동 규범과 군율을 규정하여 통치 원리가 된 법령을 무엇이라 하는가?",
+    "keyword": "자삭",
+    "explain": "호 단위의 군사·사회 조직인 천호제나 친위대 케식과 구별되는 규범이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-133",
+        "quote": "자삭(Jasaq) : 행동 규범·군율 등에 관한 법령 확립(통치 원리 마련)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "자삭",
+      "inputSha256": "5239ea261253754d55595873f2fabf91afc71a4094999bf7bfa0728736edbaa9"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-007",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-133",
+    "answer": "울루스",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "Ulus",
+      "ulus"
+    ],
+    "prompt": "몽골 제국에서 칸의 형제·자제들에게 정복한 백성과 영지를 분봉하여 형성한 지배 집단을 가리키는 명칭은?",
+    "keyword": "울루스",
+    "explain": "오늘날의 고정된 국경을 가진 국민국가와 단순히 동일시하지 않고 분봉된 백성과 지배 집단이라는 맥락에서 이해한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-133",
+        "quote": "울루스(Ulus) 체제 형성\n• 분봉 : 대외 원정 통해 확보한 백성 등을 형제·자제 등에게 분봉하여 형성\n• 성격 : 몽골 제국의 기본적 구성원리, 느슨한 연합체(주치·차가타이 등)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "울루스",
+      "inputSha256": "93db1ecd492edb72c88c7befa02235ff8407037dc38e6e1ab92b2dd38d2dc734"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-008",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-138",
+    "answer": "지원교초",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "지원초",
+      "지원교초(至元交鈔)"
+    ],
+    "prompt": "원나라가 중통교초의 가치 하락에 대응하여 1287년에 발행하고 구권 5관을 신권 1관으로 교환하게 한 지폐는?",
+    "keyword": "지원교초",
+    "explain": "1260년의 중통교초, 원 말의 지정교초와 발행 순서를 구별한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-138",
+        "quote": "지원교초(至元交鈔) 발행(1287)\n• 배경 : 교초 하락 가치에 대응 → 평가절하하여 발행(중통초 5관 = 지원초 1관)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "지원교초",
+      "inputSha256": "e66243384180a9d046b818873eeaf6146d1b522117381892e85582a91966f3f1"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-009",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-138",
+    "answer": "농상집요",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "농상집요(農桑輯要)",
+      "『농상집요』"
+    ],
+    "prompt": "원나라 대사농사에서 각종 농법을 정리하고 면화·저마의 생산을 장려하기 위해 편찬한 농서의 이름은?",
+    "keyword": "농상집요",
+    "explain": "국가의 농업 담당 관청이 편찬한 농서로, 개인이 편찬한 왕정농서와 구별된다. 편찬 기관은 한국학중앙연구원의 소장본 해제로 함께 확인하였다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-138",
+        "quote": "『농상집요』 편찬 : 권농(勸農)·면화·저마(苧麻) 생산 등의 각종 농법 정리·장려"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "농상집요",
+      "inputSha256": "02bc869a17c793ef1265f0efe093bdeddfaee4a1b09396a96b4886da4c51c060"
+    },
+    "corroboration": [
+      {
+        "url": "https://encykorea.aks.ac.kr/Article/E0080261",
+        "title": "한국민족문화대백과사전 — 원조정본농상집요"
+      }
+    ],
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-010",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-141",
+    "answer": "육유",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "육유(六諭)",
+      "六諭"
+    ],
+    "prompt": "명 홍무제가 부모에게 효도하고 향리와 화목하며 생업에 힘쓸 것 등을 백성에게 권고한 여섯 가지 교훈은?",
+    "keyword": "육유",
+    "explain": "유교 윤리를 향촌에 보급하기 위한 교화 지침으로, 토지대장인 어린도책과 구별한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-141",
+        "quote": "『육유(六諭)』 반포"
+      },
+      {
+        "page": "dongyangsa-textbook-page-141",
+        "quote": "효순부모 : 부모에게 효도할 것"
+      },
+      {
+        "page": "dongyangsa-textbook-page-141",
+        "quote": "화목향리 : 향리 사람들과 화목할 것"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "육유",
+      "inputSha256": "dbdce2d9c8488e77c39e4d435d32f6828255006019d067b3b5dd2bb0bed1d2c2"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-011",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-141",
+    "answer": "금의위",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "금의위(錦衣衛)",
+      "錦衣衛"
+    ],
+    "prompt": "명 홍무제가 관료 감시와 정보 수집을 위해 설치한 황제 직속의 특무 조직을 쓰시오.",
+    "keyword": "금의위",
+    "explain": "일반 행정 감찰을 담당한 도찰원과 함께 황제권 강화를 뒷받침한 특무 조직이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-141",
+        "quote": "감찰 강화 : 금의위(錦衣衛) 설치(정보 정치 강화), 정장(廷杖) 시행"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "금의위",
+      "inputSha256": "23d24ece49e1e39ef4d82ba343d3e74598743247bb7a0dbcc2ad3f117185af33"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-012",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-155",
+    "answer": "녹영",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "녹영군",
+      "녹영(綠營)",
+      "綠營"
+    ],
+    "prompt": "청이 팔기군을 보완하기 위해 운영한 한인 중심의 군사조직을 쓰시오.",
+    "keyword": "녹영",
+    "explain": "한인으로 구성된 팔기와도 구별되는 별도의 군사조직이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-155",
+        "quote": "한인으로 구성된 녹영을 통하여 보완"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "녹영",
+      "inputSha256": "e387ed579e7eef0a20772c471543fd9fee32073f9d3d2793d0288790ffd585c8"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-013",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-155",
+    "answer": "천계령",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "천계령(遷界令)",
+      "천해령",
+      "遷界令"
+    ],
+    "prompt": "청이 정씨 세력의 해상 항쟁을 고립시키려고 해안 주민을 내륙으로 강제 이주시킨 명령은?",
+    "keyword": "천계령",
+    "explain": "일반적 해상 교역 금지보다 더 강하게 해안 거주 자체를 제한한 조치이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-155",
+        "quote": "천계령(遷界令) 반포(1661, 순치 18년)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-155",
+        "quote": "해안선에서 약 30리 이내의 주민을 내륙으로 이주"
+      },
+      {
+        "page": "dongyangsa-textbook-page-155",
+        "quote": "정성공의 대만 정복 → 항전 지속"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "천계령",
+      "inputSha256": "5a4be5d52233a5a9ec03a18d79f5d81f4eeae6b6f0adb342df7bf446c506a303"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-014",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-112",
+    "answer": "경력의 화의",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "경력화의",
+      "경력의 화약",
+      "경력 화약"
+    ],
+    "prompt": "1044년 송이 서하와 군신 관계를 정하고 세폐를 지급하며 교역장을 설치한 화의는 무엇인가?",
+    "keyword": "경력의 화의",
+    "explain": "요와 형제 관계를 정한 전연의 맹과 구별하여 상대 국가와 관계 형식을 함께 기억한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-112",
+        "quote": "경력의 화의(1044)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-112",
+        "quote": "군신 관계(송-군, 서하-신, '하국왕'), 무역장 개설"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "경력의 화의",
+      "inputSha256": "02c42d2082b84e624296b7c27822cb8c09b763b125ec05fabb133b3df298baff"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-015",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-113",
+    "answer": "농전수리법",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "농전수리법(農田水利法)"
+    ],
+    "prompt": "왕안석의 신법 중 황폐한 토지를 복구하고 수리시설을 확충하여 농경지를 늘리려 한 정책의 명칭은?",
+    "keyword": "농전수리법",
+    "explain": "토지 측량과 세액을 조정한 방전균세법, 농민에게 자금을 빌려준 청묘법과 구별한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-113",
+        "quote": "농전수리법 : 황폐지 복구, 수리시설 신설을 통한 농경지 개간 추구(수리전 증가)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "농전수리법",
+      "inputSha256": "24b026a85fd268cfe266ad16c81e6d894333b1854a12e6ac52eb71dfe03b1eab"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-016",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-113",
+    "answer": "장병법",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "치장법",
+      "장병법(將兵法)"
+    ],
+    "prompt": "왕안석의 강병책 가운데 군대의 순환 주둔 방식을 바꾸어 지휘관과 병사의 결합 및 군사 전문성을 강화하려 한 정책은?",
+    "keyword": "장병법",
+    "explain": "향촌민을 조직한 보갑법, 민간에 군마 사육을 맡긴 보마법과 구별한다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-113",
+        "quote": "장병법(치장법) : 갱술법 폐지 통한 변방 방비 강화, 군대의 전문성 확립 도모"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "장병법",
+      "inputSha256": "82affac85451bf31de6c2b2c2f5ce52e1e45c26c5187b366cf6761c93ac8fd13"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-017",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-113",
+    "answer": "원우당적비",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "원우당적비(元祐黨籍碑)",
+      "원우당적"
+    ],
+    "prompt": "북송 휘종 때 채경이 구법당 계열 인사를 배척하면서 세운 비석의 명칭은?",
+    "keyword": "원우당적비",
+    "explain": "신법·구법 논쟁이 정책 토론을 넘어 인물에 대한 정치적 배제로 이어진 사례이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-113",
+        "quote": "구법당 탄압 : 채경(蔡京)의 정권 장악 → [원우당적비] 건립"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "원우당적비",
+      "inputSha256": "474f1023e27b26137b0c0d4da61f324787eb4e35be6ab67e16566ea9264486c2"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-018",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-118",
+    "answer": "사공파",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "사공학파",
+      "사공파(事功派)"
+    ],
+    "prompt": "남송 사상계에서 심성 수양보다 국가 경영·민생 안정과 실질적 공적을 중시한 영가·영강 계통의 학파는?",
+    "keyword": "사공파",
+    "explain": "경세와 실제 효과를 중시한 흐름으로, 남송 유학 전체를 성리학 한 계통으로만 볼 수 없음을 보여 준다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-118",
+        "quote": "사공파(事功派)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-118",
+        "quote": "영가(永嘉)·영강(永康)학파"
+      },
+      {
+        "page": "dongyangsa-textbook-page-118",
+        "quote": "심성 수양보다는 국가경영이나 민생안정 등 정치·사회적 문제에 관심"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "사공파",
+      "inputSha256": "85e330bbe51318bd951eaa82236bf7f1aac47cfe0b27595a37e3534a32806f55"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-019",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-133",
+    "answer": "카라코룸",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "카라코럼",
+      "하라호림",
+      "화림"
+    ],
+    "prompt": "우구데이 칸이 건설하여 몽골 제국의 수도로 삼은 도시를 쓰시오.",
+    "keyword": "카라코룸",
+    "explain": "쿠빌라이의 대도와 구별되는 몽골 고원의 수도이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-133",
+        "quote": "우구데이 칸(태종, 1229~1241)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-133",
+        "quote": "카라코룸 건설 : 도성 건설(도시 생활 시작)"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "카라코룸",
+      "inputSha256": "f9c469b387c73597c41a3e69641063d1c05c9189f7600d5e57c07c9c12140769"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
+    "id": "dongyangsa-page-practice-review20261013-020",
+    "type": "blank",
+    "page": "dongyangsa-textbook-page-155",
+    "answer": "네르친스크 조약",
+    "match": "aliases",
+    "acceptedAnswers": [
+      "네르친스크 협정",
+      "니부추 조약",
+      "니부초 조약"
+    ],
+    "prompt": "강희제 때 청이 러시아와 고르비차강·아르군강 등을 경계로 국경을 정한 1689년의 조약은?",
+    "keyword": "네르친스크 조약",
+    "explain": "19세기 아이훈·베이징 조약으로 이어지는 변경의 변화와 구별되는 17세기의 국경 조약이다.",
+    "evidence": [
+      {
+        "page": "dongyangsa-textbook-page-155",
+        "quote": "네르친스크 조약 체결(1689)"
+      },
+      {
+        "page": "dongyangsa-textbook-page-155",
+        "quote": "고르비차강과 아르군강 등을 경계로 국경선 확정 → 만주 확보, 러시아의 남하 저지"
+      }
+    ],
+    "provenance": {
+      "origin": "authored-page-practice",
+      "version": "history-page-practice.1",
+      "sourceStatus": "transcription-unverified",
+      "topic": "네르친스크 조약",
+      "inputSha256": "da952f5f35bb3c9bbeb9d3d96a29ae41e154008c77003bd824cc02cefbfc3170"
+    },
+    "stem": "원문을 바탕으로 개념을 쓰시오.",
+    "choices": null
+  },
+  {
     "id": "dongyangsa-capture-practice-textbook-48-yuandi",
     "type": "blank",
     "page": "dongyangsa-textbook-page-48",

@@ -72,6 +72,10 @@ for (const item of researchItems) {
 }
 const analysis = await get('/api/research?subject=all');
 assert.deepEqual(analysis.counts, getResearchAnalysis().counts);
+for (const department of ['history', 'education']) {
+  const filtered = await get(`/api/research?department=${department}`);
+  assert.deepEqual(filtered, JSON.parse(JSON.stringify(getResearchAnalysis({ department }))));
+}
 assert.match(await (await request('/prediction-analysis?subject=hanguksa')).text(), /<div id="root"/);
 assert.match(await (await request('/appeal?subject=hanguksa')).text(), /<div id="root"/);
 const appeals = await fetch(new URL('/api/appeals', base), { signal: AbortSignal.timeout(20000) });

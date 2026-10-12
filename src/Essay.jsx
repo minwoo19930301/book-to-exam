@@ -8,6 +8,7 @@ import { useGuide } from "./guide-mode.jsx";
 import { useQuestionBank } from "./useQuestionBank.js";
 import { sourceUrl, useSubject } from "./subjects.jsx";
 import BankStatus from "./BankStatus.jsx";
+import { gradeOnEnter } from "./grade-key.js";
 
 import { gradeWithChrome } from "./chrome-score.js";
 
@@ -42,6 +43,7 @@ export default function Essay() {
   const guide = useGuide();
   const { dataFile, id: subjectId, to } = useSubject();
   const chromeAbort = useRef(null);
+  const submissions = useRef(new Set());
   useEffect(() => () => chromeAbort.current?.abort(), [subjectId]);
   const bank = useQuestionBank(dataFile("essays"), undefined, { subject: subjectId, type: "essay" });
   const { q: essay, value: answer, setValue: setAnswer, result: out, record, update } = bank;
@@ -77,7 +79,9 @@ export default function Essay() {
     return undefined;
   }, [guide?.demo, guide?.phase, guide?.openAsk, guide?.essayMethod, essay, update, setAnswer]);
   async function run(mode) {
-    if (!essay || !answer.trim() || waiting || guide?.demo) return;
+    if (!essay || !answer.trim() || out || waiting || guide?.demo || submissions.current.has(record.id)) return;
+    const submittedId = record.id;
+    submissions.current.add(submittedId);
     // This update function is bound to the submitted question, even if navigation occurs while waiting.
     update({ waiting: true, status: "근거를 확인하고 채점 중…", result: null });
     try {
@@ -100,15 +104,22 @@ export default function Essay() {
       if (mode === "key") rememberKey(provider, keyVal, model);
       update({ result: data, status: "", ask: false });
     } catch (error) { update({ status: error.name === "AbortError" ? "Chrome 채점을 중단했습니다." : error.message }); }
-    finally { update({ waiting: false }); }
+    finally { submissions.current.delete(submittedId); update({ waiting: false }); }
+  }
+  function requestGrade() {
+    if (!essay || !answer.trim() || out || waiting) return;
+    update({ ask: true });
+    if (ask && method === "key" && keyVal.trim() && model) run("key");
+    else if (ask && method === "chrome" && globalThis.LanguageModel?.create) run("chrome");
   }
   return <Chrome title="서술형" appeal={{ question: essay, type: "essay", record: bank.record }}><ExamFrame>
     <BankStatus bank={bank} />
     {essay && <div className="card q">
       <p className="lead">{essay.prompt}</p>
-      <textarea data-guide="type" aria-label="서술형 답안" value={answer} onChange={e => writeDraft(e.target.value)} placeholder="답을 작성하세요." disabled={Boolean(out) || waiting} />
+      <textarea data-guide="type" aria-label="서술형 답안" value={answer} onChange={e => writeDraft(e.target.value)} onKeyDown={event => gradeOnEnter(event, requestGrade, { disabled: Boolean(out) || waiting })} enterKeyHint="done" placeholder="답을 작성하세요." disabled={Boolean(out) || waiting} />
+      {!out && <p className="grade-key-hint">Enter로 채점 · Shift+Enter로 줄바꿈</p>}
       <ExamBar graded={out} onRetry={bank.retry} retryDisabled={waiting} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious}
-        onGrade={() => update({ ask: true })} gradeDisabled={waiting || !answer.trim()} />
+        onGrade={requestGrade} gradeDisabled={waiting || !answer.trim()} />
     </div>}
     {ask && <AiGate method={method} onPick={method => update({ method })} provider={provider} setProvider={setProvider} keyVal={keyVal} setKey={setKey}
       model={model} setModel={setModel} onGrade={() => run("key")} onChrome={() => run("chrome")} onCancel={() => chromeAbort.current?.abort()} status={status} waiting={waiting} essay={essay} answer={answer} />}

@@ -2,6 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { getResearchAnalysis, getResearchStats, getPrediction } from "../functions/_lib/research.js";
 import { onRequestGet, onRequest } from "../functions/api/research.js";
+import { RESEARCH_DEPARTMENTS, researchDepartment } from "../src/research-departments.js";
 
 const request = query => onRequestGet({ request: new Request(`https://study.test/api/research${query}`) });
 
@@ -70,13 +71,15 @@ test("research endpoint strictly rejects unsupported, repeated and cross-subject
   assert.equal(denied.headers.get("allow"), "GET");
 });
 
-test("all 120 authored research exercises retain editorial levels and transparent evidence gaps", () => {
+test("all authored research exercises retain editorial levels and transparent evidence gaps", () => {
   const data = getResearchAnalysis();
-  assert.equal(data.predictions.length, 120);
+  assert.equal(data.predictions.length, getResearchStats().totals.predictions);
+  assert.ok(data.predictions.length >= 120);
   const rank = { 중: 1, 중상: 2, 상: 3 };
   for (const subject of ["seoyangsa", "hanguksa", "dongyangsa", "gyoyukron"]) {
     const rows = data.predictions.filter(item => item.subject === subject);
-    assert.equal(rows.length, 30);
+    assert.equal(rows.length, getResearchStats({ subject }).totals.predictions);
+    assert.ok(rows.length >= 30);
     assert.equal(rows.filter(item => item.id.includes("-expanded-")).length, 24);
     assert.deepEqual(new Set(rows.map(item => item.forecast.level)), new Set(["상", "중상", "중"]));
     for (const item of rows) {
@@ -98,11 +101,60 @@ test("all 120 authored research exercises retain editorial levels and transparen
     assert.ok(rows.every(item => item.subject === topic.subject));
   }
   const gaps = data.predictions.filter(item => item.evidence.length === 0);
-  assert.equal(gaps.length, 4);
+  assert.ok(gaps.length >= 4);
   for (const item of gaps) {
     assert.deepEqual(item.sourcePages, []);
     assert.deepEqual(item.sources, []);
     assert.match(item.forecast.basis.join(" "), /직접 대응하는 교재 근거는 확인하지 못해/);
     assert.ok(item.papers.length > 0, "paper support is retained even when no direct textbook evidence was found");
   }
+});
+
+test("department filters link ordinary history and education faculty to their actual papers and questions", async () => {
+  const all = getResearchAnalysis();
+  for (const department of ["history", "education", "other"]) {
+    const expected = all.faculty.filter(person => person.departmentKind === department);
+    const response = request(`?department=${department}`);
+    assert.equal(response.status, 200);
+    const result = await response.json();
+    assert.equal(result.department, department);
+    assert.deepEqual(result.faculty.map(person => person.id), expected.map(person => person.id));
+    const ids = new Set(expected.map(person => person.id));
+    for (const person of result.faculty) assert.equal(person.departmentLabel, RESEARCH_DEPARTMENTS[department]);
+    for (const row of [...result.predictions, ...result.bibliography]) {
+      assert.ok(row.facultyIds.some(id => ids.has(id)), row.id);
+    }
+    for (const paper of result.papers) {
+      assert.ok(paper.facultyIds.some(id => ids.has(id)) || result.predictions.some(item =>
+        item.subject === paper.subject && item.paperIds.includes(paper.id)), paper.id);
+    }
+    for (const item of result.predictions) for (const id of item.paperIds) {
+      assert.ok(result.papers.some(paper => paper.id === id && paper.subject === item.subject));
+    }
+    if (expected.length) {
+      const person = expected[0];
+      const scoped = getResearchAnalysis({ department, subject: person.subject, query: person.name });
+      assert.ok(scoped.faculty.some(row => row.id === person.id));
+    }
+  }
+  assert.ok(all.faculty.some(person => person.departmentKind === "history"));
+  assert.ok(all.faculty.some(person => person.departmentKind === "education"));
+  for (const value of ["missing", "", "constructor", "__proto__"]) {
+    assert.equal(request(`?department=${value}`).status, 400);
+  }
+  assert.equal(request("?department=history&department=education").status, 400);
+  for (const person of all.faculty) {
+    const department = person.departmentKind === "history" ? "education" : "history";
+    assert.deepEqual(getResearchAnalysis({ department, facultyId: person.id }).counts,
+      { faculty: 0, papers: 0, bibliography: 0, topics: 0, predictions: 0 }, person.id);
+  }
+});
+
+test("affiliation classification prefers recorded department type and never infers it from a name or research field", () => {
+  assert.equal(researchDepartment({ affiliation: "대학 사범대학 역사교육과" }), "education");
+  for (const affiliation of ["대학 사학과", "대학 역사학과", "대학 역사학부 한국사학전공", "대학 역사콘텐츠학과"]) {
+    assert.equal(researchDepartment({ affiliation }), "history");
+  }
+  assert.equal(researchDepartment({ name: "역사학", field: "서양사", affiliation: "소속 미확인" }), "other");
+  assert.equal(researchDepartment({ affiliation: "Department of History", departmentKind: "history" }), "history");
 });

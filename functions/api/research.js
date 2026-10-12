@@ -1,7 +1,7 @@
 import { getResearchAnalysis } from "../_lib/research.js";
 
 const subjects = new Set(["all", "seoyangsa", "hanguksa", "dongyangsa", "gyoyukron"]);
-const parameters = new Set(["subject", "q", "facultyId"]);
+const parameters = new Set(["subject", "q", "facultyId", "department"]);
 function response(body, status = 200) {
   return new Response(JSON.stringify(body), { status, headers: {
     "content-type": "application/json; charset=utf-8",
@@ -17,6 +17,7 @@ export function onRequestGet({ request }) {
     const subject = params.get("subject") ?? "all";
     if (!subjects.has(subject)) throw new Error("없는 과목입니다.");
     return response(getResearchAnalysis({ subject: subject === "all" ? undefined : subject,
+      department: params.get("department") ?? "all",
       query: params.get("q") ?? "", ...(params.has("facultyId") ? { facultyId: params.get("facultyId") } : {}) }));
   } catch (error) {
     return response({ error: error.message || "연구 자료를 불러오지 못했습니다." }, 400);

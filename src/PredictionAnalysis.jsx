@@ -3,6 +3,7 @@ import { useSearchParams } from "react-router-dom";
 import Chrome from "./Chrome.jsx";
 import { QuestionCard } from "./Questions.jsx";
 import { useSubjects } from "./subjects.jsx";
+import { RESEARCH_DEPARTMENTS } from "./research-departments.js";
 
 const list = value => Array.isArray(value) ? value : [];
 const prose = value => Array.isArray(value) ? value.map(prose).filter(Boolean).join(" · ") : typeof value === "string" || typeof value === "number" ? String(value) : "";
@@ -41,6 +42,7 @@ export default function PredictionAnalysis() {
   const requestedSubject = params.get("subject") || "all";
   const subject = SUBJECTS[requestedSubject] ? requestedSubject : "all";
   const query = params.get("q") || "";
+  const department = Object.hasOwn(RESEARCH_DEPARTMENTS, params.get("department")) ? params.get("department") : "all";
   const facultyId = params.get("facultyId") || "";
   const topicId = params.get("topic") || "";
   const view = VIEWS[params.get("view")] ? params.get("view") : "topics";
@@ -49,7 +51,7 @@ export default function PredictionAnalysis() {
   const [reload, setReload] = useState(0);
   const [state, setState] = useState({ key: "", data: null, error: "" });
   const [opened, setOpened] = useState({});
-  const request = new URLSearchParams({ subject, q: query, ...(facultyId ? { facultyId } : {}) }).toString();
+  const request = new URLSearchParams({ subject, q: query, department, ...(facultyId ? { facultyId } : {}) }).toString();
   useEffect(() => setSearch(query), [query]);
   useEffect(() => {
     const controller = new AbortController();
@@ -84,14 +86,15 @@ export default function PredictionAnalysis() {
     <header className="research-heading">
       <p className="kicker">출제자 예상 · 공개 연구 참고</p>
       <h1>공개 연구를 바탕으로 한<br className="research-mobile-break" /> 출제 주제 분석</h1>
-      <p className="muted">교수의 연구 분야와 최근 논문을 교재의 핵심 쟁점, 연구 기반 연습문항으로 연결합니다.</p>
+      <p className="muted">일반대학 역사학과·사학과와 사범대학 역사교육과 교수의 공개 연구를 교재의 핵심 쟁점, 연구 기반 연습문항으로 연결합니다.</p>
       <p className="research-scope-note">여기에 소개한 교수는 공개 연구 참고 인물입니다. 실제 출제위원 여부는 확인되지 않았습니다. ‘상·중상·중’은 연구 주제와 교재 핵심 개념의 연결을 살핀 편집적 판단이며 실제 출제 확률이 아닙니다.</p>
       {data && <div className="research-counts" aria-label="연구 자료 수"><span><strong>{data.faculty.length}</strong> 교수</span><span><strong>{data.papers.length}</strong> 검토 논문</span><span><strong>{list(data.bibliography).length}</strong> 수집 서지</span><span><strong>{data.predictions.length}</strong> 예상 연습문항</span><span className="muted">확인 기준 {prose(data.asOf) || "자료별 표시"}</span></div>}
     </header>
     <section className="card research-filters" aria-label="연구 분석 필터">
       <div className="research-filter-row"><label>과목<select aria-label="연구 과목" value={subject} onChange={event => change({ subject: event.target.value, facultyId: "", topic: "" })}><option value="all">전체 과목</option>{Object.entries(SUBJECTS).map(([id, name]) => <option key={id} value={id}>{subjects.find(item => item.id === id)?.title || name}</option>)}</select></label>
+        <label>소속 구분<select aria-label="교수 소속 구분" value={department} onChange={event => change({ department: event.target.value, facultyId: "", topic: "" })}>{Object.entries(RESEARCH_DEPARTMENTS).map(([id, label]) => <option key={id} value={id}>{label}</option>)}</select></label>
         <form onSubmit={event => { event.preventDefault(); change({ q: search.trim(), topic: "" }); }}><label>연구 검색<input aria-label="교수·논문·주제 검색" placeholder="교수, 논문, 주제 검색" value={search} onChange={event => setSearch(event.target.value)} /></label><button type="submit">검색</button></form></div>
-      {(facultyId || topicId || query) && <div className="research-active-filters">{facultyId && <span>교수: {facultyName(facultyId)}</span>}{topic && <span>주제: {topic.title}</span>}{query && <span>검색: {query}</span>}<button className="text-btn" type="button" onClick={() => change({ facultyId: "", topic: "", q: "" })}>조건 지우기</button></div>}
+      {(facultyId || topicId || query || department !== "all") && <div className="research-active-filters">{department !== "all" && <span>{RESEARCH_DEPARTMENTS[department]}</span>}{facultyId && <span>교수: {facultyName(facultyId)}</span>}{topic && <span>주제: {topic.title}</span>}{query && <span>검색: {query}</span>}<button className="text-btn" type="button" onClick={() => change({ facultyId: "", topic: "", q: "", department: "" })}>조건 지우기</button></div>}
       <div className="study-mode-filter" role="group" aria-label="연구 분석 보기">{Object.entries(VIEWS).map(([id, label]) => <button type="button" key={id} className={view === id ? "" : "ghost"} aria-pressed={view === id} onClick={() => change({ view: id })}>{label}</button>)}</div>
     </section>
     {error && <div className="card" role="alert"><p>{error}</p><button type="button" className="ghost" onClick={() => setReload(value => value + 1)}>다시 불러오기</button></div>}
@@ -101,7 +104,7 @@ export default function PredictionAnalysis() {
       {view === "topics" && <section aria-label="출제 주제 분석" className="research-topic-list">{topics.map(item => <article className="card research-topic" key={item.id}>
         <div className="research-card-meta"><span>{SUBJECTS[item.subject]}</span><Level level={item.level} /></div><h2>{item.title}</h2>
         <h3>판단 근거</h3><Points values={item.rationale} />
-        <div className="research-faculty-links">{list(item.facultyIds).map(id => <button className="text-btn" type="button" key={id} onClick={() => selectFaculty(id)}>{facultyName(id)} 연구 보기 ↗</button>)}</div>
+        <div className="research-faculty-links">{list(item.facultyIds).filter(id => data.faculty.some(person => person.id === id)).map(id => <button className="text-btn" type="button" key={id} onClick={() => selectFaculty(id)}>{facultyName(id)} 연구 보기 ↗</button>)}</div>
         <details className="research-paper-details"><summary>관련 논문 {relevantPapers(item).length}편 · 확인 범위</summary>{relevantPapers(item).map(paper => <Paper key={paperKey(paper)} paper={paper} />)}</details>
         <Points values={item.limitations} className="muted research-small" />
         <button type="button" className="ghost" disabled={!list(item.predictionIds).length} onClick={() => change({ topic: item.id, view: "questions" })}>연결 예상문항 {list(item.predictionIds).length}개 보기</button>
@@ -110,7 +113,7 @@ export default function PredictionAnalysis() {
         const selected = data.papers.filter(paper => list(paper.facultyIds).includes(person.id) || (paper.subject === person.subject && list(person.paperIds).includes(paper.id)));
         const bibliography = list(data.bibliography).filter(paper => list(paper.facultyIds).includes(person.id) || list(person.bibliographyIds).includes(paper.id));
         return <article className="card research-faculty" key={person.id}>
-          <div className="research-card-meta"><span>{SUBJECTS[person.subject]} · 공개 연구 참고 인물</span>{person.verifiedAt && <span>소속 확인 {person.verifiedAt}</span>}</div>
+          <div className="research-card-meta"><span>{SUBJECTS[person.subject]} · {person.departmentLabel}</span>{person.verifiedAt && <span>소속 확인 {person.verifiedAt}</span>}</div>
           <h2>{person.name} <span className="muted research-position">{person.position}</span></h2><p className="research-affiliation">{prose(person.affiliation)}</p>
           <p><strong>연구 분야</strong> {prose(person.field) || "공식 프로필·논문 참고"}</p>
           <div className="research-links">{list(person.profileUrls).map((url, index) => <ExternalLink key={url} url={url}>공식 소속·업적{person.profileUrls.length > 1 ? ` ${index + 1}` : ""}</ExternalLink>)}</div>

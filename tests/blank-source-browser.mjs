@@ -14,12 +14,15 @@ try {
     const original = bank.find(question => question.contextMode !== 'source-excerpt');
     assert.ok(sources.length >= 80, `${subject} has the expanded source bank`);
     await page.goto(`${origin}/blank?subject=${subject}&mode=source`);
-    await page.waitForFunction(id => new URL(location.href).searchParams.get('q') === id, sources[0].id);
     await page.getByLabel('빈칸 답안').waitFor();
+    await page.getByLabel('문항 번호').fill('1');
+    await page.getByRole('button', { name: '이동', exact: true }).click();
+    const first = sources.find(question => question.id === new URL(page.url()).searchParams.get('q'));
+    assert.ok(first, 'the first filtered question comes from the saved random order');
     assert.equal(await page.getByRole('button', { name: /^사료탐구\d/ }).getAttribute('aria-pressed'), 'true');
     assert.equal(await page.getByLabel('문항 번호').inputValue(), '1');
-    assert.equal(await page.locator('.cloze').innerText(), sources[0].before + sources[0].after);
-    const answer = sources[0].acceptedAnswers[0] || sources[0].answer;
+    assert.equal(await page.locator('.cloze').innerText(), first.before + first.after);
+    const answer = first.acceptedAnswers[0] || first.answer;
     await page.getByLabel('빈칸 답안').fill(answer);
     await page.getByRole('button', { name: '채점', exact: true }).click();
     await page.locator('.cloze .mark-ok').waitFor();

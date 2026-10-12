@@ -1,13 +1,17 @@
 """Validate evidence boundaries and rubric contracts; does not verify historical truth."""
 import argparse,collections,hashlib,json,re,subprocess,sys
 from pathlib import Path
+from history_expansion import sources, MARKER, apply
 ROOT=Path(__file__).resolve().parents[2]
 SUBJECTS=['seoyangsa','hanguksa','dongyangsa','gyoyukron']
 def validate(subject):
     report=json.loads((ROOT/f'knowledge/prediction-research/{subject}.json').read_text())
     notes={x['id']:x for x in json.loads((ROOT/f'public/data/subjects/{subject}/notes.json').read_text())}
     papers={x['id']:x for x in report['papers']}
-    rows=report['predictions'];assert len(rows)==30,(subject,len(rows))
+    expected_additions=sum(len(s['questions']) for s in sources(subject))
+    rows=report['predictions'];assert len(rows)==30+expected_additions,(subject,len(rows))
+    assert sum(MARKER in q['id'] for q in rows)==expected_additions
+    assert apply(json.loads(json.dumps(report)))==report,'authored history layer differs from published report'
     ids=set();prompts=set();empty=[]
     for q in rows:
         assert q['id'].startswith(subject+'-') and q['id'] not in ids;ids.add(q['id'])
@@ -30,12 +34,12 @@ def validate(subject):
         f=q['forecast'];assert f['level'] in ['상','중상','중'] and '편집적 판단' in f['label']
         assert len(f['basis'])>=2 and len(f['limitations'])>=2
         assert not any(k in f for k in ['probability','percentage','chance'])
-        if '-expanded-' in q['id']:
+        if '-expanded-' in q['id'] or MARKER in q['id']:
             assert q['exerciseKind']=='research-perspective-application'
             for i,c in enumerate(q['criteria']): assert f'{i+1}. '+c['label'] in q['prompt']
             assert {p['paperId'] for p in q['sourceReadScopes']}==set(q['paperIds'])
             for p in q['sourceReadScopes']:assert p['scope']==papers[p['paperId']]['readScope']
-    return {'subject':subject,'predictions':len(rows),'new':sum('-expanded-' in q['id'] for q in rows),'levels':dict(collections.Counter(q['forecast']['level'] for q in rows)),'withoutDirectTextbookEvidence':empty,'uniquePapersUsed':len({p for q in rows for p in q['paperIds']})}
+    return {'subject':subject,'predictions':len(rows),'expandedOn20261005':sum('-expanded-' in q['id'] for q in rows),'historyFacultyAddedOn20261013':expected_additions,'levels':dict(collections.Counter(q['forecast']['level'] for q in rows)),'withoutDirectTextbookEvidence':empty,'uniquePapersUsed':len({p for q in rows for p in q['paperIds']})}
 if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--check-reproducibility',action='store_true');args=parser.parse_args()
     if args.check_reproducibility:

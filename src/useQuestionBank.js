@@ -2,6 +2,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import { useGuide } from "./guide-mode.jsx";
 import { historyId, historyStore, latestQuestionAttempts, questionStatistics, subscribeHistory } from "./history-store.js";
+import { restoreQuestionOrder, shuffleQuestions } from "./question-order.js";
 
 function empty(path, select) {
   return { path, select, bank: [], index: 0, records: {}, attempts: [], error: "", storageError: "", notice: "", loading: Boolean(path), scope: {}, revision: 0, urlToken: "" };
@@ -48,7 +49,7 @@ export function useQuestionBank(path, select, { subject = "hand-memo", type = "m
   }, [commit]);
   const sessionOf = useCallback(next => {
     const question = next.bank[next.index], record = next.records[question?.id];
-    return { subject, type, questionId: question?.id, attemptId: record?.touched ? record.id : null, updatedAt: Date.now(), retryToken: next.retryToken || "" };
+    return { subject, type, questionId: question?.id, attemptId: record?.touched ? record.id : null, updatedAt: Date.now(), retryToken: next.retryToken || "", order: next.bank.map(item => item.id) };
   }, [subject, type]);
   const persistSession = useCallback(next => {
     if (!persistent || !next.bank.length) return;
@@ -75,10 +76,11 @@ export function useQuestionBank(path, select, { subject = "hand-memo", type = "m
         if (!response.ok) throw new Error("문제를 불러오지 못했습니다. 새로고침해 주세요.");
         const list = await response.json();
         if (!Array.isArray(list)) throw new Error("문제 데이터의 형식을 확인할 수 없습니다.");
-        const bank = select ? select(list) : list;
+        let bank = select ? select(list) : list;
         if (!bank.length) throw new Error("이 과목에는 아직 준비된 문제가 없습니다.");
         let saved = { attempts: [], session: null, revision: 0 }, storageError = "";
         if (persistent) try { saved = await historyStore.loadBank({ subject, type }); } catch (error) { storageError = error.message; }
+        if (persistent) bank = restoreQuestionOrder(bank, saved.session?.order);
         // Preserve pre-history essay drafts once, then let the same 30-day storage rules govern them.
         if (persistent && type === "essay" && !storageError) try {
           for (const question of bank) {
@@ -129,6 +131,7 @@ export function useQuestionBank(path, select, { subject = "hand-memo", type = "m
     const latest = contexts.current.get(scope) || current.current;
     const previous = latest.records[id];
     if (!id || !scope || latest.scope !== scope || previous?.id !== attemptId) return;
+    if (persistent && previous.result && patch.result) return;
     const touched = previous.touched || ("value" in patch && patch.value !== "") || Boolean(patch.result);
     const saving = "value" in patch || "result" in patch;
     const nextRecord = { ...previous, ...patch, touched, ...(saving ? { updatedAt: Math.max(Date.now(), previous.updatedAt + 1) } : {}) };
@@ -137,7 +140,7 @@ export function useQuestionBank(path, select, { subject = "hand-memo", type = "m
     if (current.current.scope === scope) commit(next);
     else contexts.current.set(scope, next);
     if (saving && touched) persistRecord(next, latest.bank.find(question => question.id === id), nextRecord, "value" in patch);
-  }, [id, scope, attemptId, subject, type, commit, persistRecord]);
+  }, [id, scope, attemptId, subject, type, persistent, commit, persistRecord]);
 
   const choose = useCallback((index, fresh = false, changeUrl = true, retryToken = "") => {
     const latest = current.current;
@@ -157,6 +160,17 @@ export function useQuestionBank(path, select, { subject = "hand-memo", type = "m
     persistSession(next);
     if (changeUrl && persistent) navigate({ pathname: locationRef.current.pathname, search: `?${params}` }, { replace: true });
   }, [scope, subject, type, persistent, commit, navigate, persistRecord, persistSession]);
+
+  const reshuffle = useCallback(() => {
+    const latest = current.current;
+    if (!persistent || latest.scope !== scope || latest.bank.length < 2) return;
+    const questionId = latest.bank[latest.index]?.id;
+    const shuffled = shuffleQuestions(latest.bank);
+    const next = { ...latest, bank: shuffled, index: shuffled.findIndex(question => question.id === questionId),
+      notice: "문항 순서를 다시 섞었습니다. 현재 문제와 답안은 유지됩니다." };
+    commit(next);
+    persistSession(next);
+  }, [persistent, scope, commit, persistSession]);
 
   useEffect(() => {
     if (!persistent || !bank.length || state.urlToken === urlToken(location.search)) return;
@@ -181,6 +195,7 @@ export function useQuestionBank(path, select, { subject = "hand-memo", type = "m
   const setResult = useCallback(result => update({ result }), [update]);
   const historyStats = questionStatistics(active ? state.attempts : [], id, attemptId);
   return { q, record, update, value: record.value ?? "", setValue, result: record.result ?? null, setResult,
+    questions: bank, reshuffle, randomized: persistent,
     next: () => choose((state.index + 1) % bank.length), previous: () => choose(state.index - 1),
     jump: position => choose(Number(position) - 1), retry: () => choose(state.index, true),
     canPrevious: active && state.index > 0, position: q ? state.index + 1 : 0, count: bank.length,

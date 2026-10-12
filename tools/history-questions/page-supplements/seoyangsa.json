@@ -1,0 +1,1282 @@
+{
+  "schemaVersion": 1,
+  "subject": "seoyangsa",
+  "batch": "20261013",
+  "review": "AI-authored; exact selected transcription checked; no claim of fresh scan or expert verification",
+  "questions": [
+    {
+      "id": "seoyangsa-page-practice-review20261013-001",
+      "page": "seoyangsa-textbook-page-312",
+      "kind": "short",
+      "prompt": "고대 이집트에서 지역 공동체로 형성되어 왕국의 행정 구획으로도 사용된 단위를 쓰시오.",
+      "answer": "노메",
+      "acceptedAnswers": [
+        "노모스"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-312",
+          "quote": "노메(nome)라는 지역적 단합"
+        },
+        {
+          "page": "seoyangsa-textbook-page-312",
+          "quote": "전 국토는 노메(nome)라는 행정단위로 구분되어 중앙정부의 책임 아래 관료들이 통치"
+        }
+      ],
+      "explain": "노메는 파라오 개인의 칭호가 아니라 지역적 공동체 및 행정 구획을 가리킨다.",
+      "topic": "노메"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-002",
+      "page": "seoyangsa-textbook-page-313",
+      "kind": "short",
+      "prompt": "이집트 신화에서 세트에게 살해되었다가 이시스의 노력으로 부활하고 죽은 자를 심판하는 신은 누구인가?",
+      "answer": "오시리스",
+      "acceptedAnswers": [],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-313",
+          "quote": "오시리스 신화\n• 먼 옛날 백성에게 농사짓는 법·실용적인 기술·법률을 가져다준 자비로운 지배자"
+        },
+        {
+          "page": "seoyangsa-textbook-page-313",
+          "quote": "동생 세트의 모반으로 살해 → 부인 이시스의 노력으로 부활"
+        },
+        {
+          "page": "seoyangsa-textbook-page-313",
+          "quote": "죽은 자들의 재판관(사자의 신관)"
+        }
+      ],
+      "explain": "죽음·부활과 사후 심판이라는 단서를 함께 읽으면 태양신 라와 구별할 수 있다.",
+      "topic": "오시리스"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-003",
+      "page": "seoyangsa-textbook-page-16",
+      "kind": "short",
+      "prompt": "에디사 전투에서 로마 황제 발레리아누스를 생포한 사산 왕조 페르시아의 왕을 쓰시오.",
+      "answer": "샤푸르 1세",
+      "acceptedAnswers": [
+        "샤푸르1",
+        "샤푸르 Ⅰ",
+        "샤푸르 I"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-16",
+          "quote": "(2) 샤푸르 1세(Shapur I, 241~272)\n① 로마의 침공을 격퇴, 시리아 원정 중 에디사 전투에서 로마 황제 발레리아누스(253~260) 생포"
+        }
+      ],
+      "explain": "아르다시르 1세의 건국과 구분하여 사산 왕조의 대로마 팽창을 묻는다.",
+      "topic": "샤푸르 1세"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-004",
+      "page": "seoyangsa-textbook-page-21",
+      "kind": "short",
+      "prompt": "고대 그리스의 암흑시대 사회를 설명할 때, 혈연을 중심으로 구성된 가구·가산의 기본 단위를 그리스어 용어로 쓰시오.",
+      "answer": "오이코스",
+      "acceptedAnswers": [
+        "oikos",
+        "Oikos"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-21",
+          "quote": "혈연 중심의 가구(oikos)로 결합"
+        }
+      ],
+      "explain": "가구와 재산을 바탕으로 한 생활 단위로, 도시국가 전체를 뜻하는 폴리스와 구분한다.",
+      "topic": "오이코스"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-005",
+      "page": "seoyangsa-textbook-page-21",
+      "kind": "short",
+      "prompt": "여러 촌락이 방어상의 중심지로 모여들고 주변 촌락과 결합하면서 폴리스가 형성되었다고 설명하는 견해는 무엇인가?",
+      "answer": "집주설",
+      "acceptedAnswers": [
+        "집주",
+        "시노이키스모스",
+        "synoikismos"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-21",
+          "quote": "집주설(synoikismos, 集住說) : 도리아족의 남하에 따른 혼란과 타국가의 위협으로부터 스스로를 지키기 위하여 여러 촌락이 지리적·군사적으로 중심이 되는 곳에 모여들어 도시가 형성되었고, 그 도시를 중심으로 주변 촌락들이 하나의 독립된 주권국가인 폴리스를 형성"
+        }
+      ],
+      "explain": "공동 방어와 촌락 결합을 강조하는 성립 설명이다. 교재도 이것만으로 모든 폴리스의 기원을 확정할 수는 없다고 설명한다.",
+      "topic": "집주설"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-006",
+      "page": "seoyangsa-textbook-page-21",
+      "kind": "short",
+      "prompt": "그리스의 폴리스와 대비되는 정치 형태로, 중심 도시가 없는 부족 연합체를 가리키는 용어를 쓰시오.",
+      "answer": "에트노스",
+      "acceptedAnswers": [
+        "ethnos",
+        "Ethnos"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-21",
+          "quote": "'에트노스(ethnos)'는 중심 도시가 없는 부족 연합체로 마케도니아가 대표적이다."
+        }
+      ],
+      "explain": "도시와 주변 농촌을 중심으로 구성된 폴리스와 구별되는 정치 공동체이다.",
+      "topic": "에트노스"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-007",
+      "page": "seoyangsa-textbook-page-315",
+      "kind": "short",
+      "prompt": "로마 공화정에서 사법을 관장한 정무관으로, 라틴어 명칭이 praetor인 관직을 쓰시오.",
+      "answer": "법무관",
+      "acceptedAnswers": [
+        "프라이토르",
+        "프라이토르직"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-315",
+          "quote": "법무관(praetor) : 사법을 관장하며, 법무관을 거쳐야 집정관이 될 수 있었음. 1년 임기"
+        }
+      ],
+      "explain": "사법 담당 법무관을 재정 담당 재무관, 공공시설 담당 조영관과 구분한다.",
+      "topic": "법무관"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-008",
+      "page": "seoyangsa-textbook-page-315",
+      "kind": "short",
+      "prompt": "로마 공화정에서 국고 수입 등 재정을 맡은 정무관으로, 라틴어 명칭이 quaestor인 관직은 무엇인가?",
+      "answer": "재무관",
+      "acceptedAnswers": [
+        "콰이스토르",
+        "퀘스토르"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-315",
+          "quote": "재무관(quaestor) : 국고 수입을 관장, 1년 임기"
+        }
+      ],
+      "explain": "시민의 재산·풍기 조사에 관여한 감찰관과 국고 재정을 담당한 관직을 구분한다.",
+      "topic": "재무관"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-009",
+      "page": "seoyangsa-textbook-page-53",
+      "kind": "short",
+      "prompt": "디오클레티아누스의 박해 때 배교한 성직자가 집행한 성례의 효력을 부정하며 교회의 순수성을 강조한 북아프리카 교파는?",
+      "answer": "도나투스파",
+      "acceptedAnswers": [
+        "도나티스트",
+        "도나투스주의"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-53",
+          "quote": "도나투스파<br>(Donatists)"
+        },
+        {
+          "page": "seoyangsa-textbook-page-53",
+          "quote": "배교자가 행한 세례나 서임 등의 성사(聖事)는 유효하지 않다고 주장"
+        },
+        {
+          "page": "seoyangsa-textbook-page-53",
+          "quote": "디오클레티아누스의 박해를 받을 때 신앙을 지키지 못한 성직자들의 복권에 대한 이의 제기"
+        }
+      ],
+      "explain": "그리스도의 본성을 둘러싼 논쟁과 달리, 성직자의 배교와 성례의 유효성을 핵심 쟁점으로 삼았다.",
+      "topic": "도나투스파"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-010",
+      "page": "seoyangsa-textbook-page-53",
+      "kind": "short",
+      "prompt": "인간의 자유의지와 도덕적 실천을 강조하여 구원에서 은총의 역할을 둘러싼 논쟁을 일으킨 브리타니아 출신 사상가는?",
+      "answer": "펠라기우스",
+      "acceptedAnswers": [],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-53",
+          "quote": "펠라기우스(360?~420?)는 브리타니아 출신 교회 개혁주의자"
+        },
+        {
+          "page": "seoyangsa-textbook-page-53",
+          "quote": "인간의 자유의지를 극단적으로 강조하고 구원에 신의 은총은 필요 없다고 주장"
+        }
+      ],
+      "explain": "교재에서 자유의지를 강조한 인물로 제시된다. 아우구스티누스의 은총론과 대비하여 이해한다.",
+      "topic": "펠라기우스"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-011",
+      "page": "seoyangsa-textbook-page-75",
+      "kind": "short",
+      "prompt": "누르시아의 베네딕투스가 이탈리아에 세워 서방 수도원 전통의 주요 거점이 된 수도원의 이름을 쓰시오.",
+      "answer": "몬테카시노",
+      "acceptedAnswers": [
+        "몬테카시노 수도원"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-75",
+          "quote": "누르시아의 성 베네딕투스(St. Benedict of Nursia)"
+        },
+        {
+          "page": "seoyangsa-textbook-page-75",
+          "quote": "이탈리아 중부의 '몬테카시노'에 수도원 설립(520년 혹은 529년)"
+        }
+      ],
+      "explain": "서방 수도원 운동에서 베네딕투스의 규칙과 연결되는 장소이다.",
+      "topic": "몬테카시노"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-012",
+      "page": "seoyangsa-textbook-page-81",
+      "kind": "short",
+      "prompt": "1303년 프랑스 왕 필립 4세가 노가레를 보내 교황 보니파키우스 8세를 습격한 사건의 명칭은?",
+      "answer": "아나니 사건",
+      "acceptedAnswers": [
+        "아나니의 굴욕"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-81",
+          "quote": "아나니 사건(1303) : 필립 4세는 노가레를 파견하여 교황이 머물고 있는 아나니를 습격"
+        }
+      ],
+      "explain": "왕권과 교황권의 충돌이 물리적 공격으로 번진 사건이며, 이후의 아비뇽 유수와 구별한다.",
+      "topic": "아나니 사건"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-013",
+      "page": "seoyangsa-textbook-page-81",
+      "kind": "short",
+      "prompt": "『평화의 옹호자』에서 교황권의 한계를 주장하고 좋은 정부의 기준으로 인민의 동의를 제시한 사상가는?",
+      "answer": "마르실리우스",
+      "acceptedAnswers": [
+        "파도바의 마르실리우스",
+        "마르실리오"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-81",
+          "quote": "마르실리우스의 「평화의 옹호자」(1324)"
+        },
+        {
+          "page": "seoyangsa-textbook-page-81",
+          "quote": "병든 정부와 건강한 정부를 가려내는 주요한 기준은 인민의 동의이다."
+        }
+      ],
+      "explain": "교황권의 우월성을 내세운 『유일한 성성』과 대비되는 정치사상이다.",
+      "topic": "마르실리우스"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-014",
+      "page": "seoyangsa-textbook-page-81",
+      "kind": "short",
+      "prompt": "서방 교회의 대분열을 해결하려 했으나 기존 두 교황이 폐위에 불복하여 오히려 교황이 셋이 된 1409년 회의는?",
+      "answer": "피사 공의회",
+      "acceptedAnswers": [
+        "피사 종교회의"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-81",
+          "quote": "피사 공의회(1409)"
+        },
+        {
+          "page": "seoyangsa-textbook-page-81",
+          "quote": "로마와 아비뇽의 교황 모두 폐위에 불복하여 교황이 3명 존재하게 됨"
+        }
+      ],
+      "explain": "분열을 수습한 콘스탄츠 공의회와 달리, 이 회의 직후에는 경쟁하는 교황의 수가 늘었다.",
+      "topic": "피사 공의회"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-015",
+      "page": "seoyangsa-textbook-page-91",
+      "kind": "short",
+      "prompt": "헨리 2세가 성직자의 범죄를 왕실 법정에서 다루고 교황에게 상소하는 일을 통제하려 한 1164년 규약은?",
+      "answer": "클라렌던 헌장",
+      "acceptedAnswers": [
+        "클라렌던 규약",
+        "클라렌던 헌법"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-91",
+          "quote": "클라렌던 헌장(Constitutions of Clarendon, 1164) 또는 규약"
+        },
+        {
+          "page": "seoyangsa-textbook-page-91",
+          "quote": "왕의 허가 없이는 교회가 교황에게 상소할 수 없다"
+        },
+        {
+          "page": "seoyangsa-textbook-page-91",
+          "quote": "성직자라 해도 범법 시에는 교회법정이 아니라 국왕법정에서 재판한다"
+        }
+      ],
+      "explain": "왕권의 사법 통제를 교회에까지 확대하려는 시도였으며 토마스 베켓과의 충돌로 이어졌다.",
+      "topic": "클라렌던 헌장"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-016",
+      "page": "seoyangsa-textbook-page-91",
+      "kind": "short",
+      "prompt": "중세 영국에서 국왕의 대리인을 지방에 파견하여 재판하게 하고, 헨리 2세가 전국적으로 확대하여 왕실 사법권을 강화한 제도는?",
+      "answer": "순회재판제",
+      "acceptedAnswers": [
+        "순회재판제도",
+        "순회재판관제",
+        "순회재판"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-91",
+          "quote": "국왕의 대리인에 의해 재판이 시행되는 제도인 순회재판관을 전국에 파견하는 순회재판제도 시행"
+        },
+        {
+          "page": "seoyangsa-textbook-page-91",
+          "quote": "순회재판제를 전국적 규모로 확대"
+        }
+      ],
+      "explain": "지방에서 국왕의 재판권을 행사하도록 한 장치로 보통법의 발전과 연결된다.",
+      "topic": "순회재판제"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-017",
+      "page": "seoyangsa-textbook-page-97",
+      "kind": "short",
+      "prompt": "중세 대학에서 신의 존재와 보편의 문제를 논하고, 아리스토텔레스의 철학을 활용하여 신앙과 이성의 관계를 규명한 학문 전통은?",
+      "answer": "스콜라철학",
+      "acceptedAnswers": [
+        "스콜라주의",
+        "스콜라학"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-97",
+          "quote": "스콜라철학\n(1) 스콜라철학의 발전"
+        },
+        {
+          "page": "seoyangsa-textbook-page-97",
+          "quote": "아리스토텔레스를 비롯한 그리스 철학자들의 저술은 일찍이 중동의 무슬림 학자들에 의해 번역되었고"
+        },
+        {
+          "page": "seoyangsa-textbook-page-97",
+          "quote": "신의 존재 증명 : 신앙과 이성의 대립. 보편 논쟁. 신앙과 이성의 관계를 규명하는 문제"
+        }
+      ],
+      "explain": "신앙과 이성, 보편 논쟁을 함께 묻는 중세의 학문 전통이다.",
+      "topic": "스콜라철학"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-018",
+      "page": "seoyangsa-textbook-page-105",
+      "kind": "short",
+      "prompt": "중세 말 영주의 화폐 수요가 커지면서 농민이 부담하던 부역 등 지대를 돈으로 바꾸어 납부하게 된 변화를 쓰시오.",
+      "answer": "지대의 금납화",
+      "acceptedAnswers": [
+        "금납화",
+        "지대 금납화",
+        "화폐지대화"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-105",
+          "quote": "지대의 금납화(commutation)"
+        },
+        {
+          "page": "seoyangsa-textbook-page-105",
+          "quote": "시장 경제의 발달로 봉건 영주들은 화폐 수요 증가"
+        },
+        {
+          "page": "seoyangsa-textbook-page-105",
+          "quote": "종래의 노동 지대를 현물·화폐로 내면서 농민들은 부역에서 벗어남"
+        }
+      ],
+      "explain": "부역 부담이 화폐 납부로 바뀌는 변화이다. 문항은 현물 납부가 아닌 돈으로 납부하는 경우를 한정한다.",
+      "topic": "지대의 금납화"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-019",
+      "page": "seoyangsa-textbook-page-140",
+      "kind": "short",
+      "prompt": "프랑스 절대왕정에서 리슐리외가 중앙의 통제를 강화하기 위해 국왕이 임명하여 지방에 파견한 행정관을 프랑스어 유래 명칭으로 쓰시오.",
+      "answer": "앵탕당",
+      "acceptedAnswers": [
+        "엥탕당",
+        "intendant",
+        "Intendant"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-140",
+          "quote": "리슐리외(Richelieu, 1585~1642) : 추기경 출신 재상. 왕권의 강화, 국력의 증진을 목표로 삼음"
+        },
+        {
+          "page": "seoyangsa-textbook-page-140",
+          "quote": "국왕에 의하여 임명되는 지방장관(앵탕당) 파견"
+        }
+      ],
+      "explain": "왕이 임명하는 지방관을 통해 중앙의 통제를 강화한 제도이다.",
+      "topic": "앵탕당"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-020",
+      "page": "seoyangsa-textbook-page-140",
+      "kind": "short",
+      "prompt": "프랑스 위그노 전쟁 시기에 종교적 대립을 현실적으로 수습하고 왕권 강화를 통해 질서를 회복하려 한 세력을 쓰시오.",
+      "answer": "정치파",
+      "acceptedAnswers": [
+        "폴리티크",
+        "폴리티크파",
+        "폴리티크 당"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-140",
+          "quote": "정치파(Politiques)의 등장 : 현실적으로 문제를 해결하려는 정치 세력. 왕권의 강화를 통하여 질서를 회복·유지하려고 함"
+        }
+      ],
+      "explain": "종교적 일치만을 고집하기보다 국가의 질서와 왕권을 통한 수습을 중시했다.",
+      "topic": "정치파"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-021",
+      "page": "seoyangsa-textbook-page-151",
+      "kind": "short",
+      "prompt": "신을 우주의 창조주로 인정하면서도 창조 후의 세계는 자연법칙에 따라 움직인다고 보고 기적과 계시를 받아들이지 않는 사상은?",
+      "answer": "이신론",
+      "acceptedAnswers": [
+        "Deism",
+        "deism"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-151",
+          "quote": "이신론자들은 신이 세상을 창조할 때 세상이 스스로 움직일 수 있는 힘을 부여해주었다고 믿는다."
+        },
+        {
+          "page": "seoyangsa-textbook-page-151",
+          "quote": "현실적으로 이신론자들은 계시, 예언, 초자연적인 힘, 기적 등을 받지 않는다."
+        }
+      ],
+      "explain": "신의 존재 자체를 부정하는 무신론과 구별해야 한다.",
+      "topic": "이신론"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-022",
+      "page": "seoyangsa-textbook-page-151",
+      "kind": "short",
+      "prompt": "18세기 사법 개혁론에서 『범죄와 형벌』의 저자와 구별하여, 효율적인 교도 행정과 수형자의 갱생을 강조한 영국의 개혁가는?",
+      "answer": "하워드",
+      "acceptedAnswers": [
+        "존 하워드",
+        "John Howard"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-151",
+          "quote": "하워드(John Howard, 1726~1790) : 효율적인 교도행정과 범법자들의 갱생을 강조"
+        }
+      ],
+      "explain": "형벌론으로 알려진 베카리아와 감옥·교도 행정 개혁에 주력한 인물을 구분한다.",
+      "topic": "하워드"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-023",
+      "page": "seoyangsa-textbook-page-152",
+      "kind": "short",
+      "prompt": "애덤 스미스가 개인의 이익 추구가 시장에서 사회 전체의 복리 증진으로 이어질 수 있음을 설명할 때 사용한 비유는?",
+      "answer": "보이지 않는 손",
+      "acceptedAnswers": [
+        "Invisible hand",
+        "invisible hand"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-152",
+          "quote": "보이지 않는 손(Invisible hand) : 개인이 자신의 이익을 추구하도록 방임하면 사회 전체의 복리를 더욱 증진"
+        }
+      ],
+      "explain": "개인의 이익과 사회적 결과를 연결하는 비유이며 정부 기관의 이름이 아니다.",
+      "topic": "보이지 않는 손"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-024",
+      "page": "seoyangsa-textbook-page-152",
+      "kind": "short",
+      "prompt": "베이컨의 경험적 귀납법과 대비하여 엄밀한 연역을 중시하고 기계론적 우주관 형성에 기여한 프랑스 철학자는?",
+      "answer": "데카르트",
+      "acceptedAnswers": [
+        "르네 데카르트",
+        "Descartes"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-152",
+          "quote": "데카르트(Rene Descartes, 1596~1650)"
+        },
+        {
+          "page": "seoyangsa-textbook-page-152",
+          "quote": "엄밀한 연역의 방식"
+        },
+        {
+          "page": "seoyangsa-textbook-page-152",
+          "quote": "기계론적 우주관과 유물론 발전에 기여"
+        }
+      ],
+      "explain": "과학혁명기의 방법론에서 베이컨의 귀납법과 대비되는 인물이다.",
+      "topic": "데카르트"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-025",
+      "page": "seoyangsa-textbook-page-155",
+      "kind": "short",
+      "prompt": "루소의 『사회계약론』에서 주권의 근원을 군주가 아니라 공동체를 이루는 사람들에게 두는 원리는 무엇인가?",
+      "answer": "인민주권",
+      "acceptedAnswers": [
+        "인민 주권론",
+        "주권재민"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-155",
+          "quote": "루소 『사회계약론』에서 ‘인민주권’의 개념"
+        }
+      ],
+      "explain": "통치 권력의 최종 근거를 군주의 세습권이나 신의 위임에서 찾는 견해와 구별한다.",
+      "topic": "인민주권"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-026",
+      "page": "seoyangsa-textbook-page-160",
+      "kind": "short",
+      "prompt": "제임스 1세의 자의적 과세 등에 맞서 잉글랜드 의회가 1621년에 제출하며 의회의 권한을 강조한 문서는?",
+      "answer": "대항의서",
+      "acceptedAnswers": [
+        "대항의문",
+        "Great Protestation"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-160",
+          "quote": "왕이 자의적으로 개인에게 과세(강제공채 등)"
+        },
+        {
+          "page": "seoyangsa-textbook-page-160",
+          "quote": "의회는 『대항의서(Great Protestation)』(1621) 제출 : 의회의 권한 강조"
+        }
+      ],
+      "explain": "1628년의 권리청원, 1641년의 대간주와 연도·왕을 구별해야 한다.",
+      "topic": "대항의서"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-027",
+      "page": "seoyangsa-textbook-page-165",
+      "kind": "short",
+      "prompt": "미국 독립의 사상적 배경 가운데 생명·자유 등의 자연권을 보장하지 못하는 통치에 대한 저항을 정당화한 영국 사상가는?",
+      "answer": "로크",
+      "acceptedAnswers": [
+        "존 로크",
+        "John Locke"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-165",
+          "quote": "독립의 사상적 근거\n① 로크의 자연권·저항권 사상"
+        },
+        {
+          "page": "seoyangsa-textbook-page-165",
+          "quote": "미국 독립선언 : 생명, 자유, 행복 추구의 권리와 인민의 주권"
+        }
+      ],
+      "explain": "자연권을 보호하기 위한 정부와 저항권이라는 연결을 확인하는 문제이다.",
+      "topic": "로크"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-028",
+      "page": "seoyangsa-textbook-page-166",
+      "kind": "short",
+      "prompt": "미국 헌법 제정 논쟁에서 강력한 중앙정부가 개인의 자유를 침해할 것을 우려하며 주의 자치를 강조한 진영은?",
+      "answer": "반연방파",
+      "acceptedAnswers": [
+        "반연방주의자",
+        "반연방주의파"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-166",
+          "quote": "반연방파 : 주의 자치, 개인의 자유 침해 우려. 패트릭 헨리, 조지 메이슨 등"
+        }
+      ],
+      "explain": "중앙정부 강화를 주장한 해밀턴·매디슨 등의 연방파와 구별한다.",
+      "topic": "반연방파"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-029",
+      "page": "seoyangsa-textbook-page-169",
+      "kind": "short",
+      "prompt": "구체제 프랑스에서 법복귀족으로 구성되어 국왕의 법률·칙령을 등록하고 등록 거부로 왕권을 견제한 기관은?",
+      "answer": "고등법원",
+      "acceptedAnswers": [
+        "파를르망",
+        "파리 고등법원",
+        "파리 파를르망"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-169",
+          "quote": "프랑스 국왕이 발표하는 법률이나 칙령은 고등법원에서 등록하기 전에는 효력이 없었고, 구성원들은 법복귀족이었으며, 국왕으로부터 독립적이었다."
+        }
+      ],
+      "explain": "영국의 의회와 달리 사법기관에서 유래하였다. 기관의 구성과 법령 등록권을 함께 묻는다.",
+      "topic": "고등법원"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-030",
+      "page": "seoyangsa-textbook-page-170",
+      "kind": "short",
+      "prompt": "1789년 프랑스 혁명 초기에 지방 농촌에서 불안과 소문이 확산되며 농민들이 영주 저택을 습격한 일련의 소요를 무엇이라 하는가?",
+      "answer": "대공포",
+      "acceptedAnswers": [
+        "대공포 사건",
+        "그랑드 푀르",
+        "Grande Peur"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-170",
+          "quote": "대공포(Grande Peur) : 지방 농촌에서 영주 저택을 습격하는 소요"
+        }
+      ],
+      "explain": "파리의 바스티유 습격과 연결되지만, 문항은 지방 농촌으로 확산된 소요를 묻는다.",
+      "topic": "대공포"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-031",
+      "page": "seoyangsa-textbook-page-172",
+      "kind": "short",
+      "prompt": "1791년 프랑스 헌법에서 재산 자격을 충족하여 선거권을 행사할 수 있던 시민을 무엇이라 하는가?",
+      "answer": "능동시민",
+      "acceptedAnswers": [],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-172",
+          "quote": "1791년 헌법\n① 입헌군주제\n② 제한선거 : 재산을 자격으로 하는 능동시민·수동시민 구분"
+        }
+      ],
+      "explain": "형식적 권리의 평등과 실제 정치 참여 자격 사이의 차이를 보여 주는 구분이다.",
+      "topic": "능동시민"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-032",
+      "page": "seoyangsa-textbook-page-174",
+      "kind": "short",
+      "prompt": "1792년 파리 민중이 튀일리 궁을 습격하여 왕권을 정지시키고 국민공회 소집으로 이어지게 한 사건을 날짜를 포함해 쓰시오.",
+      "answer": "8월 10일 봉기",
+      "acceptedAnswers": [
+        "8·10 봉기",
+        "8.10 봉기",
+        "8월 10일 사건",
+        "1792년 8월 10일 봉기"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-174",
+          "quote": "8월 10일 봉기(1792)\n① 왕궁 튀일리 궁 습격. 왕권 정지\n② 입법의회 해산, 보통선거에 의한 국민공회 소집 결정"
+        }
+      ],
+      "explain": "입헌군주정에서 공화정으로 넘어가는 정치적 전환을 묻는다.",
+      "topic": "8월 10일 봉기"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-033",
+      "page": "seoyangsa-textbook-page-175",
+      "kind": "short",
+      "prompt": "발미 전투 직후 공화정을 선포하고, 지롱드파와 산악파가 대립하였으며 루이 16세를 처형한 프랑스 혁명 의회는?",
+      "answer": "국민공회",
+      "acceptedAnswers": [
+        "National Convention"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-175",
+          "quote": "국민공회(National Convention)\n① 보통선거로 선출된 혁명 의회"
+        },
+        {
+          "page": "seoyangsa-textbook-page-175",
+          "quote": "루이 16세 처형(1793. 1.) 이후 대내외 위기 심화"
+        }
+      ],
+      "explain": "국민의회·입법의회와 달리 공화정 및 국왕 처형의 시기에 활동한 의회이다.",
+      "topic": "국민공회"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-034",
+      "page": "seoyangsa-textbook-page-177",
+      "kind": "short",
+      "prompt": "프랑스 공포정치 시기에 공안위원회와 구별하여 반혁명 혐의자를 심판하는 사법기구의 명칭을 쓰시오.",
+      "answer": "혁명재판소",
+      "acceptedAnswers": [
+        "혁명 법정",
+        "혁명재판정"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-177",
+          "quote": "공포정치\n① 공안위원회, 혁명재판소. 반혁명 혐의자 대량 처형"
+        }
+      ],
+      "explain": "비상 통치를 주도한 공안위원회와 반혁명 혐의의 재판을 담당한 기구를 구별한다.",
+      "topic": "혁명재판소"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-035",
+      "page": "seoyangsa-textbook-page-152",
+      "kind": "short",
+      "prompt": "국가의 역할을 외적 방어·치안·필수 공공시설 유지 등으로 제한하고 경제 활동에 대한 개입을 최소화하려는 국가관은?",
+      "answer": "야경국가론",
+      "acceptedAnswers": [
+        "야경국가",
+        "야경 국가관"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-152",
+          "quote": "야경국가론 제시\n㉠ 정부의 역할 : 외적의 침입 방지, 치안 유지, 공공기관의 유지\n㉡ 국가를 수동적인 경찰의 지위로까지 낮춤"
+        }
+      ],
+      "explain": "개인의 경제 활동 자유를 중시한 고전적 자유주의 국가관을 복지국가론과 구별한다.",
+      "topic": "야경국가론"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-036",
+      "page": "seoyangsa-textbook-page-183",
+      "kind": "short",
+      "prompt": "1815년 영국·오스트리아·프로이센·러시아가 빈 체제를 유지하고 필요한 경우 무력을 사용할 목적으로 맺은 동맹은?",
+      "answer": "4국동맹",
+      "acceptedAnswers": [
+        "사국동맹"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-183",
+          "quote": "4국동맹(Quadruple Alliance, 1815) : 오스트리아, 영국, 러시아, 프로이센\n㉠ 빈 체제의 결과를 유지하기 위하여 무력을 사용할 수 있다는 내용 포함"
+        }
+      ],
+      "explain": "영국이 참여하지 않은 신성동맹과 구성국 및 성격을 비교하여 구별한다.",
+      "topic": "4국동맹"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-037",
+      "page": "seoyangsa-textbook-page-184",
+      "kind": "short",
+      "prompt": "19세기 전반 이탈리아의 자유와 독립을 목표로 결성되어 자유주의 봉기에 참여한 비밀 결사의 이름을 쓰시오.",
+      "answer": "카르보나리당",
+      "acceptedAnswers": [
+        "카르보나리",
+        "카르보나리파",
+        "탄소당"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-184",
+          "quote": "카르보나리당 : 이탈리아의 자유와 독립을 목표로 결성한 비밀 결사."
+        }
+      ],
+      "explain": "청년 이탈리아당이 결성되기 전 이탈리아 자유주의 운동의 비밀 결사이다.",
+      "topic": "카르보나리당"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-038",
+      "page": "seoyangsa-textbook-page-185",
+      "kind": "short",
+      "prompt": "에스파냐령 라틴아메리카에서 현지 태생 크리오요와 구별되며, 본국 출생으로 고위 관직과 성직을 장악한 집단은?",
+      "answer": "페닌술라르",
+      "acceptedAnswers": [
+        "페닌술라레스",
+        "페닌술라르인"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-185",
+          "quote": "페닌술라르 : 스페인 본국 출생. 정치권력 독점, 대지주, 고위 성직자·관료"
+        }
+      ],
+      "explain": "두 집단 모두 에스파냐계였지만 출생지에 따른 정치적 차별이 독립운동의 배경이 되었다.",
+      "topic": "페닌술라르"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-039",
+      "page": "seoyangsa-textbook-page-187",
+      "kind": "short",
+      "prompt": "1830년 샤를 10세가 언론을 탄압하고 의회를 해산하며 선거권을 제한하여 혁명의 직접적 계기를 만든 법령은?",
+      "answer": "7월 칙령",
+      "acceptedAnswers": [
+        "칠월 칙령",
+        "생클루 칙령"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-187",
+          "quote": "7월 칙령(1830)의 반포\n㉠ 출판의 자유 정지 : 언론의 극단적인 탄압\n㉡ 의회의 해산과 새로운 선거\n㉢ 선거권 제한"
+        }
+      ],
+      "explain": "뒤이어 성립한 루이 필리프의 7월 왕정과 그 성립을 촉발한 칙령을 구별한다.",
+      "topic": "7월 칙령"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-040",
+      "page": "seoyangsa-textbook-page-188",
+      "kind": "short",
+      "prompt": "1848년 프랑스에서 실업 구제를 위한 국립 작업장 폐쇄에 반발한 노동자들이 일으켰다가 카베냐크의 군대에 진압된 봉기는?",
+      "answer": "6월 봉기",
+      "acceptedAnswers": [
+        "6월 봉기사건",
+        "유월 봉기",
+        "1848년 6월 봉기"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-188",
+          "quote": "6월 봉기(6. 23.~6. 26.)\n㉠ 국립 작업장 폐쇄에 반발, 계급투쟁의 양상\n㉡ 카베냐크의 군대에 의해 진압"
+        }
+      ],
+      "explain": "왕정을 무너뜨린 2월 혁명 이후, 공화정 내부의 계급적 갈등이 드러난 사건이다.",
+      "topic": "6월 봉기"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-041",
+      "page": "seoyangsa-textbook-page-190",
+      "kind": "short",
+      "prompt": "산업화 이후 영국에서 아동과 여성의 노동을 규제하기 위해 제정·개정한 노동 관련 법률을 통칭하는 말은?",
+      "answer": "공장법",
+      "acceptedAnswers": [
+        "공장법령",
+        "Factory Acts"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-190",
+          "quote": "공장법 : 아동·여성 노동 규제."
+        }
+      ],
+      "explain": "참정권 확대를 요구한 인민헌장과 달리 노동 환경을 직접 규제한 법률이다.",
+      "topic": "공장법"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-042",
+      "page": "seoyangsa-textbook-page-193",
+      "kind": "short",
+      "prompt": "푸리에가 노동을 매력적으로 조직하는 공동생활·생산 공동체로 구상한 협동 조직의 명칭을 쓰시오.",
+      "answer": "팔랑스테르",
+      "acceptedAnswers": [
+        "팔랑스테르 공동체",
+        "팔랑스테르제",
+        "팔랑주"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-193",
+          "quote": "푸리에 : 팔랑스테르. 노동의 매력화"
+        }
+      ],
+      "explain": "오언의 뉴라나크·뉴하모니와 구별되는 푸리에의 공동체 구상이다.",
+      "topic": "팔랑스테르"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-043",
+      "page": "seoyangsa-textbook-page-193",
+      "kind": "short",
+      "prompt": "초기 사회주의 사상가 가운데 과학자와 산업 활동의 담당자들이 이끄는 계획적 사회를 구상한 프랑스 인물은?",
+      "answer": "생시몽",
+      "acceptedAnswers": [
+        "앙리 드 생시몽",
+        "Saint-Simon"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-193",
+          "quote": "생시몽 : 산업자·과학자 중심의 계획사회"
+        }
+      ],
+      "explain": "푸리에의 협동 공동체 구상이나 오언의 공장 개혁 실험과 구별한다.",
+      "topic": "생시몽"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-044",
+      "page": "seoyangsa-textbook-page-196",
+      "kind": "short",
+      "prompt": "생디칼리슴에서 여러 노동 부문이 함께 작업을 멈추는 직접행동의 정점으로 사회혁명을 실현하려 한 수단을 쓰시오.",
+      "answer": "총파업",
+      "acceptedAnswers": [
+        "제너럴 스트라이크",
+        "general strike",
+        "General Strike"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-196",
+          "quote": "이 직접행동의 정점에 실현된 제너럴 스트라이크에 의한 사회혁명을 목표로 한다"
+        }
+      ],
+      "explain": "의회 선거를 통한 점진적 개혁과 대비되는 집단적 노동 중단 전략이다.",
+      "topic": "총파업"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-045",
+      "page": "seoyangsa-textbook-page-197",
+      "kind": "short",
+      "prompt": "그리스 독립전쟁에서 열강의 개입을 보여 주는 1827년의 해전으로, 오스만·이집트 함대가 패배한 전투는?",
+      "answer": "나바리노 해전",
+      "acceptedAnswers": [
+        "나바리노 전투",
+        "나바리노"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-197",
+          "quote": "그리스 독립전쟁(1821~1829)\n① 오스만 제국으로부터 독립. 열강의 개입(나바리노 해전)"
+        }
+      ],
+      "explain": "그리스 독립이 민족운동뿐 아니라 열강 개입과도 연결되었음을 묻는다.",
+      "topic": "나바리노 해전",
+      "corroboration": [
+        {
+          "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-12114",
+          "title": "Royal Museums Greenwich — 1827년 나바리노 해전"
+        }
+      ]
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-046",
+      "page": "seoyangsa-textbook-page-198",
+      "kind": "short",
+      "prompt": "보불전쟁 패배 이후 1871년 파리에 성립하였으나 티에르 정부에 의해 진압된 급진적 자치정권을 쓰시오.",
+      "answer": "파리 코뮌",
+      "acceptedAnswers": [
+        "파리코뮌 정권",
+        "Paris Commune"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-198",
+          "quote": "파리 코뮌(1871) : 급진 자치. 티에르 정부에 의해 진압"
+        }
+      ],
+      "explain": "제2제정 붕괴 뒤 제3공화정 수립 과정에서 등장한 파리의 자치정권이다.",
+      "topic": "파리 코뮌"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-047",
+      "page": "seoyangsa-textbook-page-202",
+      "kind": "short",
+      "prompt": "비스마르크가 사회보험을 도입하는 동시에 사회주의 운동의 조직과 활동을 탄압하기 위해 시행한 법의 명칭은?",
+      "answer": "사회주의자진압법",
+      "acceptedAnswers": [
+        "사회주의자 탄압법",
+        "사회주의자금압법",
+        "반사회주의자법"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-202",
+          "quote": "사회주의자진압법과 동시에 사회보험(질병·산재·노령) 도입 — 당근과 채찍"
+        }
+      ],
+      "explain": "사회보험이라는 회유책과 동시에 시행한 탄압책을 짝지어 이해해야 한다.",
+      "topic": "사회주의자진압법"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-048",
+      "page": "seoyangsa-textbook-page-204",
+      "kind": "short",
+      "prompt": "1857년 미국 연방대법원이 흑인의 연방 시민권을 부정하며 자유를 요구한 노예의 소송을 기각하여 남북 대립을 격화시킨 판결은?",
+      "answer": "드레드 스콧 판결",
+      "acceptedAnswers": [
+        "드레드스콧 사건",
+        "드레드 스코트 판결",
+        "드레드 스콧 대 샌퍼드 판결"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-204",
+          "quote": "드레드 스콧 판결 : 노예가 시민이 아니라고 하여 자유 획득 소송을 기각. 남북 대립을 격화"
+        }
+      ],
+      "explain": "노예제를 둘러싼 남북 갈등이 사법 판단으로 더욱 심화된 사례이다.",
+      "topic": "드레드 스콧 판결",
+      "corroboration": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/dred-scott-v-sandford",
+          "title": "미국 국립문서기록관리청 — 1857년 판결 원문"
+        }
+      ]
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-049",
+      "page": "seoyangsa-textbook-page-205",
+      "kind": "short",
+      "prompt": "1890년 미국에서 독점적 기업 결합과 경쟁 제한을 규제하기 위해 제정한 연방 법률을 쓰시오.",
+      "answer": "셔먼 반독점법",
+      "acceptedAnswers": [
+        "셔먼법",
+        "셔먼 반트러스트법",
+        "셔먼 독점금지법"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-205",
+          "quote": "셔먼 반독점법(1890) 제정"
+        }
+      ],
+      "explain": "서부 토지 분배를 위한 홈스테드법과 달리 산업화 이후 독점 문제에 대응한 법률이다.",
+      "topic": "셔먼 반독점법"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-050",
+      "page": "seoyangsa-textbook-page-207",
+      "kind": "short",
+      "prompt": "러시아 인민주의 운동의 과격파 조직으로 1881년 알렉산드르 2세를 암살한 단체의 명칭은?",
+      "answer": "인민의 의지",
+      "acceptedAnswers": [
+        "나로드나야 볼랴",
+        "인민의지당"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-207",
+          "quote": "‘인민의 의지’ 단체가 알렉산드르 2세 암살(1881)"
+        }
+      ],
+      "explain": "브나로드 운동의 좌절 이후 나타난 테러 노선의 조직을 묻는다.",
+      "topic": "인민의 의지"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-051",
+      "page": "seoyangsa-textbook-page-223",
+      "kind": "short",
+      "prompt": "1905년 러시아 혁명 과정에서 니콜라이 2세가 시민적 자유와 두마의 입법권을 약속한 문서는?",
+      "answer": "10월 칙령",
+      "acceptedAnswers": [
+        "10월 선언",
+        "10월 선언문",
+        "십월 칙령"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-223",
+          "quote": "10월 칙령(1905) : 헌법과 시민적 자유, 두마에 입법권 부여"
+        }
+      ],
+      "explain": "1917년의 혁명과 구별하여 1905년 혁명에 대한 황제의 양보를 묻는다.",
+      "topic": "10월 칙령"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-052",
+      "page": "seoyangsa-textbook-page-227",
+      "kind": "short",
+      "prompt": "스탈린의 일국 사회주의와 대비하여 트로츠키가 사회주의 건설을 세계 프롤레타리아 혁명과 연계해야 한다고 주장한 노선은?",
+      "answer": "영구혁명론",
+      "acceptedAnswers": [
+        "영구혁명",
+        "영속혁명론",
+        "영속혁명"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-227",
+          "quote": "레온 트로츠키\n노선\n1국 사회주의\n세계 혁명(영구혁명론)"
+        },
+        {
+          "page": "seoyangsa-textbook-page-227",
+          "quote": "전 세계 프롤레타리아의 동시 다발적 혁명과 연계되어야 한다"
+        }
+      ],
+      "explain": "소련 내부 역량만으로 사회주의를 건설할 수 있다는 입장과 구별하는 문제이다.",
+      "topic": "영구혁명론"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-053",
+      "page": "seoyangsa-textbook-page-225",
+      "kind": "short",
+      "prompt": "러시아 혁명 이후 내전기에 볼셰비키 정권의 반혁명 억압을 담당한 비밀경찰 조직의 이름은?",
+      "answer": "체카",
+      "acceptedAnswers": [
+        "체카 조직",
+        "Cheka",
+        "cheka"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-225",
+          "quote": "내전(1918~1920). 체카(비밀경찰), 트로츠키의 적군"
+        }
+      ],
+      "explain": "군사조직인 적군과 비밀경찰 조직을 구분한다.",
+      "topic": "체카"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-054",
+      "page": "seoyangsa-textbook-page-230",
+      "kind": "short",
+      "prompt": "제1차 세계대전 이후 패전국의 해외 영토를 국제연맹의 명목 아래 승전국이 관리하도록 한 제도는?",
+      "answer": "위임통치",
+      "acceptedAnswers": [
+        "위임통치제",
+        "위임통치제도"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-230",
+          "quote": "위임통치 : 패전국 해외 영토를 국제연맹이 승전국에 위임. 본질은 식민지의 재분할"
+        }
+      ],
+      "explain": "민족자결의 이상과 실제 식민지 처리 사이의 간극을 보여 주는 제도이다.",
+      "topic": "위임통치"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-055",
+      "page": "seoyangsa-textbook-page-230",
+      "kind": "short",
+      "prompt": "제1차 세계대전 이후 외교적으로 고립되어 있던 독일과 소비에트 러시아가 1922년에 체결한 조약은?",
+      "answer": "라팔로 조약",
+      "acceptedAnswers": [
+        "라팔로 협정"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-230",
+          "quote": "라팔로 조약(1922, 독·러)"
+        }
+      ],
+      "explain": "독일의 서유럽 관계를 조정한 1925년 로카르노 조약과 구별한다.",
+      "topic": "라팔로 조약"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-056",
+      "page": "seoyangsa-textbook-page-237",
+      "kind": "short",
+      "prompt": "1942년 나치 고위 관료들이 유럽 유대인에 대한 이른바 ‘최종 해결’을 조정하기 위해 개최한 회의의 이름은?",
+      "answer": "반제 회의",
+      "acceptedAnswers": [
+        "반제 컨퍼런스",
+        "반제 호수 회의",
+        "Wannsee Conference"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-237",
+          "quote": "반제 회의(1942. 1. 20.) : 유대인 ‘최종 해결’"
+        }
+      ],
+      "explain": "1935년 뉘른베르크법과 1938년 수정의 밤에 뒤이은 집단학살 정책 조정 회의이다.",
+      "topic": "반제 회의"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-057",
+      "page": "seoyangsa-textbook-page-247",
+      "kind": "short",
+      "prompt": "냉전의 핵 군비 경쟁에서 선제공격을 하더라도 상대의 보복으로 양측 모두 파괴되어 승자가 없게 된다는 상황을 나타내는 개념은?",
+      "answer": "상호확증파괴",
+      "acceptedAnswers": [
+        "상호확실파괴",
+        "상호확실파괴전략",
+        "MAD",
+        "mad"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-247",
+          "quote": "상호확증파괴(MAD) : 핵전쟁이 일어나면 아무도 승리할 수 없다는 인식"
+        }
+      ],
+      "explain": "핵 보복 능력을 통한 억지 논리를 설명하는 개념으로 군축 조약의 이름은 아니다.",
+      "topic": "상호확증파괴"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-058",
+      "page": "seoyangsa-textbook-page-248",
+      "kind": "short",
+      "prompt": "1916년 영국과 프랑스가 오스만 제국의 아랍 지역을 나누어 지배할 구상을 합의한 비밀 협정은?",
+      "answer": "사이크스-피코 협정",
+      "acceptedAnswers": [
+        "사이크스 피코 협정",
+        "사이크스-피코 조약",
+        "사이크스 피코 조약"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-248",
+          "quote": "사이크스-피코 협정(1916. 5.)\n① 프랑스는 시리아·레바논, 영국은 이라크·요르단. 팔레스타인은 공동 관리\n② 영국의 이중·비밀외교"
+        }
+      ],
+      "explain": "아랍 독립을 약속한 후사인-맥마흔 서한, 유대 민족의 고향을 지지한 밸푸어 선언과 함께 비교한다.",
+      "topic": "사이크스-피코 협정"
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-059",
+      "page": "seoyangsa-textbook-page-259",
+      "kind": "short",
+      "prompt": "1960년대 미국에서 베티 프리던 등이 여성의 평등한 권리를 위해 조직한 단체로, 약칭이 NOW인 조직은?",
+      "answer": "전미여성기구",
+      "acceptedAnswers": [
+        "전미여성조직",
+        "전국여성기구",
+        "전미여성협회",
+        "National Organization for Women"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-259",
+          "quote": "여성운동 [기출 2020]"
+        },
+        {
+          "page": "seoyangsa-textbook-page-259",
+          "quote": "베티 프리단 『여성의 신비』"
+        },
+        {
+          "page": "seoyangsa-textbook-page-259",
+          "quote": "전미여성기구(NOW) 결성"
+        }
+      ],
+      "explain": "『여성의 신비』를 둘러싼 문제의식이 조직적 여성운동으로 이어진 사례이다.",
+      "topic": "전미여성기구",
+      "corroboration": [
+        {
+          "url": "https://now.org/faq/when-and-how-was-now-founded/",
+          "title": "전미여성기구 — 공식 창립 연혁"
+        }
+      ]
+    },
+    {
+      "id": "seoyangsa-page-practice-review20261013-060",
+      "page": "seoyangsa-textbook-page-236",
+      "kind": "short",
+      "prompt": "무솔리니 정권이 산업 부문별 기업가·노동자 조직을 국가 통제 아래 묶어 계급 갈등을 조정한다고 내세운 국가 체제는?",
+      "answer": "협동조합 국가",
+      "acceptedAnswers": [
+        "조합국가",
+        "조합주의 국가",
+        "협동국가",
+        "코퍼러티브 국가"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-236",
+          "quote": "협동조합 국가(Corporative State). 국내 산업을 부문별로 나누어 기업가·노동자 조합 형성"
+        }
+      ],
+      "explain": "자율적인 노동자 협동조합이 아니라 파시스트 국가가 노사 조직을 통제하는 체제라는 점을 구분한다.",
+      "topic": "협동조합 국가"
+    }
+  ]
+}

@@ -21,10 +21,37 @@ VERSION = 'history-page-practice.1'
 def folder_for(root, subject):
     return root / 'public/data' if subject == 'hand-memo' else root / 'public/data/subjects' / subject
 
+def authored_rows(root, subject, document):
+    """Append reviewed supplements without rewriting the original author input.
+
+    Loading happens in the shared compiler path, so both incremental publishing
+    and full bank regeneration retain the same additions. Each supplement has
+    its own stable batch namespace and is validated by the ordinary source,
+    alias, leakage and duplicate checks below.
+    """
+    rows = document.get('questions')
+    require(isinstance(rows, list), f'{subject}: questions required')
+    path = root / 'tools/history-questions/page-supplements' / f'{subject}.json'
+    if not path.exists():
+        return rows
+    supplement = read_json(path)
+    require(isinstance(supplement, dict) and type(supplement.get('schemaVersion')) is int
+            and supplement['schemaVersion'] == 1 and supplement.get('subject') == subject,
+            f'{subject}: invalid supplement document')
+    batch = supplement.get('batch')
+    require(isinstance(batch, str) and re.fullmatch(r'\d{8}', batch), f'{subject}: invalid supplement batch')
+    additions = supplement.get('questions')
+    require(isinstance(additions, list) and additions, f'{subject}: supplement questions required')
+    prefix = f'{subject}-page-practice-review{batch}-'
+    require(all(isinstance(row, dict) and isinstance(row.get('id'), str)
+                and row['id'].startswith(prefix) for row in additions),
+            f'{subject}: supplement ID must belong to its batch')
+    return [*rows, *additions]
+
 def prepare_subject(root, subject, document, *, baseline_outputs=None, require_coverage=True):
     require(subject in SUBJECTS, f'unsupported subject {subject}')
     require(document.get('schemaVersion') == 1 and document.get('subject') == subject, f'{subject}: invalid document')
-    rows = document.get('questions'); require(isinstance(rows, list), f'{subject}: questions required')
+    rows = authored_rows(root, subject, document)
     folder = folder_for(root, subject)
     notes = {n['id']: n for n in read_json(folder / 'notes.json')}
     paths = {name: folder / f'{name}.json' for name in ('questions', 'blanks', 'essays')}
@@ -68,6 +95,13 @@ def prepare_subject(root, subject, document, *, baseline_outputs=None, require_c
                     provenance=dict(origin='authored-page-practice', version=VERSION,
                       sourceStatus='transcription-unverified', topic=topic,
                       inputSha256=sha256(json.dumps(row, ensure_ascii=False, sort_keys=True).encode()).hexdigest()))
+        if row.get('corroboration'):
+            links = row['corroboration']
+            require(isinstance(links, list) and all(isinstance(link, dict) and
+                    isinstance(link.get('url'), str) and link['url'].startswith('https://') and
+                    isinstance(link.get('title'), str) and link['title'].strip() for link in links),
+                    f'{owner}: invalid corroborating sources')
+            item['corroboration'] = links
         if kind == 'cloze':
             passage = text(row.get('passage'), owner, 'passage')
             require(passage in notes[page]['text'] and passage.count(answer) == 1, f'{owner}: cloze must mask exactly one source-attested answer')

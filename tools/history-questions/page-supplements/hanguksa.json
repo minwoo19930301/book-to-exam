@@ -1,0 +1,414 @@
+{
+  "schemaVersion": 1,
+  "subject": "hanguksa",
+  "batch": "20261013",
+  "review": "AI-authored; exact selected transcription checked; no claim of fresh scan or expert verification",
+  "questions": [
+    {
+      "id": "hanguksa-page-practice-review20261013-001",
+      "page": "hanguksa-textbook-page-85",
+      "kind": "short",
+      "prompt": "고려 예종이 국학에 설치한 7재 가운데 유교 경전이 아니라 무학을 교육하던 재의 이름을 쓰시오.",
+      "answer": "강예재",
+      "acceptedAnswers": [
+        "강예",
+        "강예재(講藝齋)"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-85",
+          "quote": "국학에 7재를 두었는데"
+        },
+        {
+          "page": "hanguksa-textbook-page-85",
+          "quote": "무학(武學)을 강예(講藝)라 하였다."
+        }
+      ],
+      "explain": "예종의 관학 진흥책에서 유학 교육과 함께 운영한 무학 전문 강좌이다.",
+      "topic": "강예재"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-002",
+      "page": "hanguksa-textbook-page-85",
+      "kind": "short",
+      "prompt": "고려 과거의 문과 계열에서 유교 경전의 이해를 묻는 명경업과 구별하여 시·부·송·책·논 등의 문장 능력을 시험한 과목은?",
+      "answer": "제술업",
+      "acceptedAnswers": [
+        "제술과",
+        "제술업(製述業)"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-85",
+          "quote": "제술업(製述業) : 시·부·송·책·논 등 문학적 재능과 대책 등 시험"
+        }
+      ],
+      "explain": "경전 이해 중심의 명경업과 문장 작성 중심의 시험을 구분한다.",
+      "topic": "제술업"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-003",
+      "page": "hanguksa-textbook-page-119",
+      "kind": "short",
+      "prompt": "조선에서 관리의 품계와 실제 맡은 관직의 높낮이가 다를 때 관직명 앞에 특정 글자를 붙여 표시한 제도는?",
+      "answer": "행수법",
+      "acceptedAnswers": [
+        "행수제",
+        "행수제도"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-119",
+          "quote": "행수법 운영\n구분\n계고직비(階高職卑)\n계비직고(階卑職高)"
+        },
+        {
+          "page": "hanguksa-textbook-page-119",
+          "quote": "품계가 높은 사람이 낮은 관직에 임명"
+        },
+        {
+          "page": "hanguksa-textbook-page-119",
+          "quote": "관직 앞에 ‘행(行)’자를 붙임"
+        },
+        {
+          "page": "hanguksa-textbook-page-119",
+          "quote": "관직 앞에 ‘수(守)’자를 붙임"
+        }
+      ],
+      "explain": "품계가 관직보다 높으면 행, 낮으면 수를 붙였다. 신분별 승진 한계를 둔 한품서용과 구분한다.",
+      "topic": "행수법"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-004",
+      "page": "hanguksa-textbook-page-119",
+      "kind": "short",
+      "prompt": "조선에서 소과인 생원·진사시에 합격한 사람에게 수여하던 합격 증서를 쓰시오.",
+      "answer": "백패",
+      "acceptedAnswers": [
+        "백패(白牌)"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-119",
+          "quote": "소과(생원·진사시)"
+        },
+        {
+          "page": "hanguksa-textbook-page-119",
+          "quote": "합격자 : 백패 수여, 성균관 상재생 진학 및 문과 응시 등의 자격 부여"
+        }
+      ],
+      "explain": "문과·무과 합격자에게 준 홍패와 구별한다.",
+      "topic": "백패"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-005",
+      "page": "hanguksa-textbook-page-168",
+      "kind": "short",
+      "prompt": "호락논쟁에서 한원진을 중심으로 한 호론이 사람과 사물의 본성에 관하여 주장한 견해의 명칭은?",
+      "answer": "인물성이론",
+      "acceptedAnswers": [
+        "인물성이론(人物性異論)"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-168",
+          "quote": "호론 : 한원진 주장(주로 충청도 지역 학자 지지), 인물성이론 주장(기국 강조)"
+        }
+      ],
+      "explain": "낙론의 이간이 주장한 인물성동론과 대비된다.",
+      "topic": "인물성이론"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-006",
+      "page": "hanguksa-textbook-page-168",
+      "kind": "short",
+      "prompt": "조선에 수용된 양명학에서 아는 것과 실천하는 것을 분리할 수 없다고 보는 명제를 쓰시오.",
+      "answer": "지행합일",
+      "acceptedAnswers": [
+        "지행합일설",
+        "지행합일론"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-168",
+          "quote": "심(心) 중심 실천 강조 : 심즉리(心卽理), 치양지설(致良知說), 지행합일설(知行合一說)"
+        }
+      ],
+      "explain": "마음이 곧 이치라는 심즉리와 구별하여 앎과 실천의 관계를 묻는다.",
+      "topic": "지행합일"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-007",
+      "page": "hanguksa-textbook-page-169",
+      "kind": "short",
+      "prompt": "이익이 최소한의 생계 토지인 영업전의 매매를 금지하여 농민의 생활 기반을 보전하려 한 토지 개혁론은?",
+      "answer": "한전론",
+      "acceptedAnswers": [
+        "한전론(限田論)"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-169",
+          "quote": "한전론(限田論)\n• 영업전 설정 : 최소한의 생계 유지를 위한 토지를 설정(매매 금지)"
+        }
+      ],
+      "explain": "토지를 전면 재분배하기보다 최소한의 생계 토지를 보호하는 점진적 개혁론이다.",
+      "topic": "한전론"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-008",
+      "page": "hanguksa-textbook-page-169",
+      "kind": "short",
+      "prompt": "유수원이 사농공상 직업의 평등과 전문화, 상공업 진흥 및 대상인 육성을 주장한 저술은 무엇인가?",
+      "answer": "우서",
+      "acceptedAnswers": [
+        "우서(迂書)",
+        "『우서』"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-169",
+          "quote": "유수원(柳壽垣) 『우서(迂書)』\n㉠ 사회 개혁안 : 사농공상 직업의 평등과 전문화 주장\n㉡ 상공업 진흥 : 기술 혁신 강조, 점포 개설·대상인 육성 등을 제안"
+        }
+      ],
+      "explain": "박제가의 북학의와 구별되는 유수원의 상공업 중심 개혁 저술이다.",
+      "topic": "우서"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-009",
+      "page": "hanguksa-textbook-page-170",
+      "kind": "short",
+      "prompt": "박제가가 청의 문물 수용과 수레·선박 이용 확대를 주장하고, 소비를 우물물에 비유하여 생산 촉진을 강조한 저술은?",
+      "answer": "북학의",
+      "acceptedAnswers": [
+        "북학의(北學議)",
+        "『북학의』"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-170",
+          "quote": "박제가(朴齊家) 『북학의(北學議)』"
+        },
+        {
+          "page": "hanguksa-textbook-page-170",
+          "quote": "상업 : 수레·선박의 사용 확대, 절약보다는 소비 촉진을 통한 생산력 증진"
+        }
+      ],
+      "explain": "재화의 소비와 유통이 생산과 기술 발전을 촉진한다는 박제가의 관점을 연결한다.",
+      "topic": "북학의"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-010",
+      "page": "hanguksa-textbook-page-170",
+      "kind": "short",
+      "prompt": "홍대용이 양반의 무위도식을 비판하고 생산 활동 참여, 과거제 폐지, 토지 균등 소유 등을 주장한 글은?",
+      "answer": "임하경륜",
+      "acceptedAnswers": [
+        "임하경륜(林下經綸)",
+        "『임하경륜』"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-170",
+          "quote": "『임하경륜(林下經綸)』\n• 양반의 무위도식 비판 : 양반층의 생산 활동 종사, 과거 제도 폐지 등을 주장\n• 토지개혁안 : 농민들의 토지 균등 소유와 병농일치 주장"
+        }
+      ],
+      "explain": "우주관과 화이관을 논한 의산문답과 구별하여 사회·경제 개혁론을 묻는다.",
+      "topic": "임하경륜"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-011",
+      "page": "hanguksa-textbook-page-169",
+      "kind": "short",
+      "prompt": "정약용이 청의 기술을 도입하고 운영하는 업무를 전담하도록 새로 설치할 것을 제안한 기구는?",
+      "answer": "이용감",
+      "acceptedAnswers": [
+        "이용감(利用監)"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-169",
+          "quote": "이용감 신설 : 청의 기술 도입 및 운영을 전담하는 기구의 신설 주장"
+        }
+      ],
+      "explain": "실제로 설치되었다는 뜻이 아니라 정약용이 제안한 기술 도입 기구라는 점에 주의한다.",
+      "topic": "이용감"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-012",
+      "page": "hanguksa-textbook-page-147",
+      "kind": "short",
+      "prompt": "정조의 개인 일기에서 출발하여 규장각 각신들이 편찬하는 국정 기록으로 발전한 책은?",
+      "answer": "일성록",
+      "acceptedAnswers": [
+        "일성록(日省錄)",
+        "『일성록』"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-147",
+          "quote": "『일성록(日省錄)』 편찬 : 본래 정조의 일기 → 규장각 설치 후 각신(閣臣)이 편찬"
+        }
+      ],
+      "explain": "국왕의 일상과 국정을 기록한 자료로, 사후 편찬되는 실록과 구별된다.",
+      "topic": "일성록"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-013",
+      "page": "hanguksa-textbook-page-148",
+      "kind": "short",
+      "prompt": "정조가 왕권을 뒷받침하기 위해 육성하고 도성과 화성에 내영·외영을 둔 친위 군영의 명칭은?",
+      "answer": "장용영",
+      "acceptedAnswers": [
+        "장용영(壯勇營)"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-148",
+          "quote": "㉢ 장용영 설치"
+        },
+        {
+          "page": "hanguksa-textbook-page-148",
+          "quote": "왕의 능행·원행 직접 수행, 내·외영제 편성(도성·화성)"
+        }
+      ],
+      "explain": "도성의 내영과 화성의 외영을 구분하여 왕권 강화와 연결해 이해한다.",
+      "topic": "장용영"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-014",
+      "page": "hanguksa-textbook-page-148",
+      "kind": "short",
+      "prompt": "1791년 전라도 진산에서 윤지충의 조상 제사 거부와 신주 폐기를 계기로 일어난 천주교 박해는?",
+      "answer": "신해박해",
+      "acceptedAnswers": [
+        "진산 사건",
+        "신해사옥"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-148",
+          "quote": "신해박해(1791, 진산 사건)\n• 발단 : 천주교 신자 윤지충(전라도 진산 거주)의 조상 숭배 거부, 신주 폐기 등 발생"
+        }
+      ],
+      "explain": "1801년의 신유박해와 구별해야 한다. 진산 사건이라는 별칭도 사용한다.",
+      "topic": "신해박해"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-015",
+      "page": "hanguksa-textbook-page-150",
+      "kind": "short",
+      "prompt": "흥선대원군 집권기에 경복궁 중건 재정을 마련하려고 주조했으나 물가 폭등을 초래한 고액 화폐는?",
+      "answer": "당백전",
+      "acceptedAnswers": [
+        "당백전(當百錢)"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-150",
+          "quote": "당백전(當百錢) 주조 : 물가 폭등 초래하여 주조(1866~1867) 중단, 유통 금지(1868)"
+        }
+      ],
+      "explain": "명목 가치에 비해 실질 가치가 낮은 화폐의 발행이 물가 상승을 일으켰다.",
+      "topic": "당백전"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-016",
+      "page": "hanguksa-textbook-page-150",
+      "kind": "short",
+      "prompt": "흥선대원군 시기 사창 운영에서 면민 가운데 선출되어 환곡의 분급과 수납을 맡은 관리자를 무엇이라 하였는가?",
+      "answer": "사수",
+      "acceptedAnswers": [
+        "사수(社首)"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-150",
+          "quote": "반드시 면민 중에서 근면성실하고 넉넉한 자를 택하여 관에 보고한 뒤 뽑는다."
+        },
+        {
+          "page": "hanguksa-textbook-page-150",
+          "quote": "그를 ‘사수(社首)’라 하여 환곡을 나누어주고 수납하는 해를 맡아서 검사한다."
+        }
+      ],
+      "explain": "관이 직접 운영할 때의 폐단을 줄이려고 지역민에게 운영을 맡긴 점을 연결한다.",
+      "topic": "사수"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-017",
+      "page": "hanguksa-textbook-page-56",
+      "kind": "short",
+      "prompt": "통일신라의 동시·서시·남시에서 상품의 품질과 물가·도량형 등을 관리하던 관청을 쓰시오.",
+      "answer": "시전",
+      "acceptedAnswers": [
+        "시전(市典)",
+        "市典"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-56",
+          "quote": "시전(市典) : 상품의 품질·물가·도량형 등에 관한 관리(3대 시전)"
+        }
+      ],
+      "explain": "조선 시대의 상설 점포를 뜻하는 시전(市廛)과 한자가 다른 관청 이름이다.",
+      "topic": "시전"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-018",
+      "page": "hanguksa-textbook-page-56",
+      "kind": "short",
+      "prompt": "신라촌락문서에서 개별 가구를 바탕으로 설정하고 상상부터 하하까지 9등급으로 나누어 파악한 호 단위는?",
+      "answer": "공연",
+      "acceptedAnswers": [
+        "공연(孔煙)",
+        "孔煙"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-56",
+          "quote": "공연(孔煙) : 개별 가구 1~3개를 합하여 설정, 9등호제 구분(상상~하하)"
+        }
+      ],
+      "explain": "촌락 전체의 부담 계산에 쓰인 계연과 구별되는 호의 파악 단위이다.",
+      "topic": "공연"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-019",
+      "page": "hanguksa-textbook-page-85",
+      "kind": "short",
+      "prompt": "고려 과거에서 시험관과 그가 선발한 급제자 사이에 형성되어, 아버지와 자식에 비유될 만큼 강한 유대를 만든 관계는?",
+      "answer": "좌주 문생 관계",
+      "acceptedAnswers": [
+        "좌주문생",
+        "좌주·문생 관계",
+        "좌주-문생 관계"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-85",
+          "quote": "좌주 문생 관계\n문생이 좌주를 대할 때는 아버지와 자식 사이의 예를 차린다."
+        }
+      ],
+      "explain": "과거의 공적인 선발 과정이 사적인 인적 결합으로 이어질 수 있었음을 보여 준다.",
+      "topic": "좌주 문생 관계"
+    },
+    {
+      "id": "hanguksa-page-practice-review20261013-020",
+      "page": "hanguksa-textbook-page-79",
+      "kind": "short",
+      "prompt": "원나라가 일본 원정을 위해 설치하였고 고려 국왕이 승상을 겸하여 원 간섭의 통로로도 작용한 기구는?",
+      "answer": "정동행성",
+      "acceptedAnswers": [
+        "정동행중서성",
+        "정동행성(征東行省)"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-79",
+          "quote": "설치 : 일본 원정을 위해 설치(1280)\n• 역할 : 원과 연락 업무 담당, 수상인 승상은 고려 국왕 겸임"
+        }
+      ],
+      "explain": "특정 영토를 직접 관할한 쌍성총관부와 구별하여 원정 및 간섭 기구의 성격을 묻는다.",
+      "topic": "정동행성"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "subject": "dongyangsa",
   "examYear": 2027,
-  "asOf": "2026-10-03",
+  "asOf": "2026-10-13",
   "purpose": "공개 연구를 이용한 자료 해석 심화 연습. 실제 출제위원 명단 또는 출제확률 예측이 아님.",
   "faculty": [
     {
@@ -95,6 +95,82 @@
       "examSetterStatus": "확인되지 않음. 연구 참고 인물이며 출제위원 또는 유력 후보라는 의미가 아님.",
       "profileBibliographyCount": 8,
       "bibliographyScope": "공식 프로필 논문·외국문 논문·관련 서평 목록에 표시된 2021~2026 항목. 저서·역서 및 지도학생 실적 제외. 해당 연구자의 전체 발표 실적임을 보증하지 않음."
+    },
+    {
+      "id": "kang-jina",
+      "name": "강진아",
+      "affiliation": "한양대학교 인문과학대학 사학과",
+      "position": "교수",
+      "field": "중국현대사·비교경제사·화교사",
+      "departmentKind": "history",
+      "profileUrl": "https://history.hanyang.ac.kr/-07",
+      "officialUrls": [
+        "https://history.hanyang.ac.kr/-07"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART002566070"
+      ]
+    },
+    {
+      "id": "cho-wonhee",
+      "name": "조원희",
+      "affiliation": "연세대학교 문과대학 사학과",
+      "position": "전임교원(세부 직급 별도 미확인)",
+      "field": "중국중세사·몽골제국사",
+      "departmentKind": "history",
+      "profileUrl": "https://history.yonsei.ac.kr/histroy/faculty/f_fulltime.do",
+      "officialUrls": [
+        "https://history.yonsei.ac.kr/histroy/faculty/f_fulltime.do"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART003312332"
+      ]
+    },
+    {
+      "id": "kim-seokhwan",
+      "name": "김석환",
+      "affiliation": "서울대학교 인문대학 역사학부 동양사학전공",
+      "position": "부교수",
+      "field": "중앙아시아사",
+      "departmentKind": "history",
+      "profileUrl": "https://humanities.snu.ac.kr/academics/faculty?md=view&profidx=192",
+      "officialUrls": [
+        "https://humanities.snu.ac.kr/academics/faculty?md=view&profidx=192"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART003043973"
+      ]
+    },
+    {
+      "id": "yi-eunjeong",
+      "name": "이은정",
+      "affiliation": "서울대학교 인문대학 역사학부 동양사학전공",
+      "position": "교수",
+      "field": "오스만제국사·도시사회사",
+      "departmentKind": "history",
+      "profileUrl": "https://humanities.snu.ac.kr/academics/faculty?md=view&profidx=126",
+      "officialUrls": [
+        "https://humanities.snu.ac.kr/academics/faculty?md=view&profidx=126"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART003041899"
+      ]
     }
   ],
   "papers": [
@@ -415,6 +491,108 @@
       ],
       "caution": "KCI에서 비정규논문으로 분류. 표식·가문 대응은 가능성 수준의 해석이며 확정 정답으로 사용하지 않는다. 2026년 3월 발행 확인.",
       "coreReview": true
+    },
+    {
+      "id": "ART002566070",
+      "facultyIds": [
+        "kang-jina"
+      ],
+      "author": "강진아",
+      "title": "근대 동아시아 설탕 시장과 홍콩 제당업―상인 디아스포라는 지속 가능한가?",
+      "year": 2020,
+      "journal": "역사비평",
+      "pages": "381 - 428",
+      "doi": "10.38080/crh.2020.02.130.381",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002566070",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "자바 원당·홍콩 정제·중일 소비 시장의 지역적 협업을 추적한다. 일본의 보호주의와 대만 식민지 설탕 체계, 중국의 민족주의가 홍콩 제당업의 시장을 바꾼 과정을 검토한다.",
+      "reviewTheme": "설탕 교역망과 관세·민족주의",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": true,
+      "linkedQuestionIds": [],
+      "sourceWarnings": [
+        "2021년 이전 연구를 주제 보완용으로 선정. 최근 발표 논문으로 표시하지 않음."
+      ]
+    },
+    {
+      "id": "ART003312332",
+      "facultyIds": [
+        "cho-wonhee"
+      ],
+      "author": "조원희",
+      "title": "원대 ‘회회(回回)’ 용어의 재해석－『원전장(元典章)』의 용례를 중심으로－",
+      "year": 2026,
+      "journal": "몽골학",
+      "pages": "177 - 210",
+      "doi": "10.17292/kams.2026.84.177",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003312332",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "원전장의 회회를 무슬림과 곧바로 동일시하는 해석을 재검토한다. 병렬된 집단명과 별도로 적힌 종교 집단을 대조하여 서역 출신을 나타내는 범주의 가능성을 논증한다.",
+      "reviewTheme": "원대 회회와 제국의 분류",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": false,
+      "linkedQuestionIds": [],
+      "sourceWarnings": []
+    },
+    {
+      "id": "ART003043973",
+      "facultyIds": [
+        "kim-seokhwan"
+      ],
+      "author": "김석환",
+      "title": "카르트조를 통해 본 몽골 제국의 질서 변화와 속국 관계",
+      "year": 2023,
+      "journal": "중앙아시아연구",
+      "pages": "21 - 46",
+      "doi": "10.29174/cas.2023.28.2.002",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003043973",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "카르트조의 지배권과 귀속이 카안·여러 울루스의 역학에 따라 바뀐 과정을 검토한다. 몽골의 속국 관계를 고정된 하나의 통치 방식으로 보지 않고 교통로와 지방 권력의 역할을 함께 살핀다.",
+      "reviewTheme": "몽골의 속국과 제국 질서",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": true,
+      "linkedQuestionIds": [],
+      "sourceWarnings": []
+    },
+    {
+      "id": "ART003041899",
+      "facultyIds": [
+        "yi-eunjeong"
+      ],
+      "author": "이은정",
+      "title": "17세기 후반 예니체리 연대(oda)들의 경제활동 (1660~1700) - 연대 와크프(waqf)와 불법적 상업",
+      "year": 2023,
+      "journal": "역사학보",
+      "pages": "153 - 204",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003041899",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "1660~1700년 예니체리의 경제활동을 개인 병사뿐 아니라 연대 조직의 차원에서 살핀다. 연대 와크프의 대금업과 상업 활동, 재정 적자의 관계를 탐색하되 규모와 고위 장교 참여는 추가 검토가 필요한 문제로 둔다.",
+      "reviewTheme": "예니체리 연대와 도시 경제",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": true,
+      "linkedQuestionIds": [],
+      "sourceWarnings": []
     }
   ],
   "predictions": [
@@ -4196,6 +4374,1365 @@
       "passageProvenance": "논문 검토 기록의 요약 및 자체 구성; 논문·역사 사료의 직접 인용이 아님",
       "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
       "automaticExamEligible": false
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-001",
+      "title": "설탕의 생산·가공·소비 지도를 그리기",
+      "topic": "설탕 교역망과 관세·민족주의",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n강진아의 연구는 자바의 원당, 홍콩의 정제, 중국·일본 소비 시장을 잇는 구조를 제시한다. 식민지 원료가 반드시 지배국 본토로만 이동한다는 설명과 비교한다.\n\n1. 제시된 상품 이동의 세 단계를 쓰시오.\n2. 이 사례가 단순한 본국·식민지 도식과 다른 점을 설명하시오.\n3. 경로를 검증할 자료 두 종류를 제시하시오.",
+      "modelAnswer": "1. 자바에서 원당을 생산하고 홍콩에서 정제한다. 정제당을 중국·일본 시장에 판매한다.\n2. 생산·가공·소비가 여러 제국과 지역에 걸쳐 연결된다. 지배국 본토만을 최종 시장으로 상정할 수 없다.\n3. 항만·세관의 품목별 수출입 기록을 대조한다. 제당 회사의 원료 구입·판매 장부를 비교한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "제시된 상품 이동의 세 단계를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "자바에서 원당을 생산하고 홍콩에서 정제한다.",
+              "points": 1
+            },
+            {
+              "text": "정제당을 중국·일본 시장에 판매한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "이 사례가 단순한 본국·식민지 도식과 다른 점을 설명하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "생산·가공·소비가 여러 제국과 지역에 걸쳐 연결된다.",
+              "points": 1
+            },
+            {
+              "text": "지배국 본토만을 최종 시장으로 상정할 수 없다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "경로를 검증할 자료 두 종류를 제시하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "항만·세관의 품목별 수출입 기록을 대조한다.",
+              "points": 2
+            },
+            {
+              "text": "제당 회사의 원료 구입·판매 장부를 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002566070"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002566070",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-175"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-175",
+          "quote": "③ 무역의 운명 : 공행(公行) 폐지, 영국과 관세 협의 규정(협정관세 규정)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "개항·홍콩·불평등 무역을 상품의 구체적 이동 경로로 연결한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-002",
+      "title": "관세자주권과 제당업의 경쟁 조건",
+      "topic": "설탕 교역망과 관세·민족주의",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n초록은 일본의 관세자주권 회복과 대만 영유 후 일본·대만을 연결한 설탕 체계가 강화되고 홍콩당의 시장이 줄었다고 설명한다. 가상 해설은 이를 기술 경쟁력의 차이만으로 설명한다.\n\n1. 기술 중심 설명이 빠뜨린 제도 조건을 쓰시오.\n2. 시장 경쟁 조건을 비교할 지표 두 가지를 쓰시오.\n3. 관세 정책의 변화와 판매 감소를 연결할 검증 절차를 제시하시오.",
+      "modelAnswer": "1. 관세와 보호 정책이 시장 접근·가격을 바꿀 수 있다. 식민지 원료 공급 체계도 경쟁 조건이다.\n2. 관세·보조금 반영 전후의 가격을 비교한다. 원료 공급·운송 비용과 시장별 판매량을 비교한다.\n3. 정책 시행 시점 전후를 같은 품목으로 비교한다. 수요·생산비 등 동시기 변화도 통제한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "기술 중심 설명이 빠뜨린 제도 조건을 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "관세와 보호 정책이 시장 접근·가격을 바꿀 수 있다.",
+              "points": 1
+            },
+            {
+              "text": "식민지 원료 공급 체계도 경쟁 조건이다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "시장 경쟁 조건을 비교할 지표 두 가지를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "관세·보조금 반영 전후의 가격을 비교한다.",
+              "points": 1
+            },
+            {
+              "text": "원료 공급·운송 비용과 시장별 판매량을 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "관세 정책의 변화와 판매 감소를 연결할 검증 절차를 제시하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "정책 시행 시점 전후를 같은 품목으로 비교한다.",
+              "points": 2
+            },
+            {
+              "text": "수요·생산비 등 동시기 변화도 통제한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002566070"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002566070",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-175"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-175",
+          "quote": "③ 무역의 운명 : 공행(公行) 폐지, 영국과 관세 협의 규정(협정관세 규정)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "관세자주권을 추상 권리에서 산업·시장 작동의 문제로 확장한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-003",
+      "title": "1925년 민족주의와 홍콩의 중국 시장",
+      "topic": "설탕 교역망과 관세·민족주의",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n연구는 1925년을 계기로 고조된 중국 민족주의가 홍콩 제당업의 중국 시장에 타격을 주었다고 본다. 가상 상점 기록에는 특정 상품의 판매 감소만 남아 있다.\n\n1. 판매 감소만으로 불매운동의 효과를 확정하기 어려운 이유를 쓰시오.\n2. 민족주의와 소비 선택을 연결할 자료 두 가지를 제시하시오.\n3. 상인 디아스포라의 지속을 국적만으로 설명하는 한계를 쓰시오.",
+      "modelAnswer": "1. 가격·공급 중단·경쟁 상품 등 다른 원인이 있을 수 있다. 운동 참가와 실제 구매를 따로 확인해야 한다.\n2. 불매 호소·상인 회의 기록을 확인한다. 품목별 판매와 수입의 전후 변화를 대조한다.\n3. 상인의 네트워크도 국가 정책·운송·시장 접근에 영향을 받는다. 초국적 활동을 정치적 경계로부터 완전히 자유로운 것으로 볼 수 없다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "판매 감소만으로 불매운동의 효과를 확정하기 어려운 이유를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "가격·공급 중단·경쟁 상품 등 다른 원인이 있을 수 있다.",
+              "points": 1
+            },
+            {
+              "text": "운동 참가와 실제 구매를 따로 확인해야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "민족주의와 소비 선택을 연결할 자료 두 가지를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "불매 호소·상인 회의 기록을 확인한다.",
+              "points": 1
+            },
+            {
+              "text": "품목별 판매와 수입의 전후 변화를 대조한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "상인 디아스포라의 지속을 국적만으로 설명하는 한계를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "상인의 네트워크도 국가 정책·운송·시장 접근에 영향을 받는다.",
+              "points": 2
+            },
+            {
+              "text": "초국적 활동을 정치적 경계로부터 완전히 자유로운 것으로 볼 수 없다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002566070"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002566070",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-205"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-205",
+          "quote": "• 확산 : 불평등 조약 철폐와 사태 해결 요구하며 전국적으로 시위·파업 확산"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "5·30운동의 반제국주의를 무역과 소비 행위의 자료로 읽는다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-004",
+      "title": "원전장의 회회를 문맥으로 분류하기",
+      "topic": "원대 회회와 제국의 분류",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n조원희는 원전장의 회회가 지리·집단 출신을 가리키는 범주로 쓰였다고 해석한다. 가상 분석표에는 회회가 몽골·위구르 등과 함께 적히고 종교 종무자는 다른 칸에 나온다.\n\n1. 병렬된 명칭이 용어 해석에 주는 단서를 쓰시오.\n2. 회회를 항상 무슬림으로 번역할 때의 문제를 쓰시오.\n3. 가설을 점검하기 위한 반례 조사 방법을 제시하시오.",
+      "modelAnswer": "1. 함께 분류된 항목은 분류 기준의 성격을 추정하게 한다. 출신 집단과 종교 역할의 구별 가능성을 보여 준다.\n2. 문맥의 지리적·사회적 범위를 종교 하나로 축소할 수 있다. 서로 다른 종교 집단을 포괄한 용례를 놓칠 수 있다.\n3. 회회가 종교명과 겹치거나 대조되는 모든 용례를 찾는다. 불일치 사례를 버리지 않고 시기·문서 기능별로 비교한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "병렬된 명칭이 용어 해석에 주는 단서를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "함께 분류된 항목은 분류 기준의 성격을 추정하게 한다.",
+              "points": 1
+            },
+            {
+              "text": "출신 집단과 종교 역할의 구별 가능성을 보여 준다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "회회를 항상 무슬림으로 번역할 때의 문제를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "문맥의 지리적·사회적 범위를 종교 하나로 축소할 수 있다.",
+              "points": 1
+            },
+            {
+              "text": "서로 다른 종교 집단을 포괄한 용례를 놓칠 수 있다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "가설을 점검하기 위한 반례 조사 방법을 제시하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "회회가 종교명과 겹치거나 대조되는 모든 용례를 찾는다.",
+              "points": 2
+            },
+            {
+              "text": "불일치 사례를 버리지 않고 시기·문서 기능별로 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003312332"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003312332",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-136"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-136",
+          "quote": "③ 한인 : 금의 지배 아래 있던 여진·거란·한족, 고려인 등"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "원대의 집단 분류를 사료 용어와 현대 범주의 차이로 분석한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-005",
+      "title": "종교정책인가 출신 집단에 대한 정책인가",
+      "topic": "원대 회회와 제국의 분류",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n논문은 회회의 의미를 다시 읽으면 일부 조치를 종교정책만으로 분류하기 어렵다고 본다. 가상 연구자는 대상 집단 명칭만 보고 모든 조치를 종교 박해로 정리했다.\n\n1. 정책 대상과 정책 목적을 구별하시오.\n2. 정책 성격을 확인할 조문 정보 두 가지를 쓰시오.\n3. 종교적 영향과 다른 행정 목적이 함께 있을 가능성을 설명하시오.",
+      "modelAnswer": "1. 누구에게 적용했는지와 왜 시행했는지는 별개다. 집단명만으로 종교적 의도를 확정할 수 없다.\n2. 금지·면제의 구체 내용과 예외를 확인한다. 동일 조치의 다른 적용 집단과 시행 맥락을 비교한다.\n3. 행정적 분류가 특정 신앙 집단의 생활에 영향을 줄 수 있다. 실제 영향과 입법 목적을 나누어 복수 자료로 평가한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "정책 대상과 정책 목적을 구별하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "누구에게 적용했는지와 왜 시행했는지는 별개다.",
+              "points": 1
+            },
+            {
+              "text": "집단명만으로 종교적 의도를 확정할 수 없다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "정책 성격을 확인할 조문 정보 두 가지를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "금지·면제의 구체 내용과 예외를 확인한다.",
+              "points": 1
+            },
+            {
+              "text": "동일 조치의 다른 적용 집단과 시행 맥락을 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "종교적 영향과 다른 행정 목적이 함께 있을 가능성을 설명하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "행정적 분류가 특정 신앙 집단의 생활에 영향을 줄 수 있다.",
+              "points": 2
+            },
+            {
+              "text": "실제 영향과 입법 목적을 나누어 복수 자료로 평가한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003312332"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003312332",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-136"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-136",
+          "quote": "③ 한인 : 금의 지배 아래 있던 여진·거란·한족, 고려인 등"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "몽골제국의 지배를 집단명 암기에서 정책 대상·목적의 구별로 확장한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-006",
+      "title": "용어 전수 조사와 제국 전체 일반화의 경계",
+      "topic": "원대 회회와 제국의 분류",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n초록은 원전장의 회회 용례를 전수 조사했다고 밝힌다. 가상 학생은 이것이 몽골제국의 모든 언어·지역에서 회회의 의미가 동일했다는 증거라고 주장한다.\n\n1. 이 연구에서 전수의 조사 범위를 쓰시오.\n2. 다른 언어 자료와 비교할 때 확인할 조건 두 가지를 쓰시오.\n3. 한 문헌에서 확인한 해석을 확장하는 절차를 제시하시오.",
+      "modelAnswer": "1. 원전장이라는 특정 사료 안의 용례 전체다. 몽골제국의 모든 기록을 포함한다는 뜻은 아니다.\n2. 번역 대응어와 문서 작성 시기·기관을 맞춘다. 용어가 사용된 법적·사회적 기능을 비교한다.\n3. 다른 법전·언어·지역 자료에서 독립적으로 용례를 조사한다. 차이를 기록한 뒤 적용 가능한 범위를 한정한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "이 연구에서 전수의 조사 범위를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "원전장이라는 특정 사료 안의 용례 전체다.",
+              "points": 1
+            },
+            {
+              "text": "몽골제국의 모든 기록을 포함한다는 뜻은 아니다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "다른 언어 자료와 비교할 때 확인할 조건 두 가지를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "번역 대응어와 문서 작성 시기·기관을 맞춘다.",
+              "points": 1
+            },
+            {
+              "text": "용어가 사용된 법적·사회적 기능을 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "한 문헌에서 확인한 해석을 확장하는 절차를 제시하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "다른 법전·언어·지역 자료에서 독립적으로 용례를 조사한다.",
+              "points": 2
+            },
+            {
+              "text": "차이를 기록한 뒤 적용 가능한 범위를 한정한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003312332"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003312332",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-136"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-136",
+          "quote": "③ 한인 : 금의 지배 아래 있던 여진·거란·한족, 고려인 등"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "사료 전수 조사와 역사 전체의 일반화가 다른 것임을 평가한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-007",
+      "title": "카르트조의 귀속 변화와 몽골의 질서",
+      "topic": "몽골의 속국과 제국 질서",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n김석환은 카르트조의 관계가 카안 중심에서 훌레구 울루스 중심으로 바뀌었다고 설명한다. 가상 지도는 전체 시기를 단일한 몽골 지배 영역으로만 칠했다.\n\n1. 카르트조의 귀속 관계가 어떻게 바뀌었는지 카안과 울루스를 구별하여 쓰시오.\n2. 귀속 변화를 확인할 문서 지표 두 가지를 쓰시오.\n3. 제국의 분열과 연결의 지속을 함께 설명하시오.",
+      "modelAnswer": "1. 초기에는 카안의 지배권 승인과 보호를 받는 관계로 설명된다. 몽골의 권력 재편 뒤에는 훌레구 울루스의 속국이 되어 복속 상대가 달라졌다.\n2. 명령문 발급자와 충성·공납의 상대를 추적한다. 지배권 승인·군사 지원의 주체를 비교한다.\n3. 여러 울루스가 경쟁하며 귀속 구조는 달라질 수 있다. 기존 속국 관계를 차지하려는 경쟁은 관계망의 지속도 보여 준다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "카르트조의 귀속 관계가 어떻게 바뀌었는지 카안과 울루스를 구별하여 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "초기에는 카안의 지배권 승인과 보호를 받는 관계로 설명된다.",
+              "points": 1
+            },
+            {
+              "text": "몽골의 권력 재편 뒤에는 훌레구 울루스의 속국이 되어 복속 상대가 달라졌다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "귀속 변화를 확인할 문서 지표 두 가지를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "명령문 발급자와 충성·공납의 상대를 추적한다.",
+              "points": 1
+            },
+            {
+              "text": "지배권 승인·군사 지원의 주체를 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "제국의 분열과 연결의 지속을 함께 설명하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "여러 울루스가 경쟁하며 귀속 구조는 달라질 수 있다.",
+              "points": 2
+            },
+            {
+              "text": "기존 속국 관계를 차지하려는 경쟁은 관계망의 지속도 보여 준다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003043973"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003043973",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-133"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-133",
+          "quote": "- 기존의 설명 : 몽골 제국의 분열(대몽골 울루스, 킵차크 한국, 차가타이 한국, 일 한국, 원제국)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "몽골제국의 분열을 단절만이 아니라 귀속 관계의 재편으로 본다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-008",
+      "title": "기존 왕조와 새로 지원한 세력의 속국화 비교",
+      "topic": "몽골의 속국과 제국 질서",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n논문은 기존 통치자의 복속을 인정하는 방식과 우호적인 소규모 세력에 넓은 지배권을 부여하는 방식을 구별한다. 이를 같은 형태의 직접 통치로 설명하려 한다.\n\n1. 두 방식에서 지방 통치 권력의 출발 조건을 비교하시오.\n2. 간접 통치와 직접 통치를 판별할 질문 두 가지를 쓰시오.\n3. 지배권 보장과 자율성을 동일시할 수 없는 이유를 쓰시오.",
+      "modelAnswer": "1. 기존 권력의 승인은 이미 가진 통치 기반을 전제로 한다. 우호 세력의 확대는 제국의 지원으로 권역을 키우는 방식이다.\n2. 누가 지방 관리·군사·재정을 실제 운용하는지 묻는다. 제국 권력이 어떤 명령·감독 권한을 행사하는지 확인한다.\n3. 보장에도 복속 의무와 외부 지원에 대한 의존이 따를 수 있다. 현지 지배의 존속과 완전한 독립은 다르다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "두 방식에서 지방 통치 권력의 출발 조건을 비교하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "기존 권력의 승인은 이미 가진 통치 기반을 전제로 한다.",
+              "points": 1
+            },
+            {
+              "text": "우호 세력의 확대는 제국의 지원으로 권역을 키우는 방식이다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "간접 통치와 직접 통치를 판별할 질문 두 가지를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "누가 지방 관리·군사·재정을 실제 운용하는지 묻는다.",
+              "points": 1
+            },
+            {
+              "text": "제국 권력이 어떤 명령·감독 권한을 행사하는지 확인한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "지배권 보장과 자율성을 동일시할 수 없는 이유를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "보장에도 복속 의무와 외부 지원에 대한 의존이 따를 수 있다.",
+              "points": 2
+            },
+            {
+              "text": "현지 지배의 존속과 완전한 독립은 다르다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003043973"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003043973",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-133"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-133",
+          "quote": "- 기존의 설명 : 몽골 제국의 분열(대몽골 울루스, 킵차크 한국, 차가타이 한국, 일 한국, 원제국)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "몽골의 다양한 복속 관계를 통치 권한의 배분으로 비교한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-009",
+      "title": "교통의 요충지와 속국 경쟁",
+      "topic": "몽골의 속국과 제국 질서",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n초록은 카르트조 지역이 이란·중앙아시아·인도로 연결되는 요충지였음을 강조한다. 가상 학생은 지도상의 중심 위치만으로 모든 울루스의 전쟁 원인을 설명했다.\n\n1. 입지 조건과 정치적 행동의 직접 원인을 구별하시오.\n2. 입지의 실제 활용을 확인할 자료 두 가지를 쓰시오.\n3. 울루스별 관심이 같았는지 비교할 기준을 제시하시오.",
+      "modelAnswer": "1. 요충지는 전략적 가치의 조건이다. 특정 전쟁의 시점과 선택은 별도 증거가 필요하다.\n2. 이동로·통상·세수 관련 기록을 확인한다. 군대 배치와 원정의 실제 경로를 대조한다.\n3. 각 울루스의 인접 세력·교역 방향·군사적 위협을 비교한다. 공통 지역이라도 시기와 이해관계에 따라 목적이 달랐는지 살핀다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "입지 조건과 정치적 행동의 직접 원인을 구별하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "요충지는 전략적 가치의 조건이다.",
+              "points": 1
+            },
+            {
+              "text": "특정 전쟁의 시점과 선택은 별도 증거가 필요하다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "입지의 실제 활용을 확인할 자료 두 가지를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "이동로·통상·세수 관련 기록을 확인한다.",
+              "points": 1
+            },
+            {
+              "text": "군대 배치와 원정의 실제 경로를 대조한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "울루스별 관심이 같았는지 비교할 기준을 제시하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "각 울루스의 인접 세력·교역 방향·군사적 위협을 비교한다.",
+              "points": 2
+            },
+            {
+              "text": "공통 지역이라도 시기와 이해관계에 따라 목적이 달랐는지 살핀다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003043973"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003043973",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "dongyangsa-textbook-page-133"
+      ],
+      "evidence": [
+        {
+          "page": "dongyangsa-textbook-page-133",
+          "quote": "- 기존의 설명 : 몽골 제국의 분열(대몽골 울루스, 킵차크 한국, 차가타이 한국, 일 한국, 원제국)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "제국의 공간 구조를 지리 결정론 없이 군사·경제 관계로 분석한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-010",
+      "title": "예니체리의 연대 조직과 와크프의 경제적 기능",
+      "topic": "예니체리 연대와 도시 경제",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n이은정은 1660~1700년 예니체리의 경제활동을 개인의 부업만이 아닌 연대 조직으로 분석한다. 초록은 연대의 현금 와크프를 통한 대금업, 커피 등 고수익 상품 거래, 국가 재정 적자와 연대 자구책의 가능성을 제시한다.\n\n1. 개인 병사의 상업과 연대 조직의 경제활동을 구별하시오.\n2. 연대 와크프의 활동과 상업 수익의 관계를 설명하시오.\n3. 국가 재정과 연대 경제를 연결하는 설명의 의미와 한계를 쓰시오.",
+      "modelAnswer": "1. 개인 부업은 병사 개인의 소득 활동이다. 연대 경제는 공동 자산의 관리와 조직의 수입·지출을 분석한다.\n2. 현금 와크프가 돈을 빌려 주고 수입을 얻는 활동이 제시된다. 상업에서 얻은 이익이 와크프 수입에 더해질 수 있었다.\n3. 만성 재정 적자 속에서 연대의 경제적 자구책이 필요했을 가능성을 검토한다. 이 가능성을 모든 연대·시기의 유일한 원인으로 확정하지 않고 자료로 대조해야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "개인 병사의 상업과 연대 조직의 경제활동을 구별하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "개인 부업은 병사 개인의 소득 활동이다.",
+              "points": 1
+            },
+            {
+              "text": "연대 경제는 공동 자산의 관리와 조직의 수입·지출을 분석한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "연대 와크프의 활동과 상업 수익의 관계를 설명하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "현금 와크프가 돈을 빌려 주고 수입을 얻는 활동이 제시된다.",
+              "points": 1
+            },
+            {
+              "text": "상업에서 얻은 이익이 와크프 수입에 더해질 수 있었다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "국가 재정과 연대 경제를 연결하는 설명의 의미와 한계를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "만성 재정 적자 속에서 연대의 경제적 자구책이 필요했을 가능성을 검토한다.",
+              "points": 2
+            },
+            {
+              "text": "이 가능성을 모든 연대·시기의 유일한 원인으로 확정하지 않고 자료로 대조해야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003041899"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003041899",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [],
+      "evidence": [],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "오스만 군사조직을 도시경제와 연결하는 심화 과제다. 동양사 교재에서 직접 대응 쪽은 확인하지 못했다.",
+          "직접 대응하는 교재 근거는 확인하지 못해 sourcePages와 evidence를 비워 두었다. 공개 논문 초록의 관점을 제시한 심화 적용 과제다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-011",
+      "title": "재정 적자와 연대 자구책의 인과 검증",
+      "topic": "예니체리 연대와 도시 경제",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n초록은 정부의 만성 적자 속에서 예니체리 연대가 경제적으로 자구책을 모색했을 가능성을 말한다. 가상 해설은 적자가 모든 연대 상업활동의 유일한 원인이라고 썼다.\n\n1. 가능성 제시와 확정된 인과를 구별하시오.\n2. 재정 압박과 연대 활동의 연결을 확인할 시계열 자료를 쓰시오.\n3. 원인 비교를 위한 대조 집단과 고려할 차이를 쓰시오.",
+      "modelAnswer": "1. 초록의 제안은 검증할 설명이며 필연적 법칙이 아니다. 다른 유인과 연대별 차이를 배제하지 않는다.\n2. 급료·국고 지급의 변동과 연대 수입의 시점을 대조한다. 지급 지연을 언급한 청원·회계 문서를 확인한다.\n3. 서로 다른 재정 압박을 받은 연대를 비교한다. 입지·지휘관·기존 자산의 차이를 함께 고려한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "가능성 제시와 확정된 인과를 구별하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "초록의 제안은 검증할 설명이며 필연적 법칙이 아니다.",
+              "points": 1
+            },
+            {
+              "text": "다른 유인과 연대별 차이를 배제하지 않는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "재정 압박과 연대 활동의 연결을 확인할 시계열 자료를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "급료·국고 지급의 변동과 연대 수입의 시점을 대조한다.",
+              "points": 1
+            },
+            {
+              "text": "지급 지연을 언급한 청원·회계 문서를 확인한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "원인 비교를 위한 대조 집단과 고려할 차이를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "서로 다른 재정 압박을 받은 연대를 비교한다.",
+              "points": 2
+            },
+            {
+              "text": "입지·지휘관·기존 자산의 차이를 함께 고려한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003041899"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003041899",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [],
+      "evidence": [],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "군사재정과 경제활동의 인과를 연구의 유보 수준에 맞추어 평가한다.",
+          "직접 대응하는 교재 근거는 확인하지 못해 sourcePages와 evidence를 비워 두었다. 공개 논문 초록의 관점을 제시한 심화 적용 과제다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "dongyangsa-research-history-20261013-012",
+      "title": "금지 칙령으로 상업의 규모를 알 수 있는가",
+      "topic": "예니체리 연대와 도시 경제",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n논문은 법정 기록과 중앙의 칙령을 활용해 연대의 상업활동을 탐색한다. 가상 금지 명령이 발견되자 학생은 모든 연대가 같은 규모로 불법 거래를 했다고 정리했다.\n\n1. 금지 명령이 보여 주는 것과 보여 주지 못하는 것을 쓰시오.\n2. 실제 거래의 주체·규모를 확인할 자료를 제시하시오.\n3. 명령의 반복을 해석할 대안 두 가지를 쓰시오.",
+      "modelAnswer": "1. 정부가 통제하려 한 행위·관심을 보여 준다. 실제 참여자 전체와 거래 규모를 직접 측정하지는 못한다.\n2. 법정의 당사자·거래액 기록을 대조한다. 연대 회계·채권·시장 기록에서 실제 거래를 확인한다.\n3. 행위의 지속과 집행의 어려움을 뜻할 수 있다. 행정 관행이나 반복 공포의 형식일 수도 있어 작성 맥락을 확인한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "금지 명령이 보여 주는 것과 보여 주지 못하는 것을 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "정부가 통제하려 한 행위·관심을 보여 준다.",
+              "points": 1
+            },
+            {
+              "text": "실제 참여자 전체와 거래 규모를 직접 측정하지는 못한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "실제 거래의 주체·규모를 확인할 자료를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "법정의 당사자·거래액 기록을 대조한다.",
+              "points": 1
+            },
+            {
+              "text": "연대 회계·채권·시장 기록에서 실제 거래를 확인한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "명령의 반복을 해석할 대안 두 가지를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "행위의 지속과 집행의 어려움을 뜻할 수 있다.",
+              "points": 2
+            },
+            {
+              "text": "행정 관행이나 반복 공포의 형식일 수도 있어 작성 맥락을 확인한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003041899"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003041899",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [],
+      "evidence": [],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "법령과 실제 관행을 구별하는 역사적 자료 비판의 연습이다.",
+          "직접 대응하는 교재 근거는 확인하지 못해 sourcePages와 evidence를 비워 두었다. 공개 논문 초록의 관점을 제시한 심화 적용 과제다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
     }
   ],
   "academySources": [
@@ -4213,12 +5750,12 @@
   ],
   "bibliographyFile": "knowledge/prediction-research/dongyangsa-bibliography.json",
   "coverage": {
-    "facultyCount": 7,
+    "facultyCount": 11,
     "profileBibliographyItems": 62,
-    "abstractReviews": 15,
+    "abstractReviews": 19,
     "fullTextExcerptReviews": 1,
     "fullTextReviews": 0,
-    "researchPracticeEssays": 6,
+    "researchPracticeEssays": 42,
     "scope": "선정 7명의 지정 공식 프로필에 공개된 2021~2026 목록 전수 수집. 저서·역서·지도학생 성과 제외. 서평·발표문·기고 등은 유형으로 구분. 프로필 밖 미등재 실적은 전수라고 주장하지 않음.",
     "limitations": [
       "일부 공식 프로필은 월·권호·페이지가 없거나 오류가 있다. 원문 표기를 보존했다.",
@@ -4234,6 +5771,16 @@
     "added": 24,
     "total": 30,
     "method": "논문 검토 기록과 교재 정확 인용에 근거한 개별 집필; 초록만 읽은 연구는 제시문 관점의 적용 과제로 한정",
+    "officialProbability": false
+  },
+  "historyFacultyExpansion": {
+    "date": "2026-10-13",
+    "preservedPredictions": 30,
+    "addedFaculty": 4,
+    "addedPapers": 4,
+    "addedPredictions": 12,
+    "totalPredictions": 42,
+    "scope": "일반 역사학부·사학과·역사콘텐츠전공의 공식 현직 소속과 선정 논문을 확인. 새 논문은 모두 초록 전체 검토이며 전문 정독은 0편. 전체 업적 전수 조사 아님.",
     "officialProbability": false
   }
 }

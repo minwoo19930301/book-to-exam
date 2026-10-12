@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "subject": "seoyangsa",
   "targetExam": "2027학년도 중등 역사 임용",
-  "asOf": "2026-10-03",
+  "asOf": "2026-10-13",
   "scope": {
     "publicationYears": [
       2021,
@@ -150,6 +150,82 @@
         "parkgu-2023-spain-review",
         "ART003021648",
         "ART002861968"
+      ]
+    },
+    {
+      "id": "jang-moonseok",
+      "name": "장문석",
+      "affiliation": "서울대학교 인문대학 역사학부 서양사학전공",
+      "position": "교수",
+      "field": "이탈리아사·유럽현대사",
+      "departmentKind": "history",
+      "profileUrl": "https://humanities.snu.ac.kr/academics/faculty?deptidx=11&md=view&profidx=134",
+      "officialUrls": [
+        "https://humanities.snu.ac.kr/academics/faculty?deptidx=11&md=view&profidx=134"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART003060686"
+      ]
+    },
+    {
+      "id": "lee-hyemin",
+      "name": "이혜민",
+      "affiliation": "연세대학교 문과대학 사학과",
+      "position": "전임교원(세부 직급 별도 미확인)",
+      "field": "서양중세사",
+      "departmentKind": "history",
+      "profileUrl": "https://history.yonsei.ac.kr/histroy/faculty/f_fulltime.do",
+      "officialUrls": [
+        "https://history.yonsei.ac.kr/histroy/faculty/f_fulltime.do"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART003120133"
+      ]
+    },
+    {
+      "id": "lyu-hansu",
+      "name": "류한수",
+      "affiliation": "상명대학교 인문사회과학대학 역사콘텐츠전공",
+      "position": "교수",
+      "field": "러시아현대사",
+      "departmentKind": "history",
+      "profileUrl": "https://futureedu.smu.ac.kr/history/faculty/faculty.do?empNo=10129827&mode=view&pager.offset=0&pagerLimit=20",
+      "officialUrls": [
+        "https://futureedu.smu.ac.kr/history/faculty/faculty.do?empNo=10129827&mode=view&pager.offset=0&pagerLimit=20"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART002942795"
+      ]
+    },
+    {
+      "id": "park-jinbin",
+      "name": "박진빈",
+      "affiliation": "경희대학교 문과대학 사학과",
+      "position": "교수",
+      "field": "미국사",
+      "departmentKind": "history",
+      "profileUrl": "https://com.khu.ac.kr/history/user/bbs/BMSR00047/list.do?menuNo=16100061",
+      "officialUrls": [
+        "https://com.khu.ac.kr/history/user/bbs/BMSR00047/list.do?menuNo=16100061"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART002303926"
       ]
     }
   ],
@@ -1047,6 +1123,108 @@
       ],
       "connectionType": "adjacent",
       "caution": "원주민의 능동성을 인정하는 것이 정복의 폭력·강제성이나 전염병의 영향을 부정하는 것은 아니다."
+    },
+    {
+      "id": "ART003060686",
+      "facultyIds": [
+        "jang-moonseok"
+      ],
+      "author": "장문석",
+      "title": "이탈리아 파시즘과 코포라티즘 - 이념, 실제, 효과 -",
+      "year": 2024,
+      "journal": "대구사학",
+      "pages": "287 - 330",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003060686",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "전간기 이탈리아의 코포라티즘을 선언된 이념과 제도 운영, 국내외 영향으로 나누어 검토한다. 조직이 없던 이념 논의 단계와 조직 형성 뒤의 운영을 구별한다.",
+      "reviewTheme": "코포라티즘의 이념·제도·효과",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": true,
+      "linkedQuestionIds": [],
+      "sourceWarnings": []
+    },
+    {
+      "id": "ART003120133",
+      "facultyIds": [
+        "lee-hyemin"
+      ],
+      "author": "이혜민",
+      "title": "십자군 시기 환경사 연구의 제문제",
+      "year": 2024,
+      "journal": "서양중세사연구",
+      "pages": "63 - 94",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003120133",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "1090년대~1180년대 중반의 십자군을 환경 변화, 레반트 지진 기록, 아크라의 과밀·오염으로 검토한다. 온난화·팽창설과 단기 생태 위기설을 질문으로 제시하며 지진사와 감정사의 연결을 제안한다.",
+      "reviewTheme": "십자군과 환경·재난",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": false,
+      "linkedQuestionIds": [],
+      "sourceWarnings": []
+    },
+    {
+      "id": "ART002942795",
+      "facultyIds": [
+        "lyu-hansu"
+      ],
+      "author": "류한수",
+      "title": "무기대여법은 소비에트 연방의 승리에 얼마나 이바지했는가? - 제2차 세계대전 시기 미국의 대(對)소련 군수물자 원조를 둘러싼 쟁점과 역사서술의 동향 -",
+      "year": 2023,
+      "journal": "슬라브硏究",
+      "pages": "81 - 119",
+      "doi": "10.17840/irsprs.2023.39.1.003",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002942795",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "미국의 대소련 무기대여 원조에 대한 평가가 전시 동맹, 냉전, 소련 해체 이후에 어떻게 달라졌는지 정리한다. 원조의 중요성과 승리의 결정적 원인이라는 주장을 구별한다.",
+      "reviewTheme": "전시 원조와 냉전의 역사서술",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": false,
+      "linkedQuestionIds": [],
+      "sourceWarnings": []
+    },
+    {
+      "id": "ART002303926",
+      "facultyIds": [
+        "park-jinbin"
+      ],
+      "author": "박진빈",
+      "title": "터스키기 실험 사건의 역사적 기원-미국 공중보건의 딜레마-",
+      "year": 2017,
+      "journal": "의사학",
+      "pages": "545 - 576",
+      "doi": null,
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002303926",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "터스키기 연구의 배경을 군사적 보건 조직, 제국주의와 우생학의 인종 관념, 흑인에 대한 차별의 결합으로 설명한다. 피해자에게 질병을 알리지 않고 치료를 제공하지 않은 연구의 역사적 조건을 검토한다.",
+      "reviewTheme": "미국 공중보건과 인종·제국",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": false,
+      "linkedQuestionIds": [],
+      "sourceWarnings": [
+        "2021년 이전 연구를 주제 보완용으로 선정. 최근 발표 논문으로 표시하지 않음."
+      ]
     }
   ],
   "predictions": [
@@ -4470,17 +4648,1376 @@
       "passageProvenance": "논문 검토 기록의 요약 및 자체 구성; 논문·역사 사료의 직접 인용이 아님",
       "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
       "automaticExamEligible": false
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-001",
+      "title": "코포라티즘의 두 단계와 파시즘의 정당화",
+      "topic": "코포라티즘의 이념·제도·효과",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n논문은 전간기 이탈리아 코포라티즘에서 이념이 먼저 논의된 단계와 코포레이션이 형성된 뒤의 제도 운영을 구별한다. 연구는 이를 단순한 허풍으로만 보지 않고 정권의 정당화와 실제 효과를 함께 검토한다.\n\n1. 코포라티즘의 이념과 코포레이션의 조직을 구별하시오.\n2. 두 단계의 차이를 이념·제도의 관계로 설명하시오.\n3. 코포라티즘의 정당화 기능과 실제 성과를 평가할 때 구별할 점을 쓰시오.",
+      "modelAnswer": "1. 코포라티즘은 사회·경제의 조직에 관한 구상·이념이다. 코포레이션은 그 구상을 구현하려는 구체적 조직이다.\n2. 처음에는 조직 없이 이념을 천명하고 논쟁하는 국면이 있었다. 조직 형성 이후에는 선언된 이상과 다른 현실적 관행의 문제를 살펴야 한다.\n3. 새 사회·경제 질서를 제시하는 이념은 파시즘의 정당화에 사용될 수 있다. 그 명분과 운영의 효과를 구별하며, 간극이 있다고 모든 효과가 없었다고 단정하지 않는다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "코포라티즘의 이념과 코포레이션의 조직을 구별하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "코포라티즘은 사회·경제의 조직에 관한 구상·이념이다.",
+              "points": 1
+            },
+            {
+              "text": "코포레이션은 그 구상을 구현하려는 구체적 조직이다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "두 단계의 차이를 이념·제도의 관계로 설명하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "처음에는 조직 없이 이념을 천명하고 논쟁하는 국면이 있었다.",
+              "points": 1
+            },
+            {
+              "text": "조직 형성 이후에는 선언된 이상과 다른 현실적 관행의 문제를 살펴야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "코포라티즘의 정당화 기능과 실제 성과를 평가할 때 구별할 점을 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "새 사회·경제 질서를 제시하는 이념은 파시즘의 정당화에 사용될 수 있다.",
+              "points": 2
+            },
+            {
+              "text": "그 명분과 운영의 효과를 구별하며, 간극이 있다고 모든 효과가 없었다고 단정하지 않는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003060686"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003060686",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-235"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-235",
+          "quote": "③ 파시스트 입법(1925), 1당 독재(1926). 언론·출판·집회 자유 탄압, 반대 정당 불법화"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "파시즘의 국가주의를 정책 문서와 운영 기록의 대조로 확장한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-002",
+      "title": "파시즘의 국제적 수용 경로 조사하기",
+      "topic": "코포라티즘의 이념·제도·효과",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n연구는 이탈리아 코포라티즘의 국외 영향에도 주목한다. 가상 국가 X에서 이탈리아의 제도를 소개한 번역서와 비슷한 이름의 협의 조직이 발견되었다.\n\n1. 번역서 발견이 보여 주는 범위와 보여 주지 못하는 범위를 쓰시오.\n2. 제도 수용을 확인하기 위한 인적 경로와 문서 경로를 각각 제시하시오.\n3. X의 조직을 이탈리아와 비교할 기준 두 가지를 쓰시오.",
+      "modelAnswer": "1. 해당 지식이 유통되었음을 확인할 수 있다. 번역서만으로 정책 채택의 원인을 확정할 수 없다.\n2. 방문·서신·정책 담당자의 교류를 조사한다. 법안 초안·회의록의 인용과 수정 과정을 추적한다.\n3. 대표 구성과 국가의 통제 권한을 비교한다. 국내 노동 관계와 조직의 실제 기능을 비교한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "번역서 발견이 보여 주는 범위와 보여 주지 못하는 범위를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "해당 지식이 유통되었음을 확인할 수 있다.",
+              "points": 1
+            },
+            {
+              "text": "번역서만으로 정책 채택의 원인을 확정할 수 없다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "제도 수용을 확인하기 위한 인적 경로와 문서 경로를 각각 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "방문·서신·정책 담당자의 교류를 조사한다.",
+              "points": 1
+            },
+            {
+              "text": "법안 초안·회의록의 인용과 수정 과정을 추적한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "X의 조직을 이탈리아와 비교할 기준 두 가지를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "대표 구성과 국가의 통제 권한을 비교한다.",
+              "points": 2
+            },
+            {
+              "text": "국내 노동 관계와 조직의 실제 기능을 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003060686"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003060686",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-235"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-235",
+          "quote": "② 군국주의·팽창주의. 지도자 원칙의 독재"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "파시즘의 확산을 동일한 이름만으로 판단하지 않고 전달과 변형으로 분석한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-003",
+      "title": "코포라티즘의 효과와 지지의 범위",
+      "topic": "코포라티즘의 이념·제도·효과",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n이 논문은 코포라티즘을 말뿐인 선전으로 일축하지 않는다. 가상 수업에서 학생은 조직 설치 뒤 파업이 줄었다는 기록을 보고 노동자들이 정권에 만족했다고 결론지었다.\n\n1. 학생의 추론에서 관찰 사실과 해석을 분리하시오.\n2. 파업 감소를 설명할 대안적 요인 두 가지를 쓰시오.\n3. 노동자의 경험을 조사할 자료와 그 자료의 한계를 제시하시오.",
+      "modelAnswer": "1. 관찰한 것은 파업 건수의 감소다. 만족이나 자발적 지지는 별도로 확인해야 할 해석이다.\n2. 탄압·법적 제한이 공개 행동을 줄였을 수 있다. 협상·고용 조건 변화도 자료로 검토해야 한다.\n3. 편지·청원·구술 등 당사자 자료를 대조한다. 검열·생존자 편향을 고려하여 한 자료를 전체 노동자의 의견으로 보지 않는다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "학생의 추론에서 관찰 사실과 해석을 분리하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "관찰한 것은 파업 건수의 감소다.",
+              "points": 1
+            },
+            {
+              "text": "만족이나 자발적 지지는 별도로 확인해야 할 해석이다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "파업 감소를 설명할 대안적 요인 두 가지를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "탄압·법적 제한이 공개 행동을 줄였을 수 있다.",
+              "points": 1
+            },
+            {
+              "text": "협상·고용 조건 변화도 자료로 검토해야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "노동자의 경험을 조사할 자료와 그 자료의 한계를 제시하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "편지·청원·구술 등 당사자 자료를 대조한다.",
+              "points": 2
+            },
+            {
+              "text": "검열·생존자 편향을 고려하여 한 자료를 전체 노동자의 의견으로 보지 않는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003060686"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003060686",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-235"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-235",
+          "quote": "③ 파시스트 입법(1925), 1당 독재(1926). 언론·출판·집회 자유 탄압, 반대 정당 불법화"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "정책의 효과와 정권 지지를 혼동하지 않는 인과 추론을 연습한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-004",
+      "title": "십자군의 환경적 배경을 검증하는 비교 설계",
+      "topic": "십자군과 환경·재난",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n초록은 십자군의 배경을 장기 온난화에 따른 팽창으로 볼지, 단기 생태 위기에 대한 반응으로 볼지 질문한다. 어느 설명도 모든 지역에서 이미 입증된 결론으로 제시하지 않는다.\n\n1. 초록이 비교하는 두 환경사적 설명을 각각 쓰시오.\n2. 두 설명을 비교할 환경 자료와 사회 자료를 각각 제시하시오.\n3. 환경적 배경과 종교적 동기를 함께 설명하는 문장을 쓰시오.",
+      "modelAnswer": "1. 하나는 장기 온난화 시기 유럽 세력의 팽창에 주목하는 설명이다. 다른 하나는 냉각 추세 중 단기간에 발생한 생태 위기에 주목하는 설명이다.\n2. 연대가 확인된 기후·작황 자료를 비교한다. 원정 참여자의 지역·재산·발언 기록을 대조한다.\n3. 환경 조건은 참여의 자원이나 압력을 바꿀 수 있다. 그 조건이 종교적 신념·교황의 호소를 자동으로 대체하지는 않는다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "초록이 비교하는 두 환경사적 설명을 각각 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "하나는 장기 온난화 시기 유럽 세력의 팽창에 주목하는 설명이다.",
+              "points": 1
+            },
+            {
+              "text": "다른 하나는 냉각 추세 중 단기간에 발생한 생태 위기에 주목하는 설명이다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "두 설명을 비교할 환경 자료와 사회 자료를 각각 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "연대가 확인된 기후·작황 자료를 비교한다.",
+              "points": 1
+            },
+            {
+              "text": "원정 참여자의 지역·재산·발언 기록을 대조한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "환경적 배경과 종교적 동기를 함께 설명하는 문장을 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "환경 조건은 참여의 자원이나 압력을 바꿀 수 있다.",
+              "points": 2
+            },
+            {
+              "text": "그 조건이 종교적 신념·교황의 호소를 자동으로 대체하지는 않는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003120133"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003120133",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-29"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-29",
+          "quote": "② 성지 회복을 호소하며, 교황의 영도하에 성지 탈환을 도모"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "십자군 원인론을 시간 규모와 복합 인과의 문제로 확장한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-005",
+      "title": "레반트 지진 기록의 사건과 감정",
+      "topic": "십자군과 환경·재난",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n연구는 레반트 지진의 역사와 감정사 연구를 연결할 가능성을 제시한다. 가상 연대기는 지진을 하늘의 징벌이라 부르지만 피해 건물 수는 기록하지 않았다.\n\n1. 이 기록이 직접 보여 주는 인식과 바로 확정할 수 없는 사실을 쓰시오.\n2. 지진 피해를 재구성할 독립 자료 두 종류를 제시하시오.\n3. 종교적 표현의 존재를 이유로 기록 전체를 버리면 놓치는 점을 설명하시오.",
+      "modelAnswer": "1. 징벌이라는 해석과 두려움의 표현을 보여 준다. 표현만으로 지진 규모·피해량을 측정할 수 없다.\n2. 고고학적 파괴 흔적과 연대를 대조한다. 다른 지역의 독립 기록·복구 기록을 확인한다.\n3. 당시 재난 이해와 대응의 의미를 잃게 된다. 물리적 사건의 증거 가치와 인식사의 가치를 나누어 읽어야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "이 기록이 직접 보여 주는 인식과 바로 확정할 수 없는 사실을 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "징벌이라는 해석과 두려움의 표현을 보여 준다.",
+              "points": 1
+            },
+            {
+              "text": "표현만으로 지진 규모·피해량을 측정할 수 없다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "지진 피해를 재구성할 독립 자료 두 종류를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "고고학적 파괴 흔적과 연대를 대조한다.",
+              "points": 1
+            },
+            {
+              "text": "다른 지역의 독립 기록·복구 기록을 확인한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "종교적 표현의 존재를 이유로 기록 전체를 버리면 놓치는 점을 설명하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "당시 재난 이해와 대응의 의미를 잃게 된다.",
+              "points": 2
+            },
+            {
+              "text": "물리적 사건의 증거 가치와 인식사의 가치를 나누어 읽어야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003120133"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003120133",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-29"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-29",
+          "quote": "② 성지 회복, 4개의 십자군 왕국 성립"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "중세 사료의 종교적 표현을 사실 검증과 감정의 역사 양쪽에서 해석한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-006",
+      "title": "아크라의 과밀과 오염을 도시사로 읽기",
+      "topic": "십자군과 환경·재난",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n연구는 십자군 도시 아크라의 인구 과밀과 환경 오염을 다룬다. 가상 조사자는 오염 언급이 많은 해를 인구가 가장 많았던 해라고 정리했다.\n\n1. 오염 언급 횟수와 실제 오염 정도를 구별하시오.\n2. 인구 과밀과 오염의 연결을 확인할 지표 두 가지를 제시하시오.\n3. 자료 작성량 변화가 결과에 미치는 영향을 통제할 방법을 쓰시오.",
+      "modelAnswer": "1. 문서에 기록된 빈도는 관찰과 기록 관행의 결과다. 빈도를 인구나 오염의 크기로 곧바로 환산할 수 없다.\n2. 거주 밀도와 급수·폐기물 처리 시설을 확인한다. 항구 유입 인구·식량 수급과 오염 장소를 비교한다.\n3. 동일 종류의 문서를 같은 기간 단위로 비교한다. 남아 있는 문서 수와 작성자의 관심 변화를 함께 기록한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "오염 언급 횟수와 실제 오염 정도를 구별하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "문서에 기록된 빈도는 관찰과 기록 관행의 결과다.",
+              "points": 1
+            },
+            {
+              "text": "빈도를 인구나 오염의 크기로 곧바로 환산할 수 없다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "인구 과밀과 오염의 연결을 확인할 지표 두 가지를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "거주 밀도와 급수·폐기물 처리 시설을 확인한다.",
+              "points": 1
+            },
+            {
+              "text": "항구 유입 인구·식량 수급과 오염 장소를 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "자료 작성량 변화가 결과에 미치는 영향을 통제할 방법을 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "동일 종류의 문서를 같은 기간 단위로 비교한다.",
+              "points": 2
+            },
+            {
+              "text": "남아 있는 문서 수와 작성자의 관심 변화를 함께 기록한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003120133"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003120133",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-29"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-29",
+          "quote": "② 성지 회복, 4개의 십자군 왕국 성립"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "십자군 도시를 전투사뿐 아니라 생활 공간과 자료 편향의 관점에서 분석한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-007",
+      "title": "무기대여 원조의 전투 기여를 평가하는 지표",
+      "topic": "전시 원조와 냉전의 역사서술",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n논문은 미국의 대소련 원조를 중요하지만 단독으로 승리를 결정한 원인으로 보지 않는 연구 흐름을 소개한다. 가상 자료에는 지원 물자의 총액만 적혀 있다.\n\n1. 총액만으로 전투 기여를 확정하기 어려운 이유를 쓰시오.\n2. 보완해야 할 시점 정보와 용도 정보를 각각 쓰시오.\n3. 소련의 자체 역량과 원조를 함께 분석할 방법을 제시하시오.",
+      "modelAnswer": "1. 가격은 물자의 군사적 역할과 다르다. 적시에 도착했는지와 병목 해소 여부가 중요하다.\n2. 도착·배치 시점을 작전 시기와 대조한다. 수송·식량·장비 등 기능별 사용을 나누어 본다.\n3. 국내 생산·동원 자료와 원조를 기능별로 비교한다. 서로 보완한 관계를 검토하여 한쪽의 기여를 지우지 않는다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "총액만으로 전투 기여를 확정하기 어려운 이유를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "가격은 물자의 군사적 역할과 다르다.",
+              "points": 1
+            },
+            {
+              "text": "적시에 도착했는지와 병목 해소 여부가 중요하다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "보완해야 할 시점 정보와 용도 정보를 각각 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "도착·배치 시점을 작전 시기와 대조한다.",
+              "points": 1
+            },
+            {
+              "text": "수송·식량·장비 등 기능별 사용을 나누어 본다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "소련의 자체 역량과 원조를 함께 분석할 방법을 제시하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "국내 생산·동원 자료와 원조를 기능별로 비교한다.",
+              "points": 2
+            },
+            {
+              "text": "서로 보완한 관계를 검토하여 한쪽의 기여를 지우지 않는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002942795"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002942795",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-240"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-240",
+          "quote": "② 영국 적극 지원(1940. 6.~). 무기대여법(Lend-Lease Act, 1941. 3.)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "제2차 세계대전의 물적 조건을 원조액 암기 대신 기여 경로로 설명한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-008",
+      "title": "무기대여 원조를 둘러싼 전시·냉전·탈냉전의 평가",
+      "topic": "전시 원조와 냉전의 역사서술",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n논문은 전시 미국·소련의 상호 존중, 냉전기의 원조 평가 대립, 소련 해체 뒤 연구의 변화를 정리한다. 여기서 달라진 것은 1941년 이후 지원의 존재 자체보다 승리에서 차지하는 기여의 평가였다.\n\n1. 전시의 평가와 냉전기 소련·서방의 주된 서술 차이를 쓰시오.\n2. 소련 해체 뒤 연구 흐름을 단일한 러시아 입장으로 묶기 어려운 이유를 쓰시오.\n3. 원조의 중요성과 결정적 요인이라는 주장을 구별하시오.",
+      "modelAnswer": "1. 전시에는 미국과 소련이 서로의 기여를 존중했으나 냉전은 이러한 관계를 바꾸었다. 냉전기 소련의 자력 승리 서술과 원조 없이는 승리할 수 없었다는 서방의 주장이 대립했다.\n2. 일부 러시아 학자는 원조의 필수성을 강조했고 주류의 비판도 있었다. 신진 연구 등 다양한 접근과 서방·러시아 연구 사이의 수렴을 구별해서 보아야 한다.\n3. 원조가 전투·수송에 중요했다고 평가할 수 있다. 그것만으로 다른 조건과 소련의 역량을 배제한 승리의 유일·결정 원인이라고 할 수는 없다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "전시의 평가와 냉전기 소련·서방의 주된 서술 차이를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "전시에는 미국과 소련이 서로의 기여를 존중했으나 냉전은 이러한 관계를 바꾸었다.",
+              "points": 1
+            },
+            {
+              "text": "냉전기 소련의 자력 승리 서술과 원조 없이는 승리할 수 없었다는 서방의 주장이 대립했다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "소련 해체 뒤 연구 흐름을 단일한 러시아 입장으로 묶기 어려운 이유를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "일부 러시아 학자는 원조의 필수성을 강조했고 주류의 비판도 있었다.",
+              "points": 1
+            },
+            {
+              "text": "신진 연구 등 다양한 접근과 서방·러시아 연구 사이의 수렴을 구별해서 보아야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "원조의 중요성과 결정적 요인이라는 주장을 구별하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "원조가 전투·수송에 중요했다고 평가할 수 있다.",
+              "points": 2
+            },
+            {
+              "text": "그것만으로 다른 조건과 소련의 역량을 배제한 승리의 유일·결정 원인이라고 할 수는 없다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002942795"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002942795",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-240"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-240",
+          "quote": "② 영국 적극 지원(1940. 6.~). 무기대여법(Lend-Lease Act, 1941. 3.)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "전시 동맹에서 냉전으로의 전환을 사료의 관점 변화와 연결한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-009",
+      "title": "원조가 없었다면이라는 반사실적 주장 검토",
+      "topic": "전시 원조와 냉전의 역사서술",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n가상 토론에서 갑은 원조가 없으면 소련은 반드시 패배했다고, 을은 자체 생산량이 더 많으므로 원조는 무의미했다고 말한다. 연구는 양극단을 넘는 평가 흐름을 소개한다.\n\n1. 갑의 주장에 필요한 추가 가정을 쓰시오.\n2. 을의 총량 비교가 놓치는 점을 설명하시오.\n3. 두 주장을 검토할 조건부 결론을 제시하시오.",
+      "modelAnswer": "1. 대체 공급이나 전략 변경이 불가능했는지 검토해야 한다. 없는 조건의 결과를 관측한 사실처럼 말할 수 없다.\n2. 특정 물자의 부족과 공급 시점을 놓친다. 총량이 작아도 수송 등 핵심 기능에 중요할 수 있다.\n3. 자료가 지지하는 기능·시기별 기여는 인정한다. 승패 전체의 필연성은 다른 군사·경제 조건과 함께 유보한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "갑의 주장에 필요한 추가 가정을 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "대체 공급이나 전략 변경이 불가능했는지 검토해야 한다.",
+              "points": 1
+            },
+            {
+              "text": "없는 조건의 결과를 관측한 사실처럼 말할 수 없다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "을의 총량 비교가 놓치는 점을 설명하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "특정 물자의 부족과 공급 시점을 놓친다.",
+              "points": 1
+            },
+            {
+              "text": "총량이 작아도 수송 등 핵심 기능에 중요할 수 있다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "두 주장을 검토할 조건부 결론을 제시하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "자료가 지지하는 기능·시기별 기여는 인정한다.",
+              "points": 2
+            },
+            {
+              "text": "승패 전체의 필연성은 다른 군사·경제 조건과 함께 유보한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002942795"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002942795",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "seoyangsa-textbook-page-240"
+      ],
+      "evidence": [
+        {
+          "page": "seoyangsa-textbook-page-240",
+          "quote": "① 스탈린그라드(1942. 7.~1943. 2.)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "전쟁의 다중 원인과 반사실적 추론의 증거 한계를 연습한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-010",
+      "title": "공중보건의 보편적 명분과 차별의 결합",
+      "topic": "미국 공중보건과 인종·제국",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n박진빈의 연구는 터스키기 연구의 배경에 군사적 보건 행정, 제국주의적 인종 관념, 흑인 차별이 결합했다고 설명한다. 보건 증진이라는 목표만으로 정책을 평가하려 한다.\n\n1. 터스키기 연구의 조직적 배경과 그것의 한계를 쓰시오.\n2. 연구자가 지적한 차별적 관념과 그 영향을 설명하시오.\n3. 미국의 국내 개혁과 제국주의를 별개로만 볼 때의 한계를 설명하시오.",
+      "modelAnswer": "1. 공중보건국이 군사적 명령 체계 아래 발전한 조건을 검토한다. 조직의 효율성이 대상자의 정보·치료 접근을 보장한 것은 아니다.\n2. 우생학·인종병리학과 흑인에 대한 차별적 관념이 작용했다. 이러한 관념은 연구 대상의 권리와 치료 필요를 낮게 평가하는 데 연결되었다.\n3. 혁신주의의 국내 개혁과 국외 제국주의가 함께 전개될 수 있었음을 놓친다. 식민지 경험과 인종 분류가 국내 보건 활동에 미친 연결을 조사해야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "터스키기 연구의 조직적 배경과 그것의 한계를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "공중보건국이 군사적 명령 체계 아래 발전한 조건을 검토한다.",
+              "points": 1
+            },
+            {
+              "text": "조직의 효율성이 대상자의 정보·치료 접근을 보장한 것은 아니다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "연구자가 지적한 차별적 관념과 그 영향을 설명하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "우생학·인종병리학과 흑인에 대한 차별적 관념이 작용했다.",
+              "points": 1
+            },
+            {
+              "text": "이러한 관념은 연구 대상의 권리와 치료 필요를 낮게 평가하는 데 연결되었다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "미국의 국내 개혁과 제국주의를 별개로만 볼 때의 한계를 설명하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "혁신주의의 국내 개혁과 국외 제국주의가 함께 전개될 수 있었음을 놓친다.",
+              "points": 2
+            },
+            {
+              "text": "식민지 경험과 인종 분류가 국내 보건 활동에 미친 연결을 조사해야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002303926"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002303926",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [],
+      "evidence": [],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "미국사에서 개혁의 범위와 배제의 구조를 함께 평가하는 심화 과제다.",
+          "직접 대응하는 교재 근거는 확인하지 못해 sourcePages와 evidence를 비워 두었다. 공개 논문 초록의 관점을 제시한 심화 적용 과제다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-011",
+      "title": "연구기관의 자기정당화와 피해자 자료",
+      "topic": "미국 공중보건과 인종·제국",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n논문 초록은 사건 폭로 뒤에도 참여 의사들이 연구의 학문적 가치를 내세웠다고 설명한다. 가상 수업에서는 이 해명을 피해자가 연구에 동의했다는 증거로 사용했다.\n\n1. 해명문이 보여 주는 입장을 밝히시오.\n2. 학술적 가치 주장과 연구 참여 동의를 구별하시오.\n3. 피해자의 경험을 확인할 자료와 자료 수집의 주의점을 쓰시오.",
+      "modelAnswer": "1. 행위 기관·담당자가 사후에 제시한 정당화다. 피해자의 입장을 대신하는 중립적 기록이 아니다.\n2. 성과의 유용성은 정보 제공·동의의 존재를 증명하지 않는다. 누가 언제 무엇을 설명받았는지 별도로 확인해야 한다.\n3. 당사자 증언·진료 기록·안내 문서를 대조한다. 개인의 경험을 존중하고 남아 있지 않은 진술을 꾸며 넣지 않는다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "해명문이 보여 주는 입장을 밝히시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "행위 기관·담당자가 사후에 제시한 정당화다.",
+              "points": 1
+            },
+            {
+              "text": "피해자의 입장을 대신하는 중립적 기록이 아니다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "학술적 가치 주장과 연구 참여 동의를 구별하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "성과의 유용성은 정보 제공·동의의 존재를 증명하지 않는다.",
+              "points": 1
+            },
+            {
+              "text": "누가 언제 무엇을 설명받았는지 별도로 확인해야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "피해자의 경험을 확인할 자료와 자료 수집의 주의점을 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "당사자 증언·진료 기록·안내 문서를 대조한다.",
+              "points": 2
+            },
+            {
+              "text": "개인의 경험을 존중하고 남아 있지 않은 진술을 꾸며 넣지 않는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002303926"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002303926",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [],
+      "evidence": [],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "기관의 사후 기록과 당사자의 권리·경험을 구별하는 사료 읽기다.",
+          "직접 대응하는 교재 근거는 확인하지 못해 sourcePages와 evidence를 비워 두었다. 공개 논문 초록의 관점을 제시한 심화 적용 과제다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "seoyangsa-research-history-20261013-012",
+      "title": "군사적 효율성과 시민의 권리를 비교하기",
+      "topic": "미국 공중보건과 인종·제국",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n연구는 군사적 조직의 효율성만으로 터스키기 사건을 설명하지 않고 인종 관념과 차별도 함께 검토한다. 가상 해설은 지휘 체계가 군사적이어서 사건이 필연적이었다고 썼다.\n\n1. 해설의 단일 원인론을 지적하시오.\n2. 조직 구조와 차별적 판단을 각각 확인할 자료를 쓰시오.\n3. 효율성 지표와 권리 보호 지표를 구별해 제시하시오.",
+      "modelAnswer": "1. 군사적 구조만으로 모든 보건 행위의 결과를 결정할 수 없다. 인종 분류·대상자 인식·구체적 선택을 함께 살펴야 한다.\n2. 명령 체계·업무 규정을 조사한다. 대상 선정 사유와 치료를 보류한 판단 기록을 확인한다.\n3. 처리 속도·동원량은 효율성 지표가 될 수 있다. 설명·동의·치료 접근은 별도의 권리 지표로 평가한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "해설의 단일 원인론을 지적하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "군사적 구조만으로 모든 보건 행위의 결과를 결정할 수 없다.",
+              "points": 1
+            },
+            {
+              "text": "인종 분류·대상자 인식·구체적 선택을 함께 살펴야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "조직 구조와 차별적 판단을 각각 확인할 자료를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "명령 체계·업무 규정을 조사한다.",
+              "points": 1
+            },
+            {
+              "text": "대상 선정 사유와 치료를 보류한 판단 기록을 확인한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "효율성 지표와 권리 보호 지표를 구별해 제시하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "처리 속도·동원량은 효율성 지표가 될 수 있다.",
+              "points": 2
+            },
+            {
+              "text": "설명·동의·치료 접근은 별도의 권리 지표로 평가한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002303926"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002303926",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [],
+      "evidence": [],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "제도 구조와 행위자의 판단을 결합한 역사적 설명을 연습한다.",
+          "직접 대응하는 교재 근거는 확인하지 못해 sourcePages와 evidence를 비워 두었다. 공개 논문 초록의 관점을 제시한 심화 적용 과제다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
     }
   ],
   "stats": {
-    "faculty": 6,
-    "bibliographicRecords": 34,
+    "faculty": 10,
+    "bibliographicRecords": 38,
     "officialProfilePeriodRecords": 26,
-    "coreAbstractReviews": 19,
-    "allCompleteAbstractReads": 21,
+    "coreAbstractReviews": 23,
+    "allCompleteAbstractReads": 25,
     "partialAbstractReads": 3,
     "fullTextReads": 0,
-    "predictionEssays": 30
+    "predictionEssays": 42
   },
   "limitations": [
     "김덕수·박윤덕의 공식 연도별 업적목록은 미확보. 다른 4명도 페이지 갱신 누락 가능성은 남는다.",
@@ -4505,6 +6042,16 @@
     "added": 24,
     "total": 30,
     "method": "논문 검토 기록과 교재 정확 인용에 근거한 개별 집필; 초록만 읽은 연구는 제시문 관점의 적용 과제로 한정",
+    "officialProbability": false
+  },
+  "historyFacultyExpansion": {
+    "date": "2026-10-13",
+    "preservedPredictions": 30,
+    "addedFaculty": 4,
+    "addedPapers": 4,
+    "addedPredictions": 12,
+    "totalPredictions": 42,
+    "scope": "일반 역사학부·사학과·역사콘텐츠전공의 공식 현직 소속과 선정 논문을 확인. 새 논문은 모두 초록 전체 검토이며 전문 정독은 0편. 전체 업적 전수 조사 아님.",
     "officialProbability": false
   }
 }

@@ -62,4 +62,6 @@ class Author:
             if isinstance(self.report.get(key),dict):
                 for field in ['predictions','predictionCount','predictionEssays']:
                     if field in self.report[key]:self.report[key][field]=30
+        from history_expansion import apply
+        self.report = apply(self.report)
         (ROOT/f'knowledge/prediction-research/{self.subject}.json').write_text(json.dumps(self.report,ensure_ascii=False,indent=2)+'\n')

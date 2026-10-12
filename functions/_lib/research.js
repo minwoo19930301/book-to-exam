@@ -5,6 +5,7 @@ import education from "../../knowledge/prediction-research/gyoyukron.json" with 
 import koreanBibliography from "../../knowledge/prediction-research/hanguksa-bibliography.json" with { type: "json" };
 import easternBibliography from "../../knowledge/prediction-research/dongyangsa-bibliography.json" with { type: "json" };
 import educationBibliography from "../../knowledge/prediction-research/gyoyukron-bibliography.json" with { type: "json" };
+import { RESEARCH_DEPARTMENTS, researchDepartment } from "../../src/research-departments.js";
 
 const reports = [western, korean, eastern, education];
 const subjects = ["hand-memo", "seoyangsa", "hanguksa", "dongyangsa", "gyoyukron"];
@@ -23,6 +24,7 @@ const qualified = (subject, id) => `${subject}:${id}`;
 const faculty = reports.flatMap(report => asArray(report.faculty).map(person => ({
   id: qualified(report.subject, person.id), sourceId: person.id, subject: report.subject,
   name: person.name, affiliation: person.affiliation, position: person.position || null,
+  departmentKind: researchDepartment(person), departmentLabel: RESEARCH_DEPARTMENTS[researchDepartment(person)],
   field: person.field || person.researchArea || "",
   profileUrls: unique([...asArray(person.officialUrls), person.profileUrl, person.officialProfileUrl]),
   verifiedAt: person.verifiedAt || person.affiliationCheckedAt || person.checkedAt || null,
@@ -154,15 +156,19 @@ const analysisLimitations = [
 
 // The public analysis joins an authored question to its actual papers and their
 // public authors. Search never invents affiliations or examiner probabilities.
-export function getResearchAnalysis({ subject, query = "", facultyId } = {}) {
+export function getResearchAnalysis({ subject, query = "", facultyId, department = "all" } = {}) {
   checkSubject(subject);
+  if (!Object.hasOwn(RESEARCH_DEPARTMENTS, department)) throw new Error("지원하는 소속 구분을 선택해 주세요.");
   if (typeof query !== "string" || query.length > 200) throw new Error("검색어는 200자 이내로 입력해 주세요.");
   if (facultyId !== undefined && (typeof facultyId !== "string" || !faculty.some(person => person.id === facultyId && (!subject || person.subject === subject))))
     throw new Error("해당 과목의 연구 참고 인물을 확인해 주세요.");
   const terms = normalized(query).trim().split(/\s+/).filter(Boolean);
   const contains = value => terms.every(term => normalized(value).includes(term));
   const authorText = ids => faculty.filter(person => ids.includes(person.id)).map(person => `${person.name} ${person.affiliation} ${person.field}`).join("\n");
-  const inScope = row => (!subject || row.subject === subject) && (!facultyId || row.facultyIds.includes(facultyId));
+  const matchingDepartment = new Set(faculty.filter(person => department === "all" || person.departmentKind === department).map(person => person.id));
+  const facultyInDepartment = !facultyId || matchingDepartment.has(facultyId);
+  const inScope = row => facultyInDepartment && (!subject || row.subject === subject) && (!facultyId || row.facultyIds.includes(facultyId)) &&
+    (department === "all" || row.facultyIds.some(id => matchingDepartment.has(id)));
   const selectedPapers = papers.filter(paper => inScope(paper) && contains(`${paper.title}\n${paper.summary}\n${paper.authors}\n${authorText(paper.facultyIds)}`));
   const selectedBibliography = bibliography.filter(row => inScope(row) && contains(`${row.title}\n${row.citation}\n${authorText(row.facultyIds)}`));
   const selectedPredictions = predictions.map(item => {
@@ -193,7 +199,7 @@ export function getResearchAnalysis({ subject, query = "", facultyId } = {}) {
       facultyIds: item.facultyIds, paperIds: item.paperIds, predictionIds: [item.id] })) topic[key] = unique([...topic[key], ...values]);
   }
   const topics = [...topicMap.values()];
-  const visibleFaculty = faculty.filter(person => (!subject || person.subject === subject) && (!facultyId || person.id === facultyId) &&
+  const visibleFaculty = faculty.filter(person => matchingDepartment.has(person.id) && (!subject || person.subject === subject) && (!facultyId || person.id === facultyId) &&
     (contains(`${person.name}\n${person.affiliation}\n${person.field}`) || visiblePapers.some(paper => paper.facultyIds.includes(person.id)) ||
       selectedBibliography.some(row => row.facultyIds.includes(person.id)))).map(person => ({ ...person,
     paperIds: visiblePapers.filter(paper => paper.facultyIds.includes(person.id)).map(paper => paper.id),
@@ -202,7 +208,7 @@ export function getResearchAnalysis({ subject, query = "", facultyId } = {}) {
     topics: topics.filter(topic => topic.facultyIds.includes(person.id)).map(topic => topic.title),
   }));
   return structuredClone({ asOf: unique(reports.filter(report => !subject || report.subject === subject).map(report => report.asOf)).sort().at(-1) || null,
-    label: "공개 연구와 출제 주제 분석", subject: subject || "all", query, facultyId: facultyId || null,
+    label: "공개 연구와 출제 주제 분석", subject: subject || "all", query, facultyId: facultyId || null, department,
     faculty: visibleFaculty, papers: visiblePapers.map(paperSummary), bibliography: selectedBibliography, topics, predictions: selectedPredictions,
     counts: { faculty: visibleFaculty.length, papers: visiblePapers.length, bibliography: selectedBibliography.length, topics: topics.length, predictions: selectedPredictions.length },
     limitations: [...analysisLimitations], instructions: [...instructions] });

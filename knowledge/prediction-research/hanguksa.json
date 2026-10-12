@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "subject": "hanguksa",
   "preparedFor": "2027학년도 중등 역사 임용 대비 연습",
-  "asOf": "2026-10-03",
+  "asOf": "2026-10-13",
   "generatedAt": "2026-10-04",
   "scope": "공식 대학 프로필·대학 리포지터리·KCI·공공 학술정보의 공개 범위. 선정 8명의 목록 수집이며 한국사 연구자 전체의 전수 조사가 아니다.",
   "counts": {
-    "faculty": 8,
+    "faculty": 12,
     "bibliographyRecords": 67,
-    "corePapers": 20,
-    "coreAbstractsRead": 20,
+    "corePapers": 24,
+    "coreAbstractsRead": 24,
     "additionalAbstractsRead": 1,
     "fullTextsRead": 0,
-    "predictions": 30
+    "predictions": 42
   },
   "methodology": [
     "연구자 선정은 전공·시대·자료 접근성을 기준으로 했다. 특정 연구자가 실제 출제위원이라는 추정이나 예상 출제 확률을 포함하지 않는다.",
@@ -163,6 +163,82 @@
         "paper-hanguksa-oh-2026-university"
       ],
       "bibliographyCount": 13
+    },
+    {
+      "id": "kwon-ohyoung",
+      "name": "권오영",
+      "affiliation": "서울대학교 인문대학 역사학부 한국사학전공",
+      "position": "교수",
+      "field": "한국고대사",
+      "departmentKind": "history",
+      "profileUrl": "https://humanities.snu.ac.kr/academics/department?deptidx=9",
+      "officialUrls": [
+        "https://humanities.snu.ac.kr/academics/department?deptidx=9"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART003315119"
+      ]
+    },
+    {
+      "id": "kim-kyungsook",
+      "name": "김경숙",
+      "affiliation": "서울대학교 인문대학 역사학부 한국사학전공",
+      "position": "교수",
+      "field": "한국근세사·한국사회사",
+      "departmentKind": "history",
+      "profileUrl": "https://humanities.snu.ac.kr/academics/department?deptidx=9",
+      "officialUrls": [
+        "https://humanities.snu.ac.kr/academics/department?deptidx=9"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART002876660"
+      ]
+    },
+    {
+      "id": "moon-joongyang",
+      "name": "문중양",
+      "affiliation": "서울대학교 인문대학 역사학부 한국사학전공",
+      "position": "교수",
+      "field": "한국근세사·한국과학사",
+      "departmentKind": "history",
+      "profileUrl": "https://humanities.snu.ac.kr/academics/department?deptidx=9",
+      "officialUrls": [
+        "https://humanities.snu.ac.kr/academics/department?deptidx=9"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART002764391"
+      ]
+    },
+    {
+      "id": "ko-taewoo",
+      "name": "고태우",
+      "affiliation": "서울대학교 인문대학 역사학부 한국사학전공",
+      "position": "부교수",
+      "field": "한국근대사·환경사",
+      "departmentKind": "history",
+      "profileUrl": "https://humanities.snu.ac.kr/academics/department?deptidx=9",
+      "officialUrls": [
+        "https://humanities.snu.ac.kr/academics/department?deptidx=9"
+      ],
+      "verifiedAt": "2026-10-13",
+      "examSetterInference": false,
+      "examCommitteeStatus": "공개 확인 근거 없음. 연구 참고 교수이며 실제 출제위원 또는 유력 후보로 지목하지 않음.",
+      "coverage": "대학 공식 현직 교수 목록·프로필과 선정 논문 1편을 대조. 전체 연구업적 전수 수집 아님.",
+      "paperIds": [
+        "ART003071928"
+      ]
     }
   ],
   "papers": [
@@ -670,6 +746,108 @@
       "linkedPredictionIds": [],
       "linkedQuestionIds": [],
       "officialExamEvidence": false
+    },
+    {
+      "id": "ART003315119",
+      "facultyIds": [
+        "kwon-ohyoung"
+      ],
+      "author": "권오영",
+      "title": "고대 호남 동부지역 정치체의 성장과 수장의 성격",
+      "year": 2026,
+      "journal": "인문논총",
+      "pages": "79 - 107",
+      "doi": "10.17326/jhsnu.83.1.202602.79",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003315119",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "호남 동부지역을 단일한 백제·가야 집단으로 묶는 해석을 재검토한다. 지역 정치체마다 물질문화 수용과 수장 권력의 수준·대외 관계가 달랐다는 관점을 제시한다.",
+      "reviewTheme": "지역 정치체와 물질문화",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": false,
+      "linkedQuestionIds": [],
+      "sourceWarnings": []
+    },
+    {
+      "id": "ART002876660",
+      "facultyIds": [
+        "kim-kyungsook"
+      ],
+      "author": "김경숙",
+      "title": "조선시대 송관의 공문서와 송자의 역할",
+      "year": 2022,
+      "journal": "인문논총",
+      "pages": "45 - 78",
+      "doi": "10.17326/jhsnu.79.3.202208.45",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002876660",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "조선 소송에서 다른 고을의 증인 소환과 서증 확인을 위한 관의 이문을 당사자가 직접 전달한 방식을 검토한다. 공문서의 발급 주체와 운반 주체를 구별하며 당사자의 능동적 법적 행위를 조명한다.",
+      "reviewTheme": "조선의 소송과 당사자 행위",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": false,
+      "linkedQuestionIds": [],
+      "sourceWarnings": [
+        "초록의 1701년(숙종 33) 표기는 연도·재위년이 맞지 않아 문항에 사용하지 않음."
+      ]
+    },
+    {
+      "id": "ART002764391",
+      "facultyIds": [
+        "moon-joongyang"
+      ],
+      "author": "문중양",
+      "title": "세종대 척도의 탄생 ; 주척과 황종척을 중심으로",
+      "year": 2021,
+      "journal": "동방학지",
+      "pages": "239 - 267",
+      "doi": "10.17788/dbhc.2021..196.008",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002764391",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "세종대 주척과 황종척 제정을 고대 악률·도량형의 이상을 구현하려던 시도로 해석한다. 이상적인 원리와 실제 제작·사용을 구별하며 중국의 당시 관행을 그대로 복제했다는 설명을 재검토한다.",
+      "reviewTheme": "세종대 도량형과 고제",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": false,
+      "linkedQuestionIds": [],
+      "sourceWarnings": []
+    },
+    {
+      "id": "ART003071928",
+      "facultyIds": [
+        "ko-taewoo"
+      ],
+      "author": "고태우",
+      "title": "공해의 민중사：1970년대 한국의 공해재난과 반(反)공해운동",
+      "year": 2024,
+      "journal": "학림",
+      "pages": "191 - 237",
+      "doi": "10.36274/hakrim.2024.53..191",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003071928",
+      "readScope": "abstract",
+      "readDetails": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토.",
+      "verifiedAt": "2026-10-13",
+      "coreReview": true,
+      "summary": "1970년대 주민의 항의·진정·소송으로 공해 피해가 드러난 과정을 살핀다. 환경 법제의 개선과 실효성, 손해배상과 신체·공동체·생태계 피해의 회복을 구별한다.",
+      "reviewTheme": "산업화와 반공해운동",
+      "selectionRationale": "역사학 전공 연구의 관점을 교재 주제와 자료 비판·비교·인과 설명에 적용한다.",
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다.",
+      "kind": "research-article",
+      "listedOnOfficialFacultyPage": false,
+      "linkedQuestionIds": [],
+      "sourceWarnings": []
     }
   ],
   "predictions": [
@@ -4177,6 +4355,1365 @@
       "passageProvenance": "논문 검토 기록의 요약 및 자체 구성; 논문·역사 사료의 직접 인용이 아님",
       "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
       "automaticExamEligible": false
+    },
+    {
+      "id": "hanguksa-research-history-20261013-001",
+      "title": "외래 토기와 정치적 귀속을 구별하기",
+      "topic": "지역 정치체와 물질문화",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n권오영은 호남 동부의 여러 정치체가 주변 집단의 물질문화를 시기별로 다르게 받아들였다고 해석한다. 가상 유적에서 백제계 토기와 가야계 장신구가 함께 발견되었다.\n\n1. 출토품만으로 단일 정치적 귀속을 확정할 수 없는 이유를 쓰시오.\n2. 물질문화 수용을 설명할 경로 두 가지를 제시하시오.\n3. 정치적 통합을 검토할 추가 자료와 비교 단위를 쓰시오.",
+      "modelAnswer": "1. 교역·모방·이주로도 외래 물품이 들어올 수 있다. 유물 양식과 지배권은 일대일로 대응하지 않는다.\n2. 교역망이나 혼인·인적 이동을 검토한다. 현지 제작·수용 과정과 외부 지배 가능성을 함께 비교한다.\n3. 거점·행정 흔적·명문 등 독립 근거를 확인한다. 유적별 연대를 나누어 변화의 동시성 여부를 비교한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "출토품만으로 단일 정치적 귀속을 확정할 수 없는 이유를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "교역·모방·이주로도 외래 물품이 들어올 수 있다.",
+              "points": 1
+            },
+            {
+              "text": "유물 양식과 지배권은 일대일로 대응하지 않는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "물질문화 수용을 설명할 경로 두 가지를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "교역망이나 혼인·인적 이동을 검토한다.",
+              "points": 1
+            },
+            {
+              "text": "현지 제작·수용 과정과 외부 지배 가능성을 함께 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "정치적 통합을 검토할 추가 자료와 비교 단위를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "거점·행정 흔적·명문 등 독립 근거를 확인한다.",
+              "points": 2
+            },
+            {
+              "text": "유적별 연대를 나누어 변화의 동시성 여부를 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003315119"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003315119",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-34"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-34",
+          "quote": "(3) 후기 가야 연맹"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "가야와 주변 세력의 관계를 물질문화와 통치의 구별로 심화한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-002",
+      "title": "지역 수장 권력을 비교하는 지표 만들기",
+      "topic": "지역 정치체와 물질문화",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n초록은 호남 동부 정치체들의 발전 수준과 수장 권력이 균일하지 않았다고 설명한다. 가상 지도에는 모든 지역에 동일 크기의 원을 표시해 하나의 정치체로 묶었다.\n\n1. 지도의 표현이 감춘 연구 문제를 쓰시오.\n2. 수장 권력을 비교할 고고학적 지표 두 가지를 제시하시오.\n3. 지표의 크기를 곧바로 지배 범위로 바꾸지 않기 위한 확인 절차를 쓰시오.",
+      "modelAnswer": "1. 복수 정치체의 규모·관계 차이를 감춘다. 동일 시점의 단일 통합을 미리 가정하게 한다.\n2. 묘역의 위계와 부장품 분포를 비교한다. 취락·방어 시설·생산 거점의 분포를 조사한다.\n3. 유적의 사용 시기와 기능을 먼저 맞춘다. 교역 부·의례적 위신과 행정·군사 통제를 구별한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "지도의 표현이 감춘 연구 문제를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "복수 정치체의 규모·관계 차이를 감춘다.",
+              "points": 1
+            },
+            {
+              "text": "동일 시점의 단일 통합을 미리 가정하게 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "수장 권력을 비교할 고고학적 지표 두 가지를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "묘역의 위계와 부장품 분포를 비교한다.",
+              "points": 1
+            },
+            {
+              "text": "취락·방어 시설·생산 거점의 분포를 조사한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "지표의 크기를 곧바로 지배 범위로 바꾸지 않기 위한 확인 절차를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "유적의 사용 시기와 기능을 먼저 맞춘다.",
+              "points": 2
+            },
+            {
+              "text": "교역 부·의례적 위신과 행정·군사 통제를 구별한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003315119"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003315119",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-34"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-34",
+          "quote": "(3) 후기 가야 연맹"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "고대국가의 성장을 지역 간 차이와 비교 자료로 설명한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-003",
+      "title": "정복된 지역을 행위자로 서술하기",
+      "topic": "지역 정치체와 물질문화",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n연구는 지역 정치체를 중앙 국가에 편입된 대상으로만 다루지 말 것을 제안한다. 가상 서술은 백제·가야·신라의 영토 변동만 나열한다.\n\n1. 지역 정치체의 선택을 드러낼 질문 두 가지를 쓰시오.\n2. 관계 변화를 조사할 시계열 자료 두 가지를 제시하시오.\n3. 지역의 능동성을 인정하면서 군사적 강제를 지우지 않는 서술 원칙을 쓰시오.",
+      "modelAnswer": "1. 어떤 세력과 언제 협력·경쟁했는지 묻는다. 물품·제도의 선택적 수용도 조사 대상에 넣는다.\n2. 교류 물품의 출처와 시기 변화를 추적한다. 성곽·취락·묘역의 변화와 전쟁 기록을 대조한다.\n3. 협상·선택이 가능한 범위와 외부 압력을 함께 제시한다. 능동성의 존재를 자유로운 동의나 폭력 부재로 바꾸지 않는다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "지역 정치체의 선택을 드러낼 질문 두 가지를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "어떤 세력과 언제 협력·경쟁했는지 묻는다.",
+              "points": 1
+            },
+            {
+              "text": "물품·제도의 선택적 수용도 조사 대상에 넣는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "관계 변화를 조사할 시계열 자료 두 가지를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "교류 물품의 출처와 시기 변화를 추적한다.",
+              "points": 1
+            },
+            {
+              "text": "성곽·취락·묘역의 변화와 전쟁 기록을 대조한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "지역의 능동성을 인정하면서 군사적 강제를 지우지 않는 서술 원칙을 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "협상·선택이 가능한 범위와 외부 압력을 함께 제시한다.",
+              "points": 2
+            },
+            {
+              "text": "능동성의 존재를 자유로운 동의나 폭력 부재로 바꾸지 않는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003315119"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003315119",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-32"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-32",
+          "quote": "㉢ 대가야 정복 : 대가야의 반란 → 이사부 · 사다함 보내 정복(562)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "영토 중심 서술을 지역사와 권력 관계의 복합적 설명으로 확장한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-004",
+      "title": "이문의 발급자와 전달자 구별하기",
+      "topic": "조선의 소송과 당사자 행위",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n연구는 다른 고을의 증인 소환이나 서증 검토를 위해 송관의 이문을 소송당사자가 직접 전달한 모습을 확인한다. 가상 학생은 민간인이 운반했으므로 사문서라고 판단했다.\n\n1. 학생 판단의 문제점을 쓰시오.\n2. 공문서임을 확인할 문서 내부 요소 두 가지를 제시하시오.\n3. 당사자의 전달 행위가 보여 주는 소송 운영의 특징을 설명하시오.",
+      "modelAnswer": "1. 발급 권한과 운반 행위는 별개의 기준이다. 민간인이 전달해도 관청이 발급한 공문서일 수 있다.\n2. 발급 관청·수신 관청과 업무 요청 내용을 확인한다. 관인·서명 등 문서 형식을 대조한다.\n3. 당사자가 소환과 증거 확보에 적극 참여했다. 관의 발급 권한과 당사자의 실무 부담이 결합했다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "학생 판단의 문제점을 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "발급 권한과 운반 행위는 별개의 기준이다.",
+              "points": 1
+            },
+            {
+              "text": "민간인이 전달해도 관청이 발급한 공문서일 수 있다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "공문서임을 확인할 문서 내부 요소 두 가지를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "발급 관청·수신 관청과 업무 요청 내용을 확인한다.",
+              "points": 1
+            },
+            {
+              "text": "관인·서명 등 문서 형식을 대조한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "당사자의 전달 행위가 보여 주는 소송 운영의 특징을 설명하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "당사자가 소환과 증거 확보에 적극 참여했다.",
+              "points": 2
+            },
+            {
+              "text": "관의 발급 권한과 당사자의 실무 부담이 결합했다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002876660"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002876660",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-112"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-112",
+          "quote": "장례원 설치(노비 소송)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "조선 관제·노비 소송의 배경을 문서 기능과 법적 행위로 연결한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-005",
+      "title": "고을을 넘는 소송 절차 복원하기",
+      "topic": "조선의 소송과 당사자 행위",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n논문은 타 고을의 피고나 증인을 소환하려면 고을 간의 업무 요청이 필요했다고 설명한다. 가상 사건의 피고는 다른 고을로 이동했고 원고는 관의 이문을 요청했다.\n\n1. 관할 경계가 소환에 만드는 문제를 쓰시오.\n2. 당사자·송관·다른 고을 관청의 역할을 순서대로 쓰시오.\n3. 공문서가 있다는 사실만으로 소환 성공을 확정할 수 없는 이유를 쓰시오.",
+      "modelAnswer": "1. 한 고을 수령의 명령을 타 고을에서 바로 실행하기 어렵다. 관청 사이의 협조 절차가 필요하다.\n2. 당사자가 요청하고 송관이 이문을 발급한다. 당사자가 전달하면 수신 관청이 요청에 대응한다.\n3. 발급·전달·수신·집행은 서로 다른 단계다. 답신이나 출석 기록까지 확인해야 실제 결과를 알 수 있다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "관할 경계가 소환에 만드는 문제를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "한 고을 수령의 명령을 타 고을에서 바로 실행하기 어렵다.",
+              "points": 1
+            },
+            {
+              "text": "관청 사이의 협조 절차가 필요하다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "당사자·송관·다른 고을 관청의 역할을 순서대로 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "당사자가 요청하고 송관이 이문을 발급한다.",
+              "points": 1
+            },
+            {
+              "text": "당사자가 전달하면 수신 관청이 요청에 대응한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "공문서가 있다는 사실만으로 소환 성공을 확정할 수 없는 이유를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "발급·전달·수신·집행은 서로 다른 단계다.",
+              "points": 2
+            },
+            {
+              "text": "답신이나 출석 기록까지 확인해야 실제 결과를 알 수 있다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002876660"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002876660",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-112"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-112",
+          "quote": "장례원 설치(노비 소송)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "관할권과 문서 전달을 과정으로 복원하는 구체적 사료 분석이다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-006",
+      "title": "당사자주의와 법적 접근의 부담",
+      "topic": "조선의 소송과 당사자 행위",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n초록은 당사자가 다른 고을까지 오가며 권리를 확보하려 했음을 설명한다. 가상 해설은 이를 모든 사람의 법적 접근이 평등했다는 증거로 들었다.\n\n1. 적극적 소송 행위와 동등한 접근 기회를 구별하시오.\n2. 이동 부담의 차이를 조사할 조건 두 가지를 제시하시오.\n3. 당사자의 능동성과 제약을 함께 보여 줄 자료 대조를 쓰시오.",
+      "modelAnswer": "1. 일부 당사자의 활동은 법적 행위 가능성을 보여 준다. 모든 신분·성별·지역의 자원 조건이 같았음을 뜻하지 않는다.\n2. 여비·시간과 문서 작성 능력을 조사한다. 거리·관계망·대리 가능성의 차이를 비교한다.\n3. 청원·전달 기록과 지연·포기 사례를 비교한다. 성공한 사건만으로 일반화하지 않고 누락된 당사자를 고려한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "적극적 소송 행위와 동등한 접근 기회를 구별하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "일부 당사자의 활동은 법적 행위 가능성을 보여 준다.",
+              "points": 1
+            },
+            {
+              "text": "모든 신분·성별·지역의 자원 조건이 같았음을 뜻하지 않는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "이동 부담의 차이를 조사할 조건 두 가지를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "여비·시간과 문서 작성 능력을 조사한다.",
+              "points": 1
+            },
+            {
+              "text": "거리·관계망·대리 가능성의 차이를 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "당사자의 능동성과 제약을 함께 보여 줄 자료 대조를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "청원·전달 기록과 지연·포기 사례를 비교한다.",
+              "points": 2
+            },
+            {
+              "text": "성공한 사건만으로 일반화하지 않고 누락된 당사자를 고려한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002876660"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002876660",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-112"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-112",
+          "quote": "장례원 설치(노비 소송)"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "조선 신분사회에서 제도 이용과 실제 부담의 관계를 평가한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-007",
+      "title": "세종대 척도를 중국의 모방으로만 설명할 수 있는가",
+      "topic": "세종대 도량형과 고제",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n문중양은 주척·황종척 제정을 고대 악률과 도량형의 이상을 구현하려는 시도로 설명한다. 당시 중국에서 흔히 사용한 척을 그대로 들여온 것으로만 볼 수 없다는 관점이다.\n\n1. 고제의 재현과 당대 제도의 수입을 구별하시오.\n2. 모방 여부를 검토할 비교 대상 두 가지를 제시하시오.\n3. 문화 교류와 조선의 선택을 함께 설명하시오.",
+      "modelAnswer": "1. 고제는 권위를 가진 과거의 제도를 복원하려는 목표다. 당대 수입은 동시기 실제 사용 제도를 받아들이는 과정이다.\n2. 참조한 고전의 규정과 중국의 동시기 관행을 비교한다. 조선에서 실제 만든 척과 사용처를 확인한다.\n3. 공유한 유교 지식은 제정의 자원이 되었다. 그러나 어떤 기준을 선택·구현했는지는 조선의 맥락에서 따져야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "고제의 재현과 당대 제도의 수입을 구별하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "고제는 권위를 가진 과거의 제도를 복원하려는 목표다.",
+              "points": 1
+            },
+            {
+              "text": "당대 수입은 동시기 실제 사용 제도를 받아들이는 과정이다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "모방 여부를 검토할 비교 대상 두 가지를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "참조한 고전의 규정과 중국의 동시기 관행을 비교한다.",
+              "points": 1
+            },
+            {
+              "text": "조선에서 실제 만든 척과 사용처를 확인한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "문화 교류와 조선의 선택을 함께 설명하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "공유한 유교 지식은 제정의 자원이 되었다.",
+              "points": 2
+            },
+            {
+              "text": "그러나 어떤 기준을 선택·구현했는지는 조선의 맥락에서 따져야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002764391"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002764391",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-136"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-136",
+          "quote": "㉠ 박연(朴堧) : 예악을 정리하고자 건의, 아악·악기 제작"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "세종대 예악·과학기술을 자주 대 모방이라는 이분법에서 벗어나 설명한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-008",
+      "title": "도량형의 이상과 실제 제작을 대조하기",
+      "topic": "세종대 도량형과 고제",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n초록은 율관·도량형의 일치라는 고대적 이상과 실제 구현의 어려움을 구별한다. 가상 왕실 기록은 고제를 회복했다고 선언하지만 남아 있는 척의 길이는 서로 다르다.\n\n1. 선언과 실물 자료의 증거 성격을 비교하시오.\n2. 실물 차이를 분석하기 전에 확인할 조건 두 가지를 쓰시오.\n3. 길이 차이만으로 선언을 단순한 거짓이라고 할 수 없는 이유를 설명하시오.",
+      "modelAnswer": "1. 선언은 지향·정당화와 제정 의도를 보여 준다. 실물은 제작·보존·사용의 결과를 보여 준다.\n2. 제작 시기와 용도·척의 종류를 구별한다. 훼손·수축·측정 방식의 차이를 검토한다.\n3. 서로 다른 척의 용도나 후대 변화일 수 있다. 동일 조건을 확보한 뒤 이념과 구현의 간극을 평가해야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "선언과 실물 자료의 증거 성격을 비교하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "선언은 지향·정당화와 제정 의도를 보여 준다.",
+              "points": 1
+            },
+            {
+              "text": "실물은 제작·보존·사용의 결과를 보여 준다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "실물 차이를 분석하기 전에 확인할 조건 두 가지를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "제작 시기와 용도·척의 종류를 구별한다.",
+              "points": 1
+            },
+            {
+              "text": "훼손·수축·측정 방식의 차이를 검토한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "길이 차이만으로 선언을 단순한 거짓이라고 할 수 없는 이유를 설명하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "서로 다른 척의 용도나 후대 변화일 수 있다.",
+              "points": 2
+            },
+            {
+              "text": "동일 조건을 확보한 뒤 이념과 구현의 간극을 평가해야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002764391"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002764391",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-136"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-136",
+          "quote": "㉠ 박연(朴堧) : 예악을 정리하고자 건의, 아악·악기 제작"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "과학기술사에서 규범적 문헌과 물질 자료를 대조하는 문제다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-009",
+      "title": "기준척과 상용척의 역할 비교",
+      "topic": "세종대 도량형과 고제",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n문중양은 황종척이 여러 상용척의 기준이 된 역사적 배경과 주척의 실제 사용을 논한다. 가상 학생은 기준척이 가장 권위 있으므로 모든 현장에서 그것만 사용했다고 주장했다.\n\n1. 기준 설정과 현장 사용을 구별하시오.\n2. 여러 상용척이 존재할 때 확인할 관계 두 가지를 쓰시오.\n3. 실제 사용을 조사할 기록과 문헌상의 이상을 조사할 기록을 각각 제시하시오.",
+      "modelAnswer": "1. 기준척은 단위를 정하고 맞추는 기준의 역할이다. 현장에서는 용도에 맞춘 다른 척이 쓰일 수 있다.\n2. 척 사이의 환산 관계를 확인한다. 토지·건축·의례 등 사용 분야를 구별한다.\n3. 실무 장부·물품·측량 기록으로 사용을 확인한다. 제정 논의·의례 규정으로 정당화의 원리를 확인한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "기준 설정과 현장 사용을 구별하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "기준척은 단위를 정하고 맞추는 기준의 역할이다.",
+              "points": 1
+            },
+            {
+              "text": "현장에서는 용도에 맞춘 다른 척이 쓰일 수 있다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "여러 상용척이 존재할 때 확인할 관계 두 가지를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "척 사이의 환산 관계를 확인한다.",
+              "points": 1
+            },
+            {
+              "text": "토지·건축·의례 등 사용 분야를 구별한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "실제 사용을 조사할 기록과 문헌상의 이상을 조사할 기록을 각각 제시하시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "실무 장부·물품·측량 기록으로 사용을 확인한다.",
+              "points": 2
+            },
+            {
+              "text": "제정 논의·의례 규정으로 정당화의 원리를 확인한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART002764391"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART002764391",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [
+        "hanguksa-textbook-page-136"
+      ],
+      "evidence": [
+        {
+          "page": "hanguksa-textbook-page-136",
+          "quote": "㉠ 박연(朴堧) : 예악을 정리하고자 건의, 아악·악기 제작"
+        }
+      ],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중상",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "세종대 제도 정비를 권위·측정·실무의 서로 다른 기능으로 이해한다.",
+          "교재 인용은 배경 주제의 근거이며 연구의 해석 자체를 입증하는 인용이 아니다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-010",
+      "title": "1970년대 반공해운동의 전개와 산업화의 부담",
+      "topic": "산업화와 반공해운동",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n논문은 1970년대 주민들이 기업에 항의하고 행정기관에 진정했으며, 제도 개선만으로 오염 문제가 해소되지 않자 생존권을 위한 소송에 나선 과정을 정리한다. 이를 생산량 중심 산업화 서술에 연결하려 한다.\n\n1. 주민들의 요구가 향한 대상과 대응 방식의 변화를 쓰시오.\n2. 법제 개선과 공해 해결을 동일시할 수 없는 이유를 설명하시오.\n3. 산업화의 이익과 부담을 함께 평가할 비교 기준 두 가지를 쓰시오.",
+      "modelAnswer": "1. 기업을 대상으로 한 항의와 행정기관에 대한 진정이 있었다. 피해가 지속되는 가운데 사법적 구제를 요구하는 공해 소송으로도 이어졌다.\n2. 공해방지법 개정·환경보전법 제정과 집행의 효과는 다른 문제다. 연구는 행정 대응의 한계와 피해의 지속을 함께 살핀다.\n3. 생산·고용의 증가와 주민의 건강·생계 피해를 비교한다. 이익을 얻은 집단과 비용을 부담한 집단의 지역·사회적 분포를 비교한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "주민들의 요구가 향한 대상과 대응 방식의 변화를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "기업을 대상으로 한 항의와 행정기관에 대한 진정이 있었다.",
+              "points": 1
+            },
+            {
+              "text": "피해가 지속되는 가운데 사법적 구제를 요구하는 공해 소송으로도 이어졌다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "법제 개선과 공해 해결을 동일시할 수 없는 이유를 설명하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "공해방지법 개정·환경보전법 제정과 집행의 효과는 다른 문제다.",
+              "points": 1
+            },
+            {
+              "text": "연구는 행정 대응의 한계와 피해의 지속을 함께 살핀다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "산업화의 이익과 부담을 함께 평가할 비교 기준 두 가지를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "생산·고용의 증가와 주민의 건강·생계 피해를 비교한다.",
+              "points": 2
+            },
+            {
+              "text": "이익을 얻은 집단과 비용을 부담한 집단의 지역·사회적 분포를 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003071928"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003071928",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [],
+      "evidence": [],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "산업화의 성과와 지역 주민의 경험을 복수 자료로 평가하는 심화 문제다.",
+          "직접 대응하는 교재 근거는 확인하지 못해 sourcePages와 evidence를 비워 두었다. 공개 논문 초록의 관점을 제시한 심화 적용 과제다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-011",
+      "title": "환경 법제 개선과 집행 성과 구별",
+      "topic": "산업화와 반공해운동",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n연구는 공해방지법 개정·환경보전법 제정에도 행정의 대응이 오염 악화를 충분히 해소하지 못했다고 설명한다. 가상 연표는 법률 제정일을 공해 해결일로 적었다.\n\n1. 연표의 논리적 비약을 쓰시오.\n2. 집행 성과를 확인할 행정 자료 두 가지를 제시하시오.\n3. 주민 활동과 제도 변화를 연결할 때 필요한 시간적 검증을 쓰시오.",
+      "modelAnswer": "1. 규범 마련과 실제 오염 감소는 다르다. 법률만으로 집행과 효과의 완료를 확정할 수 없다.\n2. 단속·측정·시정 명령 이행 기록을 확인한다. 예산·인력과 피해 민원 처리 결과를 비교한다.\n3. 항의·진정과 입법 논의의 선후를 확인한다. 회의록 등으로 요구가 정책에 반영된 경로를 확인한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "연표의 논리적 비약을 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "규범 마련과 실제 오염 감소는 다르다.",
+              "points": 1
+            },
+            {
+              "text": "법률만으로 집행과 효과의 완료를 확정할 수 없다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "집행 성과를 확인할 행정 자료 두 가지를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "단속·측정·시정 명령 이행 기록을 확인한다.",
+              "points": 1
+            },
+            {
+              "text": "예산·인력과 피해 민원 처리 결과를 비교한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "주민 활동과 제도 변화를 연결할 때 필요한 시간적 검증을 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "항의·진정과 입법 논의의 선후를 확인한다.",
+              "points": 2
+            },
+            {
+              "text": "회의록 등으로 요구가 정책에 반영된 경로를 확인한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003071928"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003071928",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [],
+      "evidence": [],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "제도 변화와 사회운동의 관계를 집행·정책 과정으로 분석한다.",
+          "직접 대응하는 교재 근거는 확인하지 못해 sourcePages와 evidence를 비워 두었다. 공개 논문 초록의 관점을 제시한 심화 적용 과제다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
+    },
+    {
+      "id": "hanguksa-research-history-20261013-012",
+      "title": "공해 소송의 배상과 회복 비교",
+      "topic": "산업화와 반공해운동",
+      "type": "essay",
+      "skill": "source-analysis",
+      "prompt": "[공개 논문 초록의 관점을 제공한 자체 구성 과제]\n논문은 공해 소송의 손해배상이 강화되어도 신체 손상·공동체 해체·생태계 파괴를 모두 되돌리지는 못했다고 지적한다. 가상 사례에서 배상금 지급 뒤에도 주민은 이주했다.\n\n1. 금전 배상과 피해 회복의 차이를 쓰시오.\n2. 배상 이후에도 조사해야 할 결과 두 가지를 제시하시오.\n3. 소송 성과를 무의미하다고만 하지 않는 평가를 쓰시오.",
+      "modelAnswer": "1. 배상은 인정된 손해에 대한 사후 금전 구제다. 건강·생활 관계·생태의 복원을 자동으로 보장하지 않는다.\n2. 건강 상태와 생계·거주 변화의 지속을 조사한다. 공동체 관계와 오염원 제거 여부를 확인한다.\n3. 권리 인정과 비용 부담의 변화는 성과로 평가할 수 있다. 예방·복원과 다른 차원의 성과임을 함께 밝혀야 한다.",
+      "criteria": [
+        {
+          "id": "r1",
+          "label": "금전 배상과 피해 회복의 차이를 쓰시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "배상은 인정된 손해에 대한 사후 금전 구제다.",
+              "points": 1
+            },
+            {
+              "text": "건강·생활 관계·생태의 복원을 자동으로 보장하지 않는다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r2",
+          "label": "배상 이후에도 조사해야 할 결과 두 가지를 제시하시오.",
+          "max": 3,
+          "checkpoints": [
+            {
+              "text": "건강 상태와 생계·거주 변화의 지속을 조사한다.",
+              "points": 1
+            },
+            {
+              "text": "공동체 관계와 오염원 제거 여부를 확인한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        },
+        {
+          "id": "r3",
+          "label": "소송 성과를 무의미하다고만 하지 않는 평가를 쓰시오.",
+          "max": 4,
+          "checkpoints": [
+            {
+              "text": "권리 인정과 비용 부담의 변화는 성과로 평가할 수 있다.",
+              "points": 2
+            },
+            {
+              "text": "예방·복원과 다른 차원의 성과임을 함께 밝혀야 한다.",
+              "points": 2
+            }
+          ],
+          "allowedScores": [
+            0,
+            2,
+            4
+          ],
+          "scoringNote": "표시된 체크포인트 점수를 독립 합산한다. 같은 뜻의 표현과 자료에 맞는 동등한 대안을 인정한다. 예시 자료명 자체를 필수 암기 정답으로 요구하지 않는다."
+        }
+      ],
+      "paperIds": [
+        "ART003071928"
+      ],
+      "sourceReadScopes": [
+        {
+          "paperId": "ART003071928",
+          "scope": "abstract",
+          "locator": "KCI 공개 초록 전체와 서지·저자 소속 확인. 본문·주석·개별 사료 전문은 미검토."
+        }
+      ],
+      "sourcePages": [],
+      "evidence": [],
+      "linkedQuestionIds": [],
+      "forecast": {
+        "label": "출제 예상도(편집적 판단)",
+        "level": "중",
+        "assessmentScope": "topic-connection; not exact-question probability",
+        "basis": [
+          "현대사에서 시민의 권리 주장과 구제의 실질적 범위를 비교한다.",
+          "직접 대응하는 교재 근거는 확인하지 못해 sourcePages와 evidence를 비워 두었다. 공개 논문 초록의 관점을 제시한 심화 적용 과제다."
+        ],
+        "limitations": [
+          "교재 주제와 연구 관점의 연결에 대한 편집적 판단이며 실제 출제 확률을 계산하지 않았다.",
+          "공개 초록에서 확인한 범위만 제시한다. 연구자의 실제 출제위원 참여나 논문 전체의 검증을 뜻하지 않는다."
+        ]
+      },
+      "caution": "초록에서 확인한 관점만 제공한다. 연구자의 전체 업적 조사나 전문 정독이 아니며 실제 출제위원 참여를 뜻하지 않는다. 가상 자료·조사 상황은 연습용이며 해당 논문의 실제 조사 결과를 인용한 것이 아니다.",
+      "exerciseKind": "research-perspective-application",
+      "passageProvenance": "확인한 공개 초록의 자체 요약 및 가상 적용 상황; 논문·역사 사료의 직접 인용이 아님",
+      "officialGradingStatus": "자체 연습용 10점 기준; 평가원의 공식 채점 기준이 아님",
+      "automaticExamEligible": false,
+      "authoredAt": "2026-10-13"
     }
   ],
   "bibliographyFile": "hanguksa-bibliography.json",
@@ -4201,6 +5738,16 @@
     "added": 24,
     "total": 30,
     "method": "논문 검토 기록과 교재 정확 인용에 근거한 개별 집필; 초록만 읽은 연구는 제시문 관점의 적용 과제로 한정",
+    "officialProbability": false
+  },
+  "historyFacultyExpansion": {
+    "date": "2026-10-13",
+    "preservedPredictions": 30,
+    "addedFaculty": 4,
+    "addedPapers": 4,
+    "addedPredictions": 12,
+    "totalPredictions": 42,
+    "scope": "일반 역사학부·사학과·역사콘텐츠전공의 공식 현직 소속과 선정 논문을 확인. 새 논문은 모두 초록 전체 검토이며 전문 정독은 0편. 전체 업적 전수 조사 아님.",
     "officialProbability": false
   }
 }

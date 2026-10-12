@@ -6,6 +6,7 @@ import { clean, usable, scoreLocal } from "./text.js";
 import { useExamPlay } from "./guide-mode.jsx";
 import { useSubject } from "./subjects.jsx";
 import BankStatus from "./BankStatus.jsx";
+import { gradeOnEnter } from "./grade-key.js";
 
 const mcQuestions = list => list.filter(x => x.type === "mc" && usable(x));
 
@@ -18,20 +19,12 @@ export default function Quiz() {
     if (q && !result && choice !== "") setResult(scoreLocal(q, choice));
   }
 
-  function onKey(e) {
-    if (e.nativeEvent.isComposing || e.keyCode === 229) return;
-    if (e.key === "Enter") {
-      e.preventDefault();
-      grade();
-    }
-  }
-
   return (
     <Chrome title="객관식" appeal={{ question: q, type: "mc", record: bank.record }}>
       <ExamFrame>
         <BankStatus bank={bank} />
         {q && (
-          <div className="card q" data-guide="result" tabIndex={0} onKeyDown={onKey}>
+          <div className="card q" data-guide="result" tabIndex={0} onKeyDown={event => gradeOnEnter(event, grade, { disabled: Boolean(result) })}>
             <h3>{clean(q.prompt)}</h3>
             <div data-guide="type">
               {(q.choices || []).map((c, ci) => {
@@ -46,6 +39,7 @@ export default function Quiz() {
                 );
               })}
             </div>
+            {!result && <p className="grade-key-hint">답을 선택한 뒤 Enter로 채점</p>}
             <ExamBar graded={result} onRetry={bank.retry} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious} onGrade={grade} gradeDisabled={!q || choice === ""} />
             {result && <After q={q} />}
           </div>
