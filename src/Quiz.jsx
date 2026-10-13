@@ -24,7 +24,7 @@ export default function Quiz() {
       <ExamFrame>
         <BankStatus bank={bank} />
         {q && (
-          <div className="card q" data-guide="result" tabIndex={0} onKeyDown={event => gradeOnEnter(event, grade, { disabled: Boolean(result) })}>
+          <div className="card q" data-guide="result" tabIndex={0} onKeyDown={event => { if (!result) gradeOnEnter(event, grade); }}>
             <h3>{clean(q.prompt)}</h3>
             <div data-guide="type">
               {(q.choices || []).map((c, ci) => {
@@ -40,7 +40,7 @@ export default function Quiz() {
               })}
             </div>
             {!result && <p className="grade-key-hint">답을 선택한 뒤 Enter로 채점</p>}
-            <ExamBar graded={result} onRetry={bank.retry} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious} onGrade={grade} gradeDisabled={!q || choice === ""} />
+            <ExamBar questionId={q.id} graded={result} onRetry={bank.retry} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious} onGrade={grade} gradeDisabled={!q || choice === ""} />
             {result && <After q={q} />}
           </div>
         )}

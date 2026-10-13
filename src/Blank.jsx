@@ -86,7 +86,7 @@ export default function Blank() {
               <span>{cloze.after}</span>
             </div>
             {!result && <p className="grade-key-hint">Enter로 채점 · Shift+Enter로 줄바꿈</p>}
-            <ExamBar graded={result} onRetry={bank.retry} onNext={filteredBank.next} onPrevious={filteredBank.previous} canPrevious={filteredBank.canPrevious} onGrade={grade} gradeDisabled={!q || !val.trim()} />
+            <ExamBar questionId={q.id} graded={result} onRetry={bank.retry} onNext={filteredBank.next} onPrevious={filteredBank.previous} canPrevious={filteredBank.canPrevious} onGrade={grade} gradeDisabled={!q || !val.trim()} />
             {result && <After q={q} result={result} />}
           </div>
         )}

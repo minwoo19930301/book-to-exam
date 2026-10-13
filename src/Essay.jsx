@@ -118,7 +118,7 @@ export default function Essay() {
       <p className="lead">{essay.prompt}</p>
       <textarea data-guide="type" aria-label="서술형 답안" value={answer} onChange={e => writeDraft(e.target.value)} onKeyDown={event => gradeOnEnter(event, requestGrade, { disabled: Boolean(out) || waiting })} enterKeyHint="done" placeholder="답을 작성하세요." disabled={Boolean(out) || waiting} />
       {!out && <p className="grade-key-hint">Enter로 채점 · Shift+Enter로 줄바꿈</p>}
-      <ExamBar graded={out} onRetry={bank.retry} retryDisabled={waiting} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious}
+      <ExamBar questionId={essay.id} graded={out} onRetry={bank.retry} retryDisabled={waiting} onNext={bank.next} onPrevious={bank.previous} canPrevious={bank.canPrevious}
         onGrade={requestGrade} gradeDisabled={waiting || !answer.trim()} />
     </div>}
     {ask && <AiGate method={method} onPick={method => update({ method })} provider={provider} setProvider={setProvider} keyVal={keyVal} setKey={setKey}
