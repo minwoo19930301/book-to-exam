@@ -3,6 +3,7 @@ import Chrome from "./Chrome.jsx";
 import { studyDescription, subjectUrl, useSubject, useSubjects } from "./subjects.jsx";
 
 const ITEMS = [
+  { label: "미니 퀴즈 · 넘기며 복습", to: "/mini" },
   { label: "문제은행 · 정답과 해설", to: "/questions" },
   { label: "뷰어", to: "/viewer" },
   { label: "객관식", to: "/quiz" },

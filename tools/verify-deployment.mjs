@@ -100,6 +100,7 @@ for (const subject of ["seoyangsa", "hanguksa", "dongyangsa", "gyoyukron"]) {
   assert.equal(createHash("sha256").update(scan).digest("hex"), capture.sha256, capture.sourcePath);
 }
 assert.match(await (await request("/history")).text(), /<div id="root"/);
+assert.match(await (await request("/mini?subject=seoyangsa")).text(), /<div id="root"/);
 const mcp = await (await request("/api/mcp/public", { method: "POST", headers: { "content-type": "application/json" },
   body: JSON.stringify({ jsonrpc: "2.0", id: 1, method: "tools/call", params: { name: "get_research_stats", arguments: {} } }) })).json();
 assert.deepEqual(mcp.result.structuredContent.totals, getResearchStats().totals);

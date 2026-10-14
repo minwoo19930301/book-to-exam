@@ -57,6 +57,7 @@ export default function Chrome({ title, children, subjectControls = true, naviga
       {!guide && subjectControls && <SubjectPicker />}
       <nav ref={tabs} aria-label="학습 모드" className="tabs" data-guide="tabs">
         <NavLink to={to("/viewer")} className={tabClass("viewer")} onClick={tabClick}>뷰어</NavLink>
+        {!guide && <NavLink to={to("/mini")} className={tabClass("mini")}>미니 퀴즈</NavLink>}
         <NavLink to={to("/quiz")} className={tabClass("quiz")} onClick={tabClick}>객관식</NavLink>
         <NavLink to={to("/blank")} className={tabClass("blank")} onClick={tabClick}>빈칸 채우기</NavLink>
         <NavLink to={to("/short")} className={tabClass("short")} onClick={tabClick}>단답형</NavLink>

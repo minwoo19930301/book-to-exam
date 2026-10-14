@@ -11,6 +11,7 @@ import Viewer from "./Viewer.jsx";
 import Quiz from "./Quiz.jsx";
 import Blank from "./Blank.jsx";
 import Short from "./Short.jsx";
+import MiniQuiz from "./MiniQuiz.jsx";
 import Essay from "./Essay.jsx";
 import Questions from "./Questions.jsx";
 import StudyPopups, { LegacyPopupRoute } from "./StudyPopups.jsx";
@@ -34,6 +35,7 @@ createRoot(document.getElementById("root")).render(
         <Route path="/quiz" element={<Quiz />} />
         <Route path="/blank" element={<Blank />} />
         <Route path="/short" element={<Short />} />
+        <Route path="/mini" element={<MiniQuiz />} />
         <Route path="/essay" element={<Essay />} />
         <Route path="/questions" element={<Questions />} />
         <Route path="/history" element={<LegacyPopupRoute kind="history" />} />
