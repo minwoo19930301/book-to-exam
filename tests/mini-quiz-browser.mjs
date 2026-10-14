@@ -27,11 +27,11 @@ async function freshPage(viewport = { width: 390, height: 844 }) {
   return page;
 }
 const card = page => page.locator('article.mini-card');
-const scroll = page => page.locator('.mini-card-scroll');
+const fit = page => page.locator('.mini-card-fit');
 const button = (page, name) => page.getByRole('button', { name, exact: true });
 async function cardState(page) {
   return card(page).evaluate(element => ({
-    id: element.dataset.questionId, kind: element.dataset.kind, side: element.dataset.side,
+    id: element.dataset.questionId, kind: element.dataset.kind, side: element.dataset.side, tone: element.dataset.tone,
     key: `${element.dataset.kind}:${element.dataset.questionId}`,
   }));
 }
@@ -54,6 +54,64 @@ async function openMini(page, subject, type = 'mixed') {
   await page.goto(`${origin}/mini?subject=${subject}&type=${type}`);
   await card(page).waitFor();
   return cardState(page);
+}
+async function press(page, key = 'Enter') {
+  await fit(page).focus();
+  await page.keyboard.press(key);
+}
+async function assertCardOnly(page) {
+  assert.equal(await page.locator('main.mini-quiz > section.mini-stage > article.mini-card').count(), 1);
+  assert.equal(await page.locator('main.mini-quiz button, main.mini-quiz a, main.mini-quiz input, main.mini-quiz select, main.mini-quiz header, main.mini-quiz footer').count(), 0,
+    'the mini screen contains only the card, without surrounding controls');
+  assert.equal(await page.locator('.mini-header, .mini-filters, .mini-controls, .mini-card-meta, .mini-card-footer, .mini-card-scroll').count(), 0);
+  assert.equal(await page.locator('button:visible, a:visible, input:visible, select:visible').count(), 0,
+    'no outside navigation or controls remain visible around the card');
+}
+// Measure the actual text boxes as well as scroll sizes: overflow:hidden or a
+// line clamp alone must not make a truncated long card pass this assertion.
+async function assertFits(page, label) {
+  const measure = ({ check = false } = {}) => {
+    const fit = document.querySelector('.mini-card-fit');
+    const content = document.querySelector('.mini-card-content');
+    const card = document.querySelector('article.mini-card');
+    if (!fit || !content || !card) return check ? false : { ok: false, reason: 'card not mounted' };
+    const bounds = fit.getBoundingClientRect(), body = content.getBoundingClientRect(), outside = card.getBoundingClientRect();
+    const issues = [];
+    if (bounds.height < 40 || bounds.width < 100) issues.push('unusable fit area');
+    if (parseFloat(getComputedStyle(content).fontSize) <= 8) issues.push('text shrank below a readable minimum');
+    for (const text of content.querySelectorAll('.mini-prompt, .mini-passage, .mini-answer, .mini-explanation'))
+      if (parseFloat(getComputedStyle(text).fontSize) <= 8) issues.push(`${text.className} shrank below a readable minimum`);
+    if (outside.left < -1 || outside.top < -1 || outside.right > innerWidth + 1 || outside.bottom > innerHeight + 1) issues.push('card outside viewport');
+    if (body.left < bounds.left - 1 || body.top < bounds.top - 1 || body.right > bounds.right + 1 || body.bottom > bounds.bottom + 1) issues.push('content outside fit area');
+    for (const element of [fit, content]) {
+      if (element.scrollWidth > element.clientWidth + 1 || element.scrollHeight > element.clientHeight + 1) issues.push(`${element.className} overflows`);
+    }
+    for (const element of [card, ...card.querySelectorAll('*')]) {
+      const style = getComputedStyle(element);
+      if (/(auto|scroll)/.test(`${style.overflowX} ${style.overflowY}`)) issues.push(`${element.className} is a scroll container`);
+      if (style.textOverflow === 'ellipsis' || (style.webkitLineClamp && !['none', '0'].includes(style.webkitLineClamp))) issues.push('content truncated');
+    }
+    const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
+    for (let text; (text = walker.nextNode());) {
+      // pre-wrap permits a trailing whitespace box to hang beyond its line;
+      // measure visible words rather than mistaking that blank area for text.
+      for (const word of text.textContent.matchAll(/\S+/g)) {
+        const range = document.createRange();
+        range.setStart(text, word.index); range.setEnd(text, word.index + word[0].length);
+        for (const line of range.getClientRects()) {
+          if (line.width && line.height && (line.left < bounds.left - 2 || line.right > bounds.right + 2 || line.top < bounds.top - 2 || line.bottom > bounds.bottom + 2)) issues.push('text line clipped');
+        }
+      }
+    }
+    if (document.documentElement.scrollWidth > innerWidth + 1 || document.documentElement.scrollHeight > innerHeight + 1) issues.push('document scrolls');
+    return check ? issues.length === 0 : { ok: issues.length === 0, issues, font: getComputedStyle(content).fontSize,
+      content: { width: body.width, height: body.height }, fit: { width: bounds.width, height: bounds.height } };
+  };
+  try { await page.waitForFunction(measure, { check: true }, { timeout: 5000 }); }
+  catch { /* The diagnostic assertion below gives the actual overflowing boxes. */ }
+  const result = await page.evaluate(measure);
+  assert.ok(result.ok, `${label}: ${JSON.stringify(result)}`);
+  return result;
 }
 function rowFor(subject, state) {
   return banks.get(subject)[state.kind === 'short' ? 'questions' : 'blanks'].find(row => row.id === state.id);
@@ -94,7 +152,7 @@ const readHistory = async ({ requireGraded = false } = {}) => {
   });
 };
 async function swipe(page, direction) {
-  const rect = await scroll(page).boundingBox();
+  const rect = await fit(page).boundingBox();
   assert.ok(rect && rect.width > 100 && rect.height > 40, 'swipe surface is usable');
   const middleX = rect.x + rect.width / 2;
   const middleY = Math.max(rect.y + 12, Math.min(rect.y + rect.height / 2, (await page.viewportSize()).height - 20));
@@ -131,7 +189,7 @@ try {
 
   for (const subject of subjects) {
     await openMini(page, subject.id);
-    assert.deepEqual(await page.getByLabel('미니 퀴즈 과목').locator('option').evaluateAll(options => options.map(option => option.value)), subjects.map(item => item.id));
+    await assertCardOnly(page);
     await assertFront(page, subject.id);
     const session = await saved(page, subject.id);
     assert.equal(new Set(session.order).size, session.order.length, `${subject.id}: no duplicate random IDs`);
@@ -140,14 +198,14 @@ try {
       const [kind, ...rest] = key.split(':');
       assert.ok(rowFor(subject.id, { kind, id: rest.join(':') }), `${subject.id}: unknown saved question ${key}`);
     }
-    for (const [label, type] of [['단답형', 'short'], ['빈칸', 'blank']]) {
-      await page.getByRole('group', { name: '미니 퀴즈 유형' }).getByRole('button', { name: label, exact: true }).click();
+    for (const type of ['short', 'blank']) {
+      await openMini(page, subject.id, type);
       await page.locator(`article.mini-card[data-kind="${type}"]`).waitFor();
       const front = await assertFront(page, subject.id);
-      await button(page, '정답 보기').click();
+      await press(page);
       await waitSide(page, 'answer');
       assert.equal(normalize(await page.locator('.mini-answer').innerText()), normalize(rowFor(subject.id, front).answer));
-      await button(page, '문제 보기').click();
+      await press(page, 'ArrowLeft');
       await waitSide(page, 'question');
       assert.equal((await cardState(page)).key, front.key, 'showing the question does not advance');
       assert.ok((await saved(page, subject.id, type)).order.every(key => key.startsWith(`${type}:`)));
@@ -158,8 +216,8 @@ try {
   const source = banks.get('dongyangsa').questions.find(row => row.id === 'dongyangsa-short150-031');
   assert.ok(source && source.answer === '제민요술' && source.acceptedAnswers.includes('齊民要術'));
   const other = banks.get('dongyangsa').questions.find(row => row.type === 'blank' && row.id !== source.id);
-  const clozes = banks.get('dongyangsa').blanks.filter(row => row.contextMode === 'source-excerpt').slice(0, 2);
-  assert.equal(clozes.length, 2);
+  const clozes = banks.get('dongyangsa').blanks.filter(row => row.contextMode === 'source-excerpt').slice(0, 4);
+  assert.equal(clozes.length, 4);
   const fixture = await freshPage();
   await fixture.route('**/data/subjects/dongyangsa/questions.json', route => route.fulfill({ json: [source, other] }));
   await fixture.route('**/data/subjects/dongyangsa/blanks.json', route => route.fulfill({ json: clozes }));
@@ -168,18 +226,22 @@ try {
   const natural = [`short:${source.id}`, `short:${other.id}`, ...clozes.map(row => `blank:${row.id}`)];
   assert.deepEqual([...initial.order].sort(), [...natural].sort());
   assert.notDeepEqual(initial.order, natural, 'a new session starts in random order');
-  const visited = [];
+  const visited = [], tones = new Set(), colors = new Set();
   for (let index = 0; index < natural.length; index++) {
     const front = await assertFront(fixture, 'dongyangsa');
     visited.push(front.key);
-    await scroll(fixture).focus();
-    await fixture.keyboard.press('Enter');
+    assert.match(front.tone, /^[0-5]$/, 'each card uses one of six tones');
+    tones.add(front.tone);
+    colors.add(await card(fixture).evaluate(element => getComputedStyle(element).backgroundColor));
+    await press(fixture);
     await waitSide(fixture, 'answer');
     assert.equal((await cardState(fixture)).key, front.key);
     await fixture.keyboard.press('Enter');
     await waitSide(fixture, 'question');
   }
   assert.deepEqual(visited, initial.order, 'every random card is visited exactly once per round');
+  assert.equal(tones.size, 6, 'the six cards use all six tones');
+  assert.equal(colors.size, 6, 'tone attributes correspond to six actual card backgrounds');
   const secondRound = await saved(fixture, 'dongyangsa');
   assert.equal(secondRound.round, 2);
   assert.equal(new Set(secondRound.order).size, natural.length);
@@ -193,18 +255,16 @@ try {
   assertHidden(passage, source, 'source passage');
   assert.ok(!passage.includes('［해당 용어］(齊民要術)'), 'the Chinese gloss is not leaked');
   const beforeVertical = await cardState(fixture);
-  const needsScroll = await scroll(fixture).evaluate(element => element.scrollHeight > element.clientHeight + 4);
+  await assertFits(fixture, 'authentic source question');
   await swipe(fixture, 'up');
-  assert.deepEqual(await cardState(fixture), beforeVertical, 'vertical scrolling never reveals or changes a card');
-  if (needsScroll) await fixture.waitForFunction(() => document.querySelector('.mini-card-scroll').scrollTop > 0);
+  assert.deepEqual(await cardState(fixture), beforeVertical, 'vertical swipes never reveal or change a card');
+  assert.ok(await fixture.evaluate(() => scrollX === 0 && scrollY === 0 && [...document.querySelectorAll('.mini-card, .mini-card-fit, .mini-card-content')].every(element => element.scrollTop === 0 && element.scrollLeft === 0)), 'vertical swipes do not scroll the page or card');
   await swipe(fixture, 'left');
   await waitSide(fixture, 'answer');
   assert.equal((await cardState(fixture)).id, source.id);
   assert.equal(normalize(await fixture.locator('.mini-answer').innerText()), normalize(source.answer));
   assert.ok(normalize(await fixture.locator('.mini-explanation').innerText()).includes(normalize(source.explain)), 'the matching explanation accompanies the answer');
-  const sourceLink = new URL(await fixture.getByRole('link', { name: '교재 원문 보기', exact: true }).getAttribute('href'), origin);
-  assert.equal(sourceLink.searchParams.get('subject'), 'dongyangsa');
-  assert.equal(sourceLink.searchParams.get('page'), source.page || source.evidence[0].page, 'source link points to the cited original page');
+  await assertCardOnly(fixture);
   await swipe(fixture, 'right');
   await waitSide(fixture, 'question');
   assert.equal((await cardState(fixture)).id, source.id, 'right swipe on the answer returns to its question');
@@ -216,7 +276,7 @@ try {
   await swipe(fixture, 'right');
   await waitSide(fixture, 'question');
   assert.equal((await cardState(fixture)).key, natural[0], 'right swipe on the question returns to the previous card');
-  await button(fixture, '정답 보기').click();
+  await press(fixture);
   await waitSide(fixture, 'answer');
   const persisted = await saved(fixture, 'dongyangsa');
   await fixture.reload();
@@ -226,12 +286,6 @@ try {
   assert.deepEqual(restored.order, persisted.order);
   assert.equal(restored.round, persisted.round);
   assert.equal(await fixture.evaluate(readHistory), null, 'mini-only browsing does not create the graded-history database');
-  await button(fixture, '다시 섞기').click();
-  await waitSide(fixture, 'question');
-  const reshuffled = await saved(fixture, 'dongyangsa');
-  assert.equal(reshuffled.round, restored.round + 1);
-  assert.deepEqual([...reshuffled.order].sort(), [...restored.order].sort());
-  assert.notDeepEqual(reshuffled.order, restored.order, 'manual shuffle changes the order without losing cards');
 
   // Expiration and corruption are tested through the public browser storage
   // contract; there is no import of production session implementation here.
@@ -244,46 +298,38 @@ try {
   await waitSide(fixture, 'question');
   assert.equal((await saved(fixture, 'dongyangsa')).version, 1);
 
-  // A long authentic passage must remain reachable in narrow and landscape
-  // screens; scroll containment is checked rather than relying on screenshots.
-  await button(fixture, '글씨 크기 변경').click();
-  await button(fixture, '글씨 크기 변경').click();
-  for (const viewport of [{ width: 320, height: 568 }, { width: 390, height: 844 }, { width: 844, height: 390 }]) {
-    await fixture.setViewportSize(viewport);
-    await seed(fixture, 'dongyangsa', 'mixed', { order: natural, currentKey: natural[0] });
-    await fixture.reload();
-    await waitSide(fixture, 'question');
-    assert.ok(await fixture.evaluate(() => document.documentElement.scrollWidth <= innerWidth), `${viewport.width}: no horizontal overflow`);
-    const layout = await scroll(fixture).evaluate(element => {
-      const rect = element.getBoundingClientRect();
-      const prompt = element.querySelector('.mini-prompt');
-      element.scrollTop = element.scrollHeight;
-      const passage = element.querySelector('.mini-passage').getBoundingClientRect();
-      return { x: rect.x, right: rect.right, y: rect.y, bottom: rect.bottom, height: rect.height,
-        passageBottom: passage.bottom, fontSize: parseFloat(getComputedStyle(prompt).fontSize), align: getComputedStyle(prompt).textAlign };
-    });
-    assert.ok(layout.x >= -1 && layout.right <= viewport.width + 1 && layout.height > 40, `${viewport.width}: card stays usable`);
-    assert.ok(layout.passageBottom <= layout.bottom + 2, `${viewport.width}: final source line can be scrolled into view`);
-    assert.ok(layout.fontSize >= 24, 'mini question uses large type');
-    assert.equal(layout.align, 'center', 'the question is centered');
-    const revealRect = await button(fixture, '정답 보기').boundingBox();
-    assert.ok(revealRect.y >= 0 && revealRect.y + revealRect.height <= viewport.height + 1, 'primary action remains visible');
+  // Use the actual longest full-source front and longest answer explanation,
+  // not a shortened fake fixture, to test fitting both sides without clipping.
+  const allCards = subjects.flatMap(subject => [
+    ...banks.get(subject.id).questions.filter(row => row.type === 'blank').map(row => ({ subject: subject.id, kind: 'short', row })),
+    ...banks.get(subject.id).blanks.map(row => ({ subject: subject.id, kind: 'blank', row })),
+  ]);
+  const longestFront = allCards.filter(item => item.kind === 'blank' && (item.row.contextMode === 'source-excerpt' || item.row.passageMode === 'full'))
+    .sort((a, b) => `${b.row.before || ''}${b.row.after || ''}`.length - `${a.row.before || ''}${a.row.after || ''}`.length)[0];
+  const longestAnswer = [...allCards].sort((a, b) => `${b.row.answer || ''}${b.row.explain || ''}`.length - `${a.row.answer || ''}${a.row.explain || ''}`.length)[0];
+  const layoutPage = await freshPage();
+  await openMini(layoutPage, longestFront.subject);
+  for (const viewport of [{ width: 320, height: 568 }, { width: 390, height: 844 }, { width: 844, height: 390 }, { width: 568, height: 320 }]) {
+    await layoutPage.setViewportSize(viewport);
+    for (const item of [longestFront, longestAnswer]) {
+      const key = `${item.kind}:${item.row.id}`;
+      await seed(layoutPage, item.subject, 'mixed', { order: [key], currentKey: key });
+      await openMini(layoutPage, item.subject);
+      assert.equal((await cardState(layoutPage)).key, key);
+      await assertCardOnly(layoutPage);
+      await assertFits(layoutPage, `${viewport.width}x${viewport.height} ${key} question`);
+      await press(layoutPage);
+      await waitSide(layoutPage, 'answer');
+      assert.equal(normalize(await layoutPage.locator('.mini-answer').innerText()), normalize(item.row.answer));
+      assert.equal(normalize(await layoutPage.locator('.mini-explanation').innerText()), normalize(item.row.explain));
+      await assertFits(layoutPage, `${viewport.width}x${viewport.height} ${key} answer`);
+    }
   }
-  await fixture.setViewportSize({ width: 390, height: 844 });
-  const beforeFont = await fixture.locator('.mini-prompt').evaluate(element => getComputedStyle(element).fontSize);
-  await button(fixture, '글씨 크기 변경').click();
-  const afterFont = await fixture.locator('.mini-prompt').evaluate(element => getComputedStyle(element).fontSize);
-  assert.notEqual(afterFont, beforeFont, 'font-size control changes the card text');
-
-  await button(fixture, '정답 보기').click();
-  await waitSide(fixture, 'answer');
-  await fixture.getByLabel('미니 퀴즈 과목').selectOption('hanguksa');
-  await card(fixture).waitFor();
-  await fixture.waitForFunction(() => document.querySelector('article.mini-card')?.dataset.questionId?.startsWith('hanguksa-'));
+  await openMini(fixture, 'hanguksa');
   await assertFront(fixture, 'hanguksa');
   assert.equal(await fixture.locator('.mini-answer').count(), 0, 'subject change resets the previous answer face');
   assert.deepEqual(errors, [], 'no uncaught browser exceptions');
-  console.log('Mini quiz passed: five subjects, filters, hidden answers/aliases, authentic sources, duplicate-free random rounds, touch directions, vertical-scroll isolation, Enter, 30-day independent resume, unchanged graded history, narrow/landscape layout and font size.');
+  console.log('Mini quiz passed: card-only UI, five URL-selected subjects/types, six actual colors, hidden answers/aliases, authentic sources, duplicate-free random rounds, touch/Enter, zero scrolling, unclipped longest content on narrow/landscape screens, 30-day independent resume and unchanged graded history.');
 } finally {
   for (const context of contexts) await context.close();
   await browser.close();
