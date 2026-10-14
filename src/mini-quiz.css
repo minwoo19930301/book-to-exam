@@ -93,3 +93,54 @@ html[data-theme="dark"] .mini-card[data-tone="5"] { --mini-card-bg: #3e332b; --m
 @media (prefers-reduced-motion: reduce) {
   .mini-quiz *, .mini-quiz *::before, .mini-quiz *::after { scroll-behavior: auto; transition: none; animation: none; }
 }
+
+/* Notebook controls stay clear of the area measured for fitting. */
+.mini-quiz { --mini-stage-width: 720px; --mini-edge: 12px; }
+.mini-quiz .mini-card { padding-bottom: 72px; }
+.mini-notebook-action { flex: none; align-self: center; display: flex; justify-content: center; }
+.mini-notebook-action[data-action], .mini-notebook-action button[data-action] {
+  min-height: 40px;
+  padding: 9px 14px;
+  border: 1px solid #bf625a66;
+  border-radius: 999px;
+  background: #f9ebe9;
+  color: #a3322b;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+  touch-action: manipulation;
+}
+.mini-notebook-action[data-action="remove"], .mini-notebook-action button[data-action="remove"] { border-color: #43805d66; background: #e4f0e7; color: #24633d; }
+.mini-notebook-action[data-action]:disabled, .mini-notebook-action button[data-action]:disabled { opacity: 1; border-color: #bc6c6433; background: #f3e7e4; color: #94534b; }
+.mini-notebook-toggle {
+  position: fixed;
+  z-index: 5;
+  right: max(calc((100vw - var(--mini-stage-width)) / 2 + 12px), calc(var(--mini-edge) + 12px), calc(env(safe-area-inset-right, 0px) + 12px));
+  bottom: calc(env(safe-area-inset-bottom, 0px) + 22px);
+  min-height: 40px;
+  padding: 9px 15px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--fg);
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.4;
+  box-shadow: 0 2px 8px #00000008;
+  touch-action: manipulation;
+}
+.mini-notebook-toggle[aria-pressed="true"] { background: #f3ebcf; border-color: #b89b3c; color: #55471c; }
+.mini-quiz[data-notebook="true"] .mini-card { border-color: #b89b3c; box-shadow: inset 0 0 0 2px #d7bb5c66; }
+.mini-notebook-notice { position: fixed; z-index: 5; bottom: calc(env(safe-area-inset-bottom, 0px) + 72px); left: 50%; transform: translateX(-50%); width: min(420px, calc(100% - 48px)); margin: 0; padding: 8px 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); color: var(--fg); font-size: 12px; line-height: 1.5; text-align: center; }
+.mini-quiz:has(> .mini-notebook-notice) .mini-card { padding-bottom: 132px; }
+html[data-theme="dark"] .mini-notebook-action[data-action], html[data-theme="dark"] .mini-notebook-action button[data-action] { background: #472f31; border-color: #be797266; color: #ffc0ba; }
+html[data-theme="dark"] .mini-notebook-action[data-action="remove"], html[data-theme="dark"] .mini-notebook-action button[data-action="remove"] { background: #253f31; border-color: #76b58a66; color: #b2e5c1; }
+html[data-theme="dark"] .mini-notebook-action[data-action]:disabled, html[data-theme="dark"] .mini-notebook-action button[data-action]:disabled { background: #403033; border-color: #be797233; color: #e3aaa5; }
+html[data-theme="dark"] .mini-notebook-toggle[aria-pressed="true"] { background: #443d28; border-color: #c5ab52; color: #f5e4a5; }
+html[data-theme="dark"] .mini-quiz[data-notebook="true"] .mini-card { border-color: #c5ab52; box-shadow: inset 0 0 0 2px #d7bb5c55; }
+@media (min-width: 600px) { .mini-quiz { --mini-edge: 20px; } }
+@media (orientation: landscape) {
+  .mini-quiz { --mini-stage-width: 960px; }
+  .mini-quiz .mini-card { padding-bottom: 62px; }
+}

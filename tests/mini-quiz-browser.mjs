@@ -61,11 +61,18 @@ async function press(page, key = 'Enter') {
 }
 async function assertCardOnly(page) {
   assert.equal(await page.locator('main.mini-quiz > section.mini-stage > article.mini-card').count(), 1);
-  assert.equal(await page.locator('main.mini-quiz button, main.mini-quiz a, main.mini-quiz input, main.mini-quiz select, main.mini-quiz header, main.mini-quiz footer').count(), 0,
-    'the mini screen contains only the card, without surrounding controls');
+  const answerSide = await card(page).getAttribute('data-side') === 'answer';
+  assert.equal(await page.locator('main.mini-quiz button.mini-notebook-toggle:visible').count(), 1,
+    'the notebook toggle is always available');
+  assert.equal(await page.locator('main.mini-quiz button.mini-notebook-action:visible').count(), answerSide ? 1 : 0,
+    'the notebook action is available only on the answer side');
+  assert.equal(await page.locator('main.mini-quiz button:not(.mini-notebook-toggle):not(.mini-notebook-action), main.mini-quiz a, main.mini-quiz input, main.mini-quiz select, main.mini-quiz header, main.mini-quiz footer').count(), 0,
+    'only the two notebook controls are allowed around the card');
   assert.equal(await page.locator('.mini-header, .mini-filters, .mini-controls, .mini-card-meta, .mini-card-footer, .mini-card-scroll').count(), 0);
-  assert.equal(await page.locator('button:visible, a:visible, input:visible, select:visible').count(), 0,
-    'no outside navigation or controls remain visible around the card');
+  assert.equal(await page.locator('button:visible').count(), answerSide ? 2 : 1,
+    'no additional buttons remain visible around the card');
+  assert.equal(await page.locator('a:visible, input:visible, select:visible').count(), 0,
+    'no outside navigation or inputs remain visible around the card');
 }
 // Measure the actual text boxes as well as scroll sizes: overflow:hidden or a
 // line clamp alone must not make a truncated long card pass this assertion.
